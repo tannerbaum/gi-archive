@@ -1,68 +1,44 @@
 // Search all files in project for "='author-details'". If the file only has one, put into a folder under the name of the contents of the proceeding anchor tag.
 const fs = require("fs");
 const path = require("path");
-const glob = require("glob");
+const { glob } = require("glob");
 const { exec } = require("child_process");
 
-const search = "='author-details'";
+// prettier-ignore
+const search = 'class=\"author-details\"';
 const searchResults = [];
 const folders = [];
 
-glob(
-  "**/*.html",
-  { ignore: ["node_modules/**", "public/**"] },
-  (err, files) => {
-    if (err) {
-      console.error(err);
+const test = async () => {
+  const files = await glob("**/valorant-first-impressions.html", {
+    ignore: ["node_modules/**", "sorted/**"],
+  });
+
+  files.forEach((file) => {
+    let contents = fs.readFileSync(file, "utf8");
+    if (!contents.includes(search)) {
       return;
     }
 
-    files.forEach((file) => {
-      const contents = fs.readFileSync(file, "utf8");
-      if (contents.includes(search)) {
-        searchResults.push(file);
-      }
-    });
-    searchResults.forEach((result) => {
-      const folder = result.split("/")[0];
-      folders.push(folder);
-    });
-    folders.forEach((folder) => {
-      const folderPath = path.join("public", folder);
-      if (!fs.existsSync(folderPath)) {
-        fs.mkdirSync(folderPath);
-      }
-    });
-    searchResults.forEach((result) => {
-      const folder = result.split("/")[0];
-      const newPath = path.join("public", folder, result);
-      fs.copyFile(result, newPath, (err) => {
-        if (err) {
-          console.error(err);
-          return;
-        }
-      });
-    });
-    exec("git add .", (err, stdout, stderr) => {
+    // Get the Author's name from the contents by grabbing the contents of the anchor tag that will be in this format: <div class="author-details">by <a href="../../../../user/daniel-tack.html">Daniel Tack</a>
+    const author = contents.match(
+      /<div class="author-details">by <a href=".*">(.*)<\/a>/
+    )[1];
+
+    const folderPath = path.join("sorted", author);
+    if (!fs.existsSync(folderPath)) {
+      fs.mkdirSync(folderPath);
+    }
+
+    const newPath = path.join("public", folder, file);
+
+    fs.rename(file, newPath, (err) => {
       if (err) {
         console.error(err);
         return;
       }
-      console.log(stdout);
     });
-    exec('git commit -m "Added single author file"', (err, stdout, stderr) => {
-      if (err) {
-        console.error(err);
-        return;
-      }
-      console.log(stdout);
-    });
-    exec("git push", (err, stdout, stderr) => {
-      if (err) {
-        console.error(err);
-        return;
-      }
-      console.log(stdout);
-    });
-  }
-);
+  });
+};
+
+test();

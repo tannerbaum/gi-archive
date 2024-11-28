@@ -2,10 +2,12 @@
   "name": "gi-archive",
   "version": "1.0.0",
   "description": "Scraped articles from web archive",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "tannerbaum",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^11.0.0"
+  }
 }
