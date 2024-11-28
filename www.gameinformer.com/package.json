@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Scraped articles from web archive",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "run:authors": "node _scripts/singleAuthor.js"
   },
   "author": "tannerbaum",
   "license": "ISC",
