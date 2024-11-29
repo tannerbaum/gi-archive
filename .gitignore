@@ -2,3 +2,12 @@
 Untitled.log
 
 .DS_Store
+
+# Node.js
+node_modules/
+
+# dotenv environment variables file
+.env
+
+# macOS
+.DS_Store
