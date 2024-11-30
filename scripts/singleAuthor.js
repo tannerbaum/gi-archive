@@ -1,15 +1,11 @@
-// Search all files in project for "='author-details'". If the file only has one, put into a folder under the name of the contents of the proceeding anchor tag.
 const fs = require("fs");
 const path = require("path");
 const { glob } = require("glob");
-const { exec } = require("child_process");
 
 // prettier-ignore
 const search = 'class=\"author-details\"';
-const searchResults = [];
-const folders = [];
 
-const test = async () => {
+const singleAuthor = async () => {
   const files = await glob("**/*.html", {
     ignore: ["node_modules/**", "sorted/**"],
   });
@@ -47,4 +43,4 @@ const test = async () => {
   });
 };
 
-test();
+singleAuthor();
