@@ -1,0 +1,13 @@
+{
+  "name": "gi-archive",
+  "version": "1.0.0",
+  "description": "Scraped articles from web archive",
+  "scripts": {
+    "run:script": "node scripts/removeAmp.js"
+  },
+  "author": "tannerbaum",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^11.0.0"
+  }
+}
