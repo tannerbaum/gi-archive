@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/_scripts/singleAuthor.js"
+            "program": "${workspaceFolder}/scripts/contentOnly.js"
         }
     ]
 }

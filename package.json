@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "description": "Scraped articles from web archive",
   "scripts": {
-    "run:script": "node scripts/removeAmp.js"
+    "run:script": "node scripts/contentOnly.js"
   },
   "author": "tannerbaum",
   "license": "ISC",
   "dependencies": {
+    "cheerio": "^1.0.0",
     "glob": "^11.0.0"
   }
 }
