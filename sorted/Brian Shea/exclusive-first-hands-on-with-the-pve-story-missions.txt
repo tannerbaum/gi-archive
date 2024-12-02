@@ -1,0 +1,111 @@
+
+                                          Overwatch 2
+                  
+
+
+  Exclusive First Hands-On With The PvE Story Missions
+
+
+
+
+Platform
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC
+
+Publisher
+Blizzard Entertainment
+
+Developer
+Blizzard Entertainment
+
+Release
+October 4, 2022
+
+Rating
+Teen
+
+            Blizzard's Overwatch 2 dev team ignited the community last month when it announced that the Hero Missions, part of the PvE content that was announced alongside the game in 2019, were canceled. However, not all of the PvE content was axed. I traveled to Blizzard's headquarters in Irvine, California to be the first person outside of the company to get my hands on the upcoming Story Missions.
+
+PvE Summary
+
+The Story Missions take place during the invasion of the Null Sector, the rogue Omnic group. Overwatch 2: Invasion is the name of the upcoming Season 6 and includes these new PvE missions. The Zero Hour cinematic, which arrived at the announcement of Overwatch 2 in 2019, showed Winston, Tracer, Mei, and others battling a giant Omnic to save Paris from certain doom.
+
+Following that battle, Null Sector continued wreaking havoc across the entire planet. In addition to bringing their brand of destruction to major cities, they're also kidnapping Omnics for a mysterious purpose. As you might imagine, the world turns to the heroes of Overwatch to put a stop to the waves of destruction.
+
+Invasion
+
+This first wave of Story Missions, which arrive as part of Season 6: Invasion, includes missions in Rio de Janeiro (previously shown at Blizzcon), Toronto, and Gothenburg. These missions feature enormous, objective-filled maps, and in-depth storylines that blow past what we've seen in previous PvE content often tied to seasonal events. 
+
+"We typically don't go into depth in-game with our stories," game director Aaron Keller says. "This is a PvP shooter and as much as we can we try to build characters and build the universe through voice interactions, but we've never really picked up on that thread that we first started when Winston had his 'Recall' cinematic that launched with Overwatch. He had this moment where he asked players, 'Are you with me?' He's trying to get Overwatch back together, and we've had all these other cinematics since then where we've shown people responding to that call, but never tie it all together. This story that we're going to be telling in Season 6 is that moment where Overwatch gets back together and they answer Winston's recall."
+
+In these new Story Missions, you fight against intense mobs of rogue Omnics. According to Blizzard, Null Sector will continue to attack until they are completely dismantled. While we've battled Null Sector before, new enemy types, like Annihilators and Stalkers add new wrinkles to how these battles play out.
+
+Hands-On
+
+My hands-on session takes me to Toronto. This mission begins with a "previously on..." segment consisting of cutscenes and animations from various previously released videos and stills in the Overwatch lore. Toronto is the middle part of this first Story Mission arc, so I appreciated getting caught up on the story. This upcoming release delivers eight new cinematics and a seemingly innumerable amount of voice lines.
+
+This PvE release will bring players the largest maps Overwatch has ever seen. For these maps, Blizzard created all new streaming tech and developed new tools to make it work. As I load into the mode, I arrive at a computer terminal. This communication screen allows me to dive deeper into Overwatch lore with dedicated pages of emails and communications from other members of the team, or even look around at photographs on the desk to trigger voice lines. Once I'm ready for the mission, I can initiate it from this same computer terminal.
+
+These Story Missions always consist of other human players, whether matchmade or through your squad. The developers tell me that if a player drops, a bot may take over in the interim, but there's no current way to play alongside a team of bots. With my squad full of Overwatch developers, I feel pretty confident, so we choose Hard difficulty, which, despite its name, is only the second-highest difficulty level. When you go into a mission, you can select Normal, Hard, Expert, or Legendary. With that out of the way, we start the mission.
+
+The opening cinematic shines a light on what's going on in Toronto. Null Sector is attacking humans and grabbing Omnics who haven't gone rogue. Null Sector makes their point very clear: Humans have treated Omnics like servants for far too long and it's time to liberate them. Null Sector ambushes a nearby group of humans and Omnics, but thankfully, Sojourn shows up just in time to spring into action and save the day. Shortly thereafter, Cassidy, Reinhardt, and various other members of Overwatch emerge from the shadows, led by none other than Winston. 
+
+At the character select screen, we're limited to the characters who make sense for this particular mission. In this case, it's the team members who were in the cutscene, which encompasses the heroes of Overwatch. However, it's not that simple, as characters like Torbjörn, Soldier: 76, and Zenyatta aren't around at this point in time. I choose Cassidy to take advantage of his new magnetic grenade, decent mobility, and solid range. Meanwhile, my teammates choose Mercy, Winston, and the mission-required Sojourn. The narrative plays out through the missions and the accompanying cutscenes, but based on which characters are selected by the team, you'll hear different interactions and pick up unique story bits.
+
+Our mission in Toronto is to evacuate the humans and Omnics out of the city. As soon as we get out of the spawn room, we begin fighting off waves of Null Sector grunts to protect the evac ship. These basic enemies are easy enough to pick off, but one part I didn't expect was for them to be destructible. Just when I thought I had bested one by blowing its head clean off with Cassidy's pistol, it continued charging towards me. With another, I blow away its legs, but it keeps crawling on the ground in my direction. I finish them off again in short order, as a wave of Omnics stream into the ship.
+
+We pause the evacuation to fend off more Null Sector grunts, but this time, they're accompanied by Artillery bots. These enemies have giant mounted blasters that can deal heavy damage from far away. Like the grunts, they're destructible, so we target the massive guns. With their ability to deal most of their damage taken away, they don't pack quite the same punch as they did just moments before. We survive the wave and more Omnics flood into the ship. We repeat this cycle, with the waves of enemies increasingly targeting the ship, with dog-like robots whose sole purpose is to damage the ship. We keep defending it, keeping an eye on the ship's health, and thankfully, we thwart the Null Sector attack and the ship escapes.
+
+From there, we continue through the downtown area. As with most games, clearly defined combat arenas give you hints that enemies will be arriving soon, but you'll also fight some random Null Sector bots en route to them. The next big encounter introduces a new menace to the Overwatch crew: Stalkers. These mean bots pull nearby players in with a gravity beam and unleash hell on them. Stalkers are among the most dangerous enemies we encountered in our playthrough of the mission, as someone getting pulled in by one often led to them being downed and in need of revival. It's best to keep them at a distance.
+
+As we continue through, we meet up with Claire, an Omnic trying to help Overwatch in its mission. As we work through the powered-down underground metro, we encounter our next enemy type: the Subjugator. These floating Null Sector robots will largely ignore the player characters in favor of going after the friendly Omnics. If they latch on, they attach a metal clamp to their head, disabling them. We see this happen to one unfortunate Omnic during a mid-mission cutscene, and it's clear it's not a good thing.
+
+Throughout the remainder of the mission, we must fend off massive groups of grunts, Subjugators, Artillery, and Stalkers while learning more about the leader of Null Sector – could a face-off against Ramattra be in the near future? One combat sequence even includes an Elite version of the grunt, which packs an extra punch and requires more damage to take down. This battle in particular almost does us in when Stalkers down both Mercy and Winston. But by working with the Sojourn on my team, we can survive. 
+
+We get to the final area of the mission: an all-out push to an evac ship of our own in the middle of a park. The numbers standing against us are overwhelming; Null Sector really wants to keep Overwatch and Claire from getting away. At one point I turn the corner to come face to face with three Artilleries. I do Cassidy's Ultimate to deal a good amount of damage, but my Blizzard teammates know better than me and they tell me to get on the evac ship. I do just that, and the mission comes to an exciting end. 
+
+As we watch the end-of-mission cutscene, Cassidy says Winston should give up on finding Soldier: 76, as Jack is too busy chasing ghosts. Genji decides it might be a good idea to recruit Zenyatta, so he heads off in that direction. Meanwhile, the rest of the team heads off to Torbjörn in hopes that he will have some way to remove the Omnic head clamps the Subjugators install.
+
+Though I only played one mission, it was a chunky piece of gameplay. Without taking into account the cutscenes, our playthrough of this Toronto mission lasted 31 minutes. I was pleasantly surprised by not only how massive the map is, but also by how diverse the battles felt. Not only that, but you're given the added bonus of receiving Battle Pass progress for your effort.
+
+While I'm still disappointed by the cancellation of the Hero Missions, I've always wanted an expansion of what the seasonal-event PvE content has offered since the original run of Overwatch content. The Story Missions feel like the evolution, expansion, and ultimate execution of that foundation. I look forward to experiencing all three Story Missions in the first wave when Invasion arrives.
+
+Pricing
+
+The Overwatch 2: Invasion Bundle will cost $15, and will include the three story missions, a brand new Legendary skin for Sojourn (plus access to Sojourn for new players once you complete the Story Mission challenges), and $10 worth of Overwatch Coins (1,000 Coins) – enough to purchase a Premium Battle Pass. For $40, you get all of that, plus the Null Sector Premium Battle Pass, 20 Battle Pass skips, an additional $10 in Overwatch Coins (1,000 Coins), a Legendary skin for Cassidy, and a Legendary skin for Kiriko in the Overwatch 2: Ultimate Invasion Bundle. 
+
+Other Updates
+
+The Invasion season also includes a new bonus co-op mission that takes place on King's Row. The mission, called Underworld, lets players battle through never-before-seen areas of King's Row to guide an armed push bot forward on a mission to save Iggy and the Omnic Underworld from Null Sector. This mission will include new objectives and enemies that Blizzard hints players might recognize. This update will also add Hero Mastery missions to test your skills behind your favorite characters.
+
+Though the Hero Missions were canceled, Keller says that the team took some of the work it did on those and repurposed them into other content. "The event mission that we're releasing in Season 6 is based off of some of the Hero Missions that we've built," he says. "We would like to look at reusing more of that stuff in the future because I think that there's a lot of really, really cool things that we've done there."
+
+If you're strictly into Overwatch 2 for the PvP content, this season also includes Flashpoint, a new PvP core game mode. This mode, which will be available for all players in Quick Play and Competitive Play, adds two new locales that are the biggest PvP maps in Overwatch 2 to date. In Flashpoint, teams fight for control across different positions across the map. The objective is to capture three of them before your opponent. As soon as one is captured, the next one becomes active. 
+
+Season 6 sounds like, by far, the biggest release since Overwatch 2 launched last year, and while not every season will be as big of a content drop, players could expect some seasons to just explode with content like this one will. 
+
+"[Season 6] is definitely bigger," Keller says. "We don't want to save up content and save it for these giant releases years down that line; that's what a box release would be for a game. Because we always want to be supporting the live game, but at the same time, there is this really big release coming up for Season 6 and so this is the culmination of us working on a lot of things that, for years prior, we had been saving and us recognizing that we don't want to always be saving content like that. And I think this is also the team trying to get to a point where we start shifting the live-service portion of the game away from just being about Heroes and map releases. We do want there to be more to an Overwatch season than those two components as the biggest part of that season. That's what the Story Missions are for Season 6 and we have plans for other seasons in the future that aren't necessarily around Story Missions. They can be around other parts of the game."
+
+Keller wasn't ready to talk about when the next group of Story Missions will be made available, but assures players that the team is working on more Story Missions and has grand plans for the future. Additionally, the team aims to be reactive to player feedback on the first missions and adjust accordingly. Overwatch 2: Invasion (AKA Season 6 of Overwatch 2) kicks off with the first three Story Missions on August 10.
+
+      Products In This Article
+
+Overwatch 2
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC
+
+Release Date:
+
+October 4, 2022
+
+Purchase
+More Info
+
+Brian Shea
+Online Content Director
+Brian has written about video games for more than 15 years across multiple publications. Brian is also the host of All Things Nintendo, a weekly podcast focused on the news and games of Nintendo.
+
+Email
+Twitter
+

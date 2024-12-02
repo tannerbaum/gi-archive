@@ -1,0 +1,104 @@
+
+                                          Disney Illusion Island
+                  
+
+
+  Disney Illusion Island Has No Combat And A Metroid Map
+
+
+
+
+Platform
+Switch
+
+Publisher
+Walt Disney Games
+
+Developer
+DLALA Studios
+
+Release
+July 28, 2023
+
+            Dlala Studios recently shared an extensive hands-off presentation of its upcoming game, Disney Illusion Island, where we got a chance to see some of the game's early cutscenes and a substantial gameplay demo. Seeing the game in action answered a number of questions and presented a handful of intriguing new ones. For one, the game can be played alone, and though their animations differ, Mickey, Minnie, Donald, and Goofy all play the same. It's not a Super Mario Bros. 2 situation where they all run at different speeds and jump different heights. No matter who your favorite character is (Donald being an early contender in the cutscenes we saw), you will have the same experience.
+
+The biggest surprises we saw, however, were blink-and-you-miss-it during the presentation. We watched Minnie progress through an area riding on air flows while making her way north, but she did not engage in combat with any of the enemies. And in one quick instance, which Dlala did not linger on, they paused the game briefly to reveal a gigantic, detailed Metroid-esque map. To find out more about these details, and others, we spoke with Dlala Studios' CEO & creative director AJ Grand-Scrutton. You can check out the interview below.
+
+ You're missing out!Normally this is where something cool would show.  Your browser is blocking third-party cookies so we're unable to display this content.Try clearing your browser cache, disabling ad blockers, and verifying that cookies are allowed: Verify cookie preferences
+
+The biggest surprise for me was seeing that map. Is Illusion Island a Metroidvania? How do you feel about that term?
+It's a great question. That term, it really depends on the room, you know? I think it'd be silly to shy away from the reality that, structurally, we're super influenced by Metroidvania. It's a big seamless world, there are gates that are locked off by abilities, and you unlock those abilities to get through there and open up new content. So, we love a lot of Metroidvanias, and they had a big influence. But I think a big difference is Metroidvania is quite combat focused, whereas our main focus here is platforming.
+
+So while Metroidvania influenced our structure, it’s much more influenced by a lot of traditional platforming. So as strange as it sounds, what we've really created is like this big open-world platform experience, where it's all about the joy of movement and mastering those mechanics. I think that whilst some classic Metroidvania is an influence on us, I think we took a lot from the classic '90s, Mickey games, and modern stuff like Rayman Legends, as well. I think it's kind of just as much platform influence as the Metroidvania side of things.
+
+When there are enemies in the world you just have to get away from them rather than fight them. Is there no combat in the game?
+That's exactly it. From the start, the joy of movement was important to us. And at the same time – and this is a super fluffy, creative-director kind of answer for you – but Mickey and friends didn't necessarily scream combat to me. We've got this brand-new world and these new characters, and what didn't sit right was this isn't like a big evil world. This is a world that exists about Mickey and friends. I didn't really want the characters to come in and just start jumping on people's heads when all those people are doing is hanging out in their houses, basically. It didn't really fit the vibe of the story; it didn't really fit the vibe of the characters for us.
+
+And as soon as we started getting in the abilities, that's what the game was to us. The platforming magic – those abilities – that's where we were having fun. Even in our thought processes where we sat in a room, and combat almost, whenever it was in a conversation, it was almost like this side thing of us being keen, “Ah, we probably have to put combat in the game.” And I think at some point, we're just like, “Why do we have to?” Who's sitting there saying, like, “We have to do this.” And I'll say that Disney supports us doing that [laughs]. We just looked at it, and we realized, you know, if the game doesn't need it – and it doesn't – the game isn't sitting there going, “I’m missing something,” then let's trust our guts and build this experience around the movement.
+
+Is Illusion Island considered a Castle Of Illusion sequel? Or is the word Illusion just associated with Mickey video games?
+It’s kind of an homage, I think, is the best way to put it. We always kind of viewed this as our spiritual successor in our minds. We made this game because we love those games. It's not technically a sequel to any of those titles, but you can see a lot of that imprint in the game. In multiplayer, players can drop a rope to each other, which was very inspired by those World of Illusion moments when Mickey and Donald work together. We've got a kind of seesaw-style mechanics in some areas. But more than anything, to be honest – not just this game – but I think a lot of us, especially Grant [Allen, lead designer] and myself… we probably wouldn't be making games if we hadn't played Castle of Illusion, World of Illusion, Magical Quest. I actually had my childhood copy of Castle of Illusion and Quackshot at my desk at work. We're not a mechanical sequel, but this game only exists because those games came before.
+
+Dlala is making all the cutscenes. You are creating new Mickey Mouse animation. How do you feel about that?
+Even hearing you say it, it sounds like you're wrong. I'm sitting here ready to correct you, but you're 100 percent telling the truth. It's been amazing. We have the authentic voice actors. I got to watch them read our script. There aren't really words for it, right? Like, it's one of those things where I don't think we ever dreamed because you don't sit there as a kid and go, “One day, I'm gonna get to make a Mickey Mouse game! And basically do an entire season of shorts for it!” Because it just doesn't seem believable. We basically got to do 30 to 35 minutes of fully animated cutscenes, which is the same length as the first season of The Wonderful World of Mickey Mouse. And we got to wrap it in this brand new world with all these new characters we've created, and they're all playing with Mickey, Minnie, Donald, and Goofy, and it's absolutely surreal. Even at this point, it genuinely feels like I'm lying to people when I say it.
+
+ You're missing out!Normally this is where something cool would show.  Your browser is blocking third-party cookies so we're unable to display this content.Try clearing your browser cache, disabling ad blockers, and verifying that cookies are allowed: Verify cookie preferences
+
+What is the relationship to the new Mickey animated shorts? Were those the baseline for approaching modern Mickey and friends?
+We are completely unrelated, besides the fact that we're all Mickey Mouse. I think, in terms of style and tone, we're both very inspired by the same stuff. I think the new shorts are very inspired by the early stages of Mickey when he was quite cheeky. Mickey is very much this beacon of hope and joy, but he's also this wonderful slapstick character. We see that a lot more in some of the early stuff, like Lonesome Ghosts and Steamboat Willie, and I think the shorts are influenced by those same moments. Obviously, our designs – we both obviously loved the white base version of the character and that classic kind of Mickey look.
+
+We love those new shorts, and there are elements to our game, without us giving spoilers, that give nods to all of Mickey's heritage, and it includes those modern shorts, as well, as we see them as kind of a key part of the timeline of what has come before. But there is actually no direct connection between us. Those Mickey shorts are made by people of our age who grew up loving Mickey Mouse, and this is a game from a bunch of people who grew up loving Mickey Mouse, and I think you're kind of seeing that all come to fruition together at the same time.
+
+How did this game come about? Was Disney in search of a platformer? Did you pitch to Disney?
+I keep saying it's been collaborative since before day zero. We obviously had an existing relationship with Disney years ago, but we were making Battletoads.
+
+What was the existing relationship?
+We looked into a title together previously, and it never came to release. It just so happened that we moved on to new things, and we were doing Battletoads. And then, about a year before the release of Battletoads, we decided we reach out and see if they wanted to have a conversation. And that ended up being this really lovely two- or three-hour call where we were talking about where is Dlala is as a studio, what we've been doing, and Disney was talking to us about what they've been doing.
+
+There wasn't like a firm agenda, but they kind of just ended that call with us all kind of going, “Hey, should we think about maybe doing like a Mickey thing together?” It wasn't like we said bye, and I went off and just focused on a pitch. It just stayed collaborative while we worked on the pitch together. I was thinking about this the other day… I don't even really remember a formal greenlight or anything to that effect. It was just kind of like, “Cool, we could do this, and we could do that.” And then the next thing I know, I am on a call with you talking about the game that is about to be released.
+
+Hopefully, they know at this point, right?
+Yeah, I mean, I think it's been greenlit by now, right guys? It just kind of happened very naturally. And for us, we love those old Illusion games, so we knew we wanted you to do something with platforming, but we want you to try something for four players that’s bigger. I don't think we've ever really thought about it until those conversations where we were like, “What if we just did a big thing with a seamless world? What about if the loading screen you get when you press start is the only loading screen you see unless you opt into one?” It just became this wonderful project than it should have been.
+
+This certainly sounds like marketing spin when it's really not. It has just been this wonderful collaboration between us where we've had access to stuff that, you know, we never thought we'd get access to. Working with writers for Disney games who wrote for TV or helped us find the voices of the characters. We’ve just had this relationship where we chatted every day because we liked each other. Sometimes in these publisher situations, you're forced to do meetings that you don't want to do. Whereas with this, we requested meetings we didn't have to do just so we could be like, “We drew some cool pictures. Have a look!” This was a long-winded answer to a very simple question you asked, but it kind of just came about through serendipity. Like, it was the right time for us. It was the right time for Disney, and we were just as excited about a Mickey Mouse game as we were excited about working with each other.
+
+How does Disney handle new characters? How does that process work? How do you create Uncle Steve, a now canonical Mickey universe character that appears in Illusion Island?
+I won’t lie to you – I like to stay away from the word ‘canonical’ at all costs. That's a scary word when you're working with Mickey. To be honest, I'd love to tell you it’s a really horrible and painful and torturous process, but I think, because we speak so often, Disney has been fully aware of what we're trying to do with the story, and we show them character designs, even when they're just these scratchy little things, or we give them a shotgun blast of paper. It's not a lot of back and forth over notes or anything like that because Disney has been collaborating the whole time. It's kind of just natural.
+
+We kind of go, "Hey, this is what we're looking to do. We will try this." And they will be like, "Oh, that's awesome." They even like to help us find the identities of those characters. How to sculpt out a new character that's going to interact with Mickey and friends. Then before you know it, they're in the game. And they exist in the world. Disney has seen it, Dlala has seen it, but there's no kind of like, “Okay, to Dlala, here are 25 forms to fill out.” It's just kind of like a natural thing. Like we’re one big team, as opposed to, like, a publisher/developer formal sign-off.
+
+All the characters functionally control and move the same – I assume that is a way to appeal to younger, less experienced players?
+For us, the way we view is, it's for family, not children. It’s not a kids' game. It's a family game. What that means is it is difficult at times. There's some complicated platforming. But then we give people the tools to be able to customize the experience. Every time you start the game on the character select screen, each player can individually set their starting health. For those players who just want to enjoy a story, or for younger players, you can actually set yourself to infinite health from the beginning.
+
+If I was playing with Charlotte [Nangle, marketing manager, Dlala Studios], we might do like a two or three hearts balance and play. Whereas if I'm playing with Grant, I'd let him have infinite health so that he doesn't have to worry about dying. We try and give options to other things, as well, like slowing down elements of the world, so that those younger players, or those players with slower reaction speed, can still enjoy the experience. But those players who are looking for that kind of punchy platforming challenge will still get that.
+
+My first reaction to the very first time I saw Illusion Island was, “This reminds me of Rayman Origins.” I love Rayman Origins and Legends. Are those games a major inspiration? Or are these just in the pool of all the other platformers that have inspired Illusion Island?
+The Rayman games are definitely in the pool. The modern ones. We love them. Those Rayman games are some of the best 2D platformers ever made. They're just incredible. For us, it's a real, like, food mixer, where it's got that in it, it's got the IIlusion series and Magical Quest. It's got a lot of those classic '90s SNES- and Genesis-era titles.
+
+Mickey Mania? Is that one in there?
+[Points to Grant] He loves Mickey Mania. Yeah, Magical Quest, I think, was mine. And Mickey Mania was yours. There’s a lot of that in there. Those are masterpieces like those Rayman games are masterpieces. We love them. We love playing them. And they do a great job of doing four-player cooperative platforming, as well. All those games we have played are massive inspirations for us to make this title.
+
+Disney Illusion Island debuts exclusively on Nintendo Switch on July 28.
+
+      Products In This Article
+
+Disney Illusion Island
+
+Platform:
+
+Switch
+
+Release Date:
+
+July 28, 2023
+
+Purchase
+More Info
+
+Kyle Hilliard
+Magazine Content Director
+Kyle plays entirely too much Picross. He once wrote a whole book about The Legend of Zelda.
+
+Email
+Twitter
+

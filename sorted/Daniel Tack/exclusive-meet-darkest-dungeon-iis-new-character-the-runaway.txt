@@ -1,0 +1,138 @@
+
+                                          Darkest Dungeon II
+                  
+
+
+  Exclusive: Meet Darkest Dungeon II's New Character The Runaway
+
+
+
+
+Platform
+PC
+
+Publisher
+Red Hook Studios
+
+Developer
+Red Hook Studios
+
+Release
+May 8, 2023
+
+            The world is at its end. Wild accelerationist cults set fire to the cities. Pastoral baronies become insatiable hungering mouths upon mouths. Only your ragtag band of guilt-ridden adventurers can kindle a glimmer of hope to stop the ancient, encroaching evil. With a host of new terrors to overcome, a massive shift to a run-based roguelike structure, and a bold new character, the cosmic aberrations of Darkest Dungeon are poised to serve up fresh challenges and horrors with this scintillating sequel from Red Hook Studios.
+
+[Editor's Note: This article also appears in Game Informer Issue 338]
+
+Introduction
+
+Darkest Dungeon 2 isn’t content to live in the shadow of the hamlet from the first game. Instead of continuing with the town-building aspects and dungeon crawling of the original game, Darkest Dungeon 2 puts players on a doomed caravan ride into cursed biomes crawling with unbridled decadence. With the stakes as high as the world coming to an end, environments that were hanging on by a thread have spiraled into madness, embracing the worst elements of themselves that were always hidden away. As you ride through the world with a hand-picked crew of adventurers, death and despair are always lurking right around the corner. The same great turn-based combat and stylish gothic look of the first game return, but with constant decisions to make around every corner of each run.
+
+Sorry, this video is not available
+
+That said, don’t fear too much – you acquire hope (an in-game currency) from all of your runs, which you can use to unlock various components to show up in subsequent runs, new characters, skills for your caravan, and even permanent boosts. So even as all is lost – and it will be, frequently – you venture toward the final destination with some degree of progress. A successful run currently looks like it will take around four hours, so it’s important to reiterate that players unlock all kinds of special things at the account level based on each journey.
+
+Instead of maneuvering from tile to tile on a dungeon map, the player instead navigates through a map filled with various encounters, destinations, and boss battles. If you’re concerned that the roguelike nature of the game means there isn’t a cohesive narrative or a canonical ending, fear not, there is an actual ending in the final version of the game. While much of the cast returns for the adventurers, some skills have been changed, edited, or removed to facilitate the new game environment. In addition, characters have more skills to pick from, allowing players to create more diverse and interesting teams.
+
+While the choice to stop at a hospital to heal rather than opt-in to a deadly boss fight may seem obvious, there are other foibles at work here to keep you stressed as you fight for safety and sanity. As in the first game, the concept of the torch remains an essential element. Unlike the first game, the light is critical to continuing the journey, and if it goes out, you’re going to die quickly. To keep things lit, you must continue to battle enemies and reduce their numbers from the land. But making time to stop at other checkpoints where you can trade with the hoarder, discover ­valuable curios at an academic study, or just help random survivors huddled around a wagon is also important.
+
+“The dark here is not sustainable,” says Red Hook co-founder and creative director Chris Bourassa. “And I don’t mean that in a fun way. Narratively and from a gameplay standpoint, it’s not sustainable. If you run your torch to the ground, just because of what the torch means, this time, it’s not just a literal measure of how much light there is. Allegorically, it’s the hope for the future that you’re sort of carrying on your back. And so if it goes out, it’s kind of game over. You get one last shot. We give you a really tough encounter; the cult catches up to you and jumps you, and if you can fight them back, we give you a little bit more gas to try to get ahead and hopefully restore it somehow. But it doesn’t fill the same role as it did.”
+
+If all you do on the journey is try to seek out non-combat nodes on the map, you’ll end up underpowered and crushed by the weight of darkness. However, try to take on too much or some dangerous high-reward boss nodes, and you may find your adventure ending abruptly. Finding a balance and knowing when to step outside your comfort zone for some advanced risk-taking is what it’s all about.
+
+It’s important to note that the big zone bosses are optional here (with the exception of the final boss) so if you find yourself completely decimated wandering through an area, it’s possible to opt-out of the traditional “area boss” and just push on to the next zone. Of course, this will leave you missing out on the associated treasures, so the next area will be a tougher endeavor.
+
+“It’s really a power curve thing,” says co-founder and design director Tyler ­Sigman. “So, game design-wise, it’s been an interesting challenge. If you avoid every fight, you can avoid the bosses and just try to stay safe, [but] you won’t be powerful enough to kill the [final] boss. As you fight, you earn hero upgrade points which are spent to upgrade skills. That’s really vital. Basically, if you haven’t upgraded any skills, by the time you get to the end boss, you’re just not going to be up for it. And so essentially, we try to give you some control over your own power curve, of how many challenges you want.”
+
+When you finish each area, you choose between two different areas for the next leg of the journey. Since the game is biome-based, with each area having special inhabitants, you can create a game plan early on – but don’t expect anything to be easy. For instance, the inhabitants of the city are quite resilient to fire damage, so it’s probably a bad idea to include the Runaway in your crew if you plan to head into the city. However, each area contains modifiers that are different every run, so you must be ready for anything.
+
+Even if you plan to head to the farmlands, maybe the modifier on your 10th run will have something horrible there, so you’re tempted to select the other biome instead, even if it is a less than ideal pick for your team composition. Random and incredibly dangerous occurrences that players may remember from the first game, like the Shambler and the Collector, return in some form.
+
+Permadeath is back. If someone reaches the death state, they’re gone for good. Since you can’t easily head back to the hamlet to replenish your team like you could in the first game, you, instead, have to rely on picking up one new character at an inn. This character may not be tailored to your group at all, but sometimes you have to work with what you have available. This pickup is a one-and-done deal as well, so it’s all you get. If someone dies again, you have to struggle along with whatever you have.
+
+“You can’t have engagement and emotional attachment without tension and fear of loss. So, if we coddle you and make sure that nothing bad will ever happen to you, you’re not going to feel that same level of excitement,” Bourassa explains. “Like when your guy survives a death’s door roll or something because you’re not worried. You know, if he dies, he dies. We’re always trying to thread that or walk that line, where what you have invested in could be taken away because that’s really the only way you can play poker, right? You have to be afraid of losing your money. That’s why people play, because the excitement is high when you win, and it’s terrifying when you’re kind of on the ropes. To recreate that experience, we have to make sure that the player knows that we are willing to take their chips.”
+
+To further engagement with your party members, Red Hook also promises greater insight into the characters you take along for each run, with narrative elements that delve into their backstories and relationships along the way.
+
+And the changes don’t stop there. Another aspect that has changed significantly is healing. Players can no longer leave one enemy alive and heal up to full – something that had rife potential for abuse in the original title. Instead, players must heal up outside of combat, which also facilitates group compositions that probably wouldn’t be optimal in the original. Don’t want to bring a healer along? No problem, live the dream and make that quad-DPS stack.
+
+While early access will allow Red Hook ­Studios to tune things, the current plan isn’t to have different difficulty settings like the first game. Instead, in typical roguelike fashion, special modifiers and alterations called mutators let players to ratchet up the challenge if they’re looking to whet their appetite for adversity. There’s also a good possibility that other roguelike staples, like daily run seeds where you can compare your performance against your friends and the greater playerbase, are also on deck for implementation.
+
+Our next journey into madness probably won’t be fully completed for a bit, with early access for Darkest Dungeon 2 slated to arrive this year. After Darkest Dungeon’s PC launch, it eventually made its way to console, which we’re hoping happens here as well, but nothing has been confirmed. Here’s hoping it reaches as many gamers as possible because this is one time that we can’t wait for the impending end of the world.
+
+The Runaway
+
+The Runaway
+
+Darkest Dungeon 2 will hit early access with one new character, the Runaway. Like other characters in our merry band of misfits, the Runaway comes from a checkered past. While we don’t know the specifics of her sins yet, the Runaway’s kit embraces fire, so we can almost certainly assume she did something awful with the element of embers. Fire is a new damage-over-time component in Darkest Dungeon 2, joining its friends bleed and blight (poison).
+
+Eventually, the new character’s look was just right. “Visually I thought it’d be neat to have this sort of younger woman with a giant backpack and hunched over; we pulled a little bit from Newt from Aliens, obviously more grown-up,” says Red Hook co-founder and creative director Chris Bourassa. “One of my directions to our animator was to channel a sort of a ‘bat girl’ kind of vibe. So, she’s got this cape, and some of the animations are really fluid where it flares out behind her, and she can retreat to stealth and hide.”
+
+It took time for the team to iterate on their ideas for the Runaway, but they liked how well she fit into the fiction.  “We just felt creatively she fit the world. She was kind of an extension of the game fiction as a whole, and what better character to debut as a new class than someone who’s intrinsically connected to the meta-­narrative of the game itself? We could have done a wandering badass with two handguns or something, but it felt a little rote. So mechanically, we added a new DoT [damage-over-time]; we have fire and burn damage in Darkest Dungeon, too. And we needed an evangelist for that mechanic the same way the plague doctor kind of works for poison or blight.”
+
+“We went through a couple of ideas. I think it’s easy, it’s safe to add a badass, give it a cool weapon and a cool faceplate or something, and you’re off to the races,” Bourassa says. “But we kind of asked ourselves, ‘What type of character would inhabit this world that’s crumbling down and falling apart?’ And it made sense that some kind of a furtive, scurrying, outwardly disadvantaged ... a little bit like an agile Antiquarian in a sense, but highly proficient in combat. Thematically, it felt like someone who’s picking through the rubble of the old world.”
+
+The Runaway is a survivor, a scavenger, and a scrapper. Exemplified by those aspects, she fits easily into lineups in multiple positions. However, she may be best at getting into the action hot and heavy and then using stealth to head back into the lineup to a safer area, perhaps moving a friend closer to the fray. The Runaway excels at disrupting foes, applying flames, and adjusting the flow and positioning of battle. Check out the entire Runaway skill lineup (right), and you can start planning on how to place her into your favorite Darkest Dungeon teams.
+
+The Runaway likely won’t be the only new face in Darkest Dungeon 2, either. “We’re bringing one new character for early access launch, but it’s not like we have decided only to make one new one, period,” says Red Hook co-founder and design director Tyler Sigman. “Hopefully, if the game finds an audience as Darkest Dungeon did, then you know, DLC, etc.”
+
+Check out all of the Runaway's skills right here:
+
+Searing Strike – A simple attack that also lights enemies on fire
+Ransack – Want to get the enemy close? Hook them closer to the hot zone with this skill
+Firefly – A thrown incendiary attack that adds fire
+Dragonfly – Escape to safety (backline) and incinerate nearby foes
+Smokescreen – Blind enemies and leave them vulnerable
+Cauterize – Heal someone’s wounds with heat
+Run and Hide – Retreat and heal your own wounds
+Controlled Burn – Set a fire in an enemy ­position that will continually burn anyone in it
+Backdraft – Use damage-over-time fire stacks  to deliver a powerful blast to the target behind them
+Firestarter – Not enough fire going on in your team? Use this to add fire to one of your ally’s attacks
+Hearthlight – Discover hidden foes and restore sight to your own debuffed crew
+The Plague Eaters
+
+The Plague Eaters
+
+Every biome in Darkest Dungeon 2 is associated with a faction. In the once-­pastoral farmlands, the Plague Eaters hold dominion over all, consuming everything with their endless mouths. Tiny baronies and humble farms give in to their base instincts, with this faction dealing with the world's impending doom with unchecked gluttony.
+
+“That’s really the top line for all the factions. So, I think as the world falls apart, I think more people would give in to their base instincts than not. And so every faction really represents a group of people who give in to the worst parts of themselves,” says Red Hook co-founder and creative director Chris Bourassa. “And so what you’re doing is, as the world’s crumbling and you’re making your way across to try to prevent it from vanishing or completely coming undone, you’re facing these people who have sort of just willingly abdicated their humanity almost in favor of this kind of base desires.”
+
+Their endless eating facilitates their ever-growing bulk and gives them access to powerful regenerative abilities. The many faces of the Plague Eaters are resistant to blight, so bleed and burn are the preferred methods of damage when taking the caravan through the farmlands.
+
+The Plague Eaters are more than happy to eat each other as they fall in combat, so managing the corpses and denying them of their sustenance can make your ­encounters much more manageable. If you let them feed unchecked, expect grueling, lengthy encounters that wear your team down to the ground. Let’s meet some of the cast of gruesome foes that you’ll meet down on the farm.
+
+The Lord
+
+Once proud leaders of man and beast, now just beast. These heavy support units can become a big problem if you let them bolster their own lines or enfeeble your own. With tongue lashing and baneful breath, Lords can whittle your troops down to nothing. As with many farm inhabitants, it’s best to keep an eye on corpses during the fight and deny the Lord’s insatiable hunger whenever possible. If a Lord gets to eat, not only can he regenerate his hit points over time, making the fight last even longer, but he also unlocks an incredibly dangerous stun attack, the bilious cannon. Pro tip: Don’t get hit by the bilious cannon.
+
+The Lady
+
+While the Lord isn’t afraid to get physical after dishing out some support skills, the Lady prefers to do her damage from the backline. The Lady excels at blighting at range with Be Our Guest, using Mother’s Embrace to mess with the player’s positioning, or attacking the front characters directly with Mulch. Like many farmland inhabitants, it’s best not to let the Lady feed. If she does, prepare for your sanity to take a massive hit as she unleashes a bilious wail. Are you seeing a theme here yet?
+
+Dinner Cart
+
+Yep, it’s just a big cart of dinner. This thing will chuck rot at our heroes and make them more vulnerable to other attacks, taunt them, blind them, and otherwise be a massive pain to deal with. In addition to its unsavory standard annoyances, the dinner cart can create fresh corpses for everyone to feast on, making it quite dangerous. The dinner cart can consume corpses too, which allow it to unleash massive amounts of blight and stress damage to your backline. Like other targets that prefer to hide in the back and cause trouble, taking the dinner cart out with ranged attacks before it can deliver its foodstuffs is the best plan of action.
+
+The Maid
+
+The maid helps tend to the livestock. That’s right; the Plague Eaters sometimes like to take meals into combat with them. Goats. Cows. Whatever is available. The maid is a rather uninteresting unit when there’s no livestock on the battlefield, but when there is, she can buff livestock up, turning them into suitable meatshields. The strategy here is not to let her hide behind livestock or other fetid fiends, hook her to the front and take her out quickly.
+
+The Butcher
+
+Like the maid, the butcher excels in the presence of livestock. The butcher can tear into lines with bleed damage and execute a massive party-wide heal when livestock is around. As you can imagine, preventing this huge heal from going off is the top priority, so that means taking out the butcher or the livestock as fast as you can before working your way to other targets.
+
+      Products In This Article
+
+Darkest Dungeon II
+
+Platform:
+
+PC
+
+Release Date:
+
+May 8, 2023
+
+Purchase
+More Info
+

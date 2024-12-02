@@ -1,0 +1,72 @@
+
+  Introducing Fortnite's Constructor Class
+
+
+
+
+
+
+Earlier this week we took a look at Fortnite's two combat-focused classes: the heat-packing commando, and the sword-wielding ninja. Today we're pulling back the curtain on the constructor, a class designed to make good use of Fortnite's intuitive building mechanics.
+
+While every character in Fortnite can build, explore, and hold their own on the battlefield, each class is suited to a particular style of play thanks to a variety of abilities and bonuses unlocked via its skill tree. Below is a look at some of the elements that make the constructor stand out, as well as our hands-on impressions of how the class plays.
+
+Class Name: Constructor
+
+Who is it for:
+Minecraft veterans. Players who prefer building things to destroying them. Wannabe architects and anyone else who has ever built a fort out of couch cushions.
+
+Starting Ability:
+B.A.S.E. (Basic Automated Sentinel Edifice) – Deploys a large holographic cube in the environment; anything built inside it costs fewer resources for the constructor.
+
+First Unlock Ability:
+Pre-Planning – Makes structures built by the constructor stronger.
+
+Other Abilities:
+Containment Unit – Deals persistent damage to enemies within the B.A.S.E. area.
+Plasma Pulse – Area-of-effect grenades that deal damage for a short period of time.
+
+Hands-On With The Constructor
+
+The constructor was the final class I tried out, and although our play sessions tended to gravitate towards the action elements of the game, it quickly became clear how advantageous the role is for people who want to focus on building. Right from the get-go, the constructor builds structures faster than the other classes, and the Pre-Planning ability makes those structures stronger as well. The B.A.S.E. ability allows constructors to place a large holographic cube in the environment; structures built inside of it cost the constructor fewer resources. These perks, along with the other bonuses in the constructor's skill tree, make the class an easy choice if you're looking to building something huge or complex (or both).
+
+The constructor is designed to look like a hulking construction worker, and as such it's the biggest and slowest class in the game. However, constructors also have another ingrained perk – they can upgrade structures beyond what the other classes are capable of.
+
+Every player-made structure in Fortnite – walls, ramps, ceilings, and floors – are built out of either wood, stone, or steel. Once construction is completed, any class can upgrade that creation to level 2, making it more durable. However, constructors can upgrade structures one step further to level 3. Upgrading objects also change their appearance; the basic assembly of poles that wooden structures are composed of at level 1 get patched over with plywood at level 2, and hastily cobbled-together brick walls are transformed into sturdier cinderblocks. This means constructors can give their fort a little more visual variety, as well as greater protection.
+
+Constructors also have some defensive abilities at their disposal, which tie back into their focus on building. Containment Unit deals persistent damage to any enemy within the constructor's B.A.S.E. area, further increasing the importance for smart placement of the device. Plasma Pulse is a type of grenade that deals area-of-effect damage for a short duration. This ability is perfect for holding back enemies who have breached your defenses long enough to erect a replacement wall.
+
+While the constructor may sound like a passive class, players who choose the role are kept plenty busy. In the main campaign, each zone players enter contains an objective that incorporates Fortnite's building elements. The most common objective we encountered entailed activating and defending a portal from attacking monsters – building a (hopefully) impregnable stronghold around the portal to defend it was paramount. Another objective required constructing a large tower up to a given height and then placing and defending a radar dish on top of it. Unlike Minecraft, unsupported structures won't just hang in the air, so creating and protecting a strong base was just as important as guarding the stairway leading up to the dish. The constructor's role in these missions isn't just the initial building; the character's speedier construction time comes in handy for patching up damage during the ensuing invasions.
+
+Despite their focus on building, constructors will still find themselves engaged in combat during invasions, and can hold their own with both guns and melee weapons. Fortnite's roster of enemy monsters are smart enough to knock down doors, hurl roof-destroying bombs, and ferret out all of the overlooked weak points in your stronghold. As constructors run around patching up their team's fort, they'll rack up a respectable kill count of their own. In my hands-on time with the game, juggling these two duties made the constructor the most frantic class to play as.
+
+Going Head-To-Head With The Constructor
+
+Epic says it will have a variety of competitive multiplayer modes ready at launch; our introduction to PvP was a five-on-five mode that tasked us with defending a unicorn statue from the opposing team, while simultaneously attacking their own statue. Quickly building and fortifying a base around the statue proved an important key to victory.
+
+The constructor was so pivotal in the experimental mode we played that each team was only allowed one member of the class. Building the best stronghold possible requires not wasting time or resources – both areas the constructor excels at. As such, the early moments of a match consisted of the mercenaries and ninjas of the team running off into the level to harvest resources, then bringing them back to the constructor before going on offense or defense. This makes the constructor the make-or-break role of the team. What kind of base your constructor builds, how they reinforce it, and where they lay traps are all vitally important. So is remembering to add doors so your teammates can actually get back into the base...
+
+During our play sessions, most constructors chose to build inwards, first constructing the perimeter of their fledgling fort, and then continuing to work on it from the inside. This keeps the constructor safe from outside attackers, but it also makes them the last line of defense should the enemy breach your walls. For this reason, constructors should always keep a powerful shotgun or assault rifle on hand – if you die, your team will likely be left with no one paying attention to repairs or upgrades.
+
+I didn't play as the constructor in our multiplayer matches much, but I saw the difference between good ones and bad ones. Setting up the B.A.S.E. and Containment Unit combo by your team's statue ensures any invader will eventually die from the persistent damage it deals. Another successful constructor built a huge enclosed environment around their statue, then lined the floor with spike traps (each player spawned with a new spike trap in their inventory when they died, which the opposing team members were smart enough to always hand off to their constructor). The massive arrangement of spikes caused constant deaths that round.
+
+During another round, our team found modest success by just building a tiny enclosure around the statue and heavily upgrading it. It wasn't as complex as the other team's stronghold, but it ensured our defending commandos always had a line of sight on encroaching opponents. The tides of battle shifted when our overzealous constructor erected an outer perimeter wall; the other team's ninjas effortlessly double-jumped over the barricade, while our commandos were forced to run around the outside looking for the entrance. These memorable moments have me excited to see the ever-evolving methods that design-minded players come up with to thwart their opponents.
+
+For more information on Fortnite's classes, check out our character profiles for the commando and ninja. Come back next week for a look at some of the monsters you'll be fighting, along with more information on Fortnite's procedurally generated worlds. To see all of this month's bonus Fortnite features, click the hub banner below. Want to play Fortnite for yourself? Sign up at Epic's site for a chance to be included in the upcoming alpha.
+
+You can also follow our Fortnite updates and other stories by following Game Informer on Twitter, Google+, and Facebook.
+
+      Products In This Article
+
+Fortnite
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC, Mac, iOS, Android
+
+Release Date:
+
+July 25, 2017 (PlayStation 4, Xbox One, PC, Mac), April 2, 2018 (iOS), June 12, 2018 (Switch), August 9, 2018 (Android), November 10, 2020 (Xbox Series X/S), November 12, 2020 (PlayStation 5)
+
+Purchase
+More Info
+

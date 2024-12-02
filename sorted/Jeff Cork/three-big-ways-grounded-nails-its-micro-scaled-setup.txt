@@ -1,0 +1,65 @@
+
+  Three Big Ways Grounded Nails Its Micro-Scaled Setup
+
+
+
+
+
+
+            Obsidian’s upcoming game Grounded takes one of my favorite setups – little guy in a big world – and builds a complex survival adventure around it. Don’t let the kid-friendly veneer throw you off; at this scale, the backyard is a perilous place, with danger lurking around every corner. Or, more accurately in this case, around the other side of that titanic discarded juice box. The setup got my attention, but the studio’s attention to detail and determination to make the most of this unusual scale kept it. With that in mind, here are three big ways Grounded is fulfilling the promise of its micro-sized world.
+
+The Sense of Scale
+
+When you start Grounded, you begin in what appears to be a rainforest. Everywhere you look is lush and green. Surprise! Those “trees” are actually blades of grass. And if you look up, you can see a tree, house, and other things you’d notice in a backyard – though they tower over you, and are impossibly far away. Obsidian makes the most of this change in perspective, not only pulling you down to ground level and showing you life at that scale, but having fun with it, too.
+
+Things operate at a different level when you’re a centimeter tall. As an example, surface tension is such that you can kick a blob of dew if you manage to knock one down from a plant. And if you yourself happen to get knocked down from a plant, you can slow down your fall by holding onto a tiny piece of dandelion fluff and gliding softly down. 
+
+I’ll get into it more in an upcoming feature, but the backyard is also home to a variety of objects, such as discarded toys and other familiar sights. Here, the team balanced how things would actually look at the scale with meeting your expectations. “We’ve noticed that there are some manmade objects that don’t look quite right at the small scale,” says game director Adam Brennecke. “So think of a soda can or something else like even a quarter. You imagine how big it is in your head, and when you actually see it at that scale, you think, ‘Actually I thought it was going to be smaller or bigger.’ So sometimes we fudge it a little.”
+
+Pint-sized Peril
+
+At this scale, you’re in danger of becoming the next meal for creatures you’d ordinarily ignore. Grounded’s backyard is like a lot of other backyards, in that it’s home to a wide array of insects. At one end of the scale, they’ll ignore you completely. Others are curious about this strange new intruder, and want to get in close to size you up. And unfortunately, there are more than a few insects that would like nothing more than to munch on your tiny body like the crumb it has become. They’re all part of a larger ecosystem, and your job is to find a safe place within it.
+
+“That’s something that we wanted to try out and push the technology as best as we can to see where can we take the simulation aspect to where it feels like a living world, where all the insects are doing their own thing,” Brennecke says. “At first, they’re not interested in you because they don’t see you as a threat, but then as you get stronger, they see you as a threat and a hostile thing and they’ll want to fight back.”
+
+Take the ants, for example. When you encounter them at first, they regard you with curiosity. They’ll certainly fight back if you attack, but otherwise they’re content to take a look at you and move along. They’re more interested in food, and fortunately you aren’t an obvious meal. Get between them and their next meal, however, and that’s when trouble can form.
+
+“If there’s something like a large apple core or a hot dog bit or a cookie, the ants will actually form a trail to those large food objects and bite off a little piece and go back to their anthill,” Brennecke says. “You can interact with the simulation in different ways. You can build a base around that, and the ants will ultimately be like, ‘Hey, what are you doing? You’re hoarding all the food,’ and they’ll send out soldier ants to go beat you up and destroy your defenses.”
+
+Spiders and other aggressive insects aren’t quite as nuanced. If they see you, they’ll immediately attack; you aren’t getting in the way of their food, you are the food. Or in the case of creatures such as bombardier beetles, their corrosive spray will hurt your character, regardless of the insect’s ultimate motivations.
+
+In true survival-game fashion, the trick is finding ways to explore the world safely to get crafting materials to further extend your range of exploration. “An analogy I’ve used in the past has been similar to an Indiana Jones movie, where it’s action and excitement, and there’s a real sense of danger, but it also has a level of approachability to it,” says lead environment artist Sean Dunny. “We want it to look recognizable like a backyard, we wanted it to be this sort of, pardon the pun, larger-than-life and inviting world for you to be a part of. Where you’re like, ‘Ah, there’s danger out there, but there’s also excitement and adventure.’”
+
+A World You Want to Explore
+
+After spending several hours with Grounded, I was most impressed with how much fun it was to simply explore the yard. The team took great pains to make sure that something weird, recognizable, or interesting is just over the next hill or around the corner. 
+
+“One of the things that I really like, just from a visual standpoint, are the garden lights,” Dunny says. “At night, in our nighttime you see almost what looks like a lighthouse in the middle of the fog. That’s something that we talked about for nighttime gameplay, it can be really imposing. So having these points of light to act as landmarks during the night, even these things that don’t necessarily have direct gameplay impacts have this indirect thing, where they provide a way to find your way around at night.”
+
+Those lights come in handy, since you never know what you’ll bump into in the dark. “Each creature has a vital system that tracks its own hunger level and sleepiness level,” says art director Kaz Aruga. “If you follow something around like spiders for instance, we have two types: we have the orb-weaver that roams around during the day, and then we have the nocturnal wolf spider. One type will go to sleep, and the other type will come crawling out, and the yard kind of shifts in that dynamic way.”
+
+Whatever the time of day, Grounded isn’t just having you survive for survival’s sake; there’s a reason why you’ve been shrunken down to this size, even if you don’t know what that is. I’ve had a blast scouring this backyard inch by inch, but let’s face it – once you’ve seen everything, you need something to do beyond merely staying alive. Grounded is doing something a little different from other survival games, in that it’s telling a structured story, too.
+
+I got a glimpse of it while I played. During the early moments of the game, you’re guided through the process of powering on several high-tech pylons by a mysterious voice. When activated, these should help to return you to your normal size. Things don’t go well, and the machines eventually overload. The demo ends just as you meet your helper, a tiny robot named BURG.L. 
+
+I’ve played my share of survival games over the years, but it’s not a genre I’m naturally drawn toward. I like the freeform nature of these experiences, but I also appreciate having more formalized goals and motivations. I only dipped my toes in Grounded’s story, but it seems like a fun mystery to dive into. And it just happens to be one set in an innately fun location, both to play in and to create.
+
+“I think everyone is staring at the ground now, just looking and dissecting what they’re seeing,” Brennecke says of his team. “'Hey that would be an interesting material to use or a little setting.’ Everyone is taking pictures of weird things that they’re finding on the ground. 'Oh, this is a weird mushroom patch, it might be a cool place to explore.' It’s been a lot of fun, thinking about the things that you interact with on a daily basis at scale, and how can that fit into our world."
+
+Grounded is coming to Xbox One and PC via Game Pass and early access on July 28.
+
+      Products In This Article
+
+Grounded
+
+Platform:
+
+Xbox Series X/S, Xbox One, PC
+
+Release Date:
+
+September 27, 2022
+
+Purchase
+More Info
+

@@ -1,0 +1,34 @@
+
+  Alien Breeds: The Evolution Of XCOM’s Enemies
+
+
+
+
+
+
+Humanity has been staring at the stars and dreaming for centuries, but it’s not easy to envision what alien life might actually look like. It’s also not easy to resist the urge to try. The designers at Firaxis have the advantage of building off an existing framework, but redesigning 18-year-old character concepts for a modern audience was still no simple task. We chat with Firaxis Lead Designer Jake Solomon and Lead Artist Greg Foertsch about the process of designing the aliens in XCOM: Enemy Unknown. 
+Sectoids
+Foertsch: The first thing we tackled was the Sectoid. Everyone knows what it is, because it’s the first alien that you run into in the game. We knew that if we got that right then as we got further into the game and the aliens got a little crazier and more whacked out then I think people were going to buy into our universe a lot more.
+Foertsch: We looked at the original character design and then put it away and started designing the character. These are the first images we got back. We were originally thinking about making him about seven feet tall. I was going for this really elongated look.
+Foertsch: I was watching Aeon Flux at the time, and that influenced a lot of our decisions. Eventually, we came back to making him smaller. We really wanted to go with this emaciated look. At one point we talked about putting armor on him, because the one thing that is weird about him was the gun and the fact that he’s naked with a gun. 
+Solomon: I think it’s scarier that he’s naked. If you see naked dudes with guns, clearly there’s something not right there. That man is insane!
+Foertsch: This is where we ended up. We ended up staying pretty true to the original look without really trying. We wanted him to be visible in the game, so that light shining out of him helps him become a little more visible from a top down view, especially within dark environments. It also ties into the fiction with all of the psionic powers that the Sectoids have.
+Mutons
+Foertsch: These guys were a challenge, because he’s a giant soldier and he’s suppose to be menacing while in a green unitard. We wanted to make him so that as soon as you saw him you knew he was a Muton. 
+Foertsch: This was our first pass. He’s a soldier, but he’s a little bit orcish, and we wanted him to be brutal. I wanted him to look tribal and I wanted him to look physically imposing. I also wanted to take away the pink skin and green armor. 
+Solomon: This was a little too Orcy. For example, the human skulls on his belt – which I loved because it’s kind of awesome. You figure Mutons probably carry trophies around, but it was a little too orcy.
+Foertsch: As we were looking at him, his human nature sort of bothered us, and as we got closer to the point where we were going to animate him, it bothered me even more. So we decided to make him a little more ape-like – a little more primal. We changed his proportions a lot. He’s a lot wider in his stance, and he’s a little bit shorter, because he’s hunched over. 
+Solomon: This is where we ended up. Design-wise the idea behind the Mutons was that these guys were the intergalactic Seal Team 6. We want these guys to be the foil for the player. They’re evil Seal Team 6. They are these elite military units that work together, so they’ll call to each other a lot and set up all kinds of flanking maneuvers. Their tribal nature gives them strength. They have an ability called Blood Call, which lets them fire up everybody around them and then those guys will be huffing and have all these combat bonuses because of that. 
+Next, we look at the Cyberdisc and a new X-COM enemy, the Thin Man.
+
+Cyberdiscs
+Foertsch: This was a cool one, because he has such a simple original design, so it required us to do a lot of back and forth about “What does he do?” What do we want him to do?” This is probably one of the more written up characters in the game. 
+Solomon: He’s enigmatic. Even in the original game. Sure he’s a little disc, but he always struck me as this very enigmatic enemy, because he doesn’t display a lot of his outward character and he doesn’t make a lot of sound. We wanted to push that a little – this character is a bit of an enigma. 
+Foertsch: One of the things that we wanted to do with him is defy reality. He has so much stuff jam-packed inside that there is no possible way that it fits, but it somehow does. When he opens up – when he goes to attack you – he unravels. He becomes fairly menacing, and he’s fairly large. You can see the scale size on this shot. When he opens up you can see the more organic side of him and he’s more vulnerable.
+Solomon: Design-wise these two forms have gameplay benefits. When he’s bottled up in his UFO form he’s very difficult to score hits on, but he has to unfold to attack and that’s when he becomes vulnerable to attack. But he’s still a very strong alien. He has ways of healing himself, and he’s this big tank-like enemy. 
+Thin Man
+Solomon: This is a new character in the XCOM universe, and he comes from a lot of different things. The idea that monsters are among us is probably one of the oldest ideas, but it also fits that UFO lore – that they’re with us and they’re watching us. They have infiltrators. At the same time, we kind of did a play on Men in Black. The Thin Man is very tall. He’s unnaturally tall, unnaturally slender, but if he was in a crowd your eyes might pass by, but you might feel a little unnerved. He’s close – they tried to get him close – but he’s not perfectly human.
+Solomon: He doesn’t move naturally, you’d think he has a few too many joints, which give him some very interesting characteristics. He’s one of our favorites. 
+Foertsch: His animations are very different, and you can see some of that here. He’s very reserved, but when he uncorks his animations are really cool. Some of these are early drawings, which were key when the animators started working with him. Again this is when I was watching Aeon Flux and we were talking about these elongated figures.
+Solomon: He’s about as covered up as he can be, but you see those little hints, like in the wrists, where there’s some discoloration. You don’t ever want him to take off his glasses, because again he’s not a perfect copy. Design-wise we wanted to play off the fact that he’s unnerving. He can leap up multiple stories, which can be very disconcerting, but is also tactically useful for him. He also uses poison as a weapon. He has this move where he unhinges his jaw and then vomits forth poison, so you can tell that what is inside doesn’t match what is going on outside.
+

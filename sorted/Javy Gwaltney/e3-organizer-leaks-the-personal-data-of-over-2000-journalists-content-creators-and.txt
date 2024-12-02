@@ -1,0 +1,26 @@
+
+  E3 Organizer Leaks The Personal Data Of Over 2,000 Journalists, Content Creators And Analyzers
+
+
+
+
+
+
+If you attend E3 as someone writing or making video content about the conference, chances are you'll need to apply for a media badge with the event's organizer, The Entertainment Software Association (ESA). The process includes putting down your phone number, address (physical and email), and several other bits of personal information. Over 2,000 people who went through that process and received a badge for E3 2019 have just had all that information put out on the internet without their permission.
+
+YouTube Creator Sophia Narwitz discovered the easy-to-access list on the ESA's official site and created a video to bring its existence to the public attention last night. After a public outcry from those affected by the data breach (which includes content creators, journalists, and analysts from Wall Street), the ESA removed the list but not before it was archived and made available on a number of forums. It's not clear who took the information and initially shared it.
+
+The ESA has since made a brief apology for the incident:
+
+The Entertainment Software Association (ESA) was made aware yesterday of a website vulnerability on the exhibitor portal section of the E3 website. Unfortunately, a vulnerability was exploited and that list became public. We regret this happened and are sorry.  
+We provide ESA members and exhibitors a media list on a password-protected exhibitor site so they can invite you to E3 press events, connect with you for interviews, and let you know what they are showcasing. For more than 20 years there has never been an issue. When we found out, we took down the E3 exhibitor portal and ensured the media list was no longer available on the E3 website.
+Again, we apologize for the inconvenience and have already taken steps to ensure this will not happen again.
+Thank you 
+Entertainment Software Association
+
+The apology, unsurprisingly, has not done much to assuage the anger and frustration of those whose data was leaked, with many demanding some form of reparation from the company. There are concerns among those affected that those with anti-media leanings will use that information to harass those whose data has been leaked. At least one member of the press has reported receiving email threats containing their own personal home address.
+
+We'll update this story further as it develops.
+
+This massive breach in trust will probably have consequences that aren't immediately apparent. The list could be accessible in Europe, meaning that this data violation could open up the ESA to a GDPR-related lawsuit. Furthermore, who's to say that this sort of thing couldn't happen to public attendees as well in the future? Will this breach keep people from all sides of the industry from attending future shows? For an expo that many critics have said is in its waning years, this incident is doing E3 no favors.
+

@@ -1,0 +1,60 @@
+
+  Star Wars Jedi: Survivor PC Specs Revealed
+
+
+
+
+
+
+            Ahead of its April 28 release date, publisher EA has revealed the PC requirements for Star Wars Jedi: Survivor. And most notably, it's going to take up a big chunk of your computer's storage space, weighing in at an eye-watering 155GB. 
+
+Here are the minimum and recommended spec requirements, as posted by EA: 
+
+Minimum
+
+OS: Windows 10 64-bit
+RAM: 8Gb
+CPU Features: 4 core / 8 threads
+CPU* AMD: Ryzen 5 1400
+GPU** AMD: Radeon RX 580
+GPU Features: DX12, 8Gb VRAM
+Storage: 155Gb
+*CPU alternate: Intel Core i7-7700
+**GPU alternate: Nvidia GTX 1070
+
+Recommended
+
+OS: Windows 10 64-bit
+RAM: 16Gb
+CPU Features: 4 core / 8 threads
+CPU* AMD: Ryzen 5 5600X
+GPU** AMD: RX 6700 XT
+GPU Features: DX12, 8Gb VRAM
+Storage: 155Gb SSD
+*CPU alternate: Intel Core i5 11600K
+**GPU alternate: Nvidia RTX2070
+
+Star Wars Jedi: Survivor will be released later this month. In preparation, read our hands-on preview and impressions from playing three hours of the game, or our thoughts on the game's predecessor, Star Wars Jedi: Fallen Order. 
+
+      Products In This Article
+
+Star Wars Jedi: Survivor
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PC
+
+Release Date:
+
+April 28, 2023
+
+Purchase
+More Info
+
+Blake Hester
+Senior Associate Editor
+Blake Hester has been writing about the video game industry since 2015. Before joining Game Informer he freelanced for outlets such as Polygon, Vice, USG, and Rolling Stone.
+
+Email
+Twitter
+

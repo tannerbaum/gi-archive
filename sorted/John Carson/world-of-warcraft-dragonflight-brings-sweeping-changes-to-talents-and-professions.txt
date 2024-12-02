@@ -1,0 +1,49 @@
+
+  World Of Warcraft: Dragonflight Brings Sweeping Changes To Talents And Professions
+
+
+
+
+
+
+            It is important to keep in mind what is going on within Activision Blizzard at this time regarding ongoing allegations about the work culture. The ongoing lawsuit from the California Department of Fair Employment and Housing (DFEH) against the company is over reported toxic workplace culture. The bulk of the suit focuses on "violations of the state's civil rights and equal pay laws," specifically regarding the treatment of women and other marginalized groups. To learn more about the proceedings thus far, including details listed in the lawsuit against Activision Blizzard, please check out our previous coverage here.This week, Blizzard announced World of Warcraft's newest expansion, Dragonflight, showing off the new race and class combination, the Dracthyr Evoker, as well as the new lands players will be exploring in the long-hidden Dragon Isles. Some of the reveals this week weren't as flashy as playable transforming magical dragons. Yet, they do provide a better window into the philosophy and priorities of the World of Warcraft team in the immediate future. I spoke with Dragonflight senior game designer Jackie Wiley about the complete talents system rework coming to all classes in 10.0 as well as the big changes coming to professions.
+
+"We're stepping away from borrowed power this expansion to work on our evergreen systems, but also letting players express themselves how they want," says Wiley. The concept of "borrowed power" comes up often in the Warcraft community, which references systems like Legion's artifact weapons, Azerite armor from Battle for Azeroth, and the Covenant abilities and Soul Binds from Shadowlands, which all gave players new stat boosts, spells, and skills not inherent to the core class progression and talents system. At the start of recent expansions, large swaths of your character's power were wiped away, leaving significant holes in class rotations and utilities left to be filled by whatever the next borrowed power mechanic would be in the new expansion. According to Wiley's statement, Dragonflight won't have a system like that, with Blizzard instead opting instead to learn from those borrowed power systems to rebuild a more classic take on Talents.
+
+Currently, WoW players gain a majority of their spells and abilities automatically when they level up, with only a handful of choices given to them regarding their preferred playstyle for their class specialization. Every 15 levels or so, you can choose one of three talents from a specific tier; some offer modifications to existing abilities, while others grant new skills altogether. However, with only six real choices to make per character at a given time, there's not a lot in the way of player expression and customization for a given class. That all changes in Dragonflight.
+
+Talent trees are coming back to World of Warcraft in a big way, giving players a chance to pour precious talent points into their chosen skill upon every level up. The earliest iterations of the WoW Talent system provided a tree for each specialization in which players could spread their points across all available trees, enhancing specific class abilities. Dragonflight, however, will have two trees: one for the overall class utility and identity and another for that character's chosen specialization. You won't be able to necessarily build a Mage into a Frost/Fire hybrid spellcaster, but the new system should offer much greater granularity in how players want to min/max their talents and customize how their character plays.
+
+Every level-up, players will earn either a Class Talent Point or a Specialization Talent Point, which can be spent to activate talents on that particular tree. The concept isn't new, but it is a refreshing return to form and a big step closer to what players like me craved in the lead-up to World of Warcraft Classic. Having that choice each level – that tiny reward and semblance that I'm building my character – in theory, makes the leveling experience more fulfilling and less like a chore while powering through old content to get to the current expansion's zones.
+
+It's not just the old ways of doing talents for the sake of change.
+
+"We've taken a lot of lessons from all of the systems we had the past few expansions that are dear to our hearts like Azerite armor, Conduits, Soul Binds, legendaries and taking inspiration from those," says Wiley.  "So you might see a few friendly things that you remember speckled, dispersed throughout your talent trees."
+
+Those friendly things being various Covenant abilities possibly becoming a permanent fixture for a class, though nothing specific is being promised. An example given was Druid's Full Moon spell making its way from a Legion artifact weapon power to joining the active roster of spells for that class.
+
+"For example, after Legion, Balance Druids were like, 'I still want to drop a moon on things, though.' And so, luckily, they can still drop a moon on things," explains Wiley. "It's really taking inspiration from those changes we want to make the class, but also just stuff that players love, or even some players love that we want to give them the option for again."
+
+It should be noted that the addition of these fleshed-out talent trees will not represent complete reworks of each class' central identity. Wiley describes, "We're not looking to overhaul classes/specs/rotations like we did in Legion; if you like how your spec plays today we want you to be able to largely recreate that in 10.0, but with more customization via talents."
+
+Like Talents, the Professions of World of Warcraft are getting somewhat of an overhaul. The details haven't all been revealed quite yet, but big changes are coming to crafting and gathering and their importance to the player fantasy and economy within the game. Crafting professions like Blacksmithing or Leatherworking will have their own specialization tracks that will have players focus on a particular aspect of that trade. For instance, Blacksmiths can once again choose to prioritize Weaponsmithing or Armorsmithing and become renowned on that player's server for being the best swordsmith around. Not all crafted items will be the same, mind you, with a new Crafting Quality rating being added, showing off that your character used better materials or specialization in making that particular item. Gear will also be available to accentuate these trade skills and will automatically be equipped when performing your trade, such as picking herbs or sewing some new cloth armor. 
+
+Finally, new Crafting Orders will allow players to commission specific items to be made from various crafters, even those that are Soulbound on pick up, which makes previously non-transferable, Profession-specific items available to anyone who can use them. Those who want to submit a Crafting Order will open an Auction House-style window in-game and choose the item they would like made and sent to them. They can contribute some or all of the required materials to craft the item, and whatever fee the contractor will ask for to complete the job. Players can shop around for different offers and choose which crafter they want to work with. Crafters, on the other hand, can make a name for themselves through Crafting Orders by providing reasonable rates, the quality of their crafted items, or even throwing in some extra goodies to their customers.
+
+With the release of Dragonflight, the entire Professions system could receive a new lease on life if these ideas pan out as they've been presented so far. I've never been more interested in participating in the WoW economy and hope that crafting and gathering become a meaningful way of interacting with players rather than cold auction transactions as they are now. These Profession changes, partnered with the complete talent rework, are substantial changes to the foundation of World of Warcraft and could make for a much better experience for the game's player base moving forward.
+
+      Products In This Article
+
+World Of Warcraft
+
+Platform:
+
+PC, Mac
+
+Release Date:
+
+November 22, 2004
+
+Purchase
+More Info
+

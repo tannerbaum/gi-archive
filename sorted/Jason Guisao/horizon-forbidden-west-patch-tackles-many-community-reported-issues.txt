@@ -1,0 +1,48 @@
+
+  Horizon Forbidden West Patch Tackles Many Community-Reported Issues
+
+
+
+
+
+
+            Horizon Forbidden West might've had a successful launch as far as reviews go, but some players have reported progression and visual bugs (among other things). Guerrilla Games' new 1.06 patch looks to tackle these community-reported issues head-on. 
+
+Patch 1.06 for Horizon Forbidden West is live now! Our team addresses more community-reported issues, and will continue to look into more issues and feedback.
+
+📝 Please find the patch notes and known issues here: https://t.co/IQXu4PjeQA pic.twitter.com/W1it4NfYEk
+— Guerrilla (@Guerrilla) March 2, 2022
+
+I won't post any mission notes here because some contain spoilers. Still, significant changes focus on main quests/side quests, world activities, UI/UX, graphics, performance/stability, and many other miscellaneous features. Head here to see the complete list.
+
+Fixed an issue with dome views where the icons would not display correctly after reloading a save.
+Fixed an issue where a Vista image would appear in front of a Black Box collectible in the menu.
+Fixed several instances of the camera jittering and behaving in an unintentional way.
+Multiple crash fixes.
+Multiple visual and audio improvements to cinematics.
+
+This is hardly a percentage of the incoming fixes, so be sure to head over to the patch notes using the link above. However, there are still some known issues that haven't been included in the 1.06 patch:
+
+The team continues to investigate several graphical issues reported by players regarding shimmering, sharpening and screen saturation when moving the camera.
+Some players have reported that the Firegleam icons do not get removed from the map after interacting with them.
+Some players have reported an issue in side quest 'Breaking Even' where they are not able to talk to Porguf when Talanah is in Camp Nowhere, blocking progression of this quest.
+Some players have reported that the music track "The World on Her Shoulders" keeps repeating during their playthrough. We have a partial fix included in this patch to prevent this issue from happening to players who did not encounter this issue during their playthrough yet. We are still looking into a fix for players who are currently experiencing this issue.
+Some players have reported not being able to reach 100% in the Game Progression menu, our team is investigating.
+
+Kim Wallace loved Horizon Forbidden West and gave it a 9.25. She concluded her review by stating, "Horizon Forbidden West reaches a new high bar for Guerrilla Games. It does more than surpass its predecessor; it takes Horizon's fiction to captivating places and builds a rich world that rewards you for the effort you put into it. Mostly, it's an entertaining experience, complete with jaw-dropping moments and unforgettable fights."
+
+      Products In This Article
+
+Horizon Forbidden West
+
+Platform:
+
+PlayStation 5, PlayStation 4
+
+Release Date:
+
+February 18, 2022
+
+Purchase
+More Info
+

@@ -1,0 +1,39 @@
+
+  New Project L Details Emerge From Riot Games' Undercity Nights
+
+
+
+
+
+
+            Riot Games' League of Legends fighting game, still known only as Project L, was shown off in much greater detail during this weekend's Undercity Nights event, solidifying its genre, a few characters, and even its plans for online infrastructure. 
+
+The video features executive producer Tom Cannon and technical lead Tony Cannon unveiling a verticle slice of what Project L will eventually offer. The title will remain a 2D fighting game set in the world of Runeterra, as was initially hinted towards when the game was revealed, but now we know it'll feature 2-on-2 battles, and character assists will factor into the gameplay. "We feel this is the right foundation to build a game that rewards strategic team building and on-the-fly decision making on top of strong fighting fundamentals," says the executive producer. Taking cues from games like Marvel Vs. Capcom: Infinite, Project L will seemingly allow players to swap between their characters at will, making for fast, flowing combos between fighters and exciting moments to play out or even to watch as a fan. Speaking to this notion, Tom Cannon says, "Like a lot of you out there, we're inspired by insane outplays, hard reads, and 200 IQ plays behind some of the most iconic moments in fighting game history."
+
+The entire control scheme isn't apparent quite yet, but the reintroduction video showed some moves and the mapped buttons to perform them. Straying away from complex direction motions many fighters utilize, Project L is looking to simplify inputs, such as unleashing special moves with the push of one button or only adding a single direction to a button press. While this approach does make attack and combo execution a bit easier for players to grasp, the developers seem to still be leaving in plenty of complexity when it comes to each character's capabilities. 
+
+Sorry, this video is not available
+
+One new character shown off was Ekko, who plays with the fabric of time while he fights. Ekko's attacks can create an after image, showing where he has been over the last few seconds. He can zip back to the point of that image in an instant and continue his onslaught or escape to safer territory. Ekko looks to have many exciting options at the player's disposal and will surely be a tricky character to both learn to use and fight against. 
+
+Tony Cannon introduced the current plan for Project L's online play, featuring server technology Riot already uses. Project L will use "rollback networking at the core," which delivers "a constant low input delay across a wide range of pings." This is enhanced by Riot Direct, a networking solution used by the company on League of Legends and Valorant that utilizes multiple servers between two players to manage the connection and "ensure consistent, fair play experience" if one player has network speed or reliability issues. According to the technical lead, this means someone with a good connection will not experience some or any problems caused by an opponent's potential worse connection. Riot is also taking measures to determine who wins a match when a participant rage quits before the fight ends.
+
+Other characters shown off were Jinx, Darius, and Ahri, all in a new art style similar to what's present in the new Netflix animated series, Arcane. It's still very early days for Project L (it still doesn't even have a name!), but the Cannons promise we'll be seeing more of it next year. In a blog post, Tom Cannon stated that we shouldn't expect to see Project L released in 2021 or 2022, so those looking forward to throwing down with these champions for a while.
+
+How's Project L looking to you? Are you excited for the tag team battles, or were you hoping for another genre of fighter? Let us know in the comments!
+
+      Products In This Article
+
+2XKO
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PC
+
+Release Date:
+
+TBA
+
+Purchase
+More Info
+

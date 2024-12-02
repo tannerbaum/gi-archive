@@ -1,0 +1,48 @@
+
+  Five Major Changes To Mass Effect’s Multiplayer (And One Big Question)
+
+
+
+
+
+
+The Mass Effect series is built on a single-player foundation, but Mass Effect 3 added a compelling cooperative multiplayer mode. That was a risky move for a story-driven RPG, but it paid off for BioWare, drawing in many players who normally stuck to the series’ solo campaign. 
+Multiplayer returns in Mass Effect Andromeda, and we got to play a few rounds when we visited BioWare’s Montreal studio. If you enjoyed Mass Effect 3’s multiplayer offering as much as we did, then you’ll probably be happy with what the team has in store with Andromeda. However, this new iteration isn’t just recycling the same mechanics. The framework is similar, but BioWare is making some key changes to make the experience deeper and more rewarding for players of all skill levels. 
+1. Less Hunkering
+One critical strategy in Mass Effect 3’s multiplayer was figuring out the most defensible points on each map, and then staying in those spots for as many waves as possible. While increasing pressure from advancing enemies certainly made combat feel dangerous, hiding behind a few crates for the majority of a match isn’t the most exciting way to approach multiplayer. 
+Andromeda is doing more to keep players on the move. For instance, some enemies are specifically designed to flush you and your team out of hiding, while others are intended to force you into cover. When each of those foes are on the map, no one location is easily fortified, so you have to spend more time out in the open and fending off foes on the run. 
+That may have been a death sentence in Mass Effect 3, but the new powers and mobility options you have in Andromeda are tailored to these situations. Defensive play is still important, but now players have more offensive options, and more variety in the combat scenarios that arise. 
+ “The first thing everyone will notice is how dynamic it is,” says producer Fabrice Condominas. “Everything is more fluid, fast-paced, there’s a lot of action going on. The controls are also more responsive. All of that is on purpose; we really wanted to increase the dynamism and how accessible it is while retaining the depth and going more into layers.” 
+Screenshot from Mass Effect 3
+2. Power Cooldowns
+The gunplay in Mass Effect 3 was fun, but the main feature that set the multiplayer apart was how you used your special powers – both by yourself and in coordination with your team. The team is amplifying this in Andromeda by putting powers on individual cooldown timers, rather than having them all attached to a single global timer. 
+That may not seem like a big deal, but the increased versatility and initiative it affords you in combat makes a significant difference. In Mass Effect 3, the global timer meant that you were briefly locked out of all of your powers when you used any one of them. This made some players hesitant to use a power in a tight spot for fear that a more pressing demand for a different power was just around the corner. That’s not a concern anymore; when you use a power, you only need to wait for that particular timer to recharge. That gives you more freedom to use the tools at your disposal. 
+ “You can dump everything at once if you want to, or strategize and hold off until the right situation,” says lead designer Ian Frazier. “So you can do a lot more interesting combinations.”  
+The global timer also made it challenging to prime and detonate powerful combo moves solo. With that restriction removed, you have more access to these techniques within your own repertoire – though you should still coordinate with teammates to get the most out of them. 
+3. The Jetpack
+All of the obvious advantages you would expect from a jetpack are present in full force. You can hover above enemies, quickly surmount obstacles, and maneuver quickly from side to side. It has limitations, but going airborne is still fun (once you get used to being mapped to the button that made you take cover in Mass Effect 3). “It’s not a permanent rocket that you use to fly around,” Condominas says. “There is a beginning and end to them – a momentum curve – based on when you do your input.” 
+However, another important aspect tied to the jetpack is a new element of verticality to multiplayer maps. Even though Mass Effect 3’s maps had different tiers, you had to move between them using either ladders or ramps, which slowed down the action. The jetpack allows you ascend quickly and easily, which makes the battlefields feel more interesting and unpredictable. 
+In one session we played, an elevated command room separated lower platforms on either side. The higher ground (and superior cover) make it desirable, but it isn’t impenetrable. By tossing a singularity to take the exposed enemies out, our team was able to swiftly fly up into the room and wipe out the remaining foes – regular Kett grunts. We then used our advantageous position to fire down at enemies on the opposite side. The fluidity is difficult to describe, but when you use the jetpack, the freedom of movement feels like a big step up. 
+
+4. Going Shopping
+The blind card packs are returning for Andromeda, so the new weapons, character kits, and items you obtain are determined by luck. You buy the packs with in-game currency you earn from playing. You can also purchase them with real money, which doesn’t give you access to anything that you can’t buy with the in-game alternative. Even so, if there’s a particular weapon you want, or a race/class combination, it can be frustrating to burn through pack after pack and never have the cards come up in your favor. 
+Andromeda provides players a way to bypass the grind. You now have access to a store that sells a limited assortment of loot on a rotating basis. Yes, there’s still an element of chance involved in what items the store sells, but at least you know what you’re getting.
+
+“If you don’t want to be at the mercy of the random number generator for the cards, you’re still at the mercy of what’s in the store right now, but it’s like, ‘Oh, that’s the Black Widow and I really want it!’” Frazier says. “You can buy them with real-world money if you want to, but again, nothing requires that.” If you want to shop at the store, you need to spend “mission funds,” a new currency different from the credits you use to purchase blind packs (but which are still acquired by playing the game). 
+5. PrestigeOne of the biggest challenges for any multiplayer mode is hanging onto players over time. Long-term rewards help to keep them invested beyond the simple enjoyment of playing a fun game. Mass Effect 3 saw continued support for a year after release, but even so, the progression plateaued. “If you really got into the ME 3 multiplayer, you could always collect more cards and get more items, but at a certain point, you’re playing because you like to play,” Frazier says. “There was no systemic benefit at a certain point.”
+Andromeda addresses that with the concept of prestige XP. As you play, you accrue prestige XP alongside standard XP. Instead of being used to advance a single character, prestige XP accumulates across a particular character styles. For instance, characters that occupy a tank role in combat share prestige progress, so any time you play one of those kits, you earn XP building toward their next prestige level. When you hit that threshold, you earn a bonus – like a health boost – across all characters (not just the tanks). The more you play, and the more you vary your playstyle, the more of these prestige bonuses you will earn. This is a slower burn than standard progression; we didn't get enough hands-on time at BioWare Montreal to see the prestige mechanics in action, but the idea has us excited to sink time into Andromeda's multiplayer.
+Screenshot from Mass Effect 3
+The Big Question: Campaign Tie-In
+The most conspicuous mystery surrounding multiplayer right now is its connection to the single-player adventure. The team has confirmed that such a connection exists – this isn’t like Dragon Age Inquisition, where the multiplayer mode has no effect on your campaign. However, BioWare also knows that many fans didn’t like how Mass Effect 3 effectively twisted your arm to engage with multiplayer by tying it to your galactic readiness – and thereby impacting your ending. The degree to which single-player and multiplayer are linked falls somewhere between those two extremes.
+Here are a few things we know for sure: 
+
+The mission funds you obtain in multiplayer have “tendrils going out into the rest of the game,” according to Frazier. 
+ In the single-player demo we saw, there was an option on the pause menu to jump straight into multiplayer.
+
+“You will have possibilities to send teams to complete kind of side missions, or to do it yourself in multiplayer,” Condominas says. “That’s the idea.”
+
+The team doesn’t want solo players to feel like they are obligated to play multiplayer. “If you feel cheated, we’ve done something wrong,” Frazier says.
+
+We’ll certainly learn more about the bridge between the two modes in the months to come, but for now, fans will have to settle for speculating about it. 
+To learn even more about Mass Effect Andromeda, click on the banner below to enter our hub of exclusive content.
+

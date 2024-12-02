@@ -1,0 +1,120 @@
+
+                                          Blair Witch
+                  
+
+
+  Bloober Team Talks Blair Witch, Psychological Horror, And Similarities To Alan Wake
+
+
+
+
+Platform
+Quest, PlayStation 4, Xbox One, Switch, PlayStation VR, PC
+
+Publisher
+Bloober Team
+
+Developer
+Bloober Team
+
+Release
+August 30, 2019
+
+Rating
+Mature
+
+            I remember being a young teenager when I watched the original Blair Witch Project for the first time. I was in awe and completely absorbed in the façade that the whole concept could be real. Sure, we know now that Blair Witch Project is a piece of fiction, but the video camera aesthetic and found footage genre helped sell that realism.
+
+One of the big announcements during Microsoft’s press conference had me completely floored: The Blair Witch Project is receiving its own first-person psychological horror video game, and it’s being created by the Polish developer behind Layers of Fear and Observer.f
+
+At E3, I sat down with Blair Witch’s writer Barbara Kciuk and developer Maciek Glomb to gain more clarity about the project. Read on below to find out why Bloober Team decided to tackle the license, their dedication to psychological horror, and what you can expect gameplay-wise.
+
+A lot of people were surprised to see a Blair Witch game announced at the Microsoft press conference. Why did you want to tackle that license?
+
+Kciuk: Well, our company and Lionsgate (the owners of the IP), already knew each other. It wasn't like we approached them or they approached us, it was a mutual discussion. The style of games we create is very much in the [style] of Blair Witch. So why not try this one? It's an iconic IP and having this chance was huge. We just needed to take it.
+
+So, it's set in 1996. Why specifically that time period? Do you feel like you're sidestepping some of the mediocre film sequels that way?
+
+Kciuk: No, that wasn't the intention. To be honest, modern technology is a problem in video games. [The ‘90s] time period is really popular in general in horror, not only in video games, but also movies and even books, because you don't have this problem like, 'Yeah, okay, I will just check the GPS and get the hell out of here.’ So it's about the technology and also because of where and when the movies take place. So it wasn't sidestepping anything. It was just, 'This is cool. Let's do it.'
+
+Is it taking place in the same setting as the original film?
+
+Kciuk: Yeah, but it's a totally different story. It's our original take on what can happen in those woods. But yes, the players will probably recognize some places and situations from the movie.
+
+And this is single player only?
+
+Kciuk: Yes. It's the best way to experience horror without someone constantly chatting in your ear. [It’s best played in a] dark room, alone, and with headphones.
+
+What made you guys interested in the Blair Witch license to begin with?
+
+Glomb: I think what was really cool for us is that with Layers of Fear and Observer, we really tried to [create mystery]. We always try to shift the environment around the player. What was really fun was that Blair Witch pretty much does the same thing. The characters are trapped in the forest, and trapped in this space or time loop. You're never sure what it is, to be honest. This is a thing that we had in common with the Blair Witch franchise and we can make a more psychological take on the movies from this. Not much survival, because that is not really what we do, but we made this original story in the Black Hills Forest that’ll be more psychological and more emotional. It’s also because we don't have [several] characters like movies do. We have Ellis and his dog Bullet. We wanted, for the first time in our history, to show this process of bonding with an A.I. or NPC in the game. We think that, on one hand, it's really cool that you have someone in the forest [with you] because you're not so alone or separated from everything. At the same time, we give players a reason to care for the dog. If something bad happens to him, it’s going to affect your character and your gameplay.
+
+Is the dog really the only other being you interact with?
+
+Kciuk: There are a few other characters, but it would be a spoiler [to say more]. But there is a lot of dialogue in the game.
+
+Glomb: The game starts off with you joining a search for a missing kid called Peter. But you are late to the search party, so the search party starts without you and you have to catch up with them. You have ways of communicating with them through your walkie talkie.
+
+Kciuk: Without spoiling too much, yes, there are other characters, although you have different ways to communicate with them, because you need to remember that you are in the Black Hills forest, so strange things will happen.
+
+How involved are you with Lionsgate in terms of bringing this project to life?
+
+Kciuk: We got great help from Lionsgate. They are really helping us with some insight and they are very supportive. But they're giving us a lot of creative freedom too. We are still in contact, because everything we do will be canon. So basically, we just need to keep being consistent, and we need to make sure that both of our visions match. But other than that, yeah, they've been great to work with because we can basically do what we believe is best, while still having a lot of support and a lot of help on our side. Our relationship has been very good through this whole process.
+
+I'd like to know a bit more about the mechanics of the game. I see that you can equip a video camera. But what about enemies? Do you run from them? Can you fight them? Give me a rundown of what we can expect.
+
+Glomb: We wanted to base it off of what we already did in Layers of Fear and Observer. The core gameplay will be pretty similar in that you will have a lot of spaces to explore. [You will] have time for this, because we don’t want to rush players through our games apart from a few sequences when we want the player to be stressed or be scared. We felt that the video camera is a really iconic item in the Blair Witch universe. We wanted to include it in the game for sure. At the start, we used it only to show the player what happened before, or to give them clues about the story. But we felt it's not enough for the game. Because you know, the game isn't like 90 minutes long; it's almost six hours. We wanted to give players some more uses of the video camera. That's why we will be using it to solve different puzzles along the way. Puzzles are directly tied to the story and to the narrative. There will be combat for the first time in one of our games. The combat won't be conventional. We won't have a shotgun or a chainsaw. This will be pretty similar to Alan Wake's combat. You'll have a flashlight, and you will be able to scare off most enemies with the flashlight.
+
+Kciuk: But you are scaring them instead of killing them. Although, yeah, you can say that using the light is pretty similar.
+
+Glomb: One of the most important themes in the game is your dog Bullet. He was created from scratch so it was a really big challenge for us to do this. Because you know, you have to kind of balance A.I. because it can’t be too dumb or too clever to work properly.
+
+Kciuk: It was hard to really do this because well it’s a dog and you can't make him too doggy because he would get distracted very easily and the gameplay function won't be fulfilled. At the same time, he cannot be this this all-knowing A.I.; he has to behave like an animal. It was probably one of the biggest challenges to balance the animal A.I. so that it feels natural and very, very helpful at the same time.
+
+Is the dog often leading you to certain clues or story moments?
+
+Kciuk: Basically, you are given a certain [amount of] control over him. You can give him commands to perform some tasks, but he also has a mind of his own. Sometimes he will just support you. For example, he may lead you towards something, show you something, or bring something back. There is a lot of stuff he can do.
+
+What was so iconic about the original Blair Witch film was that people weren't always sure what was real and what wasn't. I think that's really what made it such a profound horror experience. Do you feel like you want to keep those themes in the game?
+
+Kciuk: Yes, they are important for us and I can't explain too much because I’ll go into spoilers, but the character really has a reason to question whether [he’s seeing] the witch or if he's just going crazy. I can't explain more, but you get what I mean.
+
+So, the found footage horror genre – we don't really see that a lot in video games. Is that the genre that you are still going to have here? Or is it going to become a different take on it?
+
+Kciuk: It's more of a first-person perspective. We are the character and we are perceiving the world through his eyes. But the found footage is also very important. Although, we used it a little different than, for example, Outlast or other games that constantly [require you to] watch the world through the camera. It's not what we've done. We are watching the world through the eyes of the protagonist, but like Maciek mentioned, found footage is part of our gameplay. It's part of the puzzles and it will affect the game.
+
+It's a way to convey a story, because it's showing you what happened. You can also manipulate the world around you by using found footage. Basically, by using the camera, you can change certain things in the world.
+
+You mentioned puzzles. Is there any chance you can give me some examples?
+
+Glomb: Well, for example, when you fast forward or rewind [video] footage that you find, you'll be able to alter the environment around you. A tree might fall in the video, and then when you look around you [in the world] the tree might fall too in the environment. It might block your way or let you pass depending on where you [pause] the footage.
+
+So that'll change the actual environment?
+
+Kciuk: Rewinding kind of rewinds the time, at least for what you think you're seeing on the footage.
+
+Were you fans of Blair Witch beforehand or did you become fans once you received this opportunity?
+
+Kciuk: I would say both. I remember the movie, and well, it was really terrifying. Especially for a writer being able to work in such a deep universe is such a great chance.
+
+I was a teenager when I watched the Blair Witch Project. My friend did not dig it at all. She was just like, ‘This is boring. I'm bored the whole time. They're not showing anything.’ And I said, ‘No, I love that they're not showing anything! I'm terrified!’ I adored that. What really terrifies me most is the idea of an invisible enemy or unexplainable entity. It just lets your imagination run wild. Is that something that you want to achieve in the game?
+
+Kciuk: Yeah. Well, we don't believe that the Blair Witch is one single entity or some creature. We believe it's more like an overpowering force. You won't really see her but you will definitely feel her all around you, like she will have a great impact on the game, on the world, and what's happening to your psyche.
+
+Blair Witch comes to Xbox One and PC on August 30.
+
+      Products In This Article
+
+Blair Witch
+
+Platform:
+
+Quest, PlayStation 4, Xbox One, Switch, PlayStation VR, PC
+
+Release Date:
+
+August 30, 2019 (Xbox One, PC), December 3, 2019 (PlayStation 4), June 25, 2020 (Switch), October 29, 2020 (Quest), August 12, 2021 (PlayStation VR)
+
+Purchase
+More Info
+

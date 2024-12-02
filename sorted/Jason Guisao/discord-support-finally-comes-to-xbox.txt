@@ -1,0 +1,19 @@
+
+  Discord Support Finally Comes to Xbox
+
+
+
+
+
+
+            I've struggled to enjoy the communication features in most crossplay-enabled multiplayer games on Xbox. That's because privacy is a luxury I know all too well. Party chats offer a comfy place to speak with friends, away from the chaos in public game chats. However, talking to friends on other platforms can be a frustrating process. Until now, that is. Discord support is finally coming to Xbox.
+
+A blog post on the official Xbox website states that the long-awaited Discord update will start rolling out today for Xbox Insiders. Just like the desktop app, you'll be able to create group calls via voice channels so you can connect with PC and mobile players. But how can you enable Discord chat when the opportunity arises? Check out the instructions from the post below.
+
+Open the Xbox guide, go to Parties & Chats, and click Try Discord Voice on Xbox. 
+From there, scan the QR code, which will take you to the Discord and Xbox apps. Set up a two-way link between your Discord and Xbox accounts. If you've done this before, you'll have to re-link. 
+A new option to Join on Xbox will appear on the Discord mobile app. You'll also need to download the Xbox app to transfer your voice chat from Discord to your specified Xbox console. 
+Once the transfer has occurred, you can hop into a voice channel to hang with friends. 
+
+The Discord update will expand to more Xbox players in the coming weeks, so, in the meantime, be sure to familiarize yourself with Discord's features. Happy gaming! 
+

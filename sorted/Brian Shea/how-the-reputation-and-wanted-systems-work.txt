@@ -1,0 +1,78 @@
+
+                                          Star Wars Outlaws
+                  
+
+
+  How The Reputation And Wanted Systems Work
+
+
+
+
+Platform
+PlayStation 5, Xbox Series X/S, PC
+
+Publisher
+Ubisoft
+
+Developer
+Massive Entertainment
+
+Release
+August 30, 2024
+
+            As Kay Vess, the main protagonist in Star Wars Outlaws, you must work within the thriving underworld to accomplish your goals. Because Kay's adventure takes place between The Empire Strikes Back and Return of the Jedi, the underworld is thriving. The Empire is focusing its efforts on finishing off the retreating Rebel Alliance. While many of the moons and planets are under Imperial occupation, its primary focus is finding Rebels. Kay must take advantage of the criminal underworld, which led developer Massive Entertainment to create the Reputation System, a reflection of her standing with the criminal organizations she interacts with.
+
+Reputation
+
+After Sliro of Zerek Besh puts a bounty on her, Kay must work towards the goal of pulling off the ultimate heist to attain freedom for her and her companion Nix. Navigating the Star Wars underworld, Kay interacts with four syndicates, each with its own leader. Jabba the Hutt is the most iconic as the leader of the Hutt Cartel, but Kay also crosses paths with Lady Qi'ra (who many know from Emilia Clarke's portrayal in Solo: A Star Wars Story) of Crimson Dawn, Queen Ashiga of the Ashiga Clan (a new syndicate created in collaboration with Lucasfilm Games), and Gorak of the Pyke Syndicate.
+
+Massive Entertainment wanted to create a game in which you must navigate an underworld where, as a scoundrel, you live and die by your reputation. You can improve your standing with the syndicates by taking on jobs, performing tasks, and making choices in favor of the various criminal organizations. If you have a good relationship with one syndicate, your life will be easier when interacting with them or when you're in their territory. 
+
+"Very early on, we knew that we wanted to do a scoundrel story and we knew we wanted the game to be about choice and consequences," lead systems designer Matthieu Delisle says. "So pretty naturally, reputation came as the medium for the player to interact with the game. That's the foundation for the game and then we built the game around that. So, all the features in the game are, one way or another, connected to reputation."
+
+Through having a good relationship with a syndicate, you get access to more jobs to take on, better deals and special stock at shops, high-stakes Sabacc tables, intel, rumors, and more access to that syndicate's territory. Not only that but if you get into trouble with another syndicate and find yourself in a chase, a syndicate with whom you have a good relationship might jump in and help you get away. But it's never so simple; Massive assures me that as a scoundrel, you will get into trouble.
+
+While I don't get a sense of just how challenging the balancing act is, an example that emerged during my hands-on demo demonstrated that sometimes your choices will force you to take sides. During my demo, I found a sensitive video file that showed a member of the Pyke Syndicate looking to overthrow Gorak. Kay's original plan was to take it to the Pyke Syndicate leader to fetch a pretty penny and improve her standing, but when she turns in the job she was doing when she uncovered the evidence, the client is revealed as a member of Crimson Dawn. Kay thinks that they might have a keen interest in that sensitive data, so the player is given a choice of who they want to hand the video file over to, with Kay's reputation with that syndicate getting a bump with Crimson Dawn. Because of this newfound standing with Crimson Dawn, my next mission is a bit easier as the Crimson Dawn guards let me walk right into their territory.
+
+"It's really about choosing whichever syndicate benefits her in the moment," senior systems designer Alice Rendell says. "It's really up to the player to decide how they want to balance their reputations throughout the game. You can go all in with one syndicate, but obviously at the risk of displeasing others, or you can try and play the underworld a bit more and try to find something a bit more balanced."
+
+But reputations are designed to ebb and flow. Your reputation with a syndicate can take a hit from making a decision against the syndicate or through your actions. For example, if I go into a part of a syndicate's territory where I'm not supposed to be and get spotted, Kay's reputation will take a hit. Similarly, if you're spotted on a security camera or you raise an alarm, your reputation takes a hit. In one sequence, I alerted the Pyke Syndicate to my presence and began piling up bodies; I didn't get to experiment too much more with my reputation with the Pyke Syndicate, but I imagine I'd have some work to do to repair that relationship.
+
+Still, even with that transgression against the Pyke Syndicate in their own territory, you're never entirely cut off from any of the factions. After all, you're dealing with criminal organizations who are primarily concerned with how you can benefit them. If they think you're the right person for the job, they'll still let you do work for them. 
+
+"The way that people in the world react to Kay will vary depending on the reputation, but it is very transactional," Rendell says. "These aren't friendships, so it's still very, 'Okay, can Kay help you out in this moment?'"
+
+Wanted
+
+But Kay doesn't just have to manage her reputation with the Hutt Cartel, the Pyke Syndicate, Crimson Dawn, and the Ashiga Clan. While they're all key players in the criminal underworld, in this period between The Empire Strikes Back and Return of the Jedi, the Galactic Empire is arguably at the peak of its power. While they are largely distracted in their relentless hunt for members of the Rebel Alliance, if you get in the way or break their rules, they won't ignore you for long.
+
+Because the Empire holds such power, you don't have a reputation meter with them. Instead, the Empire reacts to you based on your wanted level. If you break enough rules, your wanted level rises. The more wanted you are, the worse the Empire makes your life. 
+
+More imperial troops join the hunt for you as your wanted level goes up, with the maximum level summoning elite enemies to hunt you down. You can try to hide to decrease your wanted level, but the higher your wanted level, the longer it takes the Empire to call off the search. You can also meet with corrupt Imperial officers who might take a bribe or, in the worst-case scenario, participate in a challenging in-world event at the maximum wanted level to get the Empire off your back. 
+
+I didn't get a chance to experiment with the Wanted System at all, nor did I get a chance to truly push the Reputation System beyond the standard interactions and botched stealth sequences of my demo, but I did get a feel for it in action. I'm excited to see how the system reacts to player choices, particularly since when I ask creative director Julian Gerighty if there's a way to max out all syndicates' reputation meters, he says, "Not that I've been able to find." 
+
+The Reputation System feels like an essential piece of the scoundrel video game puzzle, and if it can deliver in all the ways Massive touts it to, it's the element of Star Wars Outlaws I'm most excited to play around with. If it can, indeed, provide the level of player agency and systems flexibility an adventure like this all but necessitates, we should be in for an incredible adventure when Star Wars Outlaws arrives on PlayStation 5, Xbox Series X/S, and PC on August 30.
+
+      Products In This Article
+
+Star Wars Outlaws
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PC
+
+Release Date:
+
+August 30, 2024
+
+Purchase
+More Info
+
+Brian Shea
+Online Content Director
+Brian has written about video games for more than 15 years across multiple publications. Brian is also the host of All Things Nintendo, a weekly podcast focused on the news and games of Nintendo.
+
+Email
+Twitter
+

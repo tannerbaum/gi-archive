@@ -1,0 +1,75 @@
+
+  Capcom Keeps Bringing Resident Evil To VR – Here's How And Why
+
+
+
+
+
+
+            Deflecting a crossbow’s bolt in real life takes practice. In the Resident Evil 4 (RE4) VR port, all it takes is lifting the controller in the air at the right time.
+
+And it’s always satisfying.
+
+The parry mechanic is one of the novel additions of the 2023 remake developed by Capcom. Whenever a bolt or melee attack from an infected villager is about to impact Leon Kennedy, you only need to press a button to deflect with the in-game knife. This action grants an opportunity to follow up with an attack on the spot while simultaneously adding to RE4’s original close-quarter smackdown.
+
+Adapting this to the PlayStation VR2 wasn’t easy. Instead of Leon doing a swift animation with just a button press, you need to grab the knife from your chest, lift it up in the air, and match the incoming attack. It’s more involved, sure, but also more immersive, adding a new layer of novelty to the mechanic.
+
+“Enemy attacks have attack detections set at the weapon’s position,” director Keisuke Yamakawa says. “So, just by checking the contact between the enemy’s attack detection and Leon’s knife, we were almost able to get our anticipated behavior. When we managed to perform the first parry, the team was very excited about how much fun it was, and we were convinced that [the] VR Mode was going to be entertaining.”
+
+Parrying is just one of many elements that went through careful consideration when translating the remake to virtual reality. To find out more about the process, Game Informer spoke to Yamakawa and producer Masato Kumazawa about the development of the VR Mode, how the VR version of Resident Evil Village served as a foundation, and what to expect in the future from Capcom’s ongoing push into the medium.
+
+Knife Party
+
+Would Leon throw a knife in the midst of battle? Virtual reality grants you greater control over characters, and the team had to consider all possibilities of player agency. In deciding where to place boundaries and where to allow people to experiment, Capcom came up with three main pillars. Namely, whether your actions are fun in VR, whether you feel like you’re incarnating Leon, and if it all fits the RE4 experience.
+
+At first, the team wasn’t sure about this possibility. In the VR version of Resident Evil Village, you can not only throw knives as Ethan Winters but weapons as well. Since Ethan is a civilian, the concept of him throwing whatever he has at hand to hit an enemy and make a quick escape doesn’t sound irrational. However, Leon has had a ton of training and experience in the field, so he wouldn’t be throwing a pistol at somebody’s head.
+
+Ultimately, the developers figured players would want to throw knives as Leon regardless, so they added the mechanic for VR. Unlike Village, there’s a slight delay before returning the knife to the shortcut slot after throwing – which is placed on your virtual body at arm’s reach. Moreover, there’s the advantage of recovering a bit of the knife’s durability by manually returning it to the slot. Considering knives have a more prominent use in RE4, this all fits the concept well. Aside from attacking enemies, you can throw knives at bear traps to trigger them safely out of harm’s way or do target practice with chickens to get eggs.
+
+In the VR version of Village, you’re able to close your hands to form a fist and punch werewolves. Unlike the knife, there’s no delay or cooldown time preventing you from defending yourself with this method. Sure, the damage is vastly inferior in contrast to knives and guns, but since it’s considered a VR novelty and not a proper mechanic, there isn’t a penalty in place. Allowing you to punch Ganados as Leon was also considered early in development. The problem, the developers say, was it meant replacing the existing melee system in favor of a punch you could repeat without a clear penalty. Funnily enough, you can wield two knives simultaneously to stab enemies quickly. But of course, the durability will prevent you from endlessly repeating this action. (Unless you find all Clockwork Castellans to unlock the Primal Knife, which can be upgraded to become indestructible. You’re welcome.)
+
+Of course, Village wasn’t the only point of reference. The original Resident Evil 4 got a standalone VR version developed by Armature Studio and published by Oculus Studios back in 2021. While the team didn’t mention it as an inspiration, there are multiple similarities, such as cutscenes displayed on a virtual TV of sorts. As for the world itself, there isn’t a big focus on interactivity, which is one of VR’s standout features. Perhaps more importantly, the first-person perspective shifts to third-person each time you perform melee actions, like the flat version.
+
+“During the spinning kick attack, Leon’s posture changes drastically, and his body rotates,” Yamakawa says. “Therefore, it was clear that placing the camera at the head position would not produce a proper image. It was also important to be able to check the surrounding situation and the enemies caught by the kick, so we decided to use the third-person view from the beginning.”
+
+Alternate Realities
+
+In addition to throwing knives and manually parrying attacks, you can grab items and inspect them up close, do revolver tricks à la Revolver Ocelot in Metal Gear Solid, and even reload a shotgun by cocking the weapon with one hand. In order to keep up with the intensity of the RE4 remake, a lot had to be streamlined along the way.
+
+Barrels and crates containing items can be destroyed by swinging your knife, but you can opt to use a button prompt that does the action for you as well. In the base game, whenever Leon enters a dark area, he turns on a flashlight until you’re back in a well-lit environment. This happens in VR, too, but the light is attached to your head by default, following your movement. You can, however, grab it from your forehead and move it yourself, similarly to Village, until the section ends. Each weapon has its peculiarities, especially when it comes to reloading, but some are simpler than what you’d expect in VR. As the team says, these shortcuts are intended to make it so your attention is on the action around you.
+
+“For the shotgun and other weapon types that load one shot, we understand that as a VR game, it would be very interesting to reload one shell at a time,” Yamakawa says. “But in Resident Evil 4, the combat is very intense, and if the players have to reload the shells one by one during combat, it would make it very difficult and might affect your level of enjoyment.”
+
+According to Kumazawa, the release of the VR Mode was scheduled “a year after” the initial release of the base game, which came out on March 24, 2023. It ended up being less than that, being released as a free DLC on December 8 of the same year.
+
+This was partly thanks to the fact that when the core team was still developing the main game, it also started working on aspects of the VR Mode. Additionally, the director of Village helped the team during the initial phases of development, while Yamakawa himself worked on the VR version of Resident Evil 7. It made for a much smoother process, even if mechanics like dual-wielding weapons had to be made from scratch.
+
+In the “Integrated Report 2015” document released by Capcom in the same year, the company expressed its interest and commitment to VR for its Development Division 1, the group responsible for the Resident Evil series. Nine years later, half of the mainline Resident Evil games released in this time have gotten a VR version on PlayStation headsets. The Resident Evil 2 and 3 remakes and Armature’s version of RE4 are the outliers.
+
+When asked if this focus on VR has influenced the way Capcom develops new games in the franchise, knowing it’d be working on a VR version ahead of time, the team suggested otherwise. “The simple answer is ‘No,’” Yamakawa says. “It’s very important to us that the main game is as interesting as possible, so we didn’t make any changes to it just because there was going to be a VR mode.” This, in addition, encompasses core additions like the parry. It wasn’t until the team started iterating on the base game to translate the experience to VR that tweaks and changes to the mechanic were made.
+
+The interviewees say they implemented all the elements they wanted for Resident Evil 4 VR. Once they wrapped up the project, they realized VR was well-suited to the franchise. While they didn’t discuss specifics, Kumazawa says they “plan to undertake more challenges in the future.”
+
+Moreover, Kumazawa adds that one of the reasons for releasing the VR versions of Village and 4 as free DLC is that the team wants to try to help expand the VR market. Yamakawa, personally speaking, joined the project as a director because of his enthusiasm for VR.
+
+While conditions such as motion sickness continue to be a concern for players to access VR, Yamakawa says there’s been substantial improvement in comparison to the original PlayStation VR headset.
+
+“When we received the first version of the original VR development kit, I spent a lot of time playing it,” Yamakawa says. “VR also matches with the Resident Evil franchise really well. I would like VR to get much more popular with the public. Since headsets can still be quite expensive and heavy, I would love for the kits to continue getting lighter and more affordable to make it more [approachable] to the general audience.”
+
+This article originally appeared in Issue 364 of Game Informer.
+
+      Products In This Article
+
+Resident Evil 4 VR
+
+Platform:
+
+Quest
+
+Release Date:
+
+October 21, 2021
+
+Purchase
+More Info
+

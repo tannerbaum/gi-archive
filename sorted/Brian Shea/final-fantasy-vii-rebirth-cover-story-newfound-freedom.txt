@@ -1,0 +1,215 @@
+
+  Final Fantasy VII Rebirth Cover Story – Newfound Freedom
+
+
+
+
+
+
+Platform
+PlayStation 5
+
+Publisher
+Square Enix
+
+Developer
+Square Enix
+
+Release
+February 29, 2024
+
+Rating
+Teen
+
+            Introduction
+
+The launch of 1997’s Final Fantasy VII on PlayStation signaled a seismic shift in the video game landscape. The transition from pixel art to fully animated computer graphics was a massive enough leap ahead, but the beauty of this classic title was much more than skin deep. Featuring a stellar cast of beloved characters, a rock-solid combat system, and a story with the potential to instill emotions ranging from awe and joy to grief and anger, the legacy of Final Fantasy VII is well-established in the RPG genre and the games industry as a whole.
+
+In the decades since, technology has evolved, as have trends. What was once the pinnacle of technology and visual fidelity now looks dated, and the attitudes of modern gamers look more towards action than the traditional RPG combat featured in the original Final Fantasy VII. But the love for Final Fantasy VII, its world, its message, and its characters never faded. And fans began clamoring for a modern take on the classic.
+
+That prevalent fan request was finally met in 2020 with Final Fantasy VII Remake, the first of three parts reimagining the events of Final Fantasy VII with modern visuals and gameplay. The critical acclaim and strong fan reception showed that Square Enix wasn’t taking the task of remaking its beloved RPG lightly. With the second part, Final Fantasy VII Rebirth, on the horizon, we flew to Tokyo, Japan, to meet with Square Enix, get our hands on the game, see exclusive gameplay, and talk to core members of the development team about why this second entry is upping the ante in nearly every way.
+
+Warning: This article includes spoilers for the original Final Fantasy VII and Final Fantasy VII Remake.
+
+Remaking FF7
+
+The Prelude
+
+The ground beneath Square Enix’s Tetsuya Nomura’s feet trembled. In his time since serving as a character designer and visual director on Final Fantasy VII, his legend has grown substantially. In addition to working on nearly every acclaimed Final Fantasy game since, Nomura also helped create the Kingdom Hearts series and has become a figurehead and luminary within the stacked ranks of Square Enix’s stable of developers. But this 2015 trip to Los Angeles, California, was different.
+
+PlayStation’s E3 2015 livestream had just revealed a teaser trailer featuring the iconic Final Fantasy VII protagonist, Cloud Strife, walking through Midgar in glorious, modern, HD graphics. The dream of so many fans – a modern remake of the classic RPG – was finally realized. The fans weren’t the only ones feeling the weight of the moment, though, and it was no longer just the ground that was shaking; it was Nomura’s entire body.
+
+“There were no staff members around, so I was kind of just off to the side, standing there alone,” Nomura says. “When I heard the cheers from the crowd and the passion, I became overwhelmed, and I started shivering. I was walking like a fawn, just overwhelmed by the intensity of the crowd. I thought, ‘This has become such a big deal,’ and I wanted to cry.”
+
+The road to this moment was long and arduous but something Nomura had dreamt of for years. Operating as a team of one, Nomura had spent part of the 2000s imagining what a modern remake of Final Fantasy VII could look like. Unfortunately, not much progress was made since the rest of the team members were tied up with other projects.
+
+Around that time, fans started clamoring for a modernized remake of Final Fantasy VII, and the developers began hearing about it from media members. Yoshinori Kitase, who has worked at Square Enix since 1990, serving as director on beloved games like Final Fantasy VI, Chrono Trigger, the original Final Fantasy VII, and Final Fantasy X, was inundated with questions during a series of 2009 interviews.
+
+“We were on the U.S. media tour for Final Fantasy XIII, and we took on a bunch of interviews, and we got a ton of questions from reporters asking, ‘When are we going to make a Final Fantasy VII remake?’” Kitase recalls. “Just hearing that so many times, I did think that we would do it one day, that’s for certain.”
+
+Kitase returned to Tokyo and approached Nomura about making it a reality. As two of the creators of the original Final Fantasy VII, they noticed the writing on the wall; fan and media demand was at a fever pitch, and Square Enix was beginning to embrace the idea of modern remakes for classic games more than ever before. They knew they had to act.
+
+“Within Square Enix, gradually, remakes were being made, and these ideas for remakes were coming up in other departments,” Nomura says. “If we weren’t going to do Final Fantasy VII, others were going to do it, so we had to rise up and do it! We had the sense that we had to guard Final Fantasy VII and have to be the ones taking this on or someone else is going to do it. I thought it may be a bit troublesome if other teams without us took on the project.”
+
+Nomura and Kitase are a pair of legends within the Final Fantasy and Square Enix fandom, but they needed help to make it a reality. To create the team, the duo tapped into Square Enix Creative Business Unit I, the group historically responsible for many of the most beloved Final Fantasy titles. Kazushige Nojima, who joined Square Enix in 1994, working on games like Final Fantasy VII, VIII, and X, as well as the Kingdom Hearts series, and Motomu Toriyama, who joined Square Enix in 1995 and worked on the original Final Fantasy VII in addition to Final Fantasy X, XIII, and more, signed on to co-write the remake.
+
+“I had always hoped to be a part of the title if and when a remake was to be made,” Toriyama says. “I was very happy when hearing the news [that we were making one].”
+
+But the development team behind this project couldn’t just be members of the original dev team; most had left the company or were working on other projects. “I would say the majority of the dev staff and production members are those who were players of the original, not creators,” Toriyama says.
+
+Two of those developers who started as fans of the Final Fantasy series before joining Square Enix are Naoki Hamaguchi and Teruki Endo. Hamaguchi joined Square Enix in 2003, working on titles like Final Fantasy XII and the XIII trilogy. After serving as project manager on the mobile title Mobius Final Fantasy, he joined the Remake team as a co-director. Endo got his start in the late 2000s at Capcom, working primarily on the Monster Hunter series, but when he heard about a remake for Final Fantasy VII, as a fan of the original, he couldn’t resist joining the team as battle director.
+
+“I was working for another gaming company when I heard they were looking for members to be involved on the battle side of creating this game and felt like this was a great opportunity in which I could utilize the skills that I had gained thus far working in the industry,” Endo recalls.
+
+With the core team assembled, Final Fantasy VII Remake was underway.
+
+Making of Remake
+
+Remaking a Classic
+
+When a game is as beloved as Final Fantasy VII, modernizing it without alienating fans of the original can be a tricky proposition; if you keep things too close to the original, then you don’t keep up with the latest trends, squandering the opportunity to create something distinct. Conversely, if you push things too far away from the source material, you risk alienating those who made Final Fantasy VII so famous in the first place.
+
+According to Toriyama, the members of the team who experienced VII as fans, like Hamaguchi and Endo, are more protective of the source material than those who worked on the original title. Kitase worried those younger staff members would be too loyal to the original title, but his concerns eased once the team started working. “This concern was all for naught because this was clearly not true,” Kitase says. “We were able to work together very well and realize all of our visions and a game that can be accepted and enjoyed by contemporary users, so that was wonderful.”
+
+The team worked together to balance the old with the new, to create something that definitively retells the story of Final Fantasy VII with modern conventions while not going too far in either direction. “For me, it really comes down to considering what it was that the players enjoyed and loved in the original title,” Endo says. “Of course, we expect a variance in each player’s depth and span of what they enjoy and the things that they love, but at the end of the day, I do have to trust my own instincts and thoughts on what I loved and enjoyed playing the game.”
+
+For Endo’s part – the battle system – he opted to blend action with the more traditional Active Time Battle (ATB) mechanics from the original game, in which characters can act once a meter fills. The result appeals to both new and longtime players. “Seeing that the Final Fantasy series has a strong focus on its characters, I believe the action enhances this and lets the players be further immersed into the characters as they play,” Endo says. “Along with the strategic battles that I believe are key to Final Fantasy VII, I wanted to see how best I could mix these two elements of the command and strategy-based battle with the action that allows for that instant immersion.”
+
+Though Endo wanted to introduce action, his desire to balance it with the traditional ATB elements struck a chord with Nomura. “I do have this idea of how Final Fantasy battles should be and should feel,” Nomura says. “We want to still keep this strategy element, in which the player will consider the elemental weaknesses of enemies during battle while using these action moves and being engaged, intact. That was always my core belief in how we should approach Final Fantasy battles. […] I thought this was truly vital to this game; I didn’t want it to be a game where it’s a reflex-type action or reflex-based battle; we wanted to combine all of these elements.”
+
+The battle system of Final Fantasy VII Remake garnered acclaim, but it’s not the only piece of the title that changed. The visual leap forward is immediately recognizable, and the story received numerous upgrades. Instead of retelling the entire Final Fantasy VII arc in one game, Square Enix opted to release the remake in the form of three games. The first title, Final Fantasy VII Remake, retold the party’s initial push through Midgar – a section of the original that takes about 6 hours to complete – across a 30 to 40-hour title.
+
+This decision came from Nomura, who identified early on that fully capturing the events of Final Fantasy VII in a modern way and with enough depth to do the story justice wouldn’t be possible in its original one-game form, not to mention the drastically different format the game takes following the party’s emergence from Midgar. “To recreate the world of Final Fantasy VII as it was in the original today in its full volume, the only way for us to realize this was to divide the titles or else it simply was not possible,” Nomura says. “We had to divide it, or we can’t do it right.”
+
+Final Fantasy VII Remake’s extended stay in Midgar fully fleshed out characters previously relegated to minor roles like Biggs, Wedge, and Jessie and further developed the personalities and relationships of the main characters like Cloud, Tifa, Barret, and Aerith. “When the remake project was first decided, at that point, we had already felt that if we are going to take on this series, it’s imperative that we depict the characters much deeper,” Nomura says.
+
+Final Fantasy VII Remake was released on PlayStation 4 on April 10, 2020, earning an 87 out of 100 on reviews aggregator Metacritic, including an 8.75 out of 10 from Game Informer. And now, with the quality bar set high and fan expectations even higher, that same team sets out to push the well-known story forward as Cloud and his friends step outside of Midgar and venture into a massive world full of adventure and intrigue in the second act of the Remake series, Final Fantasy VII Rebirth.
+
+Rebirth's Changes
+
+Breaking Out
+
+Following the events of Final Fantasy VII Remake, Cloud, Tifa, Aerith, Barret, and Red XIII have escaped from the restrictive confines of Midgar. This accurately reflects the progression of the story and format in the original Final Fantasy VII, as the party emerges from Midgar’s close quarters and linearity and into an open and explorable world map.
+
+The longtime Final Fantasy developers have had this in mind ever since Final Fantasy X changed how adventures in the world progress. “We started off expressing this world that you can venture through with a world map; that was how it was starting with Final Fantasy I,” Kitase, who serves as producer on Rebirth, says. “But starting with Final Fantasy X, when we entered into this real-time 3D world, this is when the world map development ceased or halted to some degree. With X, it was the style where a player chose a point or an area they would like to go to and traveled there. In that sense, the feeling was that, since it’s real-time 3D, it’s not quite possible to create this full world map anymore.”
+
+Enduring Relevance
+
+The story of Final Fantasy VII explores themes of corporate greed, environmentalism, and mental health – all topics that feel more relevant than ever in the more than 25 years since the release of the classic RPG. Though the developers didn’t intentionally reference specific real-world social issues, they acknowledge how relevant those themes are today.
+
+“In Final Fantasy VII, we were able to depict these types of issues, like the cycle of life, through the concept of Lifestream,” producer Yoshinori Kitase says. “If we were to depict it exactly as we experience it in the real world, it would not be very interesting. With [writer Kazushige Nojima’s] ideas, we were able to have this centered on Lifestream and the planet within the worldview of Final Fantasy VII. In this way, I believe the game and its themes remain relevant and withstand the test of time.”
+
+Kitase also hopes these themes are depicted more effectively in the Final Fantasy VII Remake series. “Considering the way to depict social problems, social issues, and cultural depictions, in some ways, I am a bit embarrassed by the original title,” he says. “In its expression, in some ways, it was very young and naïve in itself. That is a learning for us, but at the same time, I do believe perhaps that is one of the reasons why it was so widely accepted. It’s not perfect, and it’s kind of uneven and jagged in its young and naïve nature of its depiction. Of course, after 25 years, there is a lot of personal learning, changes, and growth. But looking back on it, some parts of it, I am a bit embarrassed.”
+While Final Fantasy XV did move closer to the original world map vision when it was released in 2016, Kitase assumed that Hamaguchi, serving as co-director on Rebirth, would want to continue with that convention of other recent Final Fantasy titles. However, they both felt it would be a disservice to the original not to include an interconnected world map for players to explore, particularly once the adventure opens up so much in the portion depicted in Rebirth.
+
+The team members, including creative director Nomura, were happy to hear the world map was back, allowing players to freely explore the vast, open wilds in the original game. “Ever since the world map disappeared, I really had this weird feeling, and I always thought it was strange without a world map,” Nomura says. “I thought that you can’t really have an RPG without a world map, and specifically for Final Fantasy VII, to fully experience this world, we must have a world map; we can’t be without it.”
+
+The resulting adventure in Final Fantasy VII Rebirth is a vastly different experience that features enormous, explorable regions and pushes players toward side content. “Seeing that Remake is set in the world of Midgar, in which the player can explore within that area, we leaned heavily on story elements and were focused on a more narrative-driven game for Remake,” Hamaguchi says. “Now that we’re entering into the outside world and going forward in that direction, I have this desire to depict more of that feeling of exploration, and I very much feel that this was able to be accomplished for Rebirth.”
+
+The openness of exploration is refreshing after the often corridor-like structure of Remake. According to Hamaguchi, players should expect to find a ton of side content. In fact, he estimates that approximately 80 percent of the game’s exploration-based content is side content, while the mainline story makes up the remaining 20 percent. If that makes you worry that Rebirth lacks story content, Hamaguchi says you can relax; even simply focusing on the main storyline, he estimates it will give players around 40 hours of gameplay. Meanwhile, if you tackle a decent amount of the side content, players can expect to spend around 60 hours in Rebirth, while the most dedicated sidequesters can look forward to upwards of 100 hours of content.
+
+But it’s not content bloat to inflate those playtime hours. When I ask Hamaguchi for his favorite RPG outside of the Final Fantasy series, without hesitation, he names The Witcher 3: Wild Hunt, CD Projekt Red’s 2015 masterpiece that many consider one of the greatest games of all time. That title is known for its meaningful side content, which is so strong that its storylines sometimes even match those of the main story.
+
+“Regarding titles like The Witcher 3, which has that open-world role-playing type element, we did some extensive research into these types of titles and looked at it as a baseline in which Rebirth should be a type of title that can stand alongside it and have the type of content that would be satisfying to its players,” Toriyama says.
+
+Those who played Final Fantasy VII Remake will recognize one of the prominent sidequest givers: Chadley. The young researcher once again wants your help learning about Materia, and he’ll reward you with additional summons. As you move through the world, he asks you to look into certain happenings through events called World Intel. During my hands-on session, Chadley asked me to hunt down and defeat certain enemy types as I journey through the sprawling open landscape. With each drawn-out battle, I receive side objectives to complete that will help further Chadley’s research.
+
+Zack is Back
+
+At the end of Final Fantasy VII Remake, players were surprised by Zack's unexpected appearance. The character, who died before the original game's events, appears to have a more defined role this time. “We have used the character Zack to depict the combined view of [story and scenario writer Kazushige Nojima, creative director Tetsuya Nomura, and producer Yoshinori Kitase] – the original creators’ – intents of how this world of Final Fantasy VII came to be and its policies and rule governing this world,” director Naoki Hamaguchi says. “This is going to be depicted through the character of Zack. As much as the Whispers within the story, Zack is an equally, immensely important, crucial, key character to this story that I believe fans will enjoy within Rebirth.”
+The rewards sound worth it, but from everything I hear from the developers, the story may be the driving force behind pushing players to sidequests. To make side content more meaningful, Square Enix expanded the affinity system. This under-the-hood mechanic takes your actions towards a character and translates them into how certain scenes play out. Final Fantasy VII Rebirth’s side content is a critical driver for this mechanic. Each side quest brings in a secondary protagonist from the party. Completing a side quest improves Cloud’s affinity with the given character.
+
+I witnessed this firsthand in an exclusive hands-off demo as Cloud and his party travel to the Crowʼs Nest, a town that wasn’t in the original game. This sister town to Under Junon features just as many anti-Shinra residents, so once they find out Cloud and his friends are in Avalanche, they welcome them with open arms. In my demo, as the party returns to the town, the Crowʼs Nest’s residents greet them with cheers. This is because the team just completed a side mission where they retrieved an item for another resident. After taking a stroll around the area, Cloud talks to a person who informs him of a mercenary operating out of a nearby lighthouse. Of course, Cloud decides to investigate.
+
+Exploration
+
+On the Road Again
+
+In the original Final Fantasy VII, the mountains around Junon prevent you from passing, but Cloud is much nimbler in Rebirth and can climb up and down ledges to reach the desired areas. In addition, players can also call Chocobos to ride and ease traversal. As you journey through the various regions, you encounter different Chocobo types, each with distinct abilities. One class can fly, while another can use jet propulsion to hover over water. The Chocobos in this area are known as Mountain Chocobos and can scale specific walls to reach high ledges or descend rapidly.
+
+On the way to the merc, I get a sense of the battle styles of the two new party members. Red XIII is agile and quick and uses the guard mechanic to fill a meter for his new Vengeance Mode, which increases his speed and attack power. Meanwhile, Cait Sith brings the most unique combat style yet to the Remake series, including moves that play off the luck mechanic from the original game. Cait Sith can fight separately or summon a Moogle to ride around on. When on the Moogle, Cait Sith has an entirely separate moveset than when he’s solo, such as a Moogle Mine attack, where bombs spread across the battlefield. He can also dismount and use his solo moves, while Moogle will continue attacking as controlled by A.I. Moogle has a separate HP meter, and if he takes too much damage, he’ll vanish until Cait Sith summons him again.
+
+After reaching the lighthouse, players meet Kyrie, a character initially appearing in the Final Fantasy VII novel The Kids Are Alright: A Turks Side Story, but who has since appeared in Remake. In Rebirth, she’s trying to get her new mercenary business off the ground, but she isn’t the most well-equipped for the job, so she pops up around the world, and it’s up to you to assist her.
+
+After wondering why no customers have come to procure her services, the party realizes that the theme song she’s been playing attracts enemies, which has scared off any potential clients. In this case, it’s a series of Flans followed by more powerful White Mousses. Hamaguchi, who is playing the demo for me, takes the opportunity to call Titan, one of Rebirth’s summons. The hulking creature joins the party in battle, tearing through the White Mousses and helping complete the mission.
+
+Red XIII is the secondary protagonist for this mission, and thanks to his animal-like appearance, Kyrie wants to make him her pet. Obviously, he shoots her down, and as she runs off to her next post, Red XIII looks at Cloud and remarks, “I wouldn’t wish her on my worst enemy.”
+
+Cloud and Red XIII’s affinity increases for completing this mission, potentially affecting story beats and side content. “We wanted to give players the freedom of choice in deciding whether they wanted to dedicate themselves solely to the main storyline and, like, no side quests at all,” Hamaguchi says. “Or there might be people who want to delve into the side content and go really in-depth into the character relationships and understand the story deeper, or just the balance of those two. We wanted to give that freedom.”
+
+Another way you can improve affinity is by using a Synergy Ability between two characters for the first time. These two-character attacks use a Synergy Gauge that charges when you use ATB for a character. Each potential character pairing has a Synergy Ability with a custom animation and effect. For example, pairing Cloud and Cait Sith results in one of the zaniest attacks where the Moogle grabs Cloud’s Buster Sword while Cloud rides on its back. I loved seeing what each combination resulted in and these additional moves add extra layers of nuance to an already-stellar system. But most importantly, the notion of Synergy Abilities plays into a central theme of Rebirth, which is the deepening of the relationships between the party members.
+
+Sephiroth
+
+The One-Winged Angel Returns
+
+But it’s not just the party members whose backstories and relationships are explored further. Sephiroth, the main antagonist, also has a more significant role this time. “Remake covers your encounter with Sephiroth, and now within Rebirth, we wanted to make Sephiroth into this very clear antagonist and target for the characters to go and pursue throughout their journey in Rebirth,” Kitase says. “Within the original game, Sephiroth is not seen very much within the world map, but in this title, we put this element forward.”
+
+During a hands-on sequence, I played through an extended version of the flashback, which features Cloud and Sephiroth teaming up to explore Mt. Nibel and find the mako reactor. At this point in the story, Sephiroth is still a heroic figure, and Cloud is a naïve and inexperienced Soldier, so the two are teaming up to complete this mission. Meanwhile, a young Tifa serves as a guide but not a party member. Sephiroth is a powerful force, slashing through enemies and dealing tremendous damage with the Masamune. He’s not quite as overpowered as he was in the original game’s corresponding flashback, but he is a blast to play. Even though Sephiroth’s only playable in a tiny part of the game, they invested in developing his gameplay, even giving him a Synergy Ability with Cloud.
+
+Mountains of Minigames
+
+The original Final Fantasy VII features a ton of minigames – particularly during its middle section – and Rebirth is no different. One of the most involved and continuous minigames is Queen’s Blood, a competitive card game you can play against NPCs in Rebirth.
+
+While the team remains tight-lipped about the exact mechanics, we know it is a strategic card battler with collectible and deck-building elements. “In terms of the number of cards, there is a massive amount – enough to be, like, its own card game almost,” co-director Motomu Toriyama says. “Part of the fun will be collecting these cards. Queen’s Blood is more of a strategy-and-thinking kind of card game, but I took a look at some of the gameplay when you are towards the end, and you have collected all of the cards, and it has the potential to become a very flashy, fast-paced card game; it almost has that instant-ness of a shooting game in which your opponent may put down a card, then you will instantly put down a card while putting down another. It’s very fast. Of course, this is on maximum difficulty level of the card game, so I believe there are only going to be a few players that play at this intensity level.”
+
+The other minigame I got a look at is a piano activity. Through exploration, Cloud can find sheet music for compositions within the world. He can then sit at the piano and play the songs using the two analog sticks and some buttons. The piano minigame also features a freeplay mode, which allows you to perform any song you want. I watched a developer play a famous Japanese song using the in-game piano mechanics. It looks like it’ll take a lot of practice to get that good, but the mechanics seem deep, and the team wants players to embrace the ability to play any song they like and share their performances online.
+
+I didn’t get a look at the Chocobo racing, but the team touts its improvements and modernizations to be more in line with what players expect from a modern form; players can equip their Chocobos with stat-boosting gear and the different types of Chocobos perform differently. Toriyama tells me the Rebirth team even briefly considered collaborating with the developers of 2022 kart-racer Chocobo GP for the minigame, but eventually decided to go its own route. With Gold Saucer and Fort Condor still yet to be discussed or shown, I can only imagine the minigames waiting for players when they venture to those areas.
+“When developing Sephiroth as a character who players are able to control in a limited area, we’re still considering that you’re able to play as this very iconic character,” Endo says. “Taking this into mind, I really took care into providing the sort of resources and cost as equal to those of other playable characters into developing Sephiroth in a battle sense.”
+
+The team had to use caution when approaching its handling of Sephiroth. After all, he’s one of gaming’s most iconic and influential antagonists, so naturally, fans will be touchy about any substantial changes. “We felt it was necessary to have this very clear depiction of how he came to be the person that he is now in Rebirth,” Hamaguchi says. “Even as a developer creating this game, seeing Sephiroth discover the truth and fall further and further into darkness – like falling from grace – and depicting this in his expressions and actions, I could truly feel bad for him. Throughout the course of Rebirth, I believe players will not only grow to relate to and understand Cloud, but also Sephiroth through this game much more.”
+
+Seeing Sephiroth’s rise to prominence as a more powerful adversary to Cloud and the rest of the party will likely lead to a more impactful depiction of the events where Rebirth’s story comes to a close: the events at the Forgotten Capital.
+
+The Iconic Scene
+
+Reborn Only to Die?
+
+Final Fantasy VII Rebirth may feature side content and minigames galore, but the main story will undoubtedly leave its mark. Since Rebirth brings the story up to the point where the party reaches the Forgotten Capital, players will need to reckon with Aerith’s story arc after playing a game built around deepening the connections between the party members. When I asked the development team about this scene, the previously jovial mood dropped into a somber state. While the team is tight-lipped about how the events will play out, it insists it has achieved something that will shock even the players who have played through the scene in question multiple times.
+
+“Beginning with the original Final Fantasy VII, when we had started working on it, it was already decided from the get-go that ‘life’ would be the central theme surrounding Final Fantasy VII,” Nomura says. “I knew that we had to depict life and death within this title. Prior to Final Fantasy VII, there have been other titles where characters have experienced tragedy, but many of them have come back or been revived in some way. But I believe that loss is something that happens unexpectedly, and it’s not something so dramatic or drawn out, but is something in which a person that you have just conversed with is suddenly gone and never to come back. I believe that the person who dies should not return in this title, and that is what we did with the original.”
+
+Those familiar with the scene know all too well the emotional impact the events could have with deepened relationships and much better technological capabilities to express the full scope of the events. The way the developers tease how it plays out, I can’t help but be curious and speculate about how it might differ from the original. After all, the Whispers that helped control the fate of Remake are gone; maybe things can play out differently this time. Or perhaps I’m just setting myself up to be hurt again.
+
+Much like the characters in the Final Fantasy VII Remake series, who are no longer governed by predetermined fate, the developers talk as though the possibilities in Final Fantasy VII Rebirth are endless. And after what Square Enix accomplished through Final Fantasy VII Remake and how the team explains its approach to Final Fantasy VII Rebirth, I’m inclined to believe them.
+
+This article originally appeared in Issue 362 of Game Informer
+
+      Products In This Article
+
+Final Fantasy VII Rebirth
+
+Platform:
+
+PlayStation 5
+
+Release Date:
+
+February 29, 2024
+
+Purchase
+More Info
+
+Final Fantasy VII Remake
+
+Platform:
+
+PlayStation 4
+
+Release Date:
+
+April 10, 2020
+
+Purchase
+More Info
+
+    expand for more
+
+Brian Shea
+Online Content Director
+Brian has written about video games for more than 15 years across multiple publications. Brian is also the host of All Things Nintendo, a weekly podcast focused on the news and games of Nintendo.
+
+Email
+Twitter
+

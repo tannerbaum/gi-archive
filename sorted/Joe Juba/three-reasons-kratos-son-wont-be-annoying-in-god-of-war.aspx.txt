@@ -1,0 +1,26 @@
+
+  Three Reasons Kratos' Son Won't Be Annoying In God Of War
+
+
+
+
+
+
+Revenge is a lonely pursuit, and Kratos’ exploits in the God of War series usually had him finding and killing deities by himself. That’s changing with his new adventure; Kratos’ son, Atreus, is by his side for this journey. The father/son relationship provides an interesting narrative angle, but raises flags for some fans on the gameplay front. That’s understandable, since years of bad escort quests have left people wary of companions in games. 
+The team at Santa Monica Studio is aware of those concerns, and this is how the team is working to ensure that Atreus enriches God of War’s gameplay (and doesn’t annoy you). 
+
+You don’t babysit Atreus
+First and foremost, God of War is not about monitoring Atreus’ health and making sure he stays out of trouble. He navigates by himself and uses a ranged weapon, which means he isn’t likely to charge into dangerous combat situations. Though Atreus is a constant presence, he isn’t a distraction. 
+“From the beginning, I wanted to make sure we weren’t making an escort-mission game – one where you’re constantly feeling like the A.I. messed you up,” says creative director Cory Barlog. 
+ “You have all the standard stuff you have to deal with – getting in the way, not stealing too much limelight from the hero, making sure they’re not doing things you don’t want them to do,” says lead gameplay engineer Jeet Shroff. “Any kind of typical A.I. development deals with that. There are secondary parts of that: feeling like you constantly have to take care of them, being able to escort them, and all that kind of stuff. We knew we had to deal with that right out of the gate. So focusing a lot on making sure Atreus had a significant supporting role was a big part of establishing that pillar, not so much as a secondary or tertiary thing, but as a key component throughout the entire development.” 
+
+Kratos comes first
+You control Kratos in God of War, and even though Atreus in a major part of the experience, he doesn’t usurp his father as the key character. Kratos may have a suite of new abilities and powers, but those did not come from a need to accommodate a companion character. In fact, the team designed and iterated on Atreus’ abilities in response to Kratos’ changing repertoire. 
+ “Atreus has grown and evolved so much throughout the development of this project,” Shroff says. “It’s primarily because, to be honest, a lot of what we thought would work never ended up working. What we thought was how a companion character – in this type of environment, with this type of hero – could work made a lot of sense on paper. In development, as the hero evolved and the systems around Kratos started to get fleshed out, Atreus was always being adapted to adjust for that.” 
+
+You guide Atreus’ actions
+When we play games, we like to be responsible for our own success and failures. One frustration with companion characters is that their behavior is often beyond our control, and they do things we don’t want. In God of War, Atreus does some things automatically, but his most meaningful contributions happen at your discretion. 
+ “Kratos is a god, and clearly doesn’t need help from a child,” Shroff says. “How do we find ways to make Atreus meaningful through autonomous behavior, versus putting things that the player wants to do on a ‘son button’ command? 
+ “Things like keeping combos continuing is something that we felt made a lot of sense autonomously; as you’re playing, all he’s doing is enhancing what you are already doing. But something like stunning an enemy or bringing them down is something that we realized, over time, didn’t make sense to do autonomously. Because that may not be what the player wants, so putting that on to a command button made a lot of sense.”
+For more from our month of God of War coverage, click the banner below.
+

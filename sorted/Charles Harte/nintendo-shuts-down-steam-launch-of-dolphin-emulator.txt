@@ -1,0 +1,22 @@
+
+  Nintendo Shuts Down Steam Launch Of Dolphin Emulator
+
+
+
+
+
+
+            On May 27, the development team behind Wii and GameCube emulator Dolphin announced a massive roadblock: Nintendo's legal team was moving to prevent the software from launching on Steam. While the Dolphin team is investigating its options, the project is currently "indefinitely postponed." Here's the full quote from their blog post:
+
+It is with much disappointment that we have to announce that the Dolphin on Steam release has been indefinitely postponed. We were notified by Valve that Nintendo has issued a cease and desist citing the DMCA against Dolphin's Steam page, and have removed Dolphin from Steam until the matter is settled. We are currently investigating our options and will have a more in-depth response in the near future.
+
+We appreciate your patience in the meantime.
+
+Originally reported by PCGamer, this is not actually a DMCA takedown, just the warning of one. Kellen Voyer, an attorney who specializes in intellectual property and technology law spoke with PCGamer and said, "Here, there is no allegation that Valve is currently hosting anything that infringes Nintendo’s copyright or, more broadly, violates the DMCA.  Rather, Nintendo is sending clear notice to Valve that it considers Dolphin to violate the DMCA and should it be released on Steam, Nintendo will likely take further action."
+
+Dolphin has been around for about 20 years now, first developed as closed source in 2003, until it moved to open source in 2008. This past March, the team announced plans to bring the program to Steam, which would have likely increased the number of people with access to its services. If Dolphin's developers decide to fight Nintendo's block, they'll have their work cut out for them. Nintendo is notorious for its brutality in the court of law, whether it's shutting down fan content or pushing for severe punishment for hackers. In the meantime, the service is still available on Dolphin's website, since the team itself has yet to receive any warning directly from Nintendo.
+
+Source: PCGamer, IGN
+
+Do you think Dolphin will ever be released on Steam? Let us know in the comments!
+

@@ -1,0 +1,61 @@
+
+  Everything You Need To Know About Wasteland 3's Co-op 
+
+
+
+
+
+
+            Multiplayer isn’t something inXile traditionally includes in its games – for that matter, multiplayer isn’t something that many classic CRPGs have offered. However, in Wasteland 3, players can explore Colorado’s post-apocalyptic wastes with a friend at their side. This is an entirely new way for Wasteland fans to experience the game, and inXile is excited for players to work together as they overcome new survival challenges. Here is everything you need to know about Wasteland 3's multiplayer mode.
+
+Is multiplayer a separate mode, or can you play the full game with two players? 
+
+It’s the full game. “We don't restrict the game," says game director Tim Campbell. "We don't put on training wheels or say, ‘Here's a separate campaign that you do multiplayer.’ It's the entire single-player game.”
+
+How many players does Wasteland 3 support?
+
+Wasteland 3 supports 2-player co-op, so you’ll be able to play through the game with one other person.
+
+How can you split up your party of rangers? 
+
+In single-player, you control a party of up to six rangers. In multiplayer, you and your friend still manage a party of up to six, but you can divide control of those heroes however you like. For example, you could divide your heroes evenly, or have one player control a smaller group if that’s their thing.
+
+“As long as you're within the same level, you can separate and do different things,” Campbell says. “One person can get into a fight while the other person is shopping at a merchant. It's a nice, convenient way to play. We've put a lot of work into that basic concept of making it fun for two people to control these parties. We have turned-based combat, so as soon as one person is in combat, the other player has to be able to merge into that combat when they get near. It sounds like a simple concept, but there's a lot of details that have to be worked out.”
+
+Do both players need to own the game to play together? 
+
+Yes. … Well, what else do you want to know?
+
+What about crossplay? Can you play Wasteland 3 with other players on different systems? 
+
+Unfortunately, no. Wasteland 3 doesn’t support crossplay between platforms. However, players who buy the game through different stores on PC will be able to play together. For example, if you own the game through Steam and your friend buys a copy through GOG, you’ll still be able to play together as long as you both own the game on PC.
+
+How will players manage their inventory in multiplayer? 
+
+“We've tried different ways of managing inventory in multiplayer, scrapped them, and re-implemented it a couple of different ways,” Campbell says. “We've gone from individual character-based inventories to player-based inventories. I think what we have now is really convenient for players. It's a shared inventory. As both players are looting and getting items, that stuff goes into the same inventory. It would be as if you're playing in single-player, but it's two people playing it with the same pool, which means you don't have the hassle of trading items. And, the first person who loots isn't stealing the loot for themselves and griefing the second player.”
+
+Is there matchmaking? 
+
+No, you’ll have to choose your friends before you start multiplayer. Wasteland 3 doesn’t randomly pair you with other players. “The nice thing is that this is not a match-made game,” Campbell says. “It's not an MMO. This is a couple of people playing the game together to have fun, and we really want to facilitate that ease of getting into and engaging with the game systems, and take away some of the hassles that might get in the way.”
+
+How do game saves work in multiplayer? 
+
+“When you save games, it saves the file on both players' systems,” Campbell says. “Those players can then load the game as a single-player campaign, in which case they’ll resume control over the entire party, and they can branch off and do whatever they want. Later on, they can load that save as the basis for a new multiplayer game, so they can invite their friend or a different friend back in and branch from that point on. It really creates a lot of options for players. We knew going in that the actual use case for multiplayer in this sort of game is not having two people get together and sit end-to-end for an entire 80-hour playthrough. This is not the type of game experience that's conducive to that. We wanted to allow for flexibility, to allow you to play with your friends when it's convenient, and when it's not convenient to play by yourself.”
+
+For more on Wasteland 3, read our feature on why Fallout fans should be excited for Wasteland 3, or watch us play through over 40 minutes of the game in a New Gameplay Today. 
+
+      Products In This Article
+
+Wasteland 3
+
+Platform:
+
+PlayStation 4, Xbox One, PC
+
+Release Date:
+
+August 28, 2020
+
+Purchase
+More Info
+

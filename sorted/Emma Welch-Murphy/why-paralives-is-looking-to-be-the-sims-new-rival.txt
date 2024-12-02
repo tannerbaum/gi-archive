@@ -1,0 +1,42 @@
+
+  Why Paralives Is Looking To Be The Sim’s New Rival
+
+
+
+
+
+
+            Paralives is an upcoming indie life simulation that is shaping up to be the first worthy alternative to The Sims. Players build their dream house, create characters, and manage their lives with as few limitations as possible. Imagine houses that can be square or curved, stairs leading to anywhere in any direction, and curtains or tablecloths available in a variety of colors. Whether you are in your car, on a bike, or riding horseback, you can explore an open world full of family, friends, and foes. Similar to the houses you build, the relationships in your town are a direct result of your actions. It doesn’t take long to figure out why many from The Sims community are keeping an eye out for Paralives. With the base game set to include dogs, cats, horses, cars, weather, and even boats all of which are customizable, it’s no wonder the title has drawn some interest. 
+
+Filling In The Blanks
+
+Alex Massé, the man behind Paralives, has been a fan of simulation games, especially The Sims, since he was 10 years old. Now that he has enough game development experience under his belt from working on PewDiepie’s Tuber Simulator along with demo projects for Unity’s Project Tiny, Massé decided to quit his day job and develop Paralives full-time. “Since I started in game development, I’ve always wanted to create a simulation game and I made different prototypes over the years,” he says. “With Paralives, I’m hoping to make the game I always wished I had and I feel a lot of people will appreciate this different take on the life simulation genre.” 
+
+With Paralives, Massé wants to offer players a sense of endless customization. “I think what life simulation games have been missing is powerful and intuitive tools that allow players to easily create any house with precision,” he says. “A lot of people want to recreate themselves and their own house in the game so it’s important that everyone is able to achieve this. Paralives is also built from the start to take place in an open-world neighborhood, offering many fresh options for exploration and story making.”
+
+These gameplay features could be the solutions for most of the shortcomings that have frustrated faithful simulation fans; no more settling for off-colored furniture or being forced to place objects where you don’t want them due to a strict grid system. 
+
+Paralives offers plenty with its core gameplay, with building options down to the smallest detail. Players have the choice to use a grid like The Sims or go without one, so they are no longer limited to strict object placement within certain square units. While there are cheats in The Sims to get around this, fans will likely appreciate how Paralives is built with those solutions in mind. If you want to make a house look more lifelike by adding clutter and placing objects in realistic positions, Paralives has you covered. 
+
+Creating Complex Characters
+
+We’ve had glimpses of the intricate building gameplay in Paralives, but the level of sophistication with character creation and animations is still up in the air. Massé’s main focus right now is on building, but he is eager to offer more in the character department, and Massé is putting a lot of faith into procedural animation. Procedural animation involves automatic computer-generated animation based on previously created animations. So rather than animating every single character, Massé can save time and let the computer help out. “I wouldn’t need to animate a hug between two adults and a hug between an adult and a child, for example,” Massé says. “The system would adapt itself and make the adult crouch before hugging the child.” He is not only looking to incorporate this technique with the animations, but for gradual aging as well.
+
+Massé has brought up the concept of ‘chance cards’ in the Paralives Discord and Patreon where he began a discussion on how to expand and create something more engrossing. ‘Chance cards’ are a common element in The Sims 4, where a randomized opportunity prompt asks you to choose between a few options for your sim. For instance, you may be asked if your child sim should cheat on a test because they didn’t study or own up to their mistakes and fail. Massé recognizes how these could break immersion if not done well. 
+
+“These random events need to have a meaningful impact on the player and they could be completed by real actions that you ask your character to do,” Massé says. “Another important aspect is that chance cards need to be relevant to you and your characters so the chance card algorithm needs to adapt to your playstyle as well as your characters’ skills and personalities.” He’s going to reveal more on character development with an upcoming announcement trailer. In the meantime, Massé made sure to let us know we’re going to be able to pet the dogs in-game.
+
+By The Community, For The Community
+
+Massé encourages those who are excited for the game to join the Paralives Discord and share their ideas on the type of content they would like to see. He’s been surprised by the sheer amount of replies that have been submitted so far. It’s been a little over a month since Paralives began marketing and there’s already a 100-page document the fans created that houses all the ideas called the Parabook. Many of the suggestions have given Massé inspiration. 
+
+“To name just a few that caught my attention: random events such as power outages, various customization options for furniture, different levels of intensity for personality traits, the option to make a loan at the bank, and many more,” Massé says. “I won’t be able to fit everything into the game as I need to focus on the core gameplay and make the game enjoyable. But being able to receive ideas from everyone is very useful and exciting!”
+
+The Future Of Paralives
+
+Concerning the future of Paralives, Massé is all about supporting the game after release with free updates rather than having players continue to spend money on DLC. That’s going to be a huge draw for Sims players. Modding is also going to be a big part of the game’s future. Though script mods are not currently planned at the moment, Massé is “working on tools that will allow people to customize the game in a lot of different ways and share these as mods on Steam Workshop.” He has opened up the floodgates and is encouraging players to let their ideas run wild. With lofty ambitions for what you can do in Paralives, I’m excited to test the limits of my imagination when it launches.
+
+It looks like life simulation gaming is getting a strong, new addition. For more on the genre, be sure to check out my feature on the top Sims 4 DLCs. And if you’re looking for more games with an easygoing play style, take a minute to get familiar with Animal Crossing: New Horizons and everything we know so far.
+
+            .
+

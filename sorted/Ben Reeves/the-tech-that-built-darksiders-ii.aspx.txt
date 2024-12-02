@@ -1,0 +1,33 @@
+
+  The Tech That Built Darksiders II
+
+
+
+
+
+
+It’s not easy to build a game. A lot of features and technology get left on the cutting room floor as developers rush to get a game out the door. Vigil’s Darksiders franchise is no different. We sat down to chat with Vigil’s tech heads, and they explained how Vigil’s development process works, described some of Darksiders II’s new features, and gave us a few examples of what never made it through the design process.
+How do you go about the process of concepting new features when you first start working on a game?
+Colin Bonstead (technical director): The nice thing about Vigil is that there are a lot of big gamers on staff, and they’re always playing the latest and greatest games and talking about the stuff they see, so we’re always talking with each other about what we can change in the game.
+Tony Bennett (programming manager): One example of a feature I saw in a game and thought, "We must have that!" was in Bulletstorm and Killzone 3. I thought those games had really nice god rays, like when you look up at the sun in a game, and the light beams come streaming through the branches of trees or whatever. I thought they looked really sweet, so I was like, "Let’s get that in our game." 
+What are some of the big new features for Darksiders II?
+Bennett: One of the biggest changes in Darksiders II, from a technical standpoint, was in how we build levels. Now we use modular pieces. Instead of building each area custom, our designers have a whole LEGO set of building blocks that they use to build dungeons.
+Bonstead: But our levels still look unique and hand built. It doesn’t feel like you’re going through a LEGO corridor. This has made it a lot easier for us to build levels, and we can build a lot more of them now. Also we can get a lot more big open environments. We can just crank out a lot of hills and mountains and fill it in with trees. It’s nice for the gameplay guys, because now they have these big, open areas where they can hide cool, little secrets and special encounters. We would have to hand-build all of that stuff from scratch in Darksiders I. 
+How often does it happen that you build a feature and it doesn’t make it into the actual game?
+Bonstead: We never have time to do everything we want. At the beginning of development we prototyped a lot of the new features, and a lot of them have probably been cut by now. A lot of it was throwaway, but some of it was stuff like gravity reversal, where you could fight in rooms, and everything would flip around while you were fighting, and then you would have to fight on the ceiling. We had some time portals where you would jump into a portal and appear in a different time period of the same room. We had speed boots where you would hit a strip and run really fast along it. 
+Bennett: No other game has every done that. [Laughs] There was the slow down chronosphere.
+Bonstead: Yeah that was like a thing that did localized time slowdown, so you could hit a guy and he would slow down, and the physics around him would all slow down. A lot of features like this get cut. We did this same thing on Darksiders I. We had tons of crazy guns on Darksiders I that we ended up cutting. There was a rail gun and one that fired missiles that twisted around while they made their way to their target. As you try things out, you have to scale things back based on how the gameplay works. We got a lot of this stuff working; it just didn’t work for the game. 
+Bennett: That is basically it. It all sounded cool on paper, but then we implemented it and it didn’t fit the style of the game or it just wasn’t well executed.
+Bonstead: Or was overpowered. That rail gun we had in Darksiders I, you could just sit on the other side of the room and one-shot a dude on the other side of the map.
+What’s the hardest technical feature you’ve ever had to get working?
+Bonstead: Getting the game to run on PlayStation 3. [Laughs]
+Bennett: I guess…the trouble with that was that we only have six guys, and we primarily developed on the 360. You can hit play in our editor and then start playing the game as if you were playing the PC SKU, but this mean that sometimes the PS3 SKU takes a backseat, but it’s probably only two to four weeks behind.
+Bonstead: Our goal is to keep all versions of the game at perfect parity, but it’s tougher for us to develop on. We started with a PC engine on DS I, and then ported that to Xbox and then ported it to PS3, so we learned a lot there. We kind of had to figure our how to develop for multiple systems as we went along, but I think we got pretty close to keeping the game equal across all systems. 
+Bennett: One other thing was that even though our PC engine was working throughout development, it wasn’t designed to be released to the public, so when it came to doing the PC version we had to put in about six months of work to bring that up to par. 
+Bonstead: That’s why the PC version came out so late. THQ said, "Hey, you guys have an engine that works on PC, why don’t we put out a PC version?" We were like, "It works for us!" There is a lot of robustness and video-card testing and proper keyboard and mouse control design that you have to work out when you do a PC game. 
+Bennett: None of our user interface was built with mouse and keyboard in mind, so we had to go back and completely redo that. 
+What’s been the biggest challenge while working of Darksiders II?
+Bennett: The biggest challenge for Darksiders II has been getting our new cinematic system working. In DS I we had prerecorded FMV movies that would play at certain points, but in Darksiders II we really wanted to use all the in-game assets for the movies, like they did with Killzone 3 and Dead Space 2. 
+Bonstead: We couldn’t do what we did in DS I, because there are so many configuration options with Death, players will be able to equip so many different armors and equipment that he looks completely different. I feel like when you’re playing a game and you go into a cutscene and suddenly your character is wearing something different, it just makes you go, "Wait, what?" So in Darksiders II cutscenes we want Death to look exactly like he did two seconds before the cutscene starts. 
+That’s all for now, but be sure to check back on Wednesday for a deeper look at Darksider II’s new combat system, and be sure to visit the Darksiders II hub to explore our entire month’s worth of Darksiders coverage. 
+

@@ -1,0 +1,183 @@
+
+  The	Resurrection & Reinvention Of Telltale Games
+
+
+
+
+
+
+            Introduction
+
+When titles like The Secret of Monkey Island became rarer, so too did Jamie Ottilie’s time with the adventure genre, and, like many, he moved on to other increasingly popular types of games. But then, Telltale Games was formed – roughly a decade after the golden age of adventure games – built from the ashes of LucasArts by a number of former employees, piquing Ottilie’s interest immediately.
+
+Ottilie enjoyed the studio’s first handful of games, but his interest reached new heights following the first season of Telltale’s The Walking Dead, the game that most agree put the studio on the map. And from there, the Telltale of old was born – a studio seemingly destined to create excellent stories in pre-existing universes such as The Walking Dead, and later Game of Thrones and Batman.
+
+For some time, Telltale’s signature formula worked well. Until it didn’t. Overburdened with work leading to widespread crunch in a market oversaturated with the Telltale name, the final blow to the studio came when investors from AMC, Lionsgate, and Smilegate pulled funding. The company began its shutdown in September 2018. It was brutal, coming as a surprise to most everyone there. It was also a massive shock to an industry already weary of crunch and the lack of safety nets for employees.
+
+By the time Telltale shut down, Ottilie’s interest had grown into a full appreciation – he was truly a fan of the studio’s work. Following the studio’s closure, he began to look into what went wrong and how the studio could return. About a year later, he would be the new CEO of Telltale after buying the company, or what was left of it, in 2019.
+
+The COVID-19 pandemic has forced Telltale to get creative with motion capture
+
+The Purchase
+
+The Purchase
+
+Ottilie watched Telltale’s shutdown as a game developer and studio consultant, having worked in the industry since the 1990s, leading multiple studios, such as Galaxy Pest Control, Abandon Interactive Entertainment, and more.
+
+“I started asking around and a colleague mentioned that he knew some of the former team at Telltale and we knew about the public assignment [company collapse and asset auction],” Ottilie says. “So we went through and we did the evaluation. It looked interesting and it was something we felt worth saving. It wasn’t a good fit for the company that I was consulting for, which was disappointing.”
+
+“I couldn’t get it out of my head,” he continues. “After mulling it over for a bit, I decided to try to take it on myself and set about trying to raise some of the funds from my network of industry friends. It seemed like a great opportunity – good brands and a great game genre and legacy that should continue.” He created a holding company, LCG Entertainment, to formally make the purchase. With his love of Telltale and his experience as a studio lead, Ottilie felt confident he could bring the studio back.
+
+The First Steps
+
+The First Steps
+
+Stabilizing the Telltale catalogue was priority one. With many of its original titles pulled from storefronts, the new Telltale brought them back. The next step was developing a game. This would chart the path for Telltale’s new future, one where Ottilie and the leadership team would try to prevent the problems that once plagued the studio’s original iteration, problems that ultimately led to its demise.
+
+Telltale’s first big reveal happened at The Game Awards 2019: a trailer for The Wolf Among Us 2, which was technically in development at old Telltale before the shutdown, as reported by VG247, but was back again as a completely different sequel. It was intriguing, but when your catalogue includes franchises as large as Game of Thrones, choosing to return with a sequel to The Wolf Among Us, a much smaller IP, comes off a bit odd. The choice to do so, though, was clear as day for Ottilie.
+
+“Wolf is a smaller IP, yes, but it’s also one of the more successful titles of former Telltale ... and this sequel is something fans have been wanting for years,” Ottilie says. “It’s also a good connection point to what Telltale was, right? We should communicate with the audience that’s out there and let them know, ‘Hey, we hear you, and we can’t do everything you’re asking us for, but this thing that you’re asking for, we can do this,’ and so we did.”
+
+Concept art of a Fabletown apartment in The Wolf Among Us 2
+
+The Wolf Among Us is based on Vertigo Comics’ series Fables. Similar to the comics, the game centers on Bigby Wolf, the sheriff of Fabletown in New York City. As the name suggests, Fabletown is a community where characters from fables and fairy tales reside. However, when the relatively quiet community becomes home to grisly murders, players must guide Bigby through the investigations across five episodes.
+
+Wanting to do right by the first game and the fans that loved it, Ottilie reached out to AdHoc, a company formed in 2019 by former Telltale creative directors, cinematic directors, and writers, many of whom worked on the first Wolf. AdHoc became collaborative partners on the sequel. The new Telltale, which today is made up of nearly 50-percent former Telltale employees, is developing Wolf 2 – handling game design, programming, mocap, and more – but Ottilie wanted AdHoc on board as the creative team.
+
+“When we joined the project, one of the first things we agreed on is that we didn’t want to reboot things,” AdHoc COO and co-founder Nick Herman says. “There’s plenty that will change, but it’s always in service to the original vision for the project. As much as we love Season One, we remember all the pieces that fell short or were not pursued due to a variety of technical or creative constraints. With new studio leadership and an upgraded engine, we’re able to revisit a lot of those conversations and take bigger swings.”
+
+There were still many questions on the table, however. Art style? Keep it similar to the first, Ottilie says. Story? The team opted to pick up six months after the end of Wolf 1 and set it in winter. Characters? Bigby Wolf, of course, and Snow White, from the first game. The engine? It was time for a change.
+
+Refreshed with a new look and refined art style, The Wolf Among Us 2 will feature the same Bigby Wolf and Snow White you know and love
+
+Avoiding the Problems of Telltale's Past
+
+Avoiding the Problems of Telltale’s Past
+
+Zac Litton has nearly eight years of Telltale development under his belt. He started as a technical director at the former iteration of the studio before becoming Telltale’s first vice president of engineering. After Telltale was purchased, Ottilie reached out to Litton to chat, and it wasn’t long before Litton was back, this time as CTO.
+
+Litton quickly got to work helping the new Telltale rediscover and reconfigure its pipeline, something he says is critical to studio success.
+
+“It was like, ‘Hey, what’s our pipeline going to be?’ And it’s not just the engine, but the pipeline is everything,” Litton says. “It’s how the writers are going to write; it’s how the engine is going to perform; it’s how you handle editing and updates ... it’s everything, really.”
+
+In the past, Telltale developed games using its own proprietary engine. And while that worked well in some respects, at the new Telltale, the decision was made to also utilize Epic’s Unreal Engine. Using Unreal as a foundation and adding in layers of Telltale’s custom engine on top of it has changed everything, Litton says. Not only is Unreal an engine used industry-wide, which means finding people that can develop Telltale games is significantly easier than it’s ever been, but it’s open, too, meaning Telltale can use it alongside its own engine to great success.
+
+This ultimately leads to a smoother pipeline, which Ottilie and Litton both believe to be one facet of removing crunch.
+
+“A lot of things didn’t get out as clean as we would have liked them to at [old] Telltale because of time.” Litton says. “You can have a wonderful engine with lots of capabilities to provide really smooth content, but if you don’t have the time to utilize those tools to the maximum extent, you’re not going to get the product you want out.”
+
+Add in Telltale’s old episodic nature to those difficulties, where the studio immediately shifted to working on the next episode after pushing the one before it live, and the work begins to pile up. That’s when crunch can occur, but Litton and Ottilie say they are working hard to ensure the studio has the right tools in place to avoid that.
+
+Ottilie is quite open about Telltale’s former barriers and challenges – he, of course, wants to be, but he also must be. Creating a staff that’s almost 50 percent former Telltale employees doesn’t happen by telling people who were messily laid off that said studio is back. It happens by explaining why Telltale needed to come back and how the new company is going to avoid its former fate.
+
+Beyond a better engine, Telltale has adopted a distributed development model to smooth things out and (hopefully) avoid crunch. Instead of rounding up 400 employees in a studio located in an expensive city like San Francisco, the new Telltale is utilizing the work of developers around the world.
+
+“The world’s changed,” Ottilie says. “[Distributed development] is about ease. What are easy things to outsource? Art. Everybody outsources art at this time, right? We’re doing 80 percent of our work externally across a couple of different teams, and we’re getting great quality out of it. I’m stunned at some of the projects that the teams and individuals from outsourced companies we work with create … and so why wouldn’t we work with them? Distributed development is really about creative freedom in that way … and it’s about keeping our costs manageable.”
+
+Ottilie says Telltale’s stance on crunch extends to outsourced work as well, stating that the studio employs “the same planning and iteration workflow on all of our projects and endeavor to partner with companies who share our view that a healthy work-life balance is important.”
+
+With new studio leadership and an upgraded engine, we’re able to revisit a lot of those conversations and take bigger swings.
+
+If one thing is clear, Ottilie isn’t concerned with saturating the market with Telltale games. He just wants people to be excited about a game with the Telltale name behind it, even if those games don’t come out as often as they used to. That starts with the script and finding the right people to write it. It’s why AdHoc is helping develop Wolf 2.
+
+“We can do a lot of [script] iteration when we’re not paying 400 people to kind of contain that,” Ottilie says. “It’s so helpful in terms of the process ... because we don’t want to move forward until we’re heading in the right direction with our story.”
+
+Perhaps one of the biggest changes with new Telltale is the way its games will be released. Previously, Telltale would release an episode and spend however much time it needed to get the next one out, but, history shows that approach often led to crunch. That resulted in waning interest over time.
+
+Ottilie says players can expect Telltale games to be essentially done when the first episode is released. This means players won’t need to wait months to see what happens next in the story. Telltale will announce its release schedule ahead of time, and fans will only have to wait a couple of weeks in between episodes. Much like prestige television, Ottilie foresees Telltale releases better capturing the zeitgeist with this new model.
+
+AdHoc CTO and co-founder Dennis Lenart says having an entire season written – in this case, Wolf 2 – before production begins is very new, and it’s something the AdHoc team greatly appreciates.
+
+“This completely changed how high-level decisions were made and allowed us to better plan on the design side – especially for aspects like choice cadence and pacing of gameplay, of which there is more this time around,” he says. “It’s especially hard when you’re accounting for player choice, but now that we have more than eight weeks to create an episode, we can prioritize things that previously would have been a luxury.”
+
+Ottilie says this new release schedule format is another thing that will help keep crunch out of Telltale. Put bluntly, Ottilie says “no crunch” is a core belief for the new studio. He wants to avoid micromanagement, choosing instead to empower employees to work during work hours and go home and enjoy their lives when their shift is up – “you’re a better person that way,” he says.
+
+The Return of Telltale and Bigby Wolf
+
+The Return of Telltale and Bigby Wolf
+
+Months of pre-production work culminated in the Wolf 2 trailer that aired at The Game Awards 2019. Ottilie called it a defining moment for the studio.
+
+“That night was pretty special,” Ottilie says. “It’s the night where we all felt like we are in the right place and the right time, and we are going to make this happen.’ It went so well – we got a standing ovation. It was a moment of vindication. It was a moment where this journey had really paid off.”
+
+Now, two years later, Wolf 2 is in full production. The script is finalized, and mocap is underway. Ottilie says fans can expect Wolf 2 to answer some dangling questions, but not all as some are better left ambiguous. AdHoc expanded a bit on what players can expect, though.
+
+“Wolf 2 takes place after Snow White steps in as Deputy Mayor of Fabletown, which gets us closer to where the comic starts, but Bigby is still struggling to make the transition from the typical fairytale villain to Sheriff and protector,” Herman says. “This season explores more of the nuances and difficulties of hiding in plain sight, dealing with mostly new Fables and taking place all over New York. The city at large definitely plays a bigger role this time around.”
+
+“Creatively, it’s had the most time in the oven out of any Telltale game ever, so we hope that comes through in the final product,” Herman adds. “Personally, I’m excited for fans to have a chance to explore its new themes. Without revealing things, it’s even more about the human experience of being a Fable, which, like the comic, strips away the fantasy and leaves the player with a lot of uncomfortable and messy decisions to make.”
+
+Deck Nine is aiming for “stylized realism” in The Expanse: A Telltale Series
+
+Into The Expanse
+
+Into The Expanse
+
+Telltale is also developing a game based on The Expanse, the popular book-series-turned-Amazon-TV-show set in a solar system colonized by humans as they spread out into space. Similar to how it opted to work with AdHoc on Wolf 2, Telltale is working with Deck Nine, the studio behind 2021’s Life Is Strange: True Colors, on its Expanse project. Telltale views it as a co-development deal, with Deck Nine doing a lot of the heavy lifting using Telltale’s engine and tools. It’s a Telltale story told using Deck Nine’s voice.
+
+“We visited Deck Nine early into the reboot of Wolf 2 to discuss possible co-development, but we quickly realized that we wanted to give this talented team more room to run on a project that didn’t have limitations and expectations predetermined by being a sequel,” Ottilie says.
+
+Deck Nine game director Stephan Frost says it’s been a “solid partnership” and especially unique in that it gives the two teams a chance to learn from one another. As for where it belongs in the timeline, it’ll be a prequel in the same universe as Amazon’s series.
+
+“We were pretty nervous about pitching [a prequel] to the creators, and then we specifically picked a character they hadn’t done a backstory for because we wanted to do something canon or something that could become canon for the character,” Ottilie says. “And so we really liked [Camina] Drummer.”
+
+Drummer is unique in that she’s not from Earth, nor is she from Mars – she’s a Belter (someone born in the Asteroid Belt, or outer moons or planets) and with that comes a lot of characteristics that Deck Nine and Telltale say they are excited to play with. Frost says Drummer is aboard a scavenging vessel named The Artemis in the game.
+
+... it’s important to this new iteration of the studio to place the tracks before the train, and it seems that’s exactly what Telltale is doing.
+
+“There’s a mixed crew of high personality Inners and Belters,” he says. “Players will work with that crew, explore various locations beyond the belt, and, of course, need to make life or death decisions that will affect the crew.”
+
+“She’s also unique as a Belter,” Ottilie says. “She’s a little bit more moral, but very black and white, really angry, but not in an unjustifiable or irrational way, right? She’s very controlled and focused and introspective in terms of how she makes decisions as a character, and we wanted to explore how she became that person … and that story didn’t exist yet. None of the novellas tell that story, and there were no plans to go and tell that story [in the TV series]. Drummer doesn’t really exist in the books. She’s an amalgamation of different characters … and we like that because it means there’s a lot of room to have an interesting story develop around her. In our game, the show exists in a microcosm. We put you in the universe you expect to be in.”
+
+Drummer actress Cara Gee will be voicing the character in the Telltale game and providing motion capture for Drummer’s unique movement as well. Frost says there are “other actors from the show written into the story,” but that the teams can’t yet talk about them.
+
+Camina Drummer actor, Cara Gee, is voicing the character and providing motion capture, too
+
+“Who she follows or respects changes based on their actions,” he says, expanding on what else players can expect in the game. “Consider that she used to work with Anderson Dawes, and the extremist faction of the Belt, but then turned away from him and ended up trying to build something new with Fred Johnson, a moderate. What precipitated that change? How does she unite her fierce loyalty to the Belt with her well-earned cynicism for powerful men who claim to have all the answers? These are questions we think players will love exploring with us.”
+
+For now, The Expanse joins Wolf 2 in the “we’ll share more when we’re ready” chamber, which, in a way, speaks to this new Telltale. Litton says it’s important to this new iteration of the studio to place the tracks before the train, and it seems that’s exactly what Telltale is doing.
+
+The Artemis, a scavenging vessel just outside of Jupiter
+
+If one thing is clear, the people we spoke to at Telltale are excited about what’s to come, which Ottilie says will feature new territory for Telltale while respecting the name’s legacy.
+
+“That legacy is why we’re doing this,” Ottilie says. “The journey will continue. We will not fall into the trap of replicating what was there. Wolf 2 will be the closest thing we do to what people are familiar with [with] Telltale, and that’s the reason we’re doing The Expanse with Deck Nine. It’s a totally different voice, completely different aesthetic and pacing. We’re going to continue to work with internal and external teams, and we’re going to match creative leadership to the IPs we pick and give people the opportunity to tell interesting and compelling stories.”
+
+“That’s really the best part of what we’re doing, right? We get to tell these stories and take risks and do new things and surprise people. It’s all kind of fan service. Telltale tells stories in universes we all love. [That fan service] is part of our brand.”
+
+      Products In This Article
+
+The Wolf Among Us 2
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC
+
+Release Date:
+
+2024
+
+Purchase
+More Info
+
+The Expanse: A Telltale Series
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC
+
+Release Date:
+
+July 27, 2023
+
+Purchase
+More Info
+
+    expand for more
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

@@ -1,0 +1,83 @@
+
+  Seven Ways Prey Has Shocked Its Own Developers
+
+
+
+
+
+
+While some developers focus on telling linear stories,
+Arkane Studios is more interested in creating a series of interlaced systems and
+then letting players exploit the interplay between those systems to solve
+gameplay challenges in a variety of unexpected ways. Prey's freeform systems have
+even surprised its own developers several times. While talking with the team
+for our January cover story, we rounded up some of the most exciting stories on
+how Arkane has been dumbstruck by its own game. 
+Burst to get med
+pack"There is a little medical bay where
+the door's broken. Of course, I could use Mimic, like we showed at QuakeCon and
+turn into a smaller object and roll through the crack in the door, or there's
+probably an alternate route I could find if I explored. In my play through last
+week, I didn't have any of those powers. I had kinetic blast, and I was really
+hurt, so what I did was put a kinetic blast behind the medkit and the blast
+knocked it over to me. That's why we try to simulate everything. We could have
+made the decision, 'Well medkits should not be physics objects, because you
+don't want to lose it in the world, but making them physics objects lets you do
+these sort of fun things like that." - Ricardo Bare | Lead Designer
+Playing Catch"Some of our powers just work magic in combination together.
+For example, leverage is a human type of ability which allows you to lift
+objects that are bigger than you could if you did not have it. There is another
+ability that you take from aliens, which is remote manipulation, so you can
+grab an object from a distance. If you combine both together, it's like you're
+a machine that throws huge objects at people. One time there was a fridge in
+the background, and a poltergeist [one
+of Prey's invisible aliens] threw it at me. As the fridge came at me, I
+used remote manipulation and leverage to throw it back. It's like we were
+playing catch." - Raphael Colantonio | Creative Director and President of
+Arkane Studios
+
+Phantom Music"Occasionally the musical instruments on the space station
+would start to play themselves. The poor audio guys were sitting with me trying
+to figure out what was going on, and a lot of times it's hard to debug stuff
+like this because it's systemic. They were like, 'We are not doing this. We
+swear we haven't put anything in this map to make this happen. We don't
+understand why the instruments keep playing themselves.' It took them a little
+bit to go, 'Wait a minute...it might not be you.' A poltergeist is playing these
+instruments." - Susan Kath | Senior Producer
+Stuck On You"A couple of weeks ago, I was just testing some random
+systems together and I never tried the combination before. I was in this map
+with catwalks overhead, and I use the lift power on a phantom. It made the
+phantom smack against the ceiling, and he was prone but stuck on the ceiling. I
+was like, 'Huh,' so I pulled my Gloo gun out and started shooting at the
+Phantom, which plastered him to the ceiling. And then the Lift power was over,
+so there was nothing holding him up there but the glue. He was stuck up there
+on the catwalk. I was giddy, so I did it again and made a video of it, and
+showed it to the team. 'This is why we're doing what we do.'" - Seth Shain |
+Lead Systems Designer, Associate Producer
+Maybe I Don't Need
+That Health Pack"One of the cool things about the Mimics is that they still
+surprise us. Even after three years, I still hear the people who work on this
+game on a daily basis jumping and shouting every once in a while. One of my
+favorites was actually hearing [creative director Raphael Colantonio] playing,
+and then I heard him shouting. 'I was almost dead, and I went to get a medkit
+and it was a mimic!'" - Susan Kath | Senior Producer
+
+Flying Turrets"You can fortify a turret with a higher level of repair,
+which gives it more health, because you can pick them up and take them around. But
+the turrets used to be stationary, totally static. Then one of our level
+designers hacked the turret so it could move and took the lift power and sent
+it up towards a balcony where a bunch of mimics were hanging out, and it just
+annihilated all those mimics. When we all saw that we were like, 'Okay, so
+turrets are going to be portable now.'" - Seth Shain | Lead Systems Designer,
+Associate Producer
+Hello Operator"There was a bug that came in the other day that I thought
+was really cool. One of the QA testers, she was falling from a great height and
+she was about to land in a group of aggressive Operators, [the stations
+defensive robots]. She was like, 'What do I do? What do I do! I don't have any
+ammo!' Then, at the last second, she mimicked one of them, and they basically stopped
+being aggressive to her, because they were like, 'Hey, you're one of us. That's
+cool.' And they went back to what they were doing. The QA tester thought it was
+a bug, and I was like, 'No, I think that works perfectly." - Susan Kath |
+Senior Producer
+Click on the banner below to enter our constantly-updating hub of exclusive content.
+

@@ -1,0 +1,220 @@
+Flying To A New Frontier
+  Flying To A New Frontier
+
+
+
+
+
+
+            Intro
+
+Storytelling plays an important role in shaping our favorite gaming experiences. However, the concept of “storytelling” is difficult to unpack, because it means so many things to different people. Is it the central plot that propels you through a game? Is it your hero’s personal development? Is it the relationships that you form with other characters along the way? Is it about the players’ opportunity to share their adventures?
+
+If you play BioWare games, you’re probably familiar with a certain set of answers to those questions. Through franchises like Mass Effect and Dragon Age, the studio has honed a signature approach to narrative that revolves around single-player exploits driven by a cast of unique companions. However, as memorable as those experiences are, they aren’t the only way to get players invested in a world and its characters.
+
+BioWare’s new IP, Anthem, has unique answers to the questions about what storytelling means. Anthem is focused on co-op gameplay in a shared world, emphasizing adventures with real people by your side. While that may run counter to your conception of what a BioWare game should be, Anthem also retains many powerful connections to the studio’s legacy. From the time we spent playing the game, we encountered characters we want to know better, an interesting setting ripe for exploration, and battles full of impressive spectacle – all parts of the classic BioWare formula. Anthem may challenge your expectations, but in balancing the old and new, it leads fans into an untapped and dangerous world whose story doesn’t need to end.
+
+After the release of Mass Effect 3 in 2012, a small group within BioWare began laying the foundation for a brand-new franchise. Led by Mass Effect executive producer Casey Hudson (who left BioWare in 2014, but returned last year as the studio’s general manager), this team was responsible not only for creating a new IP, but setting a new direction for the studio as a whole. To survive in the shifting gaming landscape, simply applying the same formula from previous games to a different setting wouldn’t be enough – this next game needed to be an evolution.
+
+Dragon Age And Mass Effect?
+
+Anthem is currently the only officially announced game from BioWare – a studio that has previously had multiple projects in development at once. Though it continues to support Star Wars: The Old Republic, fans are undoubtedly wondering where things stand for its other popular franchises. “I would say a majority of the people at BioWare are working on Anthem, but we do have people who are figuring out what a next Dragon Age would look like,” says BioWare general manager Casey Hudson. And as for Mass Effect? “It’s my baby. I helped start Mass Effect from the beginning. Of course we intend to get back to it at some point.”
+
+“We were just thinking for many years, as we were finishing out the Mass Effect trilogy, about, ‘Where should games go?’” Hudson says. “And one thing that we’ve always found is that shared experience is so important to a BioWare game. We don’t write stories about just one character; it’s always about being able to look over at your friend and see their reaction. Often it’s an A.I. character – a fictional character. But that’s the magic: Something happens, and you have these friends around you who have funny things to say.”
+
+In Anthem, you pilot powerful exosuits and use them to navigate a harsh world and complete missions as a team. It is designed as a cooperative game; it taps into that shared experience by swapping out the A.I. party members in favor of other players. Instead of embarking on an adventure with fictional companions, players bring their real friends along – a move partially inspired by fans’ love of playing and discussing BioWare games together. The game is also a live service; the team will keep supporting it and adding post-launch content, so once you finish the critical path, you can keep coming back to the world to hunt for better gear and complete new challenges.
+
+Anthem may appear to be chasing a trend with this approach. However, terminology like “shared-world shooter” was not commonplace when Anthem began development. In 2012, games like Destiny and The Division did not exist yet. “We were approaching it less from a point of view of dealing with competitors in the genre, and more about what we want to do in this space,” says game director Jon Warner – another member of the small group that developed Anthem in its early stages. “When we started this journey that became Anthem, it was about exploring storytelling opportunities and providing a different setting for a BioWare-style experience.”
+
+After years of development, those goals have manifested in many ways throughout the gameplay, story, and systems. However, the easiest way to see Anthem’s place in the BioWare catalogue is to examine the planet on which it takes place.
+
+An Unfinished World
+
+An Unfinished World
+
+The world in Anthem is vast and volatile. At the time of its inception, gods known as Shapers used huge pieces of powerful technology to command a force called the Anthem of Creation, forming the planet. Then, they left. For reasons unknown, the Shapers abandoned their work unfinished and left their incomprehensible devices behind. Their legacy is pervasive, since enormous pieces of Shaper technology litter the landscape, and they are far from dormant. They seem to activate randomly, causing cataclysmic changes to the world and creating a hostile environment that makes daily life a constant struggle.
+
+“This is a world that is stuck in the middle of its genesis,” says executive producer Mark Darrah. “The tools are just laying out on the workbench, turning themselves on and off and causing the world to shift and change.”
+
+At least, that’s one theory about the state of the planet (which has a name BioWare isn’t sharing yet). No one knows for sure, because whatever happened was so long ago that it passed out of memory and into legend. “Everyone has their own opinion of where they came from and why they’re here,” says lead producer Mike Gamble. “Different groups, different sects, different organizations pop up around trying to answer that question.”
+
+“There are no colony ships,” Darrah says. “There are ruins out in the wilderness that were obviously built by people, in addition to these ancient bits of Shaper technology lying around. But humans have been here long enough that there are ruins built by humans.”
+
+Just to get one theory out of the way right off the bat: It’s not Earth. “There are humans here, but they are not Earthlings,” Warner says. “There are no ties to Earth or another planet. This was the place they originated.” Whatever the secret is behind that mystery, one thing is certain: This place is dangerous.
+
+Andromeda’s Strain
+
+Mass Effect Andromeda did not enjoy the same positive reception as previous games in the series. Obviously, BioWare is familiar with the backlash and complaints surrounding Andromeda, so the big question is: What lessons did the company learn from Andromeda’s development that it can apply to Anthem? “There are certain specific fidelity things, polish and bugs and stuff like that,” says lead producer Mike Gamble, who was also a producer on Andromeda. “Specifically, with the faces, I hope when fans see the stuff we did this year for E3, they’ll understand that we’re focusing and doubling down on making great, engaging characters.
+
+“But the other thing for me is more focus. Choose the things you’re going to do great, and really do the heck out of those. We’ve been talking about what Anthem is a lot. Anthem is cooperative. Anthem is shared. Anthem is social. Anthem is a private hub, our world. We focus on that set of pillars and execute on them. Instead of going super-wide and trying to do all the things.”
+
+To survive the unforgiving climate and the fierce creatures it breeds (like giant rock titans, for example), some humans train to become Freelancers – individuals who don powered armor called javelins. In terms of mobility and arsenal, think of javelins like Iron Man suits; they even the playing field of this inhospitable world, granting their wearers flight, protection, and the strength to wield incredible firepower. “Humans are not to scale in this world,” Warner says. “Getting into that javelin, which gives you a little more height, a little more power, allows you to go out there and actually compete in that.”
+
+This is where you come in as a rookie Freelancer. You customize your hero in the character creator at the beginning of the game, then suit up in your newly obtained javelin. “Freelancers, when the game starts, they’re kind of going through some tough times,” Gamble says. “The order of Freelancers isn’t as respected as it should be. They had a huge history – a great past – that isn’t really carrying them forward anymore. So you have something to prove.”
+
+Beyond that, Anthem’s core campaign involves an emerging threat from the northern kingdom. A malevolent and aggressive group of humans called the Dominion is trying to harness the power of Shaper technology. You (and your friends) need to stop them – not because you’re the “chosen one,” but because they’re putting everyone’s survival at risk. To make matters worse, another force – non-indigenous invaders called Scars – are also after the technology.
+
+“Part of the mystery of the whole IP is: Where did this stuff come from?” Gamble says. “Where did the Scars come from? Where did that giant titan creature come from?”
+
+All of these different elements in play are typical of BioWare’s meticulous brand of world-building, with detailed lore and compelling mysteries. Not only does it set the stage for an interesting campaign, but it also has the potential to branch out in numerous other directions during its post-launch life.
+
+“The conflict is really layered,” Warner says. “There’s the world conflict, which we’ll never solve. The world will always be dangerous. It will always be a place that requires heroes. There’s a great story that is set against the Dominion, which are great villains we’ve been able to populate there. And then there are the other beings who live on the planet … so it’s a great palette for us to be able to tell some really cool stories.”
+
+Shared and Private Spaces
+
+Shared And Private Spaces
+
+Some of the stories in Anthem are communal “did you see that?” tales of triumph or failure as you and your fellow Freelancers take on difficult foes. Those stories take place out in the wider world, but their presence doesn’t necessarily diminish BioWare’s ability to deliver an engaging narrative, cool characters, and consequences based on your choices.
+
+When you think about previous BioWare games, where do your most memorable interactions happen? A few may happen mid-mission, but the majority unfold during the downtime between activities. That’s when you have conversations aboard the Normandy. That’s when you walk around Skyhold. In Anthem, that’s when you spend time in Fort Tarsis.
+
+Fort Tarsis is a major human settlement on the planet, and your primary base of operations – where you customize your javelin, equip gear, talk to the inhabitants, and sort through loot. In other shared-world games, this kind of area would be full of other players crowding around quest-givers, dancing, or just standing idle. But Fort Tarsis is not a social hub. In fact, it’s the opposite. It’s a private refuge.
+
+You won’t encounter other players in Fort Tarsis. You have ownership over what happens in this space, which is important because the settlement is one of the primary ways Anthem highlights player choice. “One of the challenges of having a communal, shared world is that it’s hard to build consequences into that, because we’re all going at different paces,” Warner says. “So we can’t have a mission where I blow up a fortress out there in the world, because the fortress out there in the world exists for all of us. But when you have a personal story space, I can actually have consequences to the choices I make.”
+
+Your decisions in Fort Tarsis can have a variety of major and minor effects, though BioWare doesn’t want to spoil the specifics. Based on our time at the studio, we got the sense that these could be as small as a character’s shifting opinion of you, or as large as geographical changes. “There are still many twists and turns as part of the critical path of the game, and the sidequests that you do,” Gamble says. “Some of it is about world-building. Some of it is about learning about this unfinished world of Anthem. But things happen to characters that they’ll never come back from.” Whatever paths you take, the results that manifest are unique to your playthrough, forging your connection to the events. In that sense, the tale that unfolds in Fort Tarsis is almost like a traditional single-player narrative, but with cooperative gameplay bridging the gaps.
+
+“When you’re in the base, that is your story,” Hudson says. “Then you go off and do missions in a world that is dynamic and shared with other players. You’re out there doing stuff, and some of the things you choose to do will impact your story, but your story is really a single-player story, and you decide what happens next. If you go and get something in the world as part of a mission and bring it back, you decide which character you’re going to give it to. Which relationships you’re going to foster. You have your own progress through the story.”
+
+From your support crew to quest-giving agents to other denizens, this area is populated by an array of characters for you to interact with, and you build those connections at your own pace in relative safety. But once you leave the confines of Fort Tarsis, you enter the shared world, and the only thing between you and grave injury is an exosuit.
+
+Suiting Up
+
+Suiting Up
+
+Though Fort Tarsis provides a narrative foundation for Anthem, the gameplay is all about getting into super-powered exosuits and wreaking havoc across the landscape. You start with a ranger, which is a type of javelin with solid all-around capabilities. During the course of the critical path, you earn three more javelins: the heavily armored colossus, the elementally powered storm, and the interceptor, which BioWare isn’t discussing in detail yet (though we know it is considered a light suit like the storm, as opposed to heavy suits like the ranger and colossus).
+
+With their baseline capabilities, the four javelin types essentially function as classes. In addition to their locked-in melee attacks, defensive maneuvers, and ultimate attacks, each suit can equip two weapons, along with two pieces of gear – a category that includes a wide variety of tools like explosives, energy blasts, and more. However, you can’t just mix-and-match, since the javelins have access to different arsenals that accentuate their natural abilities. For example, the ranger can use cryo grenades, but only the colossus has the power to wield heavy machine guns. You also have a variety of options within each javelin type, allowing you to alter your loadout to specialize in certain weapons or tactics depending on the task at hand. During our hands-on time, we played a ranger with a cryo grenade modified to send out additional shockwaves from enemies who are killed while frozen. We also played a colossus with a flamethrower, while another colossus in the group used a mortar.
+
+Microtransactions
+
+BioWare already has a firm stance in its approach to microtransactions. “We have a couple pillars that we stick to, and generosity to our players is number one on that list,” says game director Jon Warner. “Making sure you feel you got a great value for what you bought, and that you get everything you think you should get for that money. And then, as we continue to service this game and create more stuff for it, allow you the opportunity to buy cosmetic items and vanity items that you’re interested in. But no loot crates. No pay-to-win. Strictly cosmetic.”
+
+“Forever?” we ask.
+
+“Forever,” Warner says.
+
+One interesting tidbit about the javelins (and Anthem in general) is that suits represent some of the most cutting-edge technology available. The presence of Shaper artifacts allowed humans to fashion the exosuits, but society’s scientific advancement in other areas is not on the same level. In fact, it’s almost primitive in some ways. This isn’t a space-faring civilization, and javelins aren’t just rolling off production lines – which is one of the reasons why they (and Freelancers) are special. “These javelins are handmade suits,” Warner says. “There’s a craftsman somewhere who has to put this thing together with loving attention to detail. It’s not like you can just go down to the Javelin Mart.”
+
+Players can enhance this sense of uniqueness through their own modifications. Beyond a javelin’s combat capabilities, you also personalize its appearance through paintjobs and other cosmetic additions that can change your javelin’s silhouette. BioWare likens it to customizing a car, interacting and tweaking at different layers to ensure that your javelins look cool.
+
+“Each suit is a platform for advancement, progression, customization, and personalization,” Warner says. “As you acquire different suits, you’re going to be able to shape that into something that reflects your own personal style. If you and I are both in ranger suits, we’re going to look different. And because you’ve equipped different pieces of gear and weaponry, it’s going to play a little bit differently.”
+
+You can freely switch between your exosuits while in Fort Tarsis or your mobile base – a giant mechanical walker called a strider. That means you aren’t locked into one suit, and you don’t need to play the whole game multiple times to see what each playstyle has to offer. If you’re sick of tanking as a colossus and want to be a glass cannon, you can just hop into your storm suit and give it a try. “You will never need to restart,” Darrah says.
+
+Improving your javelins isn’t the only way you get stronger. Your pilot also gains skills that apply universally to any javelin you use. For instance, the booster jets on your javelins overheat with continued use, but by investing in a certain pilot skill, you can increase the amount of time you’re able to stay airborne in all of your suits. The goal is to add a satisfying meta-layer of progression; not only are you getting new equipment and modifications that makes your suits better, but you also experience a gradual increase in your capabilities. These skills are major differentiators when comparing early game players to experienced ones, but even novices can contribute when venturing out with a group.
+
+Your New Party
+
+Your New Party
+
+No matter what tweaks you make, no one javelin is ideally equipped to handle every situation. This is why teaming up with other Freelancers in different exosuits is an important part of the equation; it gives you the chance to use complementary abilities and tear through the opposition with maximum efficiency. “The encounters are set up for four players,” says lead producer Ben Irving. “That’s where the fun is, and they’re built with that teamwork in mind.”
+
+The javelins are designed to work together, creating opportunities for each other to shine. The storm can use elemental abilities to damage enemies or expose vulnerabilities. If a group of Scars are standing in the water, a lightning blast from the storm can shock them, doing damage and creating some clear shots for the ranger. A colossus may walk into the range of a mine, but with a raised shield to deflect damage and protect the party.
+
+When certain abilities interact, you might get additional bonuses. These combos don’t seem to be as rigidly defined by the primer/detonator distinction we saw in the Mass Effect series. However, they still appear rooted in the idea of using certain abilities to expose enemies, and another to capitalize on that weakness. “The combination system is built toward this idea of different heroes coming together with different suits,” Warner says. “But even yourself, you’re able to pull off some combos. If you’ve frozen something, and then you detonate that with a missile or a melee strike, you’re going to get some cool combo bonuses.”
+
+Technically speaking, you can play through Anthem’s story missions solo – but you probably shouldn’t. “For the critical path … if you do want to play by yourself, you can,” Gamble says. “We’re not limiting that artificially. But the game itself is built for you and a bunch of friends – because your friends are your companions in this case. That’s the whole point.”
+
+Even though you meet a variety of NPCs in Fort Tarsis and have a crew aboard your strider, your actual party is composed of other human players. That’s unusual for a BioWare game, but it is also the main way Anthem opens a new, unscripted vein of storytelling for the studio. You won’t be comparing notes with your friends about how you handled different quests in the shared world, because your friends will be on those quests with you. Instead of a hearing compliments that A.I. characters are programmed to say, you will get genuine reactions. All of your greatest victories – and most humiliating defeats – are shared with other players by your side.
+
+BioWare isn’t pretending that moments like these are brand new; they’ve been the primary draw of multiplayer gaming for many years. However, gamers haven’t experienced these things in a setting like this before, or with something like javelins at their disposal. “What if I could live in a BioWare world that didn’t have to end after 60 hours?” Warner says. “Sharing that with friends is always something we thought would be a cool thing to be able to do. So, hopefully, people who love our other experiences will jump into this with an eye toward that.”
+
+Fighting the Chaos
+
+Fighting The Chaos
+
+So what will you and your friends be doing in Anthem? One of the key aspects of the world is its unpredictability, which results in new events taking place all the time. Maybe certain Shaper technology has switched on, and you need to shut it off. Or maybe a terrifying creature has spawned that you can take down. Beyond those dynamic challenges, BioWare has a wide variety of other activities in the works, each one catering to different levels of commitment and difficulty.
+
+The most general is free play, which has you out in the sprawling world with no specific objectives to chase. We saw some free play in action, in which a lone colossus was cruising between zones, collecting crafting materials, and taking out pockets of Scars. The game also generates minor tasks to complete; we saw a downed freelancer who needed help, and a member of the Sentinels (an organization that protects Fort Tarsis) to rescue. But one of the biggest thrills was the simple act of exploring, since the freedom of flight gives you a unique perspective on your beautiful and strange surroundings. The world is large and seamless (with no loading between zones), with different area types to explore. “We conceived the world as different ecosystems,” Warner says. “Each ecosystem has its own band of creatures that are native to it. So as you traverse the map, you’re going to encounter different types of creatures.”
+
+You still earn rewards and loot in free play, but it seems tailor-made for killing time, like when you’re waiting for a friend to finish outfitting their javelin in their version of Fort Tarsis. If you want more directed play, you can tackle formal missions. These might be part of the critical path, or quests given to you by other characters in the world.
+
+“We have NPC quest-givers in Tarsis,” Gamble says. “They’re called agents, and those agents give you missions. The type of mission an agent will give you is based on a certain type of context. Some will give you context on the Scars, some will give you context on the Sentinels … Characters that you have relationships with, they will also, as you get to know them, give you more quests related to them.”
+
+On the higher end of the challenge spectrum are strongholds, which is a general term for instanced areas that require more teamwork and coordination than typical missions. Other games use terminology like “dungeon” or “raid” for this type of content, but they all rely on a similar concept. They put you to the test using diverse encounters and huge bosses that encourage your party to assume specific roles and experiment with different tactics.
+
+Though you encounter some strongholds as part of the critical path, they also represent one of the ways Anthem continues to entice and challenge players in the elder game, after completion of the main story. By tackling harder versions of the strongholds, you can reap even greater rewards. But if you’re not a hardcore player, that doesn’t mean you won’t get the coolest loot. “One of the things we’ve noted is that we want everybody to be able to participate in what we feel is the best or most challenging content that we have to offer,” Warner says. “We don’t want there to be that arbitrary bar: Unless you’re this good, you can’t play this.”
+
+Gamble adds: “Everyone has their own, let’s call it ‘path to victory.’”
+
+Ultimately, the variety of content is meant to provide options for how players engage with Anthem. Some quests can be completed quickly, some take more time. Some content can be done solo, but most is designed for a group. That last point may alarm fans who see BioWare as one of the last bastions for quality single-player games, but the company is taking deliberate steps to ease players into the cooperative structure.
+
+Co-Op Conveniences
+
+Co-op Conveniences
+
+One reason people like single-player games is the lack of external obligation. You alone control how, when, and for how long you play. Cooperative experiences add new layers of coordination to deal with, from scheduling to matchmaking to social interaction. These certainly aren’t difficult barriers (especially for people who enjoy multiplayer), but they can be a hassle for those who just want to enjoy a virtual world.
+
+“We’ve played a lot of different multiplayer games, and sometimes it can be a little bit awkward,” Warner says. “You have a slot open, somebody jumps in, and you’re like, ‘Ooh, I didn’t really want to play with you. But you’re my friend, so I’ll play with you for a little while, and then I’ll make an excuse, and then I’ll log out and log back in with my status set to offline.’ There’s always a little bit of social friction involved in multiplayer matchmaking, at least in my experience.”
+
+The team wants every aspect of Anthem’s co-op to be as seamless as possible, and the game has several features built to alleviate common multiplayer hassles. If you’re in Fort Tarsis and want to team up for a mission, you just open your map. That shows you the world and the available activities, along with who is currently undertaking them (weighted toward people on your friends list). If there’s an open slot, you just jump right into action.
+
+“Our map system is kind of a LFG [looking for group] lobby and the world map from an RPG blended together,” Darrah says. “You see these opportunities on the map, blended in with your own experience. That is very much what we’re trying for – something that is a little bit less rigid and gamey and more fluid.”
+
+Alternately, you can start your own mission, and that will show up on their maps as an available activity to join. You can also invite people specifically, or rely on the in-game notification system to alert your friends that you’ve started a task. You can tweak the settings to dictate whether your game is public or private – and if it’s public, you can rest assured that plenty of missions are clear and intuitive enough that you can complete them without voice chat.
+
+Because Anthem has a shared world and private hub, the structure of the game naturally splits groups apart. “I jump in and I’m able to do a mission with somebody, and that’s an experience that lasts maybe 20 minutes,” Warner says. “And then the system breaks us apart; I don’t have to say ‘I don’t want to play with you anymore.’ It just does. It breaks us apart and we each go back to our own Fort Tarsis.” Of course, if you and your friends just want to stick together and play for hours on end, you can do that without constantly disbanding and reforming the group.
+
+Another issue with co-op gaming is how to address a power disparity between players. When low-level and high-level players team up, sometimes that means the weaker one is staying back just trying to not take damage, while the stronger one does all of the heavy lifting. That isn’t how Anthem works; regardless of power level, any players can team up and start fighting. “It’ll feel like it’s the same amount of damage,” Irving says. “The difference will be, if I have a greater variety of gear at my disposal, I’m going to be more efficient because I have more things to use than you. But the idea is that it will feel good – it will feel like we’re both contributing.” Even if high-level players are doing a mission that takes place late in the critical path, low-level players still have the option to join – if they confirm that they don’t mind spoilers.
+
+These features all feed into a clear purpose for Anthem’s multiplayer: Players should be able to find companions with minimal hassle, embark on adventures, and transition easily from the private space of Fort Tarsis to the wider shared world. “The edges of your experience should be fuzzier,” Darrah says. “You are experiencing the multiplayer opportunities from your story and other people’s stories much more seamlessly, much more integrated together.”
+
+The Pilot's life
+
+The Pilot’s Life
+
+During our time at BioWare’s Edmonton studio, we sat down to play Anthem for about 45 minutes, mainly going through the same mission EA recently demoed during its pre-E3 showcase. Our time revolved around using ranger and colossus javelins; we had about 10 seconds of time playing the storm before BioWare team members noticed something amiss and switched us to an approved exosuit – but that brief taste of the storm’s mystical energy has us excited to dive deeper in the future.
+
+Before the mission officially starts, we see a cutscene set aboard your strider involving the three members of your crew. We’d seen this cinematic earlier, so as the characters talk, BioWare gives us a little background on each of them. Haluk is the mechanic who keeps your strider operational, but he also has a long history with the player character. Owen is a cypher – a term for someone who provides information and support to Freelancers in the field. He’s happy to help in this role, but Owen also wants to get in his own javelin and help out. Lastly, there’s Faye, who has a personal connection to one of the main threads from the critical path – but that’s all BioWare is saying about her for now.
+
+InterceptorColossusRanger
+
+After the scene ends, we are finally able to control our javelins. I am in a ranger, equipped with powerful late-game gear, like an assault rifle that fires an area-of-effect round every 10 shots, and an arm-mounted energy blast that looks like a move straight from Iron Man’s repertoire. But the real fun starts when I activate my jetpack.
+
+If you’re one of the cynics wondering what sets Anthem apart, this is a major factor. The jetpack combines freedom of movement and exhilarating speed. Plus, the verticality of the world encourages you to make use of your mobility. In terms of exploration, that means navigating interesting spaces, or trying to pull stunts like flying between a titan’s legs. In terms of combat, it opens up a new dimension by allowing you to fly to better positions on the battlefield, retreat into the air, circle your foes, or hover while launching a salvo of missiles. I get a sample of all of these situations as our group fights some Scars on our way to investigate the source of a mysterious toxin.
+
+We find the Shaper machine dispersing the toxin, but we need to collect some items called “echoes of the Anthem” in the area to shut the device down. This involves fighting more Scars, and during the encounter, a colossus in the group fires off its ultimate attack, which is essentially a nuclear warhead. To mop up the survivors, I experiment with my melee attacks, but they aren’t as satisfying or effective as shooting energy blasts from a distance. However, the two gear slots (which includes my energy blast) are governed by cooldowns, so I can’t just use it endlessly.
+
+With the Shaper technology shut down, we move to investigate the source of the toxin – a search that sends us underwater to a cave. Though javelins can function and maneuver while submerged, they can’t use their weapons. In other words, don’t expect underwater combat encounters. Once we reach the cave, we fly out of the water and work through a network of rooms. The storm uses an electrical attack to shock a bunch of Scars standing in the water, and a colossus uses its shield to keep everyone safe from a series of landmines.
+
+We eventually arrive in large cavernous area with a nasty surprise waiting in the center: a swarm tyrant. This spider-like beast is the boss of the mission. It has armored plating, shoots webbing, and can scurry up walls. Also, like many creatures you can encounter in Anthem, it’s a titanic foe that dwarfs the ragtag group of Freelancers. But the ensuing fight demonstrates the various powers of the javelins, and highlights the ways your team can work together.
+
+As one colossus drew the creature’s attention, I focused fire on its armored plating to expose weak spots. When I got hit with a web attack that kept me from moving, one of my teammates used the colossus’ flamethrower to burn away the webbing. When all of us focused fire on a vulnerable sac, it sent the swarm tyrant into a downed state that allowed me to unload with my ultimate – an array of homing missiles. When the boss retreats momentarily, a swarm of smaller spiders come creeping at us from other parts of the cavern, keeping us occupied until the big one returns.
+
+After a few minutes of fighting, the beast still has plenty of health. This isn’t going to be an easy encounter… but we won’t see the end of it today. A “Thank you for playing” screen pops up, marking the end of what BioWare plans to show us for now.
+
+After putting down the controller, I couldn’t wait to play more. Yes, it is still in an early state, but it clearly has the potential to be something special. The flying suits make you feel like a superhero, giving you command of the air while also letting you use ridiculous firepower. For fans of BioWare games, the biggest mistake would be writing off Anthem because it doesn’t fall squarely in the traditional RPG space; currently, its layers appear to go beyond easy genre labels. But if you like character progression, cool weapons, and exploring persistent worlds, Anthem could easily to draw you in and keep you invested.
+
+The Chase
+
+The Chase
+
+If the goal is to create a world that doesn’t need to end, then players need compelling reasons to keep returning to the game. After you finish the critical path and level up your pilot, you need to chase new goals and bigger rewards. With so much time left before Anthem’s February 22 release date, BioWare isn’t talking too much about the specifics of this elder-game content, but the team did outline the philosophy behind what should keep players hooked.
+
+“At that point, rather than closing down, it’s really about opening it up and giving you the opportunity to become a Freelancer,” Darrah says. “It’s almost like it’s the beginning of the adventure as opposed to the end. There’s a moment of closure, but then there’s so much more to do.”
+
+The most obvious incentive is loot. A familiar coded progression of green, blue, purple, and orange gear keeps you on the hunt to optimize your abilities, damage output, and cosmetic elements. “We want to make sure we are rewarding players who are skilled and take on big challenges,” Warner says. “And rewarding them appropriately so they can peacock and say, ‘Hey, look, I got this because I’m a badass.’ That’s important.”
+
+Loveless
+
+BioWare fans enjoy discussing their favorite characters, and the cast of Anthem appears to add some new contenders to the mix. You form bonds with them over the duration of the game, and grow attached as you learn more about them. However, if you’re hoping to pursue a romantic relationship, you’re looking for love in the wrong place. “There are no romances,” says lead producer Mike Gamble. “There are friendships. Some of the stuff we did with Mass Effect – the Citadel DLC specifically – there was a lot of friendship moments. You and Garrus sitting up, shooting – that kind of stuff, we want to lean into that. The romantic stuff, we’re moving away from that for Anthem.”
+
+Another persistent element is something called the alliance system, though BioWare isn’t saying much on what that is or how it works. “I think it suffices to say that this is a very social experience that we’re looking to build,” Warner says. “Being with your friends, playing with your friends. We want to reward you for doing those things in lots of different ways.”
+
+The lore and history of Anthem’s world allows it to undergo drastic changes, and as a live service, that opens the door for unique and exciting events the whole community can experience. In some cases, this could mean taking familiar content and altering the context around it, like a Shaper artifact turning on in an area that creates new environmental hazards. In other cases, this could result in completely new content. Though the team doesn’t give an exact timeframe or structure for this kind of growth, we know that BioWare is hoping to issue modest updates regularly – not wait seven months to drop massive additions all at once.
+
+Once players get their hands on Anthem, they are undoubtedly going to have their own opinions about how the game can improve. Listening and responding to community feedback is an integral part of supporting a live game, and that can lead to a rapid shifting of priorities. Rebalancing weapons, adjusting inventory space, adding a wider variety of quests – when dealing a game like this, it’s impossible to predict which issues will surface after release. “You have to build staffing plans that allow you to be flexible,” Gamble says. “You have to build systems which allow you to show content in different ways. We’re already thinking about the post-launch world of Anthem, and we’ve put rough plans in place. We have certain delivery stuff that we have to do, but that could change. We have the team and the flexibility to be able to do that.”
+
+A New Mission
+
+A New Mission
+
+After starting work on the IP that would become Anthem, Casey Hudson left BioWare in 2014. When he returned in 2017 as general manager, one of the first things he wanted to do was figure out what keeps fans coming back to BioWare games. This resulted in a new mission statement for the studio, which reads: “We create worlds of adventure, conflict, and companionship that inspire you to become the hero of your story.”
+
+This compact, clear identity encompasses classics like Baldur’s Gate, Knights of the Old Republic, Jade Empire, Mass Effect, and Dragon Age. But it also serves as a guide for future projects. Though Anthem conforms to the studio’s mission statement, it is something new for BioWare. At the same time, it isn’t wholly unfamiliar. “Thinking about what it would mean to bring that BioWare experience to a shared open world is something that really drove us,” Warner says. “Creating a world where you want to be, that has internal consistency, and that you can just travel around in without loading into different areas. A living, breathing world that is populated by people you want to get to know and develop a relationship with. Those are the things that were really driving us as we were thinking about Anthem.”
+
+Javelins are exciting, cooperative battles are fun, and the immense world provides an opportunity to tell endless stories. That’s the heart of Anthem. It has elements in common with other shared-world shooters and other BioWare games, but also has its own innovations and surprises that make it unique. “As you look back to what we’ve done over the last more than 20 years, there’s actually been change all the way along,” Darrah says. “Moving from 2D to 3D, adding multiplayer, moving to an online live service. It’s been a story of evolution. Anthem is just continuing on that journey.”
+
+This article appears in the July 2018 issue of Game Informer.  
+

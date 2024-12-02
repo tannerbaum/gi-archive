@@ -1,0 +1,82 @@
+
+  Overwatch 2: Invasion Impressions – The Biggest Update Yet
+
+
+
+
+
+
+            To say that Overwatch 2 has had a rough start to its lifecycle would be an understatement. After an absolute dearth of new content on the tail end of the original game's lifecycle, Overwatch 2 did little to regain favor with its community, thanks to polarizing changes to the game's structure and the cancellation of the highly anticipated Hero Missions. However, with Season 6, titled Invasion, the Overwatch 2 development team is making huge strides to release a content drop absolutely jam-packed with new modes, new maps, and even a new support hero. Following my exclusive look at Overwatch 2's Toronto Story Mission back in June, I was once again invited to go hands-on with Overwatch 2: Invasion – this time, with the entire Invasion update.
+
+New Hero
+
+Illari, Overwatch 2's new Support hero
+
+While all Overwatch 2 seasons add a good chunk of content, the ones that add a new playable hero certainly feel like a bigger event. While Season 6: Invasion would feel like a monumental milestone even without a new hero, we also get a new hero on top of all the other new content that arrives today. Illari is a support hero hailing from Peru who can harness the power of the sun.
+
+With solar powers on her side, Illari players can use her primary fire to deal damage with her single-shot rifle or use her secondary fire to heal allies with a beam. As a result, her gunplay most resembles some middle ground between Ana and Ashe. Illari's rifle doesn't pack much of a punch, but her healing beam can reach medium range. When combined with her abilities, Illari seems like a solid choice for healing-focused Support players.
+
+Illari's Healing Pylon ability acts like a combination of Torbjörn and Symmetra's turrets but with healing shots instead of damaging ones. Because it can be destroyed, strategic placement is key. However, if you can place it in the perfect spot over a control point or other crowded arena, it can be an invaluable addition to the team. If things get a little too close range for your tastes, you can use Illari's Outburst, where she blasts in the direction she's moving, also pushing back any nearby enemies. This opportunity didn't present itself during my hands-on with her, but I imagine this will be annoying when fighting an enemy Illari near a pitfall. 
+
+Illari's Ultimate aims to unleash full solar power. Captive Sun allows Illari to levitate above the battlefield and let out an explosive ball of solar energy. If an enemy is hit by this initial blast, they're slowed. But if the afflicted targets take enough damage during the Ultimate window, they will explode, leading to massive damage.
+
+I had a lot of fun and a decent amount of success with Illari during my hands-on time with Overwatch 2: Invasion, but I'm not yet certain where she'll fall on my list of go-to heroes. I don't anticipate she'll supplant Moira as my main Support hero, but in the event that Moira is taken, I'll probably jump into the shoes of the solar-powered Support.
+
+Story Missions
+
+Overwatch 2: Invasion's Story Missions
+
+It's rare that the centerpiece of a season that receives a new playable hero isn't the hero themself. Despite how distinct, fun, and cool Illari is, the main attraction for Invasion is almost certainly the new PvE content that joins the suite of Overwatch 2. This long-awaited addition brings three Story Missions as part of the Invasion bundle, plus a bonus co-op mission called Underworld. The story missions take place in Rio de Janeiro, Toronto, and Gothenburg. The maps for these missions are the biggest ever created for Overwatch, to the point that Blizzard needed to introduce new streaming tech to make them playable. 
+
+The first Story Mission, Resistance, takes us to Rio de Janeiro, Brazil, for a Lucio-driven mission. Here, you can choose between tanks Reinhardt and Winston; DPS characters Echo, Genji, Mei, and Tracer; and Lucio as the sole support hero. Half of the mission takes place on the ground in Rio de Janeiro and the other half up in an Omnic ship. Once you're up in the ship, your mission is to destroy the core, but a battle against a shielded Charger Omnic awaits. In order to take it down, you need to trick it into attacking the core, then lay into it while it's stunned. It's a straightforward but fun affair.
+
+Next up is the mission I played last June during my exclusive hands-on session at Blizzard's headquarters. Taking place in Toronto, Canada, the mission, titled Liberation, centers on Sojourn and her fellow Overwatch heroes rescuing Omnics from abduction. These intense battles culminate with a daring escape through a flood-with-enemies train station and park. Over the course of the mission, you face off against various kinds of Omnics, including Null Sector grunts, Artillery bots, and the formidable and horrifying Stalkers. From my playthroughs, this was the longest of the three missions, clocking in at around 30 minutes for a single playthrough on a more challenging difficulty. 
+
+Liberation also includes the largest roster of selectable characters of the three Story Missions included in this season. In this mission, you choose between D.Va, Reinhardt, Winston, Zarya, Cassidy, Echo, Genji, Mei, Pharah, Sojourn, Tracer, Baptiste, Brigitte, Lucio, and Mercy. You can read my in-depth impressions of Toronto's Liberation mission here.
+
+In stark contrast to the massive roster of selectable heroes in Toronto, the final mission of this batch, Ironclad, taking place in Gothenburg, Sweden, is the most restrictive. In fact, the four players can choose from only four characters: Reinhardt, Bastion, Torbjörn, and Brigitte. This mission is distinct from the previous two as it's more of a payload escort mission than simply working from arena to arena. You must move the payload from giant turret to giant turret across Gothenburg in hopes of destroying the looming ship. However, once you get their attention, Torbjörn and the crew need to ready the big guns in his workshop, and the mission turns into a wave-based position-defense mission at the end, complete with turrets that can be moved around the workshop by any teammate (though they can only be repaired by Torbjörn if they sustain damage).
+
+Though it's the most obvious video-game mission of the three Story Missions and contains the fewest playable characters, it was perhaps my favorite of the three. I loved messing around with elemental turret placement during the defense sections, and the intense wave-based attacks provided a few white-knuckled moments dispersed among the satisfaction of mowing down the encroaching Omnics.
+
+Other New Modes
+
+Underworld, Flashpoint, and More
+
+On top of the Story Missions, Invasion also adds an additional PvE mission in the form of Underworld. This mission takes place in an expanded version of the fan-favorite PvP map King's Row. Your mission is to clear out the corrupted Omnics while restoring power to a bot, then escorting that robot to a data terminal. Of course, along the way, you have to take out a ton of Omnics as you feed batteries to and escort the friendly robot. Along the way, you'll battle some of the Omnics you see in the Story Missions, including Artillery and Stalkers, before a culminating defense of the data terminal against waves of Omnics (including Orisa and Ana robots).
+
+Underworld isn't nearly as narrative-driven as the Story Missions included in this season – your heroes don't really chat with each other in any kind of contextualized way, and the presentational elements are minimal throughout – but when you're in the gunfights, they definitely feel like an extension of the Story Missions. Underworld also features modified missions, like one where you need to avoid constant airstrikes or another where your Ultimate only charges when you stand in specific zones on the map. These add small wrinkles to make the missions feel a bit different each playthrough, but don't expect as much from Underworld as you get in the Story Missions.
+
+But PvE is not all this season brings. Season 6: Invasion also adds Flashpoint, a new competitive multiplayer mode. This new multi-control-point mode features five different control points, which are activated one at a time. Each match begins with the center control point. Once that's captured and held for long enough, a random other point on the map activates. The match goes on until one team is able to capture three of the points. Much like other Control matches, the best moments come from the frantic contested-point sequences and overtime blitzes. I loved engaging in the firefights that played out when one team was desperately trying to hold onto the point as the other team gave everything they had. I'm looking forward to playing more of Flashpoint once the public servers are live. Flashpoint will be available in both Open and Role queues, and features Suravasa and New Junk City maps at launch.
+
+While I didn't get a chance to experience them for myself, Invasion also adds Hero Mastery Missions, with a plan to introduce new missions every few seasons. These missions aim to test your skills with a specific hero, with leaderboards to see how you stack up. You can also earn emblems for heroes and upgrade their levels by completing challenges in the new player progression system introduced in this season. Name cards are earned at levels 8, 15, 30, 75, 125, and 200 for each hero, and while some leveling is available in the PvE modes, much of it must be done in PvP modes. There is currently no way to purchase the progression rewards, so they must be earned exclusively through leveling.
+
+Overwatch 2's New Strategy
+
+While Invasion certainly seems like a tentpole release for Overwatch 2, it shows that there's still plenty of gas in the tank of the once-thriving game. Had Blizzard kept up with content of this quality over the last several years, the community would likely be in a much better place today. While not every season can realistically add this much content, this season is the first time in a long while that I've felt hopeful for the future of Overwatch 2. It will be interesting to see how Blizzard continues after this season, though game director Aaron Keller tells me that Invasion signals a change in philosophy for the way the team will release content going forward.
+
+"We don't want to save up content and save it for these giant releases years down that line; that's what a box release would be for a game," Keller told me in June. "Because we always want to be supporting the live game, but at the same time, there is this really big release coming up for Season 6, and so this is the culmination of us working on a lot of things that, for years prior, we had been saving and us recognizing that we don't want to always be saving content like that. And I think this is also the team trying to get to a point where we start shifting the live-service portion of the game away from just being about Heroes and map releases. We do want there to be more to an Overwatch season than those two components as the biggest part of that season. That's what the Story Missions are for Season 6, and we have plans for other seasons in the future that aren't necessarily around Story Missions. They can be around other parts of the game."
+
+Overwatch 2: Invasion arrives today across every platform that Overwatch 2 is on. You can play Overwatch 2 and much of its content for free on PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, and PC. However, if you want to play these new Story Missions, you need to drop at least $15 for the Invasion Bundle, which also includes $10 worth of Overwatch Coins and a Legendary skin for Sojourn. There's also a $40 Ultimate Invasion Bundle, which includes all that plus extra skins, Overwatch Coins, and an extra Battle Pass.
+
+      Products In This Article
+
+Overwatch 2
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC
+
+Release Date:
+
+October 4, 2022
+
+Purchase
+More Info
+
+Brian Shea
+Online Content Director
+Brian has written about video games for more than 15 years across multiple publications. Brian is also the host of All Things Nintendo, a weekly podcast focused on the news and games of Nintendo.
+
+Email
+Twitter
+

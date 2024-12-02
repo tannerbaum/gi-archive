@@ -1,0 +1,78 @@
+
+  Looking Into Grounded’s Unnatural Wonders
+
+
+
+
+
+
+            A backyard can be a treacherous place to explore when you’re shrunken down to a centimeter. That’s the central conceit behind Grounded, the upcoming survival game from Obsidian Entertainment. Danger may be a constant companion, but we were struck by something else during our hours of hands-on time: The backyard is a really fun place to explore. 
+
+“It definitely feels like the one thing we talk about is making it feel like a theme park,” says game director Adam Brennecke. “One thing we’re trying to do is make it feel like every turn and everywhere you go there’s something cool to find – not only the stuff materials wise, but there might be a cool manmade object or a little secret cave that you’ve never seen before.”
+
+They’re definitely on the right track. Head out in any random direction, and you eventually stumble upon an object that’s fun, interesting, or flat-out weird. And even though we still didn’t understand why, for instance, there’s a disembodied action-figure head out in the middle of nowhere, the developers have spent a lot of time poring over its back story. 
+
+“There’s an object in the world – why is it there? Who put it there? Who made this? Where is it manufactured?” Brennecke says, going through just some of the details his team sweats. “What is the company that makes this? Where can you buy it? And that’s just for manmade objects. I think that’s what makes Obsidian games so great. We care about the games so much, and we talk about this stuff probably way more than we should, and I think those details come through. Even as a developer, I love Obsidian games, because we spend so much time on that stuff.”
+
+Creating props at this scale took some adjusting, too. “It took us a little bit to figure out how to even make things this large," says lead environment artist Sean Dunny. "If you think about large objects in a traditionally scaled video game, you think about a building, which is made up of a bunch of different composite parts, so each of these pieces can be done separately and then made to look the way you want. But when you have something the size of a building but is all one cohesive, seamless material, it becomes a little bit trickier. So we’ve had to create some custom materials and shaders to give us that up-close detail that we want while also maintaining a read from far away.”
+
+Grounded’s overall visual presentation is a departure from a lot of survival games, too. Its world is bright and cheery looking; even the spiders, as creepy and dangerous as they are, are stylize to a point where they almost look kind of cute. That overall aesthetic is at its peak in the graphic design for many of the various manmade objects within the game. The products you come across have bold and purposefully awkward designs, with logos and branding that lean into Grounded’s ‘90s setting. The team credits senior artist Mitch Loidolt with much of that aesthetic. He even created a document titled, “Why the ‘90s are a cool time period to set a game,” which highlighted some of the visual touchstones that they could lean on. “I didn’t want to be mocking it in any way,” Loidolt says. “I didn’t want it to be super out there and blast your face with the ‘90s. Just to bring you back to that time, is all.”
+
+After seeing some of the manmade objects in the world and hearing about all the work that went into their creation, we wanted to learn more. Here are some super esoteric stories behind a few of the objects that you’ll encounter early on in Grounded. 
+
+Juice Boxes
+
+At Grounded’s scale, an ordinarily unassuming juice box becomes an imposing landmark. The rectangular object is immediately recognizable, with a bent straw jutting out of one end and dribbling juice onto the ground. Dunny says making props for Grounded has been significantly different from his work on Fallout: New Vegas, for example. Since small details are scaled up, it’s important that objects feel authentic. “I’m actually looking up diagrams of how juice boxes are folded together and the manufacturing process to get that sort of thing right,” he says.
+
+“The juice box, we actually have a corporation called Punch-O that makes those juice boxes,” Brennecke says. “They’re a part of a large company that has their hands in lots of different things, which is called Mouthtown. The Punch-O brand is very similar to Hi-C, for example. Mitch made his own almost storyline of all the characters on the Punch-O boxes. For example, we have Lemon Crime, which is the lemon-lime drink.”
+
+“I like ‘Armed Raspberry,’” Loidolt adds. “It’s the Juicestice Squad; they fight the bad fruits.” 
+
+The Flying Disc
+
+Part of the backyard is walled off by a thick hedge. Getting up it may seem impossible, until you notice something familiar sticking out of the vegetation. “One Item that I particularly like is the Frisbee, because I love Frisbee in general,” says art director Kaz Aruga. “That thing came out of personal experience. We used to have this tall hedge next to our office, and we used to chuck them and they’d always get stuck in the hedge, so I like that little detail in the yard. That thing, the way it’s wedged in, it actually serves as a little platform in the hedge biome. You can have a little boss fight with a spider there.”
+
+A Baseball
+
+One of the first things you might run into that sells Grounded’s sense of scale is an otherwise ordinary baseball. It’s massive. Unlike the juice box, which releases life-sustaining juice from its straw, the ball doesn’t serve any gameplay purpose. Instead, it’s a landmark that’s close to a fairly large clearing. When you’re still getting your bearings, landmarks like these are vital. “I tend to build near the baseball, because it’s a very flat, open area, and I like building massive megastructures,” Dunny says.
+
+When I first came across it, I circled the ball and soaked up all the detail. Everything from the grain of the leather to the stitching has been carefully reconstructed. There’s also a cartoon face on it. Was there a little story there? As it turns out, there is.
+“I think the little cartoon character that Mitch drew is our Feargus face,” Brennecke says, referring to Obsidian co-founder and studio head Feargus Urquhart. “We call it Chunky Chub’s baseball, which is the branding for the baseball equipment that we have in the yard.”
+
+Was that something that Loidolt cleared ahead of time? “It’s a bad habit of mine, trying to reduce peoples’ faces to the easiest drawing that I can think of," he says. “It’s definitely an ‘ask forgiveness’ situation.”
+
+Soda Cans
+
+Soda cans are scattered throughout the yard, possible evidence of the “jerk teens” that Loidolt says throw their trash from a nearby gas station. The best part of the cans is that you can crawl into them and build a small base – completely protected from spiders and some of the other large pests in the yard. Getting in used to be even easier, too.
+
+“When I first started making the mesh for the soda can, I got a message from Mitch a couple of days later and it was like, ‘Hey, this is incorrect. You have a wide-mouth soda can, and those didn’t exist at the time,’” Dunny says. “So I had to actually modify the mesh to fit with the time period of our game. It’s certain things like that, where you have to take into account not just how the thing is actually made but how it was made in the early ‘90s.”
+
+“Mitch also made Jabby Cola, which is my face and my nickname,” Brennecke adds. “If you see Jabby Cola, that’s me, which is great. I’m on a soda can now!”
+
+Toy Head
+
+One of the stranger objects in the yard is the head of an action figure – and the body is nowhere to be seen. There’s not much to go on, since it is just a head, but Obsidian has bigger plans for the toy.
+
+“We actually have our own cartoon universe that we’re making,” Brennecke says. It’s inspired by He-Man, but they obviously couldn’t just lift that licensed character. Instead, they put their own spin on the character. “His name is Yoked-Girth. He’s just like pure muscle. He’s like a lot of the action heroes from that period smashed all into one character. We’re also developing a toy line and a comic book.” There’s also a chance that players will run into toys based on their Skeletor analog. 
+
+The team was happy to talk about the minutiae behind many of Grounded’s landmarks, but only to a certain point. There were plenty of times where they held back a bit, wanting to keep some of it a mystery.
+
+“One of the things that I really love about this style of game is the discussion it brings about,” Dunny says. “I love reading fan theories about games that I like. Even seeing a Wikipedia page or a Gamepedia and seeing people piece together these things. By leaving less of it explicitly said, one of the things that I’m personally interested in is fostering that kind of discussion and encouraging that kind of community involvement.”
+
+If you’re looking to get involved in Grounded, you don’t have long to wait. Grounded is going into Game Preview and early access on Xbox One and PC starting July 28.
+
+      Products In This Article
+
+Grounded
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC
+
+Release Date:
+
+September 27, 2022 (Xbox Series X/S, Xbox One, PC), April 16, 2024 (PlayStation 5, PlayStation 4, Switch)
+
+Purchase
+More Info
+

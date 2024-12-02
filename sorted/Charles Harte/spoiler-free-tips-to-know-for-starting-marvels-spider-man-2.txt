@@ -1,0 +1,104 @@
+
+  Spoiler-Free Tips To Know For Starting Marvel’s Spider-Man 2
+
+
+
+
+
+
+            After years of waiting, Marvel's Spider-Man 2 hits the PS5 on October 20th, and if you've read our glowing review, you know how excited we are to cover it. That said, nobody would blame you if you're a little rusty with Insomniac's fast-paced combat system, and they definitely wouldn't blame you if you needed some tips to handle all the new features the game has to offer. Luckily, we've gathered sixteen pieces of advice right here to help you get back into the (literal) swing of things. Fire up your PlayStation 5; here are some beginner tips for Marvel's Spider-Man 2.
+
+A Guide To Parrying
+
+The ability to parry is one of the most significant additions to the wallcrawlers' arsenal, but it can be tough to get the timing right at first. Here's a tip: pay attention to the color of the spider-sense indicator, not the animation of the attack. Some attack animations make it look like the hit is coming sooner or later than you thought, but the ring above the enemy's head won't ever let you down. Just press L1 when it turns red. If you're having a hard time seeing it, you can change the color in the accessibility settings.
+
+Another way to get your parries down is to be patient. It's a little counter-intuitive since most of the Spider-Men's moveset has you moving as quickly as possible to avoid attacks and thwip across the arena, but parries don't cancel out your attacks – if you press the punch button and quickly try to parry mid-attack, the parry won't come out until after the attack is completed, leaving you vulnerable to attacks. This is doubly true for boss battles. If you wait your turn and parry at the right time, it's not too difficult to get by without taking any damage.
+
+How To Fast Travel
+
+You may have seen some impressive clips of Spider-Man 2 harnessing the power of the PS5 for its lightning-quick fast travel system, but it's not an ability available to you right from the start. It's actually only accessible once you finish a certain number of quests in an area, whether that's finding collectibles, taking photos, or doing side missions (however, unlike past games, crimes do not count towards this progress). You can track your progress via the district meter at the top of your map.
+Once you unlock the ability, you simply place your cursor exactly where you want to go on the map, hold triangle, and your Spider-Man will go directly to that point.
+
+Use Wind Tunnels And Updrafts
+
+Even though it might take some effort to unlock proper fast travel, your new Web Wings provide you with some of the fastest travel available in the series so far. If you're using updrafts and wind tunnels when you see them, you'll be surprised by how quickly you're able to rocket across the city – make use of them whenever you can.
+
+Don't Forget To Disarm Enemies
+
+One of the earliest abilities you can unlock is called Web Whip, and it is incredibly useful. Past games had you unlock different skills to disarm different types of weapons, but this game has no such requirement – the Web Whip ability allows you to grab guns, melee weapons, shields, and rocket launchers.
+
+Here's What Each Token Does
+
+Whether it's cosmetics, gadgets, or suit upgrades, most unlockables in the game require tokens. If you're short on any of them, hovering over the unlockable in the menu will prompt you to press a button for a quick guide that shows you which side missions are available where. You can also look at any mission in the Friendly Neighborhood Spider-Man app or map to see how much XP and which kinds of tokens it will reward you. That said, it isn't immediately clear which token does what, so here's a quick guide.
+
+Tech Parts (Grey) are the most common currency in the game. Most missions and side quests will give them to you in some amount, and by late game, you'll likely have more than you know what to do with. They're also the only currency you can collect from completing randomly generated crimes, so if you're low, just swing around for a minute or two and stop a drug deal. Just about every upgrade requires some amount of them.
+
+City Tokens (Blue) are unlocked by doing Photo Ops, Marko's Memories, and Friendly Neighborhood Spider-Man App Requests. Relative to the next two currencies, they're relatively low-lift, but you'll still need to seek them out to gather them.
+
+Rare Tech Parts (Yellow) and Hero Tokens (Red) are the most valuable resources in the game. Other than Prowler stashes, they're largely unlocked by missions that appear later in the game, which we won't list in order to avoid spoilers, but it's worth keeping close track of how many you have and how many you need for late-game suit and gadget upgrades. Speaking of which…
+
+Don't Buy Suits Immediately
+
+It wouldn't be an Insomniac Spider-Man game without a huge amount of suits, but they work a little differently this time around. In past games, unlocking suits would also unlock suit parts that you could use to augment your character in some way. In Spider-Man 2, upgrades and suits are not only separate, but they often use the same resources. Because of this, it's worth holding off buying suits, especially in the late game. You'll need an especially high supply of Hero Tokens and Rare Tech Parts to unlock the final suit and gadget upgrades, and it will take much longer to get there if you're spending all your currency on suits.
+
+Use Your Gadgets
+
+There are so many options in combat that it's easy to forget some of the staples of the series. Gadgets are a great example. In past games, you had a limited inventory that would replenish throughout combat, but now, they recharge automatically over time. Don't be afraid to use them – you'll be surprised by how quickly they come back.
+
+Web Grabbers Are Your Friend
+
+One of the best gadgets is the Web Grabber, which tethers webs to a group of enemies in an area and pulls them together. It's a fantastic opener for Miles' Venom Powers or Peter's Spider-Arm abilities since it gathers enemies in a cluster to hit with their area attacks.
+
+Set Shortcuts To The D-Pad
+
+Spider-Man 2 has a lot of accessibility options at the player's disposal, and many of them are useful, regardless of whether or not you have a disability. The best examples of this are the d-pad shortcuts. At the bottom of the settings menu, you can set certain commands to the d-pad to make your life a little easier. Personally, I like setting the Friendly Neighborhood Spider-Man App to one and the Photo Gadget to another, so I don't have to fiddle with swiping the touchpad. You can also use it to access photo mode, quickly access certain gadgets or abilities, or adjust settings like game speed and contrast modes.
+
+Corner Tether Is Extremely Useful
+
+Have trouble making tight turns? One of the most useful options in the skill tree is called Corner Tether, and it's something I'd love to see return in future games. It's available in the shared tree, just a few selections down in the middle, so you can access it early in the game. To activate it, just hold Circle in the direction you want to turn, and Spider-Man will quickly and smoothly round the corner, making chase sequences much more manageable.
+
+Use Tricks to Gain XP
+
+By holding Square midair and pointing the left stick in a certain direction, Spider-Man can do tricks, slowly generating XP over time. It isn't as much as you'd get from doing a mission, but it can be enough to gain you a level here or there if you find yourself close to the threshold.
+
+Web Shooters Can Heal You
+
+Web Shooters are good for immobilizing enemies and slowing them down, but they can also be a surprisingly effective defensive tool. Even at their base level, Web Shooters generate focus, and they can be upgraded to generate even more. Because focus bars allow you to heal yourself, it might be a good idea to get some distance, fire off a bunch of webs, and top off a focus bar for a burst of recovery.
+
+Eventually, Web Shooters can be upgraded to literally heal you on every hit, making this strategy even more effective. If you find yourself stuck on a difficult boss, webs are your best friend.
+
+You Can't Finish EMF Missions Until You Beat The Game
+
+A few hours into the game, you'll gain the ability to do EMF missions, which are usually cute little mini-games about science and nature. But while they're unlockable early on, you can't actually fully complete the questline until after you finish the main game, so keep that in mind as you seek them out.
+
+Grab Spider-Bots When You See Them
+
+One of the more mysterious collectibles in the game, Spider-Bots can be seen by the multicolored spherical pulses they emit in the city. New York is littered with things to do and collect, so you might be tempted to pass them by, but you should always stop and grab them. They're one of the only collectibles that don't appear in the map menu, so tracking them down again can be a significant hassle.
+
+The Flame Quests Are Worth Your Time
+
+The Peter-specific Flame questline has four quests that slowly become available as you complete the main story. While there isn't much reason to prioritize these quests over others, you should make a point to finish them before you put the game down. The ending holds some interesting implications that will likely be picked up in a sequel or DLC.
+
+Stick Around After The Credits
+
+If you're a fan of (or even just familiar with) Marvel movies from the past 15 years, you know sticking around after the credits is common superhero fan etiquette at this point. Spider-Man 2's post-credits scenes are no different and feature some new story details that are sure to pop up again in sequels or DLC.
+
+For more Spider-Man 2, you can check out its episode of New Gameplay Today, watch the launch trailer, and check out our review, where it scored a 9.5 out of 10.
+
+Are you excited to get your hands on Spider-Man 2? Let us know in the comments!
+
+      Products In This Article
+
+Marvel's Spider-Man 2
+
+Platform:
+
+PlayStation 5
+
+Release Date:
+
+October 20, 2023
+
+Purchase
+More Info
+

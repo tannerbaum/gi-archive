@@ -1,0 +1,82 @@
+
+                                          Transistor
+                  
+
+
+  Supergiant Games' Greg Kasavin Gives New Details
+
+
+
+
+Platform
+PlayStation 4, Switch, PC, iOS
+
+Publisher
+Supergiant Games
+
+Developer
+Supergiant Games
+
+Release
+May 20, 2014
+
+Rating
+Teen
+
+Transistor has been one of 2014's games to watch ever since its reveal a year ago. As the next project from Supergiant Games (the team behind the acclaimed Bastion), Transistor is an action/RPG with a tactical edge, and set in a compelling original world. So far, the only problem with Transistor is that we can't get enough information about it. Greg Kasavin, creative director at Supergiant Games, fixed that problem by answering some of our burning questions about the studio's upcoming PS4 and PC title.  
+GI: On the surface, Transistor seems to have parallels to Bastion. From your perspective, what are the main things that give Transistor an identity of its own?
+Kasavin: When we set out to make Transistor, our foremost goal was to create something with its own distinct identity, to build a whole new world from scratch that players could lose themselves in, and had the potential to stick with them in a positive way long after they finished playing. I think the tone and moment-to-moment play experience of Transistor will be key to giving it its own specific identity as a game. But there are many factors.
+Tonally we're after something that took us a while to articulate and to capture in-game, between the music and the artwork and the use of voiceover and the pacing of everything, as well as with the nature of the story. I don't like to spell it out and want players to find it for themselves. From a gameplay standpoint, from the start we really wanted to make something that felt relatively deliberate and measured, something that felt thoughtful, and could create a lot of anticipation and drama -- all in the context of an easy-to-pick-up-and-play action RPG.
+We consider Transistor an action/RPG like our first game, Bastion. With Bastion we found that the action/RPG genre offered lots and lots of untapped potential, both from a gameplay and narrative standpoint. With Transistor, we were excited to approach the genre from yet another angle, which we hope will make for something interesting and memorable.
+In combat, is the goal for players to rely primarily on the turn system? With that option available, are standard real-time attacks a last resort?
+We want the play experience of Transistor to feel personal and open, where you have the power to conduct the pace of an encounter, and can naturally discover play styles that really suit you. An important part of that is how you choose to engage with the game's strategic planning mode, called Turn(), which is designed to be used on your terms. The game quickly introduces you to the mode but beyond that never tells you when or how to use it -- that part is completely up to you, and we find that players intuitively and quickly pick up on it.
+Whether they use it to press the attack or as a last-ditch measure or for evasive maneuvers, or just for pausing and surveying, it's all viable in any proportion with the real-time combat. It's really important to us to balance the real-time play with the strategic planning and we're happy with how that aspect of the game has come along. We knew we were onto something with it when we noticed that everyone on our team was using Turn() differently when we played.
+Video Player is loading.Play VideoPlayMuteCurrent Time /Duration Loaded: 0%Stream Type LIVESeek to live, currently behind liveLIVERemaining Time - 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions settings, opens captions settings dialogcaptions off, selectedQuality LevelsAudio TrackFullscreenThis is a modal window.
+      An unanticipated problem was encountered, check back soon and try again
+        Error Code: MEDIA_ERR_UNKNOWN
+
+      Session ID: 2023-02-08:104713749c6ef7ebc1ceb23f Player Element ID: vjs_video_3
+          OK
+        Close Modal DialogBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.This is a modal window.Close Modal DialogThis is a modal window. This modal can be closed by pressing the Escape key or activating the close button.PlayMuteCurrent Time /Duration Loaded: 0%Stream Type LIVESeek to live, currently playing liveLIVERemaining Time - 1xPlayback RatePicture-in-PictureFullscreen
+We’ve seen some promising fights in demos of early parts of the game. How might an encounter play out in the game’s later sections?
+Positioning and tactics play an important role in Transistor. We want the game to create many situational opportunities for players to turn the tables on their foes. In later encounters you'll have to weigh a number of different priorities as you take on a dangerous faction called the Process. The Process has several unusual properties, such as how it gains experience levels and new abilities over the course of the game, shoring up weaknesses you've been able to exploit. Also, whenever you eliminate a Process, it becomes a harmless little cell that will soon respawn into a dangerous opponent if left unchecked. So, in practice you often have to choose between going after cells at risk of respawning, versus focusing on more immediate threats. As well, a typical battle will have you moving from one defensible position to another.
+You'll have a variety of tools at your disposal in dealing with these threats, as the Transistor is a mysterious and powerful weapon. While it can deal direct damage to the Process in various ways, it can do many other things such as force them to fight each other, conceal your position, create diversions, and more.
+In what ways are players able to customize Red’s abilities? Is it possible (like in Bastion) for players to focus on developing their favorites?
+A big part of the game revolves around unlocking the Transistor's various capabilities and learning all it can do. You'll find that each of the Transistor's different functions can be used in a variety of contexts and combinations, so in practice there will be a huge number of viable ways to 'build' your character.
+To give you an example, the first two functions you have access to are called Crash(), which provides a short-range attack that stuns Processes, and Breach(), which provides a powerful long-range attack that pierces through multiple targets. The thing is, not only are these two distinct abilities, they can also be used to augment one another. So, you can upgrade Breach() with the other function's stun capability, making it even more powerful. Or you can upgrade Crash() to have much longer range. Since you can have up to four active functions equipped at a time, each with multiple upgrades, the possibilities really start to open up. On top of that, each function can provide a unique passive bonus as well, so there should be lots of interesting trade-offs both when unlocking new functions to begin with and when configuring the ones available to you. This is a core part of the game we've been tinkering at for a while, and you're the first we've told about it!
+
+One of the main draws of action/RPGs is the progression from weak to strong. Red seems pretty capable from the start; is it a challenge to start at that level and find ways to ramp up the sense of power?
+Something that got me excited about the concept for Transistor early on was this idea of a game in which you had some sort of mythical 'Ultimate Weapon' right from the start, rather than just for the last level or whatever. If you start off with that kind of power, what would have to be done to make the play experience interesting? It's been fun coming up with the answers.
+One solution turned out to be simple at face value: If you're going to be strong, then the forces you're up against will have to be very strong too. The Process are fast, hit hard, and work together. But it's okay! You can stop the world around you at the touch of a button and decide what to do next. You'll play a sort of leap-frog with the Process as your capabilities and the Process' own capabilities grow over the course of the game. Generally the way in which we grow the player's power is through expanding options, giving you access to more and more functions, not just straight-up giving you more damage or health and so on. That way the game should start to feel more tactical, the decisions richer, not just bigger damage numbers. 
+Is it fair to characterize The Process as Red’s primary adversaries? What do the people in the city of Cloudbank know about them?
+The Process is desperate to recover the Transistor, which has fallen into Red's hands. There's also a small group of individuals called the Camerata commanding the Process, lurking behind the scenes while the Process pursues you. The people of Cloudbank are only beginning to realize the threat that the Process represents. The Process is something that's maybe been rumored in pubs over drinks, sort of an urban legend or conspiracy theory, but not something that a reasonable person would take too seriously. To Red, though, the Process is very real and poses an immediate threat.
+
+Voice appears to be thematically significant in Transistor. Without giving anything away regarding major revelations, can you expand on the role voice plays in the world?
+Red has a travelling companion of sorts in the Transistor, specifically in the voice you'll hear coming from it. You'll be able to tell up front that this voice belongs to someone who has some history with Red, and above all he's just trying to support her under a difficult set of circumstances. He's Red's moral support at a time when she could probably use some.
+When thinking about the kind of story we wanted to set up this time around, we found this type of partnership to be intriguing... on one hand, a character without a voice, someone whose voice has literally been taken from her, and on the other, a character reduced to nothing but a voice. We wanted players to explore and discover more about that relationship through the course of the game.
+You’ve focused on Transistor as a single-player game, but have also talked a little about how players can connect with each other. Can you elaborate more on the shape those interactions will take?
+The atmosphere and tone and pace of Transistor are essential to what we want to accomplish with it, so it is indeed focused around a single-player experience. But at the same time we were interested in looking for subtle opportunities to make players feel like they weren't necessarily alone at all times in this world, for reasons tied to the fiction and the themes we wanted it to explore. If we do our jobs right these will be subtle details and not things that distract in any way, and for that reason I don't want to get too specific about it. It's something we've continued exploring during development and will continue to keep a close eye on as the whole game comes together.
+
+Bastion had an outstanding soundtrack, and the song we hear in Transistor’s reveal trailer is similarly impressive. What can you say about Supergiant’s approach to music and the role it plays in development?
+Seeing as the atmosphere of our games is so important to us, the music naturally becomes a vital component of that. We once again have Darren Korb our composer and audio director at the helm on this front, and we knew straightaway that we wanted the music in Transistor to be at least as significant as it was in Bastion, in its own way. One way that's manifest is that Red our protagonist happens to be a singer, so the music you hear isn't just there to be pretty, it's part of the world and part of this character. A lot of who she is is right there in the music. Also from a more technical standpoint we've made the music dynamic in some exciting ways, such as how the Turn() mode affects how it sounds. We're always looking for interesting ways to make music feel like an integrated part of the experience, and we're very happy with the response we've received to the soundtrack so far.
+Supergiant has been pretty quiet about Transistor for the last few months. Has anything notable changed from what gamers have seen so far?
+After the fantastic response we got to our reveal of Transistor last year, we knew we just had to stay focused and make sure the full game lived up to the potential people saw in it, or better yet experienced from playing it. That's essentially what we've been doing.
+I think a lot of people have already made up their minds about whether or not they want to play Transistor just from what little we've revealed thus far. Likewise I don't think we'll tip many people over the fence by revealing more weapons or characters or whatever. So we just keep on tinkering away at the game.
+The big thing that's happened since last we publicly showed Transistor is we now have the whole game playable start to finish, with a complete story and all the environments and content we expect will be in the full game. We've also fleshed out all the core systems for mixing and matching different Transistor functions. That means from here on out we're just making all of it better. Hopefully, at least!  And we're pretty happy with a lot of it already.
+As a game developer, if you're busy building levels and other content then that's time you could have spent improving what you already had. So, even though this is an intense point in development, I've been feeling very good about where we're at since with each passing day I'm seeing more and more of the promise of this concept becoming fulfilled, and seeing so many small details, the little things we really want to do with it, happening more and more.
+
+      Products In This Article
+
+Transistor
+
+Platform:
+
+PlayStation 4, Switch, PC, iOS
+
+Release Date:
+
+May 20, 2014 (PlayStation 4, PC), June 11, 2015 (iOS), November 1, 2018 (Switch)
+
+Purchase
+More Info
+

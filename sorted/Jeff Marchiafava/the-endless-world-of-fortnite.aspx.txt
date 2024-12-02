@@ -1,0 +1,67 @@
+
+  The Endless World Of Fortnite
+
+
+
+
+
+
+Epic Games is leaving behind linear level design to embrace the chaos of an open, procedurally generated world. However, the studio is doing so in a way that still incorporates its experience crafting polished triple-A shooters, providing a unique mix of curated and spontaneous content. Here's what players can expect when they start exploring in Fortnite.
+
+Going To Town
+
+Since the success of Minecraft, players have seen more and more games dabble in the art of procedural generation, offering them limitless worlds to explore. Fortnite is the latest to experiment with this new trend, but unlike Minecraft, Epic Games isn't just dropping players in the middle of a giant open world. Instead, players will be exploring (relatively) smaller, themed maps that each contains its own mission objective, such as building and defending a radar dish or closing an energy gate to drive back the invading monsters.   
+
+Epic is tying this content together with the Town Map (pictured above), a hex-grid overview of the world that looks more like something you'd see in a Firaxis strategy game than a third-person shooter. The town map represents the entirety of a Fortnite campaign and will scale based on the general length the player wants the campaign to be (currently either 10, 20, or 50 hours). Each hex tile represents a different level that players can explore, and corresponds to one of the game's themed environments, which include grassland, forest, suburban, urban, and industrial areas. A fog of war shrouds nearby tiles in mystery, and recedes as the players move deeper into the map.
+
+In addition to harvesting materials and receiving rewards for completing individual levels, players progress toward a final goal tile located somewhere on the town map, which will trigger the end of the campaign. Difficulty ramps up considerably the further you progress; our first goal simply required us to survive a storm invasion for a few minutes and didn't require much in the way of strategy or teamwork – we were still able to explore nearby structures like an abandoned barn while picking off enemies. A few tiles into the town map, however, and the invasions were more daunting, requiring smart defensive building and coordinated efforts on the battlefield.
+
+Getting In The Zone
+
+As previously mentioned, selecting a tile from the town map loads its corresponding level, or zone, which players explore in a familiar third-person perspective. Based on that zone's theme, the procedurally generated landscape contains an assortment of appropriate geographical features and structures. For example, you'll see mines, silos, and barns in more rural areas, while houses and even entire city blocks may appear in suburban and urban zones. While the landscape can't be broken down, everything else in a zone is fully destructible.
+
+Although each zone is unique, players will gradually learn where to look for specific resources. Metal can be quickly accrued by breaking down chain-link fences and cars in urban zones, while forest zones are an obvious source for collecting wood. Health-replenishing food can be found in most abandoned buildings, in cupboards, refrigerators, and toilets – hey, scavengers can't be choosers...
+
+Houses and other areas of interest allow Epic to give players a little more direction. Fortnite's engine can randomly slot hand-designed content such as a graveyard or fire station into the procedurally generated landscape. In one zone, breaking through a basement in a mansion led me to a tomb featuring three treasure chests that contained powerful weapons. This tomb will always be located underneath that building when it spawns in a zone, though the appearance of treasure chests – as well as the loot they contain – is randomized.
+
+Many buildings and structures contain secrets designed around the game's destructibility and building mechanics. For instance, does the building you're exploring appear to have an attic, but no stairs leading to one on the inside? Head back outside and create a ramp to the top of the house, then smash your way through the roof – any area that requires a little ingenuity to reach is probably housing some secret goodies.
+
+By focusing on smaller zones based on different geographical themes, Epic cuts out the dull empty space and travel time of procedurally generated worlds in other games. When paired with the town map, players have more agency over what locales to explore, what resources will be available to them, and what mission objectives they want to tackle. One of the greatest pleasures of Minecraft is starting over and seeing what your new world will contain; Fortnite's format delivers that excitement on a steady basis. Although Fortnite's zones aren't as large as Minecraft worlds, each map still offers plenty of space to explore, and are dense with resources to harvest and areas of interest to visit before heading to the next locale. However, players looking for a little more permanence have some options as well.
+
+There's No Place Like Home
+
+Epic doesn't want you to stop playing Fortnite after you beat your first campaign; the developer hopes to support the title for years to come with a steady stream of new content. In order to keep players interested for the long haul, Epic is implementing a meta progression system called Home Base to tie all of your campaigns and characters together. Home Base represents your overall progress through the game; as you play, you'll construct a variety of helpful buildings in your own personal town with the resources you collect during campaigns.
+
+Currently, Home Base isn't a 3D game space you'll run around in like a zone, but more of an XCOM-style headquarters. Each building you erect, such as an armory, lumber mill, hospital, etc., will provide buffs to you and your teammates. For instance, a lumber mill may provide you with more wood when chopping down trees, make wooden structures cost less resources, or both. Your friends will all have their own Home Bases as well, which also contribute to the overall strength of your squad when playing together.
+
+Players can boost these bonuses by slotting their characters into the appropriate buildings of their Home Base (by putting a high-level constructor into the aforementioned lumber mill, for instance). This should encourage players to at least experiment with all of Fortnite's classes and level up multiple characters, ensuring they always have the right person for whatever role their party requires.
+
+The Fort Of Your Dreams
+
+Part of the appeal of building-focused games like Minecraft is having the freedom to create the fort/mansion/castle/USS Enterprise of your dreams. Fortnite's building mechanics don't get into the minutiae of placing individual blocks, so your creations won't be as customized as in Mojang's hit sandbox game, but as the above picture illustrates, you can still build on a grandiose scale.
+
+That said, the objective-based zones of Fortnite's campaigns aren't really conducive to overly elaborate builds – your real goal is to explore, scrounge some resources and loot, then build what's needed to complete the objective. Players looking to create the massive, intricate fort they've been fantasizing about since they were kids should instead head to The Fort.
+
+Like your Home Base, The Fort exists outside of Fortnite's other modes, providing players their own personal space to build a permanent structure. Players can bring back resources they gather in zones to work on their fort, and will be able to invite their friends to show off their creations and partake in the construction.
+
+More importantly, Epic says it plans to incorporate your custom project into other game modes. While Epic hasn't elaborated on what these potential modes might be, it's easy to get excited about the possibilities. Given the developer's history, a horde mode that lets waves of enemies loose on your dream base seems like a safe bet. Or imagine a capture-the-flag mode where the base at each end of the arena is the elaborate, sprawling complex that one of its respective team members has spent days building beforehand. Even standard deathmatch and team deathmatch modes could be made more interesting by incorporating players' custom creations, which has us eager to see what Epic is planning for Fortnite's launch.
+
+Come back next week for our in-depth look at Fortnite's building and crafting elements. In the meantime, check out our profiles on the game's commando, ninja, and constructor classes, as well as the monsters you'll face. To see all of this month's bonus Fortnite features, click the hub banner below. Want to play Fortnite for yourself? Sign up at Epic's site for a chance to be included in the upcoming alpha.
+
+You can also follow our Fortnite updates and other stories by following Game Informer on Twitter, Google+, and Facebook.
+
+      Products In This Article
+
+Fortnite
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC, Mac, iOS, Android
+
+Release Date:
+
+July 25, 2017 (PlayStation 4, Xbox One, PC, Mac), April 2, 2018 (iOS), June 12, 2018 (Switch), August 9, 2018 (Android), November 10, 2020 (Xbox Series X/S), November 12, 2020 (PlayStation 5)
+
+Purchase
+More Info
+

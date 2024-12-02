@@ -1,0 +1,39 @@
+
+  Ubisoft Introduces Quartz, A Platform For Playable NFTs
+
+
+
+
+
+
+            Ubisoft has announced its first step into bringing NFTs and blockchain technology into its games with the beta release of the Ubisoft Quartz platform. Starting on December 9, 12, and 15, Ghost Recon Breakpoint for PC will receive the first round of Digits, Ubisoft's name for playable, in-game NFTs.
+
+Quartz is a mobile app that will facilitate the connection between the goods in your digital wallets and Ubisoft's games that will use the NFT cosmetics called Digits. It's considered a test of the technology right now, but eventually, Ubisoft's goal is to have these Digits move from game to game, allowing players to use and show off their unique gear outside of Breakpoint.
+
+Digits are purely cosmetic items, with Ubisoft releasing them for free in limited quantities. Currently, the only game supporting Digits will be Tom Clancy's Ghost Recon Breakpoint on PC. The Digits releasing this week are unique skins to use on your character with visible serial numbers textured onto the item. There aren't any boosts or buffs given to characters equipped with the Digit skins. However, Ubisoft does want to one day attach personal achievements and in-game stats to the skins so the actions of the players who used them will carry forward to subsequent owners of the Digit.
+
+Because the items are limited, Ubisoft has made some restrictions to claiming these items. As a baseline, players can only acquire Digits if they are 18 years of age or older and have reached XP level 5 in Breakpoint, ensuring not just anyone can snag them upon release. Digits are also limited to a maximum of one per player, per Edition (unique item). Some Digit drops, including two of the initial three, will feature other game-time play requirements to retrieve the items. The first items being given away for free by Ubisoft include skins for a gun, pants, and a helmet.
+
+NFTs, cryptocurrencies, and blockchain technology are undoubtedly contentious topics at the moment, specifically considering the abundant energy consumption and the potential large scale negative environmental impact these can produce. In our presentation with the members of the Strategic Innovation Lab at Ubisoft, it was made clear the company's current stance on using the tech was contingent on it being energy-efficient and environmentally friendly. Therefore, Quartz and Digits are using the Tezos blockchain for these digital items, which is using the Proof of Stake method of verifying transactions and recording them to the blockchain ledger. According to Ubisoft, Quartz transactions "consumes 1 million times less than a Bitcoin transaction," a considerably big difference compared to other crypto-tied goods. 
+
+Ubisoft is calling the first Digit drops an experiment, but the company has been working towards this moment for close to four years. In that time, the Ubisoft Strategic Innovation Lab team has worked with a variety of blockchain-related companies like the developers of NFT game Axie Infinity to figure out the most appropriate way to implement NFTs into Ubisoft's games. In this time, the Innovation Lab worked on concepts like interoperability of NFTs between games by building the game One Shot League, which uses digital items originally made for another game called Sorare, among other experiments.
+
+The company wants Quartz to be a welcoming experience for consumers new to crypto-tied digital goods, where people can create their first wallets and collect Digits, NFTs, or other cryptos. The app will even set consumers up with a wallet to hold the first Digits they may claim – if they're quick enough to get one, that is. It's also worth noting that if you're not comfortable using or supporting blockchain technology, no one has to participate in using Quartz or Digits to play Ghost Recon Breakpoint, as both are completely optional.
+
+While I'm very skeptical of the overall nature of crypto, NFTs, etc., what Ubisoft has presented with Quartz and Digits is at least thoughtful of the big issues regarding the technology. Ensuring the platform's transactions are not harmful to the environment is a big first step for me to take the tech more seriously. The other is the sometimes scummy, sometimes scammy nature of NFT creation and sales culture, an aspect that isn't really a problem here since the items are essentially free from Ubisoft outside of the time spent in-game. All said, Quartz is, on its face, a more responsible take on NFTs than I was expecting from a AAA game developer/publisher. It'll be interesting to see how this is all received by the Breakpoint player base, and how or where Ubisoft decides to expand its Digits next.
+
+      Products In This Article
+
+Ghost Recon Breakpoint
+
+Platform:
+
+PlayStation 4, Xbox One, Stadia, PC
+
+Release Date:
+
+October 4, 2019
+
+Purchase
+More Info
+

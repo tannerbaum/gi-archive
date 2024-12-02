@@ -1,0 +1,210 @@
+
+  The Callisto Protocol Cover Story - The Dark Side Of The Moon
+
+
+
+
+
+
+Platform
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC
+
+Publisher
+Krafton
+
+Developer
+Striking Distance Studios
+
+Release
+December 2, 2022
+
+Rating
+Mature
+
+            Introduction
+
+Jupiter looms large, serving as an imposing backdrop as cargo ship pilot Jacob Lee crashes on the Gas Giant’s second-biggest moon. Our solar system’s largest planet may play host to a seemingly eternal storm, but something far fiercer is brewing on Callisto. It’s here that the creator of the Dead Space series, Glen Schofield, stages perhaps his most horrifying project yet.
+
+Set 300 years in the future, The Callisto Protocol unmistakably carries Schofield’s creative DNA, but through innovative technology, an uncompromised vision, and lessons learned from decades of development experience, Striking Distance Studios feels it has something more than a spiritual successor on its hands. The Callisto Protocol challenges players to face their fears as they descend into the depths of a lunar prison overrun by monstrous, infected humans and uncover what happened to one of our great hopes for life beyond Earth. We witnessed never-before-seen gameplay and spent hours picking the brains of Striking Distance Studios’ veteran developers to learn how this team is creating one of the scariest, most intense games of 2022.
+
+Back To The Drawing Board
+
+Back to the Drawing Board
+
+In 2019, Schofield took a trip out to the desert to get away from the hustle and bustle of the game industry. Just months prior, he had left Activision, a publisher with whom he had worked for nearly a decade. While there, he helped lead a studio he cofounded, Sledgehammer Games, as it worked on three mainline Call of Duty titles: Modern Warfare 3, Advanced Warfare, and WWII. Schofield eventually transitioned to an executive role within Activision before leaving the company less than a year later. He decided to take some time off and plot his next move.
+
+After 10 years of working on the Call of Duty franchise, Schofield was ready for something new. “We made three games which I’m really proud of; my time at Sledgehammer was something pretty special,” he says. “I’m not getting any younger, and I was like, ‘I’d like to do another new IP.’”
+
+He left his California home for Tucson, Arizona. He spent a couple of weeks at a health resort, but in his alone time, he wandered out into the desert to get away. Schofield, who got his start in the video game industry in the early ’90s as an artist on titles like The Simpsons: Bartman Meets Radioactive Man and The Ren & Stimpy Show: Space Cadet Adventures, started sketching, using the fauna of the sandy wilds as inspiration.
+
+In these moments of quiet reflection, Schofield came up with several ideas for new games. One of those ideas was called “Meteor Down,” a science-fiction survival game. The early concept had promise, but he was initially resistant to it due to the similarities between the ideas presented in Meteor Down and those in the popular series he helped create for Electronic Arts, Dead Space. In that title, players control Isaac Clarke as he navigates a derelict space station called Ishimura, battling reanimated, mutated human corpses called Necromorphs. While Schofield left Visceral Games and EA to cofound Sledgehammer Games shortly after the first Dead Space launched in 2008, the series continued through 2013 and remains perhaps Schofield’s most well-known work.
+
+While he was initially concerned about his new IP pulling from so many of the same inspirations as Dead Space, Schofield embraced these concepts as an unalienable part of who he is. He remembers sci-fi concepts spilling into his work, even dating back to his time at art college. Whether it was an assignment to do Mona Lisa in his own style (he chose to paint her as an alien) or to create a Western piece (he painted a space cowboy), science fiction has permeated his creative processes for decades.
+
+“By the time I graduated, my best paintings were all sci-fi,” he says. “A lot of things led me to science fiction, and if you go back and you look at all my early games, there would be like Bart Simpson on the moon and there will always be something in it that had science fiction.”
+
+Upon reflecting on his past with the science-fiction genre and what it means to him, Schofield decided to jump into Meteor Down with both feet. “I’m not going to shy away from a good idea because it was in one of my games,” he says. “All game makers look at ideas from other games. Picasso said, ‘good artists borrow, great artists steal.’ Well, why not steal from myself?”
+
+With Schofield now looking towards the future with a vision in mind, he began shopping Meteor Down around to major publishers. He didn’t just want a game deal, though; he wanted a studio deal. He put together a 30-slide PowerPoint presentation and wrote a 30-to-40-page story to present in his meetings.
+
+Striking Distance Studios wants to make sure you never know what to expect as you turn each corner and enter each room
+
+After running Visceral at EA and Sledgehammer at Activision, he was ready to do it independently, with no compromises on the studio’s culture or vision. Schofield met with companies like Google, Microsoft, and PlayStation to talk about his ideas for Meteor Down and his forthcoming studio and hear what they had to offer him.
+
+After taking these meetings, Schofield determined they weren’t a good fit for what he was hoping to accomplish. However, around this time, he heard that C.H. Kim, CEO of Krafton, the company behind games like PlayerUnknown’s Battlegrounds, was looking for “the Call of Duty guy” to start a studio in the United States. Schofield met with Krafton at DICE Summit 2019 in a hotel room in Las Vegas, Nevada and liked what they had to say.
+
+“He just kept saying the right things, about building a studio and letting the creative people do their thing, which I’ve heard over the years, but somehow, I believed it this time,” Schofield says. “C.H. has been right to his word the whole time. He has allowed us 100 percent creative autonomy.”
+
+Schofield hit it off immediately with Kim and the rest of the Krafton team. They moved forward with founding a studio with the idea of creating Meteor Down as a game within the PlayerUnknown’s Battlegrounds universe. But before work could begin in earnest, he needed a studio. He enlisted the help of people he had worked with in the past, such as Steve Papoutsis, who served as senior producer and executive producer on the Dead Space series, GM at Visceral Games, and had accompanied Schofield to some of the follow-up meetings with prospective Meteor Down publishers. Schofield slid into the role of founder and CEO, while Papoutsis took the position of chief development officer. Together they began charting the path of their new studio.
+
+When determining a name for the new company, the duo struggled to find something that was descriptive, clever, and perhaps most importantly, not taken. After the two failed to immediately come up with a name that wasn’t already being used, Papoutsis looked at Schofield and asked him what the keys to the games they were going to create were. One key tenet Schofield appreciated most about his time with Visceral and Sledgehammer was that those studios were all about creating high-quality video games. That was something Schofield wanted to carry into this new venture.
+
+“I said, ‘I want it to be within striking distance of the best quality games,’” Schofield recalls. “It worked out well because it made sense. When I was making Dead Space, I had just finished making [James Bond 007: From Russia with Love] and Bond did not get the scores that I wanted. When I was making Dead Space, I swear to you, all I talked about was quality. All the team talked about was quality. I didn’t look at the budget, I didn’t look at the sales; I just focused on quality.”
+
+With that notion powering the work the team wanted to produce, Striking Distance Studios was born. From their decades of experience, they recognized the importance of hiring the right people to join their team. Pulling from a Rolodex of former coworkers, Schofield and Papoutsis assembled a team consisting of developers who had worked on games like Dead Space and less-established developers who could benefit from the mentorship of such seasoned industry professionals.
+
+With the studio established and Schofield’s team assembled, Striking Distance began work on the game he envisioned out in that desert, albeit with some changes. While the story of Meteor Down was about a catastrophic meteor collision kicking off the events of the story, the game Striking Distance decided to move forward with involves a colonized version of Jupiter’s moon, Callisto, around the year 2320.
+
+The result is The Callisto Protocol, the next evolution of Schofield’s frightful formula. And if the final product is anything close to how tense and horrifying the exclusive gameplay we witnessed is, fans of the science-fiction horror genre are in for a treat.
+
+Assembling a Dream Team
+
+When founding Striking Distance Studios, CEO Glen Schofield closely examined what he wanted to do differently with his new venture, taking lessons from his time in leadership roles at both Visceral Games and Sledgehammer Games. “With [Sledgehammer Games], it was like, ‘Okay, we’re going to go build this studio together,’ and this time I wanted to do it on my own,” Schofield says. “I just kind of wanted to be like, ‘This is the way I’m gonna run it. It’s been a lot of freaking work, but it’s nice. At the end of the day, it is the way I’ve wanted to do it.”
+
+One of the things Schofield valued most with Striking Distance was building a team with whom he was enthusiastic to work. “Before we went out to start pitching the game and studio, I spent a lot of time building out my dream leadership team,” he says. “It started with Steve Papoutsis, our chief development officer. Steve has worked on every Dead Space ever made and took over as executive producer, VP, and GM of Visceral after I left EA. Chris Stone was another critical hire as our chief creative officer. I’ve also worked with Chris since the first Dead Space, and he worked with me on three Call of Duty games.”
+
+Schofield rounded out the leadership team with chief operating officer Stacey Hirata, who had impressed him with her work on the Guitar Hero franchise in the late 2000s, and chief technology officer, Mark James, who brought with him years of experience at companies like 2K and LucasArts. With Schofield’s dream team assembled, Striking Distance Studios positioned itself to deliver the horrifying experience Schofield first envisioned with The Callisto Protocol.
+
+Tension And Apprehension
+
+Tension And Apprehension
+
+Shortly after our protagonist, Jacob Lee (portrayed by actor Josh Duhamel of Las Vegas, Jupiter’s Legacy, and Call of Duty: WWII), crash lands on the moon with mysterious cargo, he’s thrown into the massive prison that exists in the shadow of our solar system’s largest planet. The good news is Jacob’s not locked up for long. However, that brings us to the bad news: Something has happened on the moon, and all hell has broken loose. Now, Jacob is caught in a desperate struggle to survive the unspeakable horrors of Callisto and its menacing prison and get to the bottom of what caused the outbreak of mutated humans known as Biophage.
+
+My demo with The Callisto Protocol begins in the medbay of Black Iron Prison. Flickering lights that appear to be running on emergency generators instantly set a tense tone; there’s no doubt that something terrible happened here, and there’s somehow even less doubt that you’re about to find out what.
+
+As Jacob approaches a bloody room with an empty gurney, a hologram flickers on. The signal may be slightly distorted, but the events it depicts are clear as a Biophage tears through two guards, quickly explaining the unsettling mess in the room.
+
+It doesn’t take long for the creature responsible to show up, and Jacob has no choice but to defend himself. Jacob is a cargo ship pilot; he isn’t a soldier or a hardened criminal who would be trained or familiar with using weapons, but he has amassed a modest arsenal by this time in the game. Using a pistol, he blasts the limbs off the first creature that emerges. That initial encounter is scary enough, but that is just the basic, less evolved threat. The Callisto Protocol quickly showcases a couple of different enemy types, including a larger-bodied Biophage and a hulking tank that can take much more abuse.
+
+Each time you encounter a bloody mess of a room like this, you can probably expect the culprit is nearby
+
+These Biophage creatures are exaggerated; their grotesque mutations almost conceal their once-human forms – almost. Through a concept Striking Distance calls “designed realism,” the team starts all its models with something very familiar to players, creating a more immersive form of horror. To achieve this effect, every humanlike Biophage creature’s design started as a human scan in the game. From there, the art team manipulated the features to create the horrific forms you encounter as a player.
+
+“These enemies are all grounded in reality,” character director Glauco Longhi says. “We start with something that was real, and now we are morphing them into something that feels a bit more than real. It’s really expanding reality in a way, and we definitely want to piggyback on the idea of unleashing the beast and unleashing the animal. We want this to feel very brutal and scary and intimidating.”
+
+To combat these monsters, Jacob can use ranged attacks like his pistol and shotgun, or his melee attacks with his baton. The melee moves are dynamic based on things like Jacob’s positioning and his proximity to environmental objects. In one brutal sequence, Jacob bashes in the skull of a Biophage before smashing the creature up against the nearby wall and delivering the final blow. He can also utilize combat-enders by combining his melee and ranged attacks. For instance, when you get a good combo on an enemy, a small crosshair will appear on their body as they fall back, stunned. If you aim down the sights of your gun at that moment, the weapon automatically snaps to that targeted body part, and you can get a good shot off, possibly blowing that limb clean off the enemy.
+
+With dismemberment playing a role in how you combat the Biophage, their behavior changes if they take on permanent damage from their encounter with the player character. For example, if a Biophage loses an arm, it won’t be able to grapple or grab Jacob, giving you more freedom in approaching the encounter. If you take off its legs, it must crawl to get to you, opening it up to Jacob’s lethal stomp move. When you’re overwhelmed or outmatched, getting creative with how you combine these abilities is of the utmost importance.
+
+While its moon, Callisto, serves as the setting for this game, Jupiter provides a visually stunning backdrop to the horrifying events
+
+However, if things look particularly dire (or you just want to have the most fun possible), you can use Jacob’s unique gravity-based GRP ability. Using this, he can grab enemies and objects from across the environment and pull them towards him or push them away. This tool, which Black Iron Prison guards used for crowd control, lets you manage overwhelming situations or experiment with unique ways to dispatch your enemies. Jacob grabs a mutated creature in one sequence and throws him directly into a spinning fan, splattering him into pieces. In another scene, Jacob comes across a spiked wall taken straight out of Mortal Kombat; I would bet the GRP abilities would very much come in handy there.
+
+While Jacob isn’t trained in combat, these weapons and skills give him a fighting chance against the monstrosities running amok in the prison. However, with enemies this threatening, the team wants to make sure every encounter – even those with the most basic creatures – feels tense and worthy of your complete attention.
+
+“That’s where we started: on the harder side of things to make sure that it felt scary,” design director Ben Walker says. “We want you to be afraid of single enemies. All these tools we built up for Jacob are to deal with the difficulty as opposed to coming at it from the other end of, ‘Hey, you can do all these cool things, now let’s make some enemies.’ We did it in reverse for that very reason. You feel scared, and you have to make the right calls at the right time.”
+
+After several of these tense encounters that show off exactly what Walker is describing, Jacob finds the medbay’s exit and discovers an unsettling sight: The door opens and dismembered guards dangle from the ceiling, strung up with hooks and spikes. Though he escaped the horrors of this first area of our demo, the situation is clearly out of control, and Jacob’s fight to survive is only getting started.
+
+Designing the Future
+
+With The Callisto Protocol taking place 300 years in the future and on a moon of a faraway planet, Striking Distance Studios needed to design its environments, objects, and even its characters in forward-facing ways. While the studio has an art team full of game-industry and sci-fi veterans, to get the aesthetics just right, it enlisted help from artificial intelligence inspired by a process called “generative design.” By taking human-designed objects and putting them through this A.I., the designs are optimized for efficiency in a way that looks and feels alienlike. “We decided to apply this throughout the game,” art director Demetrius Leal says. “We took a bulkhead door, and we took that language and started putting it on the door itself. And we did this with our vehicles, our weapons, some of our NPCs like a security robot. What we ended up with was this finished product with a generative design on it that integrates seamlessly with the rest of the environment.”
+Descending Into The Depths
+
+Descending into the Depths
+
+The following demo sequence of The Callisto Protocol picks up in the basement of Black Iron Prison. Immediately, a disgusting, long-necked creature rockets out of a pod and latches onto Jacob’s neck. These Biophage creatures, internally referred to by the development team as “Bloodworms,” act almost as landmines you trigger if you’re not careful. If you’re observant enough, you can approach its pod from the correct angle and destroy it before it has the chance to spring out like a morbid Jack-in-the-Box and gnaw at Jacob’s shoulder.
+
+These creatures don’t appear to be overtly deadly; they only deal minor damage to Jacob if you remove them before it bites too deep. Instead, this particular creature serves another critical purpose within The Callisto Protocol: keeping players on edge. Through creatures and scares like what this monster delivers, Striking Distance can pay off the tension it masterfully builds as you explore the desolate corridors and landscapes of Callisto.
+
+Protagonist Jacob Lee is thrust into this extraordinary situation and must survive the horrors of Black Iron Prison and Callisto to make it out alive
+
+Keeping players on their toes by balancing when they’re safe and when they’re in danger is paramount to maintaining the feeling of unease the studio is going for. “We’ll try and get you early in the game; like when you open a door, and something’s there,” Schofield says. “Then, hopefully, you’re worried about every door. And then after about five levels, when we don’t get you with the door, you kind of let your guard down again, and then we get you. There is a lot of timing.”
+
+To craft these kinds of experiences, Striking Distance has coined a new term for how it builds tension and then releases it through a scare or disturbing imagery. “We have this concept that we’re calling ‘horror engineering,’” Papoutsis says. “Having made a lot of horror games over the years, it’s really important for us to make sure that we construct these things in a meticulous way so that they have the maximum impact on players, and they can be memorable and scary and bring out all the tension, terror, fear, anxiety, apprehension that these moments can deliver.”
+
+So much of setting the tone comes from the game’s stellar audio. Each horrifying discovery is accompanied by audio effects that feel straight out of your favorite horror movie. Many of these unsettling sounds come by way of The Apprehension Engine, a unique instrument created by composer Mark Korven (The Witch, The Lighthouse, Resident Evil: Welcome to Raccoon City) and guitar maker Tony Duggan-Smith. The two work together to create original sound effects for horror media. Striking Distance Studios uses The Apprehension Engine to great effect, enhancing the frightful exploration of Callisto and Black Iron Prison and building the tension therein.
+
+As Jacob continues exploring the basement, he encounters more Biophage creatures, further showcasing the combat and the versatility of some of these monstrosities. One such organism is able to enter grates in other rooms and emerge from vents near the player character. These surprises are crucial to that notion of building tension and go hand-in-hand with the way the art team designed the environments of Callisto.
+
+“In lockstep with the narrative, we want to give the players something new to explore, some new surprise, some reason to keep on going forward and explore,” art director Demetrius Leal says.
+
+I witness the team’s propensity to surprise players firsthand as Jacob’s time in the dark basement ends as he enters an elevator. The slow-moving lift gradually reveals a massive structure with a bright light shining above. Under normal circumstances, a well-lit area in a game like this feels like a refuge from the horrors of the dark. However, something feels menacing about the framing of the light when contrasted with the structure. Once I make out the lettering on the side of the building, my suspicions are confirmed: “SHU” – it’s the Special Housing Unit where Black Iron Prison isolates its most dangerous inmates.
+
+Outside of the imposing form factor of the SHU, Striking Distance Studios experiments with using light to indicate danger or to obscure your view, building further tension when contrasted with the dark environments in which most of my demo has taken place. Using the notion of creating a “cruel glare,” the art team manages to use light to match the tension and unease of the darker areas.
+
+“It’s this light that’s really harsh, oppressive, uninviting, and it has that feeling of emptiness,” Leal says. “Usually with light, it’s a glimmer of hope or something you want to go towards. We wanted to put it on its head; we wanted to do the exact opposite, where you see this thing – I call it the Angel of Death – but it’s really the Special Housing Unit. It’s suspended jail cells in this huge cavern. We wanted the player to feel worse as we get closer to it. We did that throughout the game.”
+
+In the moment of the SHU reveal, I’m both nervous and deadly curious about what lurks within. Unfortunately, I’ll have to wait until the game is out to learn what’s within, as I’m moved on to the next section of my demo. When the third and final part of my experience with The Callisto Protocol begins, it’s clearly later in the game; Jacob, now donning a full spacesuit, is underground, exploring a system of dilapidated tunnels.
+
+The PUBG Connection
+
+When Striking Distance Studios was founded in 2019, one of the first pieces of news to emerge surrounding The Callisto Protocol was that it takes place in the universe of the popular battle royale game, PlayerUnknown’s Battlegrounds.
+
+When I asked Striking Distance CEO and game director of The Callisto Protocol Glen Schofield about its relationship with PUBG in April 2022, he assured me that players don’t need to worry about missing out on the experience if they’re unfamiliar with the battle royale title. “The idea of us being in the universe at first sounded really good, and then as you start coming up with your story we realized, ‘Wow, this is a little out there,’” he says. “We built in some touchpoints, and you’ll find them throughout the game like Easter eggs and things like that.”
+
+Instead of direct references to PUBG or the battle royale competition depicted in that game, Striking Distance views the PUBG universe as a timeline of stories that are connected by themes of survival. This is particularly true when you consider how far into the future The Callisto Protocol takes place.
+
+“When we came in, they had a lore team and they were writing this big story, like, ‘Where does PUBG start? Where does it fit in?’” Schofield says. “They write this giant timeline, and our writers are involved in helping. We sit on the timeline, but we sit pretty far out there, and kind of alone. So if they ever make another game, let’s say that’s after our timeline, I would imagine our game will inform that more than we are being informed by their timeline.”
+
+However, in the time since that April 2022 conversation, Schofield announced that The Callisto Protocol no longer takes place in the PUBG universe. We don't yet know if that means the small references to PlayerUnknown's Battlegrounds will remain as Easter eggs, or if Schofield and his team will remove them.
+
+Before we embark on our underground adventure, the in-game camera zooms in on Jacob’s detailed face. His eyes dart back and forth, and his heavy breath condensates on the glass of his helmet. This attention to detail carries through in the character designs, environments, and, of course, the gore. The tunnels make this more evident than before, as collapsed paths and obscured light showcase the level of detail the team has put into the world. However, the new enemy types in this final section of my demo show off how far the team went to portray the game’s grisly environments.
+
+As Jacob enters a rare open area of the tunnels, a bulbous Biophage spots him from another tunnel entrance. Seemingly incapacitated by the putrid growth on its back, it frantically crawls towards him, but thanks to his trusty shotgun, he blasts it away before it can get too close. Jacob continues to the next room, where he’s not so lucky. This time, he misses his shot, and the Biophage explodes, knocking Jacob to the ground and raining bloody bits all around him. The sound design is equal parts fantastic and nauseating as the blood-soaked pieces of the monster fall to the floor with appropriately sopping sounds.
+
+The Callisto Protocol’s dynamic melee combat combines with an arsenal of guns and a unique GRP gravity ability to give Jacob a fighting chance
+
+“When we talk about audio design in a game like this, it’s 50 percent of the game, man,” Schofield says. “It’s like a mechanic; it’s a feature… front and center. We love messing with the audio, constantly playing with different sounds.”
+
+But it’s not just the excellent sound design that contributes to the authenticity of the carnage. The art team dove deep into the gruesome world of blood and guts to accurately capture the gore the studio wanted to portray in the game. Like its character designs, the studio started creating gore by looking at reality.
+
+From studying how flesh decomposes after being shot to how blood splatters after a traumatic blow to the body, the developers of The Callisto Protocol left no stone unturned. In one sequence, we watch as a dual-mouthed monstrosity brutally bites Jacob’s head off, leaving his tongue sticking out of his neck as his bloody corpse falls to the ground. In another graffic death sequence, Jacob’s body gets caught in a giant ventilation fan, which tears his body in half in watch-through-your-fingers manner. The team studied real-life police videos of horrific situations for sequences like these. I won’t go into the terror-inducing details of the exact situations Striking Distance Studios studied but suffice to say that even Schofield was left uneasy by the reference material.
+
+“We definitely want the player to feel satisfied when he’s shooting or very scared when he gets killed,” Longhi says. “We definitely want to play into the horror. There is a lot of gore. Gore is a really big part of how we’re going to be disturbing the player and creating horror experiences.”
+
+Thankfully, in my demo, Jacob keeps pushing forward. Before he sees the literal light at the end of the tunnel, he encounters a few more traditional Biophage creatures. They’re more scaled over this time, giving off a clank sound when Jacob bashes them with his baton instead of the standard fleshy smash. These shell-like growths indicate the mutation has progressed further along than the Biophage we encountered earlier in my demo.
+
+Jacob survives the tunnels by the skin of his teeth. As he emerges, I get my first glimpse of the surface of Callisto. A snowstorm rages, and the next stop for our protagonist looks to be an area labeled “Garage.” Sadly, that’s where my time with The Callisto Protocol comes to an end.
+
+What About the Dead Space Remake?
+
+About seven months after Striking Distance Studios announced The Callisto Protocol, Electronic Arts revealed it was remaking the original Dead Space. CEO of Striking Distance Studios and The Callisto Protocol game director Glen Schofield created Dead Space while he worked at Electronic Arts in the 2000s. While he’s happy to see the series, which last received a new entry in 2013, live on, he’s somewhat conflicted about the reveal of a remake of the 2008 game he created.
+
+“I took [the announcement] as a compliment; I still do take it as a compliment,” Schofield says. “I’m still kind of bummed about it too. There’s this weird, weird thing, like you’re not attached to your own game. It’s a weird feeling. […] They want to make a game better than the one you made. I do wish them well because I want to see the franchise live; that’s where I want to be. I want to play it. I want them to do well. I’m glad the franchise is now given a second life.”
+
+An Unflinching Vision Realized
+
+An Unflinching Vision Realized
+
+After seeing The Callisto Protocol in action and speaking with the team, it’s clear that the mantra of quality about which Schofield was so adamant when he founded Striking Distance Studios has persisted through the development of its debut title. Despite looking at several sequences worth of gameplay and chatting for hours about what we saw, Striking Distance Studios is playing its cards close to the vest. Further details about the game’s characters, story, and what other horrors await as we dig deeper into the conspiracy of what happened on Jupiter’s second-largest moon are saved for when we play the final product.
+
+While I was disappointed in the moment that the developers wouldn’t spill more details, in the hours after my demo, I couldn’t stop thinking about what I had learned about the ambitious project. The horrifying imagery, the masterfully built tension, the intriguing setting and story – they all culminate in something that feels like an evolution of gaming’s science-fiction horror genre.
+
+With Schofield, Papoutsis, and their team of veteran developers at the helm of an uncompromised take on the genre they helped revolutionize in 2008, The Callisto Protocol looks like a nightmare come true for fans in the best way imaginable. I can’t wait to scream along with those eager fans as I uncover the mysteries of Callisto, Black Iron Prison, and the Biophage this December.
+
+This article originally appeared in Issue 346 of Game Informer.
+
+      Products In This Article
+
+The Callisto Protocol
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC
+
+Release Date:
+
+December 2, 2022
+
+Purchase
+More Info
+
+Brian Shea
+Online Content Director
+Brian has written about video games for more than 15 years across multiple publications. Brian is also the host of All Things Nintendo, a weekly podcast focused on the news and games of Nintendo.
+
+Email
+Twitter
+

@@ -1,0 +1,59 @@
+
+  UK Regulators Block Microsoft's Acquisition Of Activision Blizzard Over Cloud Gaming Concerns
+
+
+
+
+
+
+            Editor's Note: This story was updated to include a statement from Activision Blizzard CEO Bobby Kotick and another from Activision Blizzard regarding the CMA's ruling. 
+
+The Competition and Markets Authority, a U.K. regulatory agency that serves the same function as the Federal Trade Commission in the U.S., has blocked Microsoft's pending $68.7 billion acquisition of Activision Blizzard over cloud gaming concerns. 
+
+This news is somewhat shocking, as quite a few experts predicted the CMA would allow the deal to go through, and while this block presents a large barrier to Microsoft's progress forward toward this acquisition, it's not a be-all, end-all for the purchase. Microsoft says it remains dedicated to this acquisition and will appeal the CMA's ruling. 
+
+As for why the CMA is moving to prevent the acquisition, it cites concerns "the deal would alter the future of the fast-growing cloud gaming market, leading to reduced innovation and less choice for UK gamers over the years to come," in its official announcement. 
+
+"The final decision to prevent the deal comes after Microsoft's proposed solution failed to effectively address the concerns in the cloud gaming sector, outlined in the Competition and Markets Authority (CMA) provisional findings published in February," it continues. "Microsoft has a strong position in cloud gaming services and the evidence available to the CMA showed that Microsoft would find it commercially beneficial to make Activision's games exclusive to its own cloud gaming service."
+
+It says elsewhere in the announcement that this deal "would reinforce Microsoft's advantage in the market by giving it control over important gaming content such as Call of Duty, Overwatch, and World of Warcraft" and that "evidence available to the CMA indicates that, absent the merger, Activision would start providing games via cloud platforms in the foreseeable future." 
+
+Prior to this block, Microsoft did submit a proposal to address some of the CMA's concerns but ultimately, it failed to sway the agency. The CMA laid out "a number of significant shortcomings connected with the growing and fast-moving nature of cloud gaming services" from Microsoft's proposal: 
+
+It did not sufficiently cover different cloud gaming service business models, including multigame subscription services.
+It was not sufficiently open to providers who might wish to offer versions of games on PC operating systems other than Windows.
+It would standardise the terms and conditions on which games are available, as opposed to them being determined by the dynamism and creativity of competition in the market, as would be expected in the absence of the merger.
+
+Microsoft released a statement about today's announcement, citing that it is disappointed the decision seemingly reflects a flawed understanding of the video game (and cloud gaming) market. It will appeal the decision. Here is Microsoft's statement, in full, from vice chair and president Brad Smith: 
+
+We remain fully committed to this acquisition and will appeal. The CMA’s decision rejects a pragmatic path to address competition concerns and discourages technology innovation and investment in the United Kingdom. We have already signed contracts to make Activision Blizzard’s popular games available on 150 million more devices, and we remain committed to reinforcing these agreements through regulatory remedies. We’re especially disappointed that after lengthy deliberations, this decision appears to reflect a flawed understanding of this market and the way the relevant cloud technology actually works.
+
+Activision Blizzard CEO Bobby Kotick released a statement about the CMA's decision following its announcement as well. You can read it below, in full: 
+
+Today, the Competition and Markets Authority (CMA), a regulatory agency in the UK, decided not to approve our merger with Microsoft. This isn’t the news we wanted – but it is far from the final word on this deal. 
+
+Alongside Microsoft, we can and will contest this decision, and we’ve already begun the work to appeal to the UK Competition Appeals Tribunal. We’re confident in our case because the facts are on our side: this deal is good for competition. 
+
+The UK hopes to grow its leadership position in technology, and a combined Microsoft-Activision would accomplish exactly that. At a time when the fields of machine learning and artificial intelligence are thriving, we know the UK market would benefit from Microsoft’s bench strength in both domains, as well as our ability to put those technologies to use immediately. By contrast, if the CMA’s decision holds, it would stifle investment, competition, and job creation throughout the UK gaming industry.  
+
+This merger is a complex process, and I know I’m not the only one frustrated by the hurdles and delays. We’re accustomed to a company culture that moves quickly to accomplish big goals, so it’s tough when we can’t close things out at our usual energetic pace. We’ll keep pressing our case, because we know that this merger will benefit our employees, the broader UK tech workforce, and players around the world. 
+
+I’m going to do everything I personally can to advocate for us and help regulators understand the competitive dynamics in our industry.  What gives me confidence is that, whether on our own or united with another company, we are one of the strongest companies in our industry, poised for continued growth, and building on our incredible IP. 
+
+I appreciate your continued hard work and focus, and for continuing to connect and engage our players around the world. This is the best time to be in our field, and you all represent the best of our industry.  We’ll be sure to keep you updated on next steps as they happen.
+
+Activision Blizzard's official wording on the decision is as follows: 
+
+The CMA’s report contradicts the ambitions of the UK to become an attractive country to build technology businesses. We will work aggressively with Microsoft to reverse this on appeal. The report’s conclusions are a disservice to UK citizens, who face increasingly dire economic prospects. We will reassess our growth plans for the UK. Global innovators large and small will take note that - despite all its rhetoric - the UK is clearly closed for business.
+
+Beyond this CMA decision and Microsoft's forthcoming appeal of it, Microsoft still has to content with the Federal Trade Commission, who, like the CMA, can move to block (or greenlight) the deal here in the States. 
+
+What do you think this means for Microsoft's pending acquisition of Activision Blizzard? Let us know in the comments below!
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

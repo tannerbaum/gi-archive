@@ -1,0 +1,236 @@
+The Rise And Fall Of Telltale Games
+  The Rise And Fall Of Telltale Games
+
+
+
+
+
+
+            Intro
+
+As he waited for the hundreds of employees to trickle into the room, Telltale CEO Pete Hawley cracked some jokes, easing the tension for a moment before discussing the matter at hand. The entire studio had received the meeting invitation just an hour and a half beforehand, and confusion spread quick. “Were you invited?” coworkers asked one another, each wondering about the nature of the meeting. Some were concerned it was a small batch of layoffs, while others were convinced it was good news after hearing talk of new investors. If anything, things looked promising with Telltale’s next big, high-profile projects on the horizon, including the finale to The Walking Dead, a Stranger Things game born out of a Netflix partnership, and the anticipated return of The Wolf Among Us. This made Hawley’s next words all the more shocking.
+
+He informed the group that Telltale Games was laying off 90 percent of its staff as the company headed toward a majority studio closure. Only a small group of 25 would temporarily remain to finish Minecraft: Story Mode’s transition to Netflix. Without any advance warning, everyone else had merely 30 minutes to exit the building before even wrapping their heads around the shutdown. They left without severance, with only nine more days of health insurance, and worst of all, no job. People gasped, coworkers hugged, and some uncontrollably sobbed. Ironically, one former employee describes the dramatic scene as though it came “right out of The Walking Dead” – a game that brought the studio worldwide recognition, but also steered the company toward an untimely demise as it tried to reach those same heights again.
+
+            One of Telltale’s initial goals was to continue Sam & Max adventure games in an episodic format
+
+One of Telltale’s initial goals was to continue Sam & Max adventure games in an episodic format
+
+After this fateful meeting, all of Telltale’s upcoming big releases were dead. News of the studio closure rattled the games industry with shock and bafflement, as if this were a death-defying stunt gone terribly wrong.
+
+Only a few years prior, Telltale was at the top of its game, evolving into an adventure-games juggernaut, bringing the genre back to the mainstream, and dispelling the notion that “adventure games are dead.” The company’s work inspired hundreds of other developers to create story-driven games in recent years like Firewatch and Life is Strange. But after oversaturating its market, introducing vigorously quick production cycles, and growing its studio too quickly, it soon became a beast that could no longer be fed.
+
+We spoke to several ex-Telltale employees and executives to better understand what led to the developer’s abrupt closure, how the studio bred a toxic work culture, and how Telltale made such a huge impact on the industry with its revival of a genre from a bygone era.
+
+Puzzle Agent
+
+Seeking Adventure
+
+Seeking Adventure
+
+In the ’80s and ’90s, adventure games were in their prime. Dubbed as the genre’s golden era, this period brought about profitable titles like Full Throttle, King’s Quest, Monkey Island, and more. LucasArts was one of the leaders in the genre, but shifted its focus in the early 2000s as the popularity of adventure games decreased with its lack of evolution and a growing console market. By 2004, LucasArts was no longer making adventure games, focusing solely on its Star Wars properties and canceling its two adventure games that were still in development, Full Throttle: Hell on Wheels and Sam & Max: Freelance Police.
+
+Telltale’s three founders had all worked at LucasArts together on different projects. Troy Molander and Kevin Bruner worked on Grim Fandango, and Dan Connors and Bruner teamed up on Sam & Max: Freelance Police. Bruner joined LucasArts in 1997, nearing the adventure-game genre’s decline. At that time, LucasArts was trying to approach the adventure games business in a pragmatic and realistic way.
+
+“We had to stay on time, we had to stay on budget, and be disciplined about the game we were making. Otherwise we would lose the opportunity,” Bruner says. “I think a lot of that affected our production strategy, our technology strategy, and our development strategy, so that we wouldn’t lose the chance to make the games that we loved to make. And that very much got instilled at Telltale as well.”
+
+As LucasArts changed its vision to move away from adventure games, Molander, Connors, and Bruner felt that despite a market decline, there was a lot of potential in how adventure games could grow and tell meaningful stories. The same year LucasArts changed its direction, the three departed from the company and decided to make adventure games with a start-up of their own.
+
+“We had all this ambition about what next-generation adventure games could look like and then we lost the context of where we could pursue that, so we just decided to start on our own,” Bruner says.
+
+The Walking Dead
+
+Bruner named the company Telltale, because what he loved most about making adventure games was telling stories. Rather than focusing on some of the more problematic or obtuse puzzle designs in older adventure games, Telltale Games introduced novel concepts like branching narrative and an episodic format, giving players dramatic stories to experience. But because adventure games weren’t too profitable at the time, taking this new twist on the genre to store shelves proved difficult.
+
+“Early on at Telltale we tried to get regular publishers involved, but traditional publishers weren’t interested in this kind of content that we wanted to make,” Bruner says. “We had to do it ourselves, and we had to make the most of what we had. There was really just no other way to make the kind of games that we wanted to make.”
+
+Instead of working with publishers, Telltale self-published and digitally distributed its games. The company’s initial goal was to continue LucasArts’ Sam & Max franchise in an episodic format, which it received the license for in 2005. Although none were major successes, Telltale’s games had licenses with small but dedicated fan bases, keeping the studio afloat for its first five years with brands like Sam & Max, Wallace and Gromit, CSI, and Homestar Runner.
+
+During the early days, Telltale’s existence was often shaky. The small team took risks with quirky ideas such as Poker Night at the Inventory, a poker simulation with licensed characters like Strong Bad from Homestar Runner and RED Heavy from Team Fortress 2. According to Bruner, he and the other execs would spend many Christmas breaks planning for the worst, such as a licensing or investor deal failing to come through.
+
+“In the early part of Telltale, there were definitely times where we were like, ‘We don’t know if we’re going to survive,’” Bruner says. “Those were miserable meetings, but then we got a little bit more success under our belt and it was no longer the case that we needed to do that.”
+
+In 2010, Telltale created a viable road to more significant profit when it secured two movie licenses with NBC Universal: Jurassic Park and Back to the Future. This opened the door to bigger opportunities down the line, including comics adaptations from companies like DC Comics and Skybound.
+
+Revival Of The Walking Dead Final Season
+
+The fate of The Walking Dead’s final season, where we would see the end of Clementine’s adventure, was in limbo for two months after Telltale’s studio closure. With only a skeleton crew left to continue on Minecraft: Story Mode, it was unclear whether we would ever see the long-awaited conclusion to The Walking Dead. Because of its serialized format, fans who bought season passes felt wronged to not receive a full product, and Telltale wasn’t transparent on its plans, leaving consumers confused and angry to the point where some harassed ex-Telltale employees, even demanding it be completed without those workers getting paid.
+
+“A lot of the fans were very angry at first. And to be frank, I don’t blame them,” says former Telltale narrative designer Emily Grace Buck. “They just didn’t know where to direct their anger, which is an overall gamer problem that we see often. That anger kind of went everywhere and especially to whoever was most visible, which wasn’t the company Twitter account at the time and still isn’t. They didn’t really know anybody who still works there to be able to talk to.”
+
+By mid-November, Skybound Games, the original IP holders of the license, announced that it would work with a group of Telltale’s former talented, passionate team members to bring an end to The Walking Dead’s seven-year series.
+
+“It’s been a ton of work logistically and legally to get us to a place where we’re able to roll up our sleeves and get to the actual work,” read a statement from Skybound.
+
+Those who already purchased a season pass will not have to pay again. Episode three launched on January 15, and episode four came out March 26.
+
+A Breakthrough Success
+
+A Breakthrough Success
+
+Two years later, Telltale struck gold. The company released The Walking Dead to critical acclaim, receiving numerous game of the year awards. Upon launch, it was Telltale’s fastest-selling series, with the first episode amassing one million copies sold in just 20 days. By early 2013, Telltale had earned around $40 million in revenue from The Walking Dead’s first season alone. Thanks to the ease of digital distribution and strong storytelling, The Walking Dead became one of the most memorable adventure games ever.
+
+The Walking Dead put Telltale on the map industry-wide, showcasing the studio’s strong writing and introducing admirable characters like Clementine and Lee as they attempt to survive in a post-apocalypse. Instead of viewing a zombie outbreak solely through an action-oriented lens, what helped The Walking Dead stand out was its emotional narrative, the concept of non-player characters remembering gripping choices you make, and the feeling of steering the narrative yourself.
+
+“We went way out on a limb when we made [The Walking Dead], and the fact that it worked and became an important game was super special,” Bruner says.
+
+According to Telltale’s former head of creative communications, Job Stauffer, who got hired around the launch of The Walking Dead, the success of the game gave Telltale the ability to grow quickly, making the small studio not so small anymore.
+
+            Telltale believes that The Wolf Among Us was “one of the most important games” it made, proving that The Walking Dead wasn’t a one hit wonder
+
+Telltale believes that The Wolf Among Us was “one of the most important games” it made, proving that The Walking Dead wasn’t a one hit wonder
+
+“Telltale was having grand, mainstream success for the first time,” Stauffer says. “With that rise came more cash, more capital, more talent wanting to come join our team, and a period of rapid growth. Before the November 2017 layoffs, we had upwards of about 400 people. We were already a mid-tier developer studio in 2012, and it quadrupled in size by 2018.”
+
+This growth and success came with more pressure from above, particularly from Telltale’s board of directors and its investors. Although Telltale began as a risk-taking company, it slowly became more risk averse, trying to replicate The Walking Dead’s success.
+
+“We wanted bigger and more interesting licenses, so we had bigger and more interesting market opportunities,” Bruner says. “And we wanted to make sure that we didn’t go backward. We didn’t want The Walking Dead to be a fluke, or to be a one-hit wonder.”
+
+Game of Thrones
+
+Pressure To Recreate The Magic
+
+Pressure To Recreate The Magic
+
+Telltale proved The Walking Dead wasn’t a one-hit wonder. For example, Minecraft: Story Mode became its bestselling series while Tales from the Borderlands, Batman’s second season, and The Wolf Among Us also received mostly positive reviews.
+
+Bruner says the The Wolf Among Us was “one of the most important games” Telltale made, and it’s easy to see why. Thanks to the Fables license Telltale acquired, The Wolf Among Us brought a creative, detective noir twist to beloved fairytale characters that were exiled to New York City, making fans hungry for more stories in that universe.
+
+Unfortunately, Telltale’s successes weren’t enough to save the studio. The Walking Dead faltered in its later entries, never reaching the high bar of the first season. Other projects like Guardians of the Galaxy sold poorly too, failing to become the smash hits Telltale expected.
+
+“I know that some of the last few games Telltale released did not make as much money as the company had hoped,” former Telltale narrative designer Emily Grace Buck says. “I would not have been surprised if Telltale had teetered out and suffered a slow death. The fact that it got to the point where one [failed] round of funding meant suddenly being done, when the writing had seemed to be on the wall for years, was bizarre.”
+
+            Telltale’s Guardians of the Galaxy felt off-tone from the rest of the franchise and sold below expectations
+
+Telltale’s Guardians of the Galaxy felt off-tone from the rest of the franchise and sold below expectations
+
+The “writing on the wall” came in many forms, including Telltale’s relentless drive to recreate The Walking Dead’s charm in all of its future games. This gave Telltale a signature look and feel, that Bruner still believes had value, despite it being controversial amongst fans and critics.
+
+“As Telltale got bigger and more focused on mega-hits-type things, basically, The Walking Dead was a double-edged sword,” Bruner says. “You can’t duplicate game of the year over and over again. But there was a lot of pressure to duplicate The Walking Dead.”
+
+Still, major license holders that struck deals with Telltale wanted more of the same, hoping to grab that Telltale magic found in The Walking Dead. Telltale’s board of directors put pressure on the company to replicate its prior success, too.
+
+“When we would go out to license holders to get bigger and better licenses, it made sense to be more conservative there,” Bruner says. “You weren’t going to [talk to HBO] and say, “We’re going to run a big new experiment on Game of Thrones.’ [Instead, we would say,] “We’re going to do what we did with The Walking Dead for you.’”
+
+With tired, overused concepts and an unwillingness until its final year to ditch the decade-old in-house engine called the Telltale Tool, the company became less experimental and suffered creative stagnation. Despite the Telltale Tool being what several of the studio’s ex-writers call amazing game-writing software, it wasn’t powerful enough in many other ways. Without a dedicated physics system, if the director wanted an action sequence with a falling bookshelf, animators had to create each element by hand. This pulled at Telltale’s resources and took enormous amounts of time away from the team. The hobbled tech ultimately became one of the leading factors in Telltale’s demise.
+
+“Internally, we talked a lot about transitioning to Unreal, and it was very disruptive to the business,” Bruner says. “We couldn’t shut the business down and not ship a game for months and months or a year to transition the technology.”
+
+Batman: The Enemy Within
+
+Telltale’s games followed a stringent formula that fans and critics grew weary of, and its lack of evolution cost the studio in big ways. By 2013, the games industry entered a new generation with PlayStation 4 and Xbox One, but Telltale struggled to keep up. Its average graphics weren’t evolving, and it was clear Telltale was being surpassed by games made in the same vein like Life is Strange.
+
+Even with big licenses like Game of Thrones, Telltale experienced many failures. Buck believes this is partly due to Telltale’s “fundamental misunderstanding” of its audience. For example, Guardians of the Galaxy is known for its comedic themes through its comics and movies, but Telltale’s take on the universe was more focused on action and dark themes. This made Telltale’s version feel off-tone from the rest of the franchise. Minecraft: Story Mode had similar problems, but they were fixed before release. Although Minecraft is a game that is popular predominantly with children, Telltale first planned for a more juvenile world aimed at teenagers and young adults. In the end, changes came through to target a younger audience. That decision led Minecraft: Story Mode to great success, but it still showcased the company’s disconnect.
+
+“They were targeting an older audience [for Minecraft: Story Mode], trying it make it edgier,” Buck says. “Some of that came from publishing. It seems like some of that came from the board’s requests as well. There were misunderstandings and misinformation at multiple levels that caused things to go that direction.”
+
+Conflict between the production team and executives were apparent as well, as many employees noticed flaws that led Telltale to become less revolutionary than it once was. Creative stagnation led to arguments in meetings and a stressful work culture as Telltale raced to become relevant again.
+
+Lawsuits Against Telltale
+
+Although there isn’t much of Telltale left, the company nonetheless faces two lawsuits: co-founder and former CEO Kevin Bruner is suing the company after he was forced out, and Vernie Roberts, an ex-Telltale employee, is filing a class-action lawsuit regarding the studio’s closure.
+
+Bruner is suing for financial damages, and Roberts’ lawsuit states Telltale violated labor laws by not giving employees any notice of termination until the day of. The latter might prove complicated in court, especially because of variations between California and federal law.
+
+Under the WARN Act, American employers are obligated to give 60 days’ notice to workers prior to plant closings and mass layoffs. However, some exceptions, such as the Unforeseen Business Circumstances Exception, where companies have to lay off large numbers of workers or close facilities immediately after sudden or unexpected circumstances outside the employer’s control (such as loss of a major contract), could work in Telltale’s favor – at least on a federal level.
+
+“It seems pretty clear to me that, under California state law, [Telltale employees] likely will be entitled to 60 days’ worth notice pay,” says Jessica Fink, professor of law at California Western School of Law. “The company may have a defense under federal law, but that defense would not help the company on the state WARN claim because California does not recognize the Unforeseen Business Circumstances Exception.”
+
+Filing for bankruptcy could also give Telltale leverage in court. However, the company has not done that since its closure. Telltale has applied for assignment proceedings, which is an accelerated process similar to bankruptcy. Settling outside of court could be another option, because as Fink suggests, “Telltale probably does not have much by the way of funds for litigation expenses either.”
+
+Running Out Of Breath
+
+Running Out Of Breath
+
+One way Telltale attempted to become relevant once more was by upping its release schedule, hoping to achieve more lucrative results. Telltale’s production cycles became strenuously quick, which Bruner says was because the studio couldn’t afford more time. Employees often worked 80-hour weeks to meet deadlines, and last-minute changes were commonplace, sometimes a week before a game would ship.
+
+“Being in a creative room with Kevin [Bruner] could, in a lot of instances, be very difficult,” Buck says. “He was known for asking for extremely large changes very close to ship date that would mandate crunch for a huge percentage of the studio, which is obviously not ideal. Yet at the same time, he was under a lot of pressure from the board that wanted certain types of products to come out.”
+
+Bruner compares Telltale’s episodic and serialized format to Saturday Night Live, where the show must go on, whether you’re prepared or not. With season passes, Telltale needed to work hard and fast to get consumers their content, but it was often done under duress and at the cost of the team’s mental health.
+
+“For me, at an executive level, all the way down to the animator – if you see an opportunity to make the game better, and you know it’s going to ship in a week and you care about the content, it’s really hard to walk away from the content and just say, ‘You know what? This is as good as it’s going to get. I’m going home,’” Bruner says. “We tried to create an environment where you really had to do that to survive at Telltale, because we didn’t have these three-year-long production cycles.”
+
+Because this fast-paced culture was a norm at Telltale, several employees suffered as they tried to keep up. Stauffer says the way Telltale was run was “not always in the interest of the health of the employees.”
+
+Tales from the Borderlands
+
+“I was in a public position where, I was always the one going out [doing PR] and being excited about our game,” Staffer says. “That’s great when you’re a publisher and you put out maybe one or two games a year, but at Telltale it was happening multiple times per month.”
+
+When an anonymous former Telltale writer started out at Telltale in 2013, he describes it as having a “malleable, still-indie spirit” where production staff often tried on different hats, and crossover occurred through different departments. Like many, he loved working at Telltale, but there was an ebb and flow of good and bad moments.
+
+During the development of one of Telltale’s games, for example, he was taken off the project and demoted, after “pushing an idea too hard” with the wrong people. But he’s far from the only one who faced blowback after speaking up, especially during executive reviews.
+
+“There was definitely a culture of fear for a long time at Telltale, especially when Kevin Bruner was still working there,” Buck says. “If they didn’t like what you had done, even if it was exactly what they had asked for, the chances of you being kicked off a project or demoted were extremely high.”
+
+High-level talent noticed the warning signs and left for more lucrative opportunities at companies like Ubisoft, or to start game studios of their own. Sean Vanaman and Jake Rodkin, project leads on The Walking Dead’s first season, went on to make Firewatch. Tales from the Borderlands writer Adam Hines left to make Oxenfree. Even The Walking Dead’s design director, Dave Grossman, departed to work on Day of the Tentacle Remastered. These exits left a leadership vacuum at Telltale and only gave the company more competition.
+
+            Minecraft: Story Mode is Telltale’s bestselling game of all time, beating out even the company’s crown jewel, The Walking Dead
+
+Minecraft: Story Mode is Telltale’s bestselling game of all time, beating out even the company’s crown jewel, The Walking Dead
+
+The Growing Competition
+
+The Growing Competition
+
+The first time an anonymous Telltale writer noticed that the studio could be in trouble was during E3 2016. After watching showcases from different publishers like Sony and Microsoft, he worried that Telltale’s biggest competitors were beating Telltale at their own game. Massive triple-A action games like God of War were putting more of a focus on emotional storytelling, and even smaller titles that were announced earlier, like Night in the Woods, were telling interesting stories in experimental ways Telltale was not.
+
+“I remember E3 2016 really feeling like a turning point where you suddenly saw that a lot of studios’ presentations with games that were really telling their stories with their characters,” he says. “I saw that, and I said, ‘Oh, this isn't a good sign.’”
+
+Telltale based its business off huge media licenses, giving it a triple-A aura, but its strict budgets and scope limitations kept it from being able to compete with those bigger studios due to its troubled technology and lower manpower. Telltale could potentially attract huge audiences with licenses for Batman and Minecraft, but the company’s cookie-cutter approach left little variety from one game to the next.
+
+            Poker Night at the Inventory launched in 2010, when Telltale was still taking risks with storytelling and game mechanics
+
+Poker Night at the Inventory launched in 2010, when Telltale was still taking risks with storytelling and game mechanics
+
+“A problem we were running into is, you know, you look at who we were actually competing with, which was the Firewatches and Oxenfrees of the world, and those were teams of 10 people,” he says. “Meanwhile, we were trying to keep a studio afloat of like 350 people.”
+
+By 2017, Telltale was diligently trying to set itself on a new path to success with new CEO Pete Hawley. With a partnership with Netflix, the team was to begin working on a Stranger Things game and a Netflix port for Minecraft: Story Mode. Although it felt like Telltale was finding some solid ground again, 25 percent of the team was laid off later that year due to continuing financial burdens.
+
+“I think the November 2017 layoffs felt like dodging a close call,” he says. “Everybody felt like, ‘Okay, the company just took a heavy blow.’”
+
+“Obviously the 2017 layoffs were not a good sign,” Buck adds. “A large layoff like that never is. At the same time, I think there had been a level of concern internally for quite a while.”
+
+Despite shrinking the team and a promising new licensing agreement, Telltale’s biggest and final blow was just around the corner.
+
+Keeping Game Industry Leaders Accountable
+
+Toxic workplace conditions in the games industry have been widespread, making Telltale’s problematic crunch periods commonplace in the industry. Is there a way to keep industry leaders accountable? Telltale’s former narrative designer Emily Grace Buck believes unionization is one step toward advocating for game designers’ rights.
+
+“I do think that moving towards a union is a good idea,” she says. “I’ve joined my local Game Workers Unite and I think that organization is doing a lot of good work to bring visibility to the issues developers deal with internationally, but in the United States, it’s a very difficult country to advocate for workers. I think there’s a lot of interest, there’s a lot of excitement around it, which is impressive and important especially given today’s political climate that is extremely anti-unions.”
+
+The Game Workers Unite organization is rallying together games industry professionals so they can advocate for their rights and attempt unionization.
+
+“Workers should never feel at the behest of company bosses, a separate body with expertise in employment law that would represent the worker is crucial in case any grievance were to occur,” says Marijam Didžgalvytė, chair of communications committee for Game Workers Unite International. “Yet, it is a sad reality that in the 50 years of the games industry history, unionization has never taken root. Well, it is time to change that and challenge the culture of crunch, harassment, outsourcing, insecure contracts, and so on.”
+
+According to Didžgalvytė, if Telltale’s workplace had been unionized, severance pay would have had to have been negotiated in the event of a mass layoff. “A union cannot prevent mass firings,” she says. “But it would be there to ensure that the company follows up on legal proceedings protecting the workers in such a circumstance.”
+
+The Final Blow
+
+The Final Blow
+
+After investors AMC, Smilegate, and Lionsgate pulled funding, Telltale was forced to begin its shutdown last September. Now, in its final days, Telltale has no more production staff, faces two lawsuits, and is removing several of its games from digital storefronts like Steam as the company liquefies its assets.
+
+Telltale’s unexpected closure was, according to its former employees, handled extremely poorly in comparison to previous layoffs. Without even a day’s notice for workers, let alone two weeks, Telltale executives had to hurriedly shut down the studio when no money was left.
+
+“It should never have happened, and it should never happen again, and I honestly believe that this closure, as big of a disaster as it is, is the death rattle of the way we produce and create video games,” Stauffer says.
+
+Telltale’s final layoffs came as a surprise not just to its employees, but to the executive staff as well. Bruner, who had departed from the company a year prior, learned about the closure eight hours before it happened. HR personnel were working vigorously the previous night until 2 a.m. to put together termination packets for the hundreds of employees that would soon be jobless.
+
+“I was completely taken by surprise at the closure,” Bruner says. “It was unthinkable to me that the studio would shut down. The notion that you would go full-speed and then stop was just unfathomable to me; it’s certainly not how I run a business. I don’t know the details of the weeks that led up to that decision and how that decision was made, but I don’t know how you don’t at least give people two weeks.”
+
+Batman: The Enemy Within
+
+However, the problems leading up to the closure, from financial instability to crunching its employees, are far from exclusive to Telltale. Rockstar’s co-founder Dan Houser boasting last year that the studio’s writers worked 100-hour weeks to complete Red Dead Redemption II is just one example of an industry-wide crisis that prioritizes game production first and work-life balance second. Other studios like Blizzard, Bungie, Naughty Dog, Electronic Arts, and more fell into the same problematic pattern where employees had to work under strenuous crunch in an attempt to ship games out on time.
+
+“I’d say that there were no issues that Telltale dealt with that were unique to Telltale,” Buck says. “Trying to blame any one of those issues on why it closed or any one department or any one person is really futile.”
+
+Although Telltale’s journey has come to an end, many of its former employees have moved on to new positions at other game studios, like Insomniac Games, Blizzard, and Ubisoft, where they continue to make meaningful stories. Earlier this year, Buck started a game-writing mentorship program called FirstShot.
+
+“It’s for people who have either never published a game as a narrative designer or for a writer that has been working in games, or a writer who has never made a game before, or who are new to both,” Buck says. “They can apply for this program and I will help mentor them through the process of making their own game.”
+
+Whether they are working in the games industry still or not at all, Telltale’s ex-staff are finding new beginnings. With its talent dispersed now to different studios, we can be hopeful that more of Telltale’s storytelling gold will appear in new and fantastic ways in the industry’s future. Looking back, although it came to a rocky conclusion, Telltale’s games made us cry, laugh, and gasp with well-crafted tales and characters. Telltale fans will remember that.
+
+“I hope that the things that Telltale did the best are what it’s remembered for,” Bruner says. “And the things that we certainly did not do the best at are – I don’t want to say forgotten about because we don’t want to forget about them – but that those are not its sole legacy.”
+
+This article originally appeared in the April 2019 issue of Game Informer.
+

@@ -1,0 +1,127 @@
+
+                                          Suicide Squad: Kill The Justice League
+                  
+
+
+  A Lengthy Hands-On Session
+
+
+
+
+Platform
+PlayStation 5, Xbox Series X/S, PC
+
+Publisher
+Warner Bros. Interactive
+
+Developer
+Rocksteady Studios
+
+Release
+February 2, 2024
+
+Rating
+Mature
+
+            Suicide Squad: Kill the Justice League exists at a strange intersection of gaming hype. On the one hand, obviously, we are and should be excited for Rocksteady's return to the Arkham Universe that it popularized through some of the greatest superhero games of all time. Obviously. But on the other hand, Suicide Squad: Kill the Justice League deviates from so many of the conventions that made Arkham Asylum, Arkham City, and Arkham Knight so beloved. And so many of those conventions that Kill the Justice League embraces – such as a team-based, co-op infrastructure, and a live-service-inspired post-launch content plan – have crashed and burned in other superhero games, most notably Crystal Dynamic's ill-fated 2020 Avengers title.
+
+These factors come together to make it so I, quite frankly, don't know how I should feel about this game. So when Warner Bros. and Rocksteady invited me to Burbank, California, to spend a day playing the game and talking to the developers, I jumped at the chance to finally piece together how much hype I should or shouldn't feel for Suicide Squad: Kill the Justice League now that it's less than a month from launch.
+
+The Setup
+
+Dawn of Justice
+
+Much like its predecessors, Suicide Squad: Kill the Justice League gives you a cinematic adventure within Rocksteady's DC Universe. Five years after Arkham Knight's events, the Justice League – including Superman, Batman, Wonder Woman, The Flash, Green Lantern, and presumably others – has been keeping order on the planet. Those five years were clearly eventful, as we now have a whole suite of heroes instead of just Batman, but we don't have a game to explain all of those moments.
+
+Instead, players can find clues about the state of the world since Arkham Knight. "There are a few different avenues that the kind of space between the two games is filled in," production manager Jack Hackett says. "Some are in major setpiece moments during the story where details are revealed or otherwise explained. There are also a whole bunch of collectibles and details in the city which give you further information. I think, for the really dedicated story fans of the Arkham Universe, they'll spend some time when the game's out unpacking exactly what went on for each character. I think you're also going to find out what happened to some characters you might not expect to pop up in this game again, but there are some pretty deep cuts from the Arkhamverse that will pop up and say hello."
+
+When I ask Hackett about the 100-percent ending of Arkham Knight, he tells me it is considered canon and will play a role in Suicide Squad: Kill the Justice League. "It did set up something, didn't it?" he says with a chuckle. "I won't say anything more than the word 'yes.' But you'll know the canon ending of Arkham Knight once you've played Suicide Squad: Kill the Justice League." 
+
+Regardless of the events of Arkham Knight's ending and everything involving Superman, Wonder Woman, and the Justice League in the time since, the order the world had experienced thanks to the superhero team comes to a screeching halt when Brainiac invades Metropolis and enslaves much of humanity, including several members of the Justice League. 
+
+Naturally, it's up to the Suicide Squad, comprised of detained criminals, to save the day. Amanda Waller masterfully manipulates them (by planting a remote-denotation explosive device in each of their heads) to get them to take on this daunting task. After an appropriately funny introductory cutscene, the adventure opens up. Metropolis plays on the strengths of Rocksteady by delivering a vertical open world. However, this time, the city is bigger than ever before; this is the largest city the studio has ever created, and you have four unique traversal styles to help you get through it.
+
+Single-Player
+
+Play the Hits
+
+Going into each gameplay session, you choose which member of Task Force X you want to control. At launch, players can control Harley Quinn, Deadshot, King Shark, and Captain Boomerang. Each character plays completely unique, and even if it doesn't make sense for them to engage in the extreme vertical traversal required for this game, they give them an in-universe reason for it. For example, King Shark's strength and leaping ability give him natural ways to quickly move through Metropolis with little loss of momentum, but what about humans like Deadshot, Harley, and Boomerang? 
+
+Early on, a visit to the vacant Hall of Justice allows Task Force X to ransack some gadgets from the now mind-controlled heroes. Boomerang grabs Doctor Sivana's Speed Force Gauntlet that lets him fly through the air in super-speed bursts, while Harley grabs a grappling hook and Bat-Drone to serve as a grappling point, and Deadshot snags Gizmo's jetpack. 
+
+"When we first start, we want to see what's fun in traversing the space of something like Metropolis; it's not just horizontal travel, it's very vertical as well," advanced combat designer Noel Chamberlain says. "We wanted to think of four different ways of achieving this – four very unique traversal styles – and then how would these characters then do it. It's kind of a mix of both the kind of gameplay side and what the player is doing mechanically and then also being able to give a very rich narrative reason that fits the character. Like, Boomerang stealing his version of the traversal feels very on-brand for him."
+
+In this opening section, which I experienced in single-player, I choose Deadshot. His arsenal of weapons allows him to fight at mid or long-range, with an automatic and sniper rifle at his disposal. I use his jetpack to reach the roof of the building and get a good view of what Brainiac has done to the city. The devastation is evident, and clearly not what the members of the Force thought they signed up for. After Captain Boomerang yells at Waller for sending them into a warzone, an unphased Waller congratulates them for being the first to make it into Metropolis alive.
+
+Task Force X's first mission is to activate a transponder in the middle of the city. I fly off the roof and over to the transponder. Of course, it can't be that easy; Brainiac's forces beam in, surrounding the Squad. Using Deadshot's automatic rifle, I pick off a few, then fly up to a rooftop with his jetpack for some close-range combat. This is where Rocksteady has shined in the past – after all, it's not like Batman was spending too much time blowing enemies away with a rifle in the Arkham games – but don't expect the Arkham-style Freeflow Combat. 
+
+According to Rocksteady, this shift resulted from looking at how the characters of Task Force X should control instead of what the developer has specialized in through its past games. "Freeflow, as a combat style, worked really well for Batman because he's tactical; he's thinking, he's always got the solution, he's the master martial artist," Hackett says. "For the combat in [Suicide Squad: Kill the Justice League] to match the personalities and tactics – or lack thereof – of the Squad, it has to feel really different. It has to be bombastic. It has to be fast-paced. It has to be kind of mad. It has to be loud and vivid. The game is so bright and colorful, and the abilities of the Squad are colorful; that wouldn't have suited Batman any more than the Batman combat would have necessarily suited the Squad. We tried to figure out what we think suits the way those characters would move, the way they would fight, the way they would engage enemies, and then drive design from there."
+
+When you're up close, you can pull off melee attacks, though they're much more straightforward action-oriented than the thoughtful combat of the Arkham Freeflow Combat. When enemies exist in various damage states, you can also pull off a Critical Counter or drain them of their shields. After clearing one rooftop, I'm off to the next using Deadshot's jetpack. This time, Captain Boomerang is already there, pulling his weight; when you play single-player, the A.I. controls your teammates. The pacing is way more frantic than a typical Arkham encounter, making this feel decidedly different and more fitting for a Suicide Squad game despite taking place in the same universe as those solo Batman games.
+
+Deadshot's jetpack is useful for getting from one area to the next – and it feels good doing so – but my favorite thing to do with it is to hover over the battlefield and pick off enemies with his rifle. After clearing a few rooftops in this fashion, the team is grabbed by a mysterious green force. After being dragged around the city, Green Lantern, clearly corrupted by Brainiac, appears, issuing a stern warning to Task Force X. The brainwashed hero gives them a tour of Metropolis' destruction, but before he can finish Harley, Deadshot, and crew off, The Flash shows up to confront Green Lantern, and the powerful hero-turned-villain pursues his old teammate instead. Sadly, just as the heroes of the Justice League started showing up and I started getting invested in the on-screen action, my single-player session came to a close.
+
+Multiplayer
+
+Plays Well With Others
+
+Next up, I load into a lobby with a full four-player team to play through parts of Chapter 3. I select Harley for this session. While I wait for others to load in, I check out the cosmetics available to me. The Arkham straight jacket I saw her sporting in Chapter 1 is available, but so is something that veers closer to her more modern look, with colored pigtails, bright eyeshadow, and a red, white, and blue aesthetic.
+
+We load into a LexCorp base, where the team is suiting up and getting briefed on the next mission. Since this is a bit later in the story, I don't know what happened with The Flash/Green Lantern showdown teased in my Chapter 1 encounter. This time around, the team is tasked with tracking down Poison Ivy, which puts a pep in Harley's step. Harley's traversal feels completely distinct from the more militaristic Deadshot. Using the grappling hook and Bat-Drone she lifted from the Hall of Justice, she can swing through Metropolis, using the Bat-Drone as her anchor. However, she can only latch onto the drone once per surface touch, so you need to be careful with how you use your swings. After a brief awkward period where my brain immediately tried to use my muscle memory from the swinging in Marvel's Spider-Man 2, I finally got the hang of how to effectively swing around town using Harley.
+
+I start flowing naturally as I move from one area to the next, clicking the stick as I land to slide, launching upwards and into Harley's next swing, then holding the X button to overshoot the Bat-Drone and catapult through the air into the next swing. It's not on the level of the gold standard set by Spider-Man's swinging – or even the jetpacking of Deadshot in this very game – but it feels good. En route to the marker where the Poison Ivy mission begins, we take on a few groups of enemies and complete some world objectives, like destroying some stationary targets. Harley has a pistol, as well as her trademark bat, which can be used when things get up close and personal. I miss Deadshot's ability to hover over the battlefield, but she can definitely handle herself well in the heat of a fight; hopefully, I can find a better way to integrate her traversal skills into battle as I get more time with her. I also learned about a Suicide Strike and an Ultimate ability of sorts, two powerful moves that operate on cooldowns. These definitely come in handy over the course of the many battle encounters during my session.
+
+Once we reach Ivy's location, we get a brief cutscene and a reveal that Ivy isn't quite what Harley was expecting. A far cry from her appearance in the Arkham games, Ivy emerges from a plant in the form of a little girl. Ivy tells a bit about what she's been up to and then agrees to help Task Force X to fight the aliens. Her plan is to grow her plants to release toxic clouds into the aliens' internal organs, but it'll take a little time. You guessed it: It's up to the Squad to protect the points of interest. Ivy fulfills her end of the deal, but then the Squad needs to fulfill their mission and bring her in. While Rick Flag is en route, the team debates the merits of capturing a little girl, and without spoiling anything, we learn a revelation about something one of the characters did in the past. After that discovery, Flag arrives and convinces Ivy to come with him.
+
+After completion of the mission, the team is greeted with a mission complete screen that tells the top performer of the Squad as well as other experience earned through modifiers like difficulty level, gear and talents equipped, lives remaining, and having each player controlling a different character (yes, you can have duplicate characters through multiplayer). I also earn a new Legendary grenade: the Slot Machine. This cluster explosive detonates with all the pizazz of a cheap casino, including a giant gold-plated "777" as the secondary bombs pop out. The only problem is you sacrifice the initial pop to fuel the cluster portion of the bombs; the initial hit does 0 damage, while the subsequent blasts are more devastating. It also rewards more credits.
+
+The team tells me that the customization and loadout selection for the characters is far more than skin-deep, as you can build extremely versatile builds or highly specialized characters depending on how you want to play. Rocksteady walks me through a few examples that impact how Harley can be catered to how you play, including some early Talents that boost melee knockback distance or encourage you to stay airborne using Harley's Bat-Drone by reducing the damage you take while flying around. The Talents you can select even tell you the kinds of playstyles they cater to in order to help you pick the most impactful for what you want to accomplish. Rocksteady also recommends I equip a gun called Leg Day, which grants extra XP from enemy kills, does extra damage to Brutes, and deals critical damage from shooting enemies in the legs, trade my bat for a hammer called Uppercut that sends enemies flying in slow motion, and throw on a shield mod called Hoarder, which gives you extra shield for all ammo you pick up. The way you build your character feels flexible and accommodating, but I want more time to experiment before I truly declare them successful in their meaningful customization endeavors.
+
+The next mission involves finding Lex Luthor, who thankfully uses Brainiac tech in his suit, so he's easy to track. On the way to the last network terminal Luthor accesses, I hear a familiar voice: Riddler. He's not there, but his presence is felt through a Rocksteady staple. That's right, Riddler trophies are back! I don't know how much they're integrated into the story or exactly how involved solving his puzzles will be – the only one I give a shot is a traversal challenge where I need to swing through some AR hoops in the world on a timer – but I'm enticed to dive back into that quest when I'm not in a hurry.
+
+After helping our tech expert Hack to, well, hack into the terminal through another position-defense sequence, we find the location of Lex and the mission comes to a close. After a couple more missions, we encounter The Flash once again. This time, he's not quite looking like himself; he's been corrupted by Brainiac, so clearly, some stuff has happened since we saw him confront Green Lantern. I won't spoil the other stuff going on in the story, but it's safe to say that Rocksteady isn't pulling any punches.
+
+The next mission requires me to destroy a massive stationary cannon by depositing Terminaut bits and attacking its weak spot, while the next one has me working with the team to figure out some way to defeat The Flash by decoupling him from his Speed Force abilities. However, I start to feel a sense of sameness from many of the missions. Sure, each of them has a distinct dressing, and the narrative reasons are varied, but many of the ones I played in Chapter 1 and Chapter 3 boil down to going to an area and defeating all the enemies or defending a location against hordes of aliens. The one that felt most distinct was the aforementioned giant cannon mission, but even that carried many of the same tenets. I'm giving the benefit of the doubt to Rocksteady that the mission diversity will truly open up once the story ramps up more, but I'll be disappointed if this is the full breadth of what we're getting in the final game.
+
+Thankfully, my play session culminates in showing me why the game carries the name that it does: It's time to fight The Flash. In the previous mission, we learned how to disrupt his trademark speed, and now it's time to put it to use. As long as your Decoupler is charged (which is done by countering his incoming attacks), you can avoid being picked apart by the speed demon. The Flash bounces around the battlefield, evading any and all shots fired his way, but after a while, he stops to charge up. After blasting him in his stationary moment, he admits he's surprised by the Squad but says he has some surprises of his own. That surprise, it turns out, is speeding around in circles to form tornadoes that hurtle toward Task Force X. Now, you must contend with dodging tornadoes and keeping your Decoupler charged. 
+
+After a long and chaotic battle, I finally emerged victorious. Again, I won't be spoiling what happens next, but I came out of the battle feeling relieved by the exciting boss fight. This was the kind of mission I was hoping for after the long collection of similar encounters. I really hope that as the campaign goes on, there are more of these kinds of fights and less of the "defeat all enemies on point A" or "defend point B" variety of missions. 
+
+Post-launch
+
+Coming Attractions
+
+As I mentioned earlier, you can play as Harley, Deadshot, King Shark, and Captain Boomerang at launch, but Rocksteady has ambitious plans for how it's supporting Suicide Squad: Kill The Justice League following its initial release. After launch, players can expect additional cosmetics added to the title, but more importantly, additional playable characters will join Task Force X. 
+
+"After the main launch of the game, we'll bring out additional seasonal content post-launch, which will bring new missions and new story," Hackett says. "As part of completing those missions and stories, you will add those characters to the Squad; you'll effectively recruit them as part of that content. That content will be completely free. No charge for the character content. You'll be able to play, then one day, you log in, and there'll be new stuff to do. You'll do that stuff, and hey, now you've got that character. Now, you can keep playing with that character in future [content]. I think it's something that people will get excited about."
+
+While Harley and Deadshot are among the most iconic members of the team, the Suicide Squad has featured tens of different characters over its many iterations, giving Rocksteady a ton of characters to choose from with its post-launch releases. "The characters, for us, are very important," Chamberlain says. "It's kind of the narrative of themselves, but also, how does that translate to gameplay? What is their traversal? What is their combat like? And I think continuing the game post-launch really gives us an opportunity to bring unique experiences to players to allow us to expand on the four characters in very unique ways and kind of subvert expectations and bring freshness back into the world of Metropolis and allow players to experience something brand new than just the four core characters."
+
+Rocksteady already knows some of the characters it's including in the game post-launch, but it's not spilling any of that information now. In fact, the team is excited to peruse the internet's many fan theories. "I'm looking forward to the speculation from players because the Suicide Squad and DC villains, in general, are such a wide church, and there are so many fun choices, and I know we will get endless suggestions for this person's favorite character, that person's favorite character," Hackett says. "We've put a lot of work already, and we will continue to work on making sure these characters aren't going to be reskins. They're going to be unique. They're going to feel different, they're going to move differently; again, that kind of finding the fun in how each character moves that suits their personality, it's something that's really important to us for this game. I think it's the most exciting and unique gameplay element in many ways."
+
+With all the talk of so much substantial post-launch content being free, one key anxiety many players have with Suicide Squad: Kill the Justice League is that the monetization will be overly aggressive to the point of impacting the fun players can have without dropping extra cash on the premium title. When I asked the team about this, they used it as a way to hopefully clear the air a little. "There will be completely optional cosmetic purchases for players who want to go down that route," Hackett says. "I think the Squad is a really fun group where we can create really unique cosmetics for players to enjoy. I wouldn't want to cut content off from players behind a charge like that because I think it's a space for players to come in, play, and enjoy, first and foremost. Then, you know, if you want to buy some cool cosmetics to show off to your friends, that's going to be available to you."
+
+Emerging from my hands-on session, I feel much more confident in Rocksteady's long-awaited follow-up to its critically acclaimed Arkham series, but I still have several questions. But even with those hesitations surrounding post-launch support, game structure, and monetization efforts, I now have February 2 circled on my calendar, as my overwhelming curiosity and anxiety have turned mostly to anticipation.
+
+      Products In This Article
+
+Suicide Squad: Kill The Justice League
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PC
+
+Release Date:
+
+February 2, 2024
+
+Purchase
+More Info
+
+Brian Shea
+Online Content Director
+Brian has written about video games for more than 15 years across multiple publications. Brian is also the host of All Things Nintendo, a weekly podcast focused on the news and games of Nintendo.
+
+Email
+Twitter
+

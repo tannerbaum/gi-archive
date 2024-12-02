@@ -1,0 +1,91 @@
+
+  Dead Cells' Castlevania DLC Is “Twice As Big” As Past DLCs
+
+
+
+
+
+
+            During the 2022 Game Awards, the team behind Dead Cells put out an animated teaser trailer announcing that the game’s next DLC expansion would be Castlevania-themed. It came as a total surprise; Castlevania hasn’t had a new release in years, and most of Dead Cells’ other collaborations never amounted to much more than referential skins and a few weapons. To take such a big leap – and to do it with the series that inspired the game in the first place – is a huge step for the indie roguelike.
+
+While Dead Cells was developed by Motion twin, the Castlevania DLC is being developed by Evil Empire, an indie studio made of ex-Motion Twin employees that have handled most of the game’s post-launch content. Game Informer got the chance to speak with Evil Empire’s co-founder Benjamin Laulan and brand manager Bérenger Dupré to talk about the DLC, what we can expect from it, and what it was like working with such a beloved franchise.
+
+Game Informer: Just as a brief overview, what can we expect from this Castlevania DLC?
+
+Benjamin Laulan: Well, it's our biggest DLC yet. That's something we always say, but it really is. It's basically twice as big as [the DLC] we previously released. You get this new storyline, including all of the usual suspects of the Castlevania series. So, you will see Richter Belmont, Alucard, Dracula, Maria Renard, and many others that will guide you through this new storyline to basically discover the content that we included. Since this is a roguelite, we tried to find a way to make it interesting to new players and newcomers to be introduced to this world and the new items and stuff. We have 14 new weapons like Alucard’s sword, Alucard’s shield, the old classic cross.
+
+Bérenger Dupré: Pretty much every weapon from Castlevania that we hadn't copied before. [laughs] We tried to translate it into Dead Cells’ fast-paced gameplay.
+
+Laulan: We had a lot of Castlevania weapons in Dead Cells… already an homage for us, but now we had to think again okay, this weapon is already in the game.
+
+Dupré: Yeah, the Vampire Killer at the time was called Valmont's whip instead of Belmont's whip.
+
+Laulan: So yeah, we have that. We have three new bosses, one of them being an incredible showdown that we won’t talk [about] yet, but that is super exciting and something never seen before in the game. What else did I forget? New biomes. We have two new biomes based on the classic Castlevania levels. We’ve got music, a whole new soundtrack. We had permission from Konami to use all the old soundtracks from the old Castlevania games. So what we did is we [basically created] a Castlevania mod into the music submenu of the options. So you can basically replace all of the Dead Cells music [with] their version [from] Castlevania. All music. And we also have new compositions that were made by the Dead Cells composer of all the classics, such as Bloody Tears…
+
+Dupré: Vampire Killer. But translated into the Dead Cells music style. Yeah, it's awesome.
+
+Laulan: It's a really big package. And there are of course tons of surprises, Easter eggs, lore rooms … it's basically a love letter to Castlevania. We really wanted to circle back to where it all started, because as you know, Dead Cells’ main inspiration was Symphony of the Night. So it's kind of a nice way to go back to where it all started.
+
+What is your connection to the Castlevania series, just on a personal level? What did the series mean to you before Dead Cells? 
+
+Dupré: I was turning eight, Castlevania 1 is my second game on the NES. I got it at Christmas. It's funny because before joining Evil Empire to work on Dead Cells, I was saying to the boss, “It's crazy that Konami never asked for you guys to make Castlevania stuff into Dead Cells.” And then I kind of understood that something was going on. And I joined the company, and I loved that I was going to work on that. And yeah, for me, it's an opportunity. It's a childhood dream I did not know I had, actually. So yeah, I'm really proud of it.
+
+Laulan: For me, I was an NES player, as well. But I never had a chance to play [Castlevania]. So it's more like a part of my childhood that I actually never played, but that was still part of it. I don't know if that makes sense. And we have younger players on the team and older players. So this was interesting, to see the team appropriate itself to all this content, because we have really hardcore fans of Castlevania, like one of them being the biggest fan possible. He was our Bible. Like, can we do that? Can we do these characters like this? And he was reviewing everything.
+
+Dupré: He was like a human Wikipedia of the franchise. It was really convenient.
+
+Laulan: We had people that never played it that started to play it for the creation of the DLC. And they loved like, Symphony of the Night, for instance, fans of the TV show, as well. So it's really like a melting pot of different [experiences]. Castlevania obviously says something to every video game fan, but in a different way. So that's why I think we had a good team because we had like, different points of view in this area.
+
+Yeah, it's been a really long time since we had a Castlevania before this. And I think for a lot of people, this is gonna be their introduction to the series. How do you guys feel about that?
+
+Laulan: I feel really good about that. And that's why we put so much effort into the announcement at the Game Awards because we really wanted to create that surprise because for us, it's big and we think it can be big for a lot of players. That's why we really wanted to create this much more as an homage and a love letter to the IP, rather than try to rethink the whole thing. It's more like a generous gift to fans, whether they're like old-school fans of the game or newcomers from the TV show. And that's why there are so [many] Easter eggs and details. We put so much effort into all the small things. Like all the skins that we included, all of the small things make a difference. And when you play it, I think you'll understand that we really love these games.
+
+Dupré: We worked such a long time on this [Game Awards] announcement, and our goal was really to create a surprise and to breadcrumb into the teaser… the Castlevania franchise. So we wanted to have these teasers start like an ordinary, regular Dead Cells DLC, and then little by little, you can have some hints that it may be something different, and then Richter and Alucard appear. And then the day after, we watched some reaction videos from YouTubers. And you could see that players who are 30 to 40, after a few seconds they hear the music starting to look like a Castlevania theme and they have it, and then they see Richter and Alucard and they go crazy. And sometimes you see younger YouTubers and they watch the trailer, you can see in their eyes like this little spark that, “Oh my god, I’m missing something, but it looks really cool and I want to be part of it.” That was part of the intention. We had to speak to newcomers and old players.
+
+Do you play as [Richter and Alucard] or do you just encounter them?
+
+Dupré: We cannot say.
+
+If you got another blank check from a different franchise, what would that dream project be?
+
+Laulan: Oh, that's a good question. Because obviously, we already talked about that. But you know, what's cool about Castlevania is that the setup, like medieval setup, fits really [well] into Dead Cells. So of course, when you think about Castlevania, you also think about Metroid, for instance, and the kind of gameplay that could fit into Dead Cells. But it couldn't fit in the medieval setup of Dead Cells. So I don't know if you have any crazy ideas? 
+
+Dupré: [laughs] Yeah, you know, I had a couple. Yeah, some of the crossovers, indie crossovers we did, there was one IP. I wanted to go way further with it. At first when I saw the Hotline Miami weapon, and the outfit I did a capture of the game with the music and I just wanted to make it truly Hotline Miami.
+
+Laulan: [laughs] Yeah, we actually tried to reach out to the [Hotline Miami] guys, but they were like “I mean, it's cool that you used our weapon, but maybe that's it.” We wanted to do more with that.
+
+Is there anything else you guys are excited about with this? Anything about the process that I didn't get to ask you about that you're just itching to talk about?
+
+Laulan: Well, we're super excited about this specific surprise that we are keeping that we can’t talk to you about.
+
+Dupré: We really want to let the player discover it on launch day.
+
+Laulan: We still have some surprises and we won't reveal everything for the release. So we're super excited about that. Other than that, the process was super straightforward. Konami was super excited. It was a great collaboration with them. We actually didn't expect it to go this smoothly, Konami being such a big IP holder and publisher.
+
+Dupré: From the other side of the world.
+
+Laulan: From the other side of the world. The only time-consuming thing is that when you're meeting, you need to translate things from French to Japanese, and then from Japanese to French. But yeah, that's the only thing. 
+
+Laulan: One last cool thing is the voiceover.
+
+Dupré: [laughs] Yeah, yeah.
+
+Laulan: Each character in the game is [voiced] by one team member. So this guy's Richter. [Gestures to Dupré]
+
+Dupré: I can’t wait to update the IMDB database.
+
+Laulan: [The sounds are] obviously just gibberish… We had a [recording] session that was quite funny. I’m involved in the boss fight. So it was pretty cool to do that. Yeah, just a fun fact.
+
+Evil Empire wasn’t ready to share a specific release date for the Castlevania DLC quite yet, but it’s set to launch in Q1 2023 on PlayStation 4, Xbox One, Switch, and PC.
+
+      Products In This Article
+
+Dead Cells: Return To Castlevania
+
+Release Date:
+
+2023
+
+Purchase
+More Info
+

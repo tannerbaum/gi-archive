@@ -1,0 +1,59 @@
+
+  Capcom Addresses Dragon's Dogma 2 PC Performance And Microtransaction Backlash
+
+
+
+
+
+
+            Dragon’s Dogma 2 is one of the year’s most anticipated games, and by most accounts, the experience lives up to the hype. The game earned rave reviews from most critics, including a 9 out of 10 from us. But now that it’s out in the wild, Steam players have bombarded the RPG with negative reviews due to its problematic launch performance and day-one microtransactions.
+
+In terms of performance problems, Steam players have reported issues such as framerate drops, freezes, and crashes. Capcom has acknowledged these issues in a Steam blog post where it says, “To all those looking forward to this game, we sincerely apologize for any inconvenience,” and adds, “We are investigating/fixing critical problems such as crashes and freezing. We will be addressing crashes and bug fixes starting from those with the highest priority in patches in the near future.” 
+
+In regards to the frame rate issues, Capcom writes, 
+
+“A large amount of CPU usage is allocated to each character and calculating the impact of their physical presence in various areas. In certain situations where numerous characters appear simultaneously, the CPU usage can be very high and may affect the frame rate. We are aware that in such situations, settings that reduce GPU load may currently have a limited effect; however, we are looking into ways to improve performance in the future.”
+
+The console versions have their own frame rate issues, as noted in our review by writer Jesse Vitelli who noted, "large-scale battles are where you will see the performance on consoles take a big hit. When I had multiple enemies on screen, and a pawn would cast a big spell, the frame rate dipped tremendously.”
+
+The game’s microtransactions have also drawn ire. In addition to selling Rift Crystals, the game’s currency, fans are upset the game sells useful exploration gear such as Portcrystals, fast-travel points that you can place in a chosen destination (though you still need another item, Ferrystones, to use it, which isn't for sale). Capcom is also selling the Art of Metamorphosis book, an item that allows players to redesign their character and revive items (Wakestones). You can purchase all of these items at once in the “A Boon for Adventurers - New Journey Pack” bundle, which comes included in the game's Deluxe Edition.  
+
+Capcom addressed these complaints in the same blog post, pointing out that the following items can be obtained through normal gameplay:
+
+Art of Metamorphosis - Character Editor
+Ambivalent Rift Incense - Change Pawn Inclinations
+Portcrystal - Warp Location Marker
+Wakestone - Restore the dead to life!
+500 Rift Crystals / 1500 Rift Crystals / 2500 Rift Crystals - Points to Spend Beyond the Rift
+Makeshift Gaol Key - Escape from gaol!
+Harpysnare Smoke Beacons - Harpy Lure Item
+If you want extra quantities of any of those items, you have the choice of paying real money for them instead of getting them the old-fashioned way, so they basically serve as optional convenience skips. While it's absolutely understandable why players would be annoyed regardless, this is actually quite normal for Capcom titles. The recent Resident Evil and Monster Hunter games, for example, all offer microtransactions of similar scope and have faced comparatively minimal, if any, pushback. 
+
+Still, fans are taken aback by their appearance in Dragon's Dogma 2, and without context for how rare or easy-to-obtain these items are, some players believe the game's intentionally challenging/inconvenient design aims to push players towards these purchases to ease the experience. Others simply cite the age-old argument that full-priced games ($69.99 in Dragon’s Dogma 2’s case) shouldn’t charge additional money for in-game items at all. 
+
+Combined with the aforementioned performance issues, disgruntled players have flooded the game with bad reviews to the point that it currently has a “Mostly Negative” Steam rating just hours after launch. Despite this initial chilly reception, it doesn’t appear Capcom will be altering its monetization plans for now. 
+
+Dragon’s Dogma 2 is available now for PlayStation 5, Xbox Series X/S, and PC.
+
+      Products In This Article
+
+Dragon's Dogma 2
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PC
+
+Release Date:
+
+March 22, 2024
+
+Purchase
+More Info
+
+Marcus Stewart
+Associate Editor
+Marcus is an avid gamer, giant wrestling nerd, and a connoisseur of 90's cartoons and obscure childhood references. The cat's out of the bagel now!
+
+Email
+Twitter
+

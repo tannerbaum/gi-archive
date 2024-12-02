@@ -1,0 +1,79 @@
+
+  Everything We Know About Call Of Duty: Modern Warfare’s Campaign
+
+
+
+
+
+
+            Call of Duty: Modern Warfare is already showing promise with its multiplayer. However, for many, the single-player campaign is an important part of the equation. After Treyarch opted to not include a full story mode with Black Ops 4 last year, Infinity Ward is bringing it back in a big way. While at Infinity Ward for this month’s cover story, we got the lowdown on what players can expect from Call of Duty: Modern Warfare’s ambitious campaign.
+
+When Call of Duty 4: Modern Warfare launched in 2007, it told a contemporary story about two sides fighting a more traditional war. However, in 2019, warfare is different. In the world of insurgents, terrorists, and freedom fighters, sides aren’t as clearly defined as they’re depicted in Call of Duty 4: Modern Warfare. With that in mind, the campaign team at Infinity Ward, led by a group of Naughty Dog alumni, set out to create something unique, intense, and unprecedented in the first-person shooter space.
+
+The studio says that the definition of “modern warfare” has changed, and with that, the team’s approach to creating a Modern Warfare game also has to change. “Thematically, in this world, enemies don’t necessarily wear uniforms,” campaign gameplay director Jacob Minkoff says. “The world is not as clear. War is much more messy these days. We’re representing that mechanically.”
+
+During the campaign, you must identify threats as you move through the mission. In one of the two missions we saw, a squad is methodically working through a townhouse serving as a terrorist safehouse. The player is in control of Sergeant Kyle Garrick, who believes the rules of war need to adapt in order to fight an enemy that doesn’t play fair. Garrick wants to cross the line in his fight against the enemy, and he seeks out Captain John Price in hopes he’ll see things his way. In the Townhouse mission, Infinity Ward shows what that means.
+
+The team of soldiers breach the townhouse at different points – the front door, a second-story window, the basement – and immediately begin securing or neutralizing every inhabitant. Kyle enters the kitchen as his squadmate subdues a woman who obliviously wandered in. A quick walk down the hallway reveals a meeting room with a few members talking loudly. Kyle equips night-vision goggles and shoots out the light, and the team picks them off one by one. You can approach scenarios like this one differently; if you don't shoot out the lights before engaging, the enemies have a better chance of seeing you coming. The squad continues up the stairs, encountering different scenarios along the way. One room has a woman who runs to grab a crying baby, while another has a man take a woman as a human shield. Kyle neutralizes the hostage-taker, only for the woman to grab a gun and come at the squad.
+
+“If you shoot the guy as we did in that demo, she goes and grabs a gun,” Minkoff says. “We train the player early on that you really need to be identifying threats. And this all came from us talking to our military consultants. They don’t talk about civilians and non-combatants; there are unknowns and threats.”
+
+Situations like that require players to identify hostile actions and hostile intents. Warfare isn’t always black and white, and likewise, threats can also be more ambiguous in games. “Hostile action is a really simple thing,” studio narrative director Taylor Kurosaki says. “It’s like, ‘Someone’s shooting at me.’ Hostile intent is a whole other ballgame. Those are the metrics they have to deal with and navigate.”
+
+As the team continues up the stairs, some more obvious threats present themselves: one room has a man grab a gun and hide under the bed to ambush you – nothing a few shots through the mattress can’t handle. As the team approaches the attic, a shotgun blast erupts through the door, downing one of your squadmates. Every single surface features appropriate penetrative properties, meaning that drywall and wooden doors are easier to shoot through than metal doors and concrete. Similarly, a 9mm pistol will have trouble shooting through plate armor.
+
+The squad finally reaches the attic. Price remarks that the primary target is in there and that Kyle should try and take her alive if possible. Kyle peeks in to spot a woman standing in the shadowy loft. Kyle downs her with a shot to the lower body, but she lunges for something on the table. Kyle takes one shot to her head, killing her. So much for taking her alive. However, as Price and Kyle approach the table, they see what she was reaching for: a detonator. Minkoff and Kurosaki tell me that if she grabbed the detonator in time, it would blow up the townhouse, killing the squad and giving the player a game-over screen. Price tells Kyle he made the right call.
+
+Players need to make tough calls like that on the fly, and while dying obviously leads to a critical mission failure, it’s not the only way. “The game sort of has its own version of, ‘You just got court marshaled and arrested,’” Kurosaki says.
+
+“If you cause too much collateral damage, which is the official term for killing people who should not have been killed, the game will fail you,” Minkoff adds. “We have pretty complex heuristics where we’re basically trying to determine, are you, the player, acting like a proper soldier? Or are you kind of being a psychopath and not playing by the rules?”
+
+Despite this emphasis of wanting players to identify threats, Modern Warfare’s campaign will not rely on random elements to keep you guessing or branching narratives based on your choices for the sake of replayability. “We want you to have the highest quality cinematic experience we can possibly create; that’s what we did at Naughty Dog, that’s what we do here,” Minkoff says. “By necessity, branching and randomization diminish narrative quality. And there’s a place for that in video games; I’m a huge fan of big, open-world games that have lots of randomization. But no one has ever said that those games have great stories. We’re in the business of making the best possible cinematic story experience. That’s why it’s linear.”
+
+What's the Scene In Call Of Duty: Modern Warfare?
+
+Whether you’re talking experiencing a nuclear explosion firsthand or doing the unthinkable in the controversial No Russian mission, the Modern Warfare series has traditionally featured scenes that have players talking long after they put the controller down. With Call of Duty: Modern Warfare putting such an emphasis on storytelling and the darker, more complex side of contemporary combat, Infinity Ward’s latest campaign is sure to have memorable moments, but will it have a defining, transcendent scene?
+
+According to campaign gameplay director Jacob Minkoff, this isn’t just a question fans and journalists ask him; his fellow developers at Infinity Ward and Activision also pose this question to him repeatedly. “They’re like, ‘Where’s your "blankety-blank" scene?’,” he says. “There are so many of those at this point that people have stopped asking that question.”
+
+“The answer is it’s the whole game,” studio narrative director Taylor Kurosaki says. “I could come up with a list of like eight different things that it could be. Who knows what it will be.”
+While you play as Kyle Garrick for loosely half of the campaign, players can expect a different experience for the rest of the game. In this portion, you play as a CIA operative known simply as “Alex.” Alex is stationed in the fictional Middle Eastern nation of Urzekstan to enable and collaborate with local rebels. One local rebel Alex is working with is Farah.
+
+Farah was born into violence. The second gameplay sequence I see is a flashback that begins with you playing as a young Farah being pulled from the rubble of a house that was hit with an explosive. Her mother's lifeless body is crumpled beside her, but a group of rescuers is able to remove the debris and reach the little girl. The remainder of the sequence involves sneaking through the town with her father in order to get home to her brother Hadir, using a screwdriver to take down a massive Russian soldier who broke into the house and killed her father in front of her, dodging pockets of gas, and trying to escape the town unnoticed.
+
+This sequence gives a painful look at the life Farah has led, giving more meaning to how she acts in the modern-day missions. Unlike Kyle Garrick, who wants to destroy the enemy by any means necessary, Farah has a strong grasp of right and wrong, and refuses to cross the line and sacrifice her humanity to win the battle.
+
+Farah is fighting a war on two fronts: the Russian forces occupying her country, as well as those who would do terrible things to regain control of their home. “Her magnetic true north is that she’s going to fight in a way that doesn’t diminish her own humanity,” Kurosaki says. “If that means, ‘I lose because I’m not willing to resort to whatever tactics are necessary, then so be it, I lose. Because if I reduce my own sense of humanity in order to win, then there’s nothing left to fight for.’ That’s a big driver of what defines her.”
+
+With those two characters’ opposing dynamics at play in the story, along with bold presentations of difficult situations inspired by real-world events, one of Infinity Ward’s main goals is to make players feel empathy. “The old games definitely made you feel a certain sense of empathy, but in a very detached way,” Minkoff says. “What we bring to the mix is a much more developed sense of character. I want you to empathize with every one of these characters with all their perspectives, and say, ‘I understand why you did that, but I don’t agree with it.’ I want you to understand the complexity of modern war, and empathize with the reasons why different people have different perspectives. Understanding different people’s narratives is super, super important.”
+
+Kurosaki understands that not everyone who plays a Call of Duty story is there for those kinds of messages, but he hopes that even those who just want to shoot through a fun popcorn-movie-style campaign will still take something away. “Shining a light on this other half of modern warfare that maybe is not as covered in the news, is also one of our goals,” he says. “With a platform as big as Call of Duty: Modern Warfare, for someone who doesn’t read very deeply into the news of the world, to shine a light on a character like Farah who is very much based on people that are in the real world today, and empathize with and understand that war isn’t just something that happens 'over there.'"
+
+The story of Call of Duty: Modern Warfare looks to be dark and complex, giving players a lot to think about during and long after their playthrough. According to art director Joel Emslie, the campaign’s ending could have gone horribly wrong if not for the careful handling of the development team. “I watched the end of it… I highly suggest if you get to play the game, you play it all the way through single-player," he says. "The end of the game is so f---ing awesome, and it’s just great storytelling. It has such a great payoff.”
+
+With so many touchy subjects and emotionally heavy moments promised throughout the campaign of Modern Warfare, it’ll be interesting to see how the player base reacts when the game launches on October 25.
+
+Click on the banner below to reach our hub for Call of Duty: Modern Warfare. We'll be adding content all month examining how Infinity Ward is breathing new life into the longstanding series, with articles, interviews, videos, and more.
+
+      Products In This Article
+
+Call of Duty: Modern Warfare
+
+Platform:
+
+PlayStation 4, Xbox One, PC
+
+Release Date:
+
+October 25, 2019
+
+Purchase
+More Info
+
+Brian Shea
+Online Content Director
+Brian has written about video games for more than 15 years across multiple publications. Brian is also the host of All Things Nintendo, a weekly podcast focused on the news and games of Nintendo.
+
+Email
+Twitter
+

@@ -1,0 +1,124 @@
+
+  Exclusive First Preview – Garbage Pail Kids: Mad Mike And The Quest For Stale Gum
+
+
+
+
+
+
+            Introduction
+
+The year 1985 contained so many cultural touchstones: Queen’s legendary Live Aid performance, Coca-Cola’s infamous New Coke release, the first-ever WrestleMania, and much more. Likely the most crucial moment to readers of Game Informer was the debut of the Nintendo Entertainment System.
+
+The NES pulled the burgeoning industry out of the “video game crash” and introduced countless iconic characters and franchises. It seemed like every hit property received a game at the time. Teenage Mutant Ninja Turtles, Top Gun, DuckTales, Dungeons & Dragons, American Gladiators: the list goes on and on. However, one iconic brand shockingly never made the transition into a NES game.
+
+Garbage Pail Kids, which also debuted in 1985, was a trading card series that mixed the cuteness of the hit Cabbage Patch Kids dolls with outrageous, funny, and compelling grossness. The images featured kids barfing, losing limbs, and getting zapped by lightning, to name a few. Word of mouth spread on playgrounds like wildfire, and teachers and parents were quick to ban and condemn them. Naturally, this made GPK wildly popular.
+
+The cards were such a hit that creator Topps produced 15 series in the span of three years. They licensed GPK out for toys, school notebooks and folders, inflatable punching bags, you name it. This kind of white-hot success would normally lead to an NES game as the logical next step, but several factors would get in the way.
+
+A universally reviled live-action movie disappointed the kids who were allowed to see it. A threatened boycott got CBS to shelve a GPK Saturday morning cartoon that it had already fully produced. Most damaging of all, Topps had to settle with the makers of Cabbage Patch Kids for millions of dollars plus royalties and alter the design of GPK to be less like CPK’s dolls. Sales dwindled, and GPK was officially dead by the end of 1988.
+
+After a long hiatus, Topps launched GPK’s “All New Series” in 2003 (new GPK series continue to this day) during the era of PlayStation 2. The opportunity to create a GPK game on the classic NES console that shared its cultural heyday was seemingly lost forever.
+
+Playable Characters
+
+PLAYABLE CHARACTERS
+
+Mad Mike
+
+The titular character, Mike uses a sword and axe for melee attacks
+
+LUKE PUKE
+
+He’s gonna puke! Luke’s downward-firing barf takes care of enemies on lower platforms
+
+LEAKY LINDSAY
+
+Lindsay’s horizontal snot rockets provide much-needed ranged attacks
+
+PATTY PUTTY
+
+Think of her as the Luigi of the group. Higher jumps and head stomps play more like a Mario Bros. game
+Lifting the Lid
+
+LIFTING THE LID
+
+Tim Hartman and Greg Caldwell have been best friends since the third grade. They connected over a shared love of NES games, Garbage Pail Kids, and many other ’80s cultural touchstones. In their adult lives, they found themselves longing for an era of game that just wasn’t made anymore.
+
+They found a homebrew community where people were making new NES games in the same style and limitations of the original hardware. It wasn’t long before they wanted in. But they had to do it right.
+
+“For us, the cartridge comes first,” Caldwell says. “This is where we got our start in game dev. We had never made a game before we made an NES game. That's always been paramount for us.”
+
+The friends pulled together a small team under the name Retrotainment to create Haunted: Halloween ’85, a spooky action platformer, and worked with Infinite NES Lives to produce custom NES cart shells, boards, boxes, and manuals. The 2015 release was followed in the subsequent year by Haunted: Halloween ’86. (Both games were later released on digital platforms to reach a wider audience.)
+
+This custom art was made exclusively for Game Informer by famed Garbage Pail Kids artist Joe Simko. He also created the official box art
+
+While showing the games off at retro conventions, they caught the eye of art, music, and gaming collectible producers iam8bit. Retrotainment and Infinite NES Lives would go on to manufacture several NES, Super Nintendo, and Sega Genesis cart reissues for iam8bit, including classics like Street Fighter II, Mega Man 2, and Disney’s Aladdin.
+
+As they were working on all of these retro releases, they started thinking of all their favorite childhood things that never got the NES treatment. At the top of the list was Garbage Pail Kids. “We were trying to right a wrong,” Hartman says. “It's the game that [GPK has] long deserved to have.”
+
+Hartman managed to work his way through contacts at licensor Topps and eventually convinced the executives to give them a shot. Retrotainment brought this up with partners iam8bit, which recently announced it was getting into game publishing. The company was immediately onboard.
+
+“When Garbage Pail Kids came up in conversation, it felt so great to all of us,” says iam8bit co-owner Jon Gibson. “[It was like] yeah, why wasn't there a game?”
+
+Adam F. Goldberg
+
+Adam F. Goldberg Brings The Star Power
+
+The creator of hit show The Goldbergs, Adam F. Goldberg, is a huge Garbage Pail Kids fan. He produced the documentary 30 Years of Garbage: The Garbage Pail Kids Story, wrote the short film Garbage Pail Kids in Mad Mike: Fury Load, and worked on the story for Mad Mike and the Quest for Stale Gum with the game creators.
+
+How did you get involved in Mad Mike: Fury Load?
+
+My longtime dream has always been to create a GPK animated series, but my TV company is, unfortunately, at ABC, which prohibits me from working outside of Disney. However, I am allowed to write short films. Joe Simko’s brilliant Garbage Pail Krashers vehicles were the perfect inspiration for me to create a Mad Max parody.
+
+What interested you in contributing to this game?
+
+I grew up loving two things above all else – my GPK collection and my Nintendo. Back then, there were rumors that GPK was going to be an NES game, Saturday morning cartoon, and a movie. The Nintendo game never came to be. It blows my mind that after 35 years, we will finally get the 8-bit GPK adventure we were promised!
+
+How was working with Retrotainment and iam8bit?
+
+I had a blast collaborating with Retrotainment and iam8bit at the early writing stages. They truly did a brilliant job using Mad Mike: Fury Load as the framework for the game – but made it more epic than I ever expected. It’s a bucket list item for my name to scroll at the end credits 8-bit style!
+
+Garbage Pail Gameplay
+
+GARBAGE PAIL GAMEPLAY
+
+Garbage Pail Kids: Mad Mike and the Quest for Stale Gum begins directly after the events of GPK Mad Mike: Fury Load, a series of shorts written by Adam F. Goldberg (see sidebar above) set in a post-apocalyptic world. The titular character saved the day, and now all he wants is his favorite stale gum. Unfortunately, the factory run by Brainy Janie only makes fresh gum, so he’ll have to travel through time and space with his three friends on a high-tech toilet to collect the ingredients to make it properly stale.
+
+Mad Mike and his friends all have different abilities (see sidebar above), and players can hot-swap between them to take advantage of their skills. The game’s six different levels feature adventures in the Stone Age, ’80s Tokyo, a future Mars colony, and more, and can be completed in any order.
+
+Fill up the TRASH meter in the upper left of the screen to activate temporary invincibility
+
+Every enemy, boss, and NPC in the game is based on a real GPK card, all of which you can view in the bonus gallery in high resolution. Card collecting and trading is a key component, as some have powers like stunning enemies or granting temporary flight. If you track down all 39, you get a special surprise.
+
+Minigames include fishing for items out of a porta-potty and flying around dangerous obstacles as Buggy Betty. The GPK's irreverent, gross-out attitude runs through every element of the game.
+
+Multiple difficulty options help players overcome the “NES hard” gameplay, and retro collection masters Digital Eclipse is on board to provide its signature rewind, save states, watch mode, video filter effects, bonus gallery content, and much more in the digital download versions of the game.
+
+It’s clear Retrotainment is pouring decades of pent-up ideas for a GPK NES game into this project and that it hopes old-school fans and new players alike will find something to love.
+
+“There are so many characters, so many opportunities for that brand to shine,” Tim Hartman says. “We’re very honored to be a part of it and the history that is the Garbage Pail Kids.”
+
+Garbage Pail Kids: Mad Mike and the Quest for Stale Gum comes to PlayStation 4, Xbox One, Switch, and PC on October 25. The title will also (finally) arrive on NES via a special cartridge release sometime in the first quarter of 2023.
+
+Documentary Trailer
+
+Sorry, this video is not available
+
+This article originally appeared in Issue 350 of Game Informer.
+
+      Products In This Article
+
+Garbage Pail Kids: Mad Mike And The Quest For Stale Gum
+
+Platform:
+
+PlayStation 4, Xbox One, Switch, NES, PC
+
+Release Date:
+
+October 25, 2022 (PlayStation 4, Xbox One, Switch, PC), July 5, 2023 (NES)
+
+Purchase
+More Info
+

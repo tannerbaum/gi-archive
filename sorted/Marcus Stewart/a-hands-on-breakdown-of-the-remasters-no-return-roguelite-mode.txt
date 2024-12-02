@@ -1,0 +1,81 @@
+
+                                          The Last of Us Part II Remastered 
+                  
+
+
+  A Hands-On Breakdown Of The Remaster's No Return Roguelite Mode
+
+
+
+
+Platform
+PlayStation 5
+
+Publisher
+Sony Interactive Entertainment
+
+Developer
+Naughty Dog
+
+Release
+January 19, 2024
+
+Rating
+Mature
+
+            Following in the footsteps of its predecessor, The Last of Us Part II is getting the big remaster treatment in January, over three years after it was released for PlayStation 4. This updated version leverages the PlayStation 5’s hardware with graphical bells and whistles like native 4K resolution, improved textures, and unlocked framerate. It also adds new interactive goodies, such as developer commentary and previously unplayable lost levels. But the centerpiece of the package’s new offerings is a new mode called No Return.
+
+In this new roguelite adventure, players choose from one of 10 playable characters, from main stars like Ellie, Abby, and Joel to previously unplayable faces like Tommy, Dina, and Lev, to battle a randomized series of combat encounters. I traveled to Sony Interactive Entertainment’s office in San Mateo, California, to play several rounds of No Return and speak to the director of The Last of Us Part II Remastered, Matthew Gallant, to learn how and why Naughty Dog implemented this surprising addition.
+
+My initial assumption was that No Return was an idea intended for the original release of The Last of Us Part II that didn’t make the cut. However, Gallant states the mode was conceived after Naughty Dog decided to update the sequel. “We're like, okay, we knew we were going to be doing this next-gen upgrade and offering the PS5 improvements and the fidelity and the performance mode, haptics, and all that really great stuff,” says Gallant. “That was for sure going to be in The Last of Us Part II Remastered, but then we were thinking, ‘What else would be really great? What would surprise people, delight people, give them something to make this a really robust offering?’”
+
+Naughty Dog wanted something that took advantage of the game’s exceptional combat that had the same high stakes as The Last of Us Part II’s Permadeath difficulty, in which players must restart the entire game if they die just once. It also wanted to challenge players to constantly change their tactics and behaviors; Gallant believes many players settled into their chosen playstyles and loadouts once they got deep into the story campaign. The run-based, randomized blueprint of the roguelite became the clear answer. “We thought that this roguelike mode [would] be a really great way to surprise players, get them thinking on their feet again, throw them into situations where they might be uncomfortable having to react or to plan on the fly,” says Gallant.
+
+Upon starting a new run, I choose one of two available characters: Ellie or Abby. Each character has a playstyle and specialized traits. Ellie is classified as “Balanced," meaning she’s well-rounded, while her three traits are gaining 50 percent more supplements, the ability to craft Molotovs (other characters must unlock this recipe), and two upgrade branches. Abby is a Brawler, meaning she hits harder, and her traits include a health regen that restores HP each time she performs a melee attack. Dina excels at crafting, based on how she’s able to repair the WLF radio in the story. Lev, who I unlock later, is stealth-focused, so he’s automatically equipped with his powerful and silent bow. His sister Yara’s trait allows Lev to accompany her as an AI companion at the expense of starting with only a basic firearm, meaning her upgrade path is longer by default. 
+
+I choose Ellie, and my run begins in the hideaway. This HQ takes different forms location-wise and has a workbench to upgrade weapons and a trading post to purchase new guns and tools from a randomized selection, which changes upon each visit. If you’re unhappy with what the trading post currently offers, you can reroll the selection by spending a small amount of currency. I begin with a pistol, a knife, and a couple of health packs. A corkboard displays the current run, a branching web of levels represented by Polaroid photographs that display any stipulations.
+
+The first level’s match is Assault, which tasks me with defeating three waves of enemies. I can go loud, but I choose to pick them off quietly, my preferred tactic in the story campaign. I’m reminded of how good the combat feels after being away from it for three years. The action is brutal, and I find myself wincing all over again at the sickening sound effects as I pierce throats with my knife or cave in someone’s skull with a bat. And yes, human enemies still scream out the names of their fallen comrades (“No! Mike!”) in agony upon discovering my handiwork. 
+
+The Last of Us Part II’s unsettlingly grounded depiction of violence is juxtaposed by No Return's more video game-y elements. Abby’s health regen trait means that health symbols explode out of enemies when she strikes them. Level modifiers can be goofy, such as one that makes all enemies invisible, detectable only by using listen mode, or by shining your flashlight to cast their shadows. Gallant, who worked on Part II’s combat in the original game, says Naughty Dog always valued keeping things grounded when it came to the series combat, but No Return’s non-canonical nature presented the opportunity for them to cut loose and get wild. 
+
+“We know our combat mechanics are really fun, we know our gameplay is really fun, [and we’re] trying to give that its own space to be fun and not quite as heavy as the main story,” says Gallant. 
+
+Between killing enemies, which range from human factions such as the WLF, Seraphites, and Rattlers to various types of infected, I scour the zones for crafting ingredients. Resource chests, which are highlighted with an indicator and appear in different places throughout a level, offer larger rewards for those brave enough to reach them. 
+
+After working my way through the web of zones, I eventually reach the endpoint: a boss battle. I’m pitted against a giant Bloater (along with a few Clickers), and, to my embarrassment, I’m killed after only a few minutes. Unfortunately, I didn’t get a chance to exact my revenge, though it wouldn’t be a guarantee that I could. Other bosses could appear instead, such as a Seraphite Elite or a Rattler Captain, which are new encounters not seen in the campaign. 
+
+My death means having to start a whole new run. It’s disheartening, but at least I know my path won’t unfold the same as before. Levels occasionally have mods such as adding a thick fog that makes it harder to spot enemies (and, in turn, concealing you better) or causing hazardous pustules of spores to rain from the sky. Sometimes, tripwires will be placed all over the arena. Some levels provide an AI companion to lend a hand. Using Ellie, I play one mission that pairs me with Dina for some tag team play. Other mission types include Hunted, which throws a never-ending barrage of enemies at players with the goal of surviving until the time limit expires. Certain levels have their nature obscured and labeled as mystery zones, meaning you have no idea what you’ll get until you play them. 
+
+“If you don't make it out of the situation…knowing that the game's going [to] be just rolling this entirely new random run at you, it's going [to] be rolling all these new challenges, new combinations of stuff that you wouldn't have expected,” says Gallant. “So [it] just makes coming back to the combat and running into new situations and new combinations just really exciting and really fun.” 
+
+A list of challenges provides additional objectives, and completing these unlocks new characters, outfits, mods, weapons, recipes, and more. For example, I unlock Lev by completing two levels as Abby. I also unlock Gambits, a feature that introduces a riskier set of challenges once per encounter for much greater rewards. Naughty Dog has ensured that No Return is regularly evolving and expanding the more time players put into it, which helps keep it fresh for the long haul. 
+
+A multitude of difficulty options means No Return can be as easy or hard as players make it. A Custom Run option even allows players to tailor their runs by choosing what mods, perks, and match types appear. Gallant believes that this flexibility in how players can mold No Return, along with the opportunity to play as fan-favorite characters, most of which were not playable before, offers enticing hooks to draw in fans who don’t traditionally play roguelites. 
+
+As a fan of The Last of Us Part II and roguelites in general, No Return is a fun blend of the two ideas that feels like a better fit than I expected. The evolving challenge, fun mods, and the tension of losing an entire run due to one mistake squeeze more juice out of the already enjoyable combat. Most of all, it offers an entertaining and substantial dessert to the meaty main course of the campaign (which Gallant recommends playing before jumping into No Return). I’m not sure if I’m ready to endure The Last of Us Part II’s emotionally taxing narrative again, so I’m glad No Return lets me enjoy the gameplay side of things without that stress. 
+
+The Last of Us Part II Remastered launches on January 19 for PlayStation 5. 
+
+      Products In This Article
+
+The Last of Us Part II Remastered 
+
+Platform:
+
+PlayStation 5
+
+Release Date:
+
+January 19, 2024
+
+Purchase
+More Info
+
+Marcus Stewart
+Associate Editor
+Marcus is an avid gamer, giant wrestling nerd, and a connoisseur of 90's cartoons and obscure childhood references. The cat's out of the bagel now!
+
+Email
+Twitter
+

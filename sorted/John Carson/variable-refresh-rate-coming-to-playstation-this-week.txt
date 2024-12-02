@@ -1,0 +1,53 @@
+
+  Variable Refresh Rate Coming To PlayStation This Week
+
+
+
+
+
+
+            Sony has announced that a new feature is coming to the PlayStation 5 this week. The long-awaited addition of Variable Refresh Rate (VRR) is coming within a few days, and a handful of games will support the feature in the coming weeks.
+
+In a blog post today, Hideaki Nishino, senior vice president of platform experience at PlayStation, introduced VRR and described the basics of how it works. "On HDMI 2.1 VRR-compatible TVs and PC monitors, VRR dynamically syncs the refresh rate of the display to the PS5 console’s graphical output. This enhances visual performance for PS5 games by minimizing or eliminating visual artifacts, such as frame pacing issues and screen tearing," writes Nishino. “It causes the games to look smoother overall and can even reduce input latency.”
+
+As it says in the quote above, you'll need a monitor that supports VRR and an HDMI 2.1 port to use it in any way. Many gaming monitors and TVs that utilize AMD's Freesync technology (their branded term for VRR) will be compatible with this new feature, so make sure yours does before enabling Variable Refresh Rate on PlayStation 5.
+
+Several PlayStation 5 games will utilize VRR very soon, and the PlayStation Blog post provided a list of which games we should expect to roll out VRR support in the coming weeks.
+
+Astro’s Playroom
+Call of Duty: Vanguard
+Call of Duty: Black Ops Cold War
+Destiny 2
+Devil May Cry 5 Special Edition
+DIRT 5
+Godfall
+Marvel’s Spider-Man Remastered
+Marvel’s Spider-Man: Miles Morales
+Ratchet & Clank: Rift Apart
+Resident Evil Village
+Tiny Tina’s Wonderlands
+Tom Clancy’s Rainbow Six Siege
+Tribes of Midgard
+
+Variable Refresh Rate is a big deal, especially for games that can't maintain a consistent framerate. It really does help to smooth out hitches and jitters you may experience in these inconsistent games and even has the effect of seeming like the framerate is running higher than it is. I'm most interested in seeing it utilized in games that take a performance hit from running at too high of a resolution, or from resources taxed by having ray traced lights or shadows enabled. VRR is already implemented on the Xbox Series X and S and makes a big difference there, so I'm excited to see it working with games like Ratchet and Clank: Rift Apart and Godfall, two games whose framerates suffer in higher-fidelity modes.
+
+Which games do you want to see recieve VRR support on PS5? Let us know in the comments below!
+
+      Products In This Article
+
+PlayStation 5
+
+Release Date:
+
+November 12, 2020
+
+Purchase
+More Info
+
+John Carson
+Associate Editor
+John likes to think of himself as a gaming Jack-of-all-trades. He'll give any game a shot just to know what it is. In his free time he can likely be found shuffling up Magic cards or trudging through an RPG.
+
+Email
+Twitter
+

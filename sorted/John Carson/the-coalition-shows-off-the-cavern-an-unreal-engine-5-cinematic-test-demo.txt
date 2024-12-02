@@ -1,0 +1,27 @@
+
+  The Coalition Shows Off 'The Cavern,' An Unreal Engine 5 Cinematic Test Demo
+
+
+
+
+
+
+            Xbox Game Studio's Gears of War team, The Coalition, is no stranger to the Unreal Engine and has been working with the newest version of Unreal Engine 5, available in full today. Along with the engine's release, The Coalition showed off its cinematic test of the tech in a demo video called "The Cavern."
+
+According to the video, the demo is not representative of a game that's in production. "The Cavern" features a man in a dark cave, facing off with an imposing and impressively rendered smoke that moves in abrupt ways smoke shouldn't be moving in, and a deadly creature lurks within. The man only has a sharp, glowing crystal in hand to defend himself against the dangers stalking him in the darkness.
+
+The environment featured in "The Cavern" runs on an Xbox Series X and is built with 100 million triangles. All of the reflections and lighting in the demo are rendered in real-time. The man alone is created with 160 thousand polygons in his body, 31 thousand in his face, and 3.5 million in his beard and hair, and it looks great. You can see it all in action in the video above.
+
+Xbox has posted an interview with Kate Rayner, the studio technical director at The Coalition, about the studio's usage of Unreal Engine 5 so far. Rayner says the team has been working with the engine since before early access was available and has been contributing bug fixes and collaborating with Epic Games on making UE5 optimal for use on Xbox consoles. 
+
+Rayner also talks about The Coalition's involvement with bringing the recent tech demo The Matrix Awakens to Series X and S in December and made plenty of progress in readying the engine for use on Xbox. Rayner says, "The fact that we shipped this next-gen experience on Xbox Series S with all the same features including ray tracing that we have an Xbox Series X at such an incredible level of quality is really amazing. This collaboration resulted in improvements to the Xbox development software, with runtime optimizations, bug fixes, and tools improvements that benefit all developers."
+
+"The Cavern" is undeniably impressive looking and is hopefully a great sign for things to come from The Coalition and other teams under the Xbox Game Studios umbrella. For more Unreal Engine 5 coverage, check out the announcement of the engine's release, and then read about the new Tomb Raider title coming from Crystal Dynamics that's powered by UE5.
+
+John Carson
+Associate Editor
+John likes to think of himself as a gaming Jack-of-all-trades. He'll give any game a shot just to know what it is. In his free time he can likely be found shuffling up Magic cards or trudging through an RPG.
+
+Email
+Twitter
+

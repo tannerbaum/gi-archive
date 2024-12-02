@@ -1,0 +1,71 @@
+
+  Latest Elden Ring Patch Adjusts Sorcery, Incantation, And Weapon Skill Balancing 
+
+
+
+
+
+
+            Elden Ring is no stranger to post-launch updates. There are more weapons and magics than we can count, and players have been discovering plenty of powerful (arguably, too powerful) abilities to slay the open-world adventure’s Great Enemies. Like the patches before it, the latest 1.04 Version of Elden Ring focuses on stabilizing and balancing the loop by adjusting sorceries, incantations, and weapon skills. 
+
+#ELDENRING patch 1.04 is available now.
+Read the full patch notes here: https://t.co/jUm9ggvgdO
+
+Please apply this patch to continue playing online. pic.twitter.com/d2BTawlzVD
+— ELDEN RING (@ELDENRING) April 19, 2022
+
+According to the official Bandai Namco notes, the major changes included in 1.04 prioritize adding an option to turn camera auto rotate off and event phases for everyone’s favorite swindler, Patches. There are also some significant gameplay tweaks like an increased attack speed/lowered recover time for Colossal weapons and slightly increased FP and Stamina growth rate at lower levels – the latter might come in handy for Wretch-loving masochists. Other adjustments include but aren’t limited to:
+
+Increased the two-handed attack damage of Colossal Swords/Colossal Weapons. Jump attack not included.
+Increased physical block rate and guard boost of the Colossal Sword, Colossal Weapons, Great Sword, Great Hammer, Great Axe, Great Spear, and Halberd weapon classes.
+Increased the damage of Grafted Blade Greatsword.
+Increased the damage of Devourer’s Scepter.
+Decreased the scaling of status effect build-up from spells and incantations of Albinauric Staff and Dragon Communion Seal.
+Decreased the effect of Greatshield Talisman for weapons with high block rate.
+
+Some Sorcery, Incantation, and Weapon skill buffs and nerfs are as follows:
+
+Upward Adjustments
+
+Rennala’s Full Moon - Increased cast speed and decreased recovery time.
+Ranni’s Dark Moon - Increased cast speed and decreased recovery time.
+Carian Greatsword - Increased cast speed at lower dexterity
+Magma Shot - Decreased FP cost and increased cast speed
+Roiling Magma - Increased cast speed and decreased time until magma explodes
+O, Flame! - Increased damage
+Giantsflame Take Thee - Decreased Stamina Cost
+Flame of the Fell God - Decreased FP cost and increased damage
+Whirl, O Flame! - Increased damage, decreased recovery time
+Burn, O Flame! - Increased cast speed and decreased recovery time.
+Lion's Claw - Increased cast speed and decreased recovery time.
+Kick - Increased cast speed.
+Hoarah Loux's Earthshaker - Increased cast speed. Increased cast speed on follow up input, decreased recovery time.
+Troll’s Roar - Decreased Stamina Cost. Increased cast speed on follow up input, increased distance traveled.
+Giant Hunt - Decreased recovery time.
+
+Downward Adjustments
+
+Swarm of Flies - Decreased blood loss buildup on enemy. (Oh, no!)
+The Flame of Frenzy - Decreased madness buildup on enemy.
+Frenzied Burst - Decreased madness buildup on enemy.
+Thundercloud Form - Decreased damage when not charged. Decreased FP cost. Increased cast speed and decreased recovery time.
+
+There are also several bug fixes. For the complete list click the link here.
+
+Did you spot any of your favorite abilities drastically altered in 1.04? Let us know in the comments below!
+
+      Products In This Article
+
+Elden Ring
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC
+
+Release Date:
+
+February 25, 2022
+
+Purchase
+More Info
+

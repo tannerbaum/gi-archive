@@ -1,0 +1,100 @@
+
+  A Tangled Web: The History Of Spider-Man Video Games
+
+
+
+
+
+
+Spider-Man made his comic-book debut in August 1962, gracing the pages of Amazing Fantasy issue 15 with his striking costume, arachnid abilities, and a refreshing dose of youthful angst. Almost immediately, it was clear that Spidey was destined for a greater fate than a throwaway appearance in a second-tier title.
+
+This feature originally appeared in issue 101 of the Australian edition of Game Informer magazine.
+
+Stan Lee and Steve Ditko’s creation – more relatable than the stoic, godlike superheroes of the day – was a runaway success with younger readers. Though teenagers couldn’t necessarily relate to having their scientific mentor turn into a giant lizard, the fact that Peter Parker, Spidey’s true identity, still had to get his homework done while dealing with said giant lizard hit home.
+
+By 1963 he’d been given his own comic, The Amazing Spider-Man, which continues to this day. Domination of the pop-culture world followed, with a now-heavily-memed animated series, big-budget (and a few extremely low-budget) movies, and countless action figure and lunchbox appearances.
+
+His video game life, however, was slow to start. Although he’s now starred in nearly 40 titles of his own, not to mention cameo appearances in everything from fighting to skateboarding games, Spidey’s gaming journey didn’t begin until the early 1980s...
+
+Spider-Man (1982) 
+With video games exploding in popularity during the 1970s, Marvel saw a revenue source it could no longer ignore. For the first time the comic-book giant licensed out one of its characters to a game developer – the now-defunct Parker Brothers taking the honors.
+
+The result was 1982’s Spider-Man for the Atari 2600 and Sears Video Arcade (essentially a rebadged Atari 2600 sold exclusively in Sears stores). Although it was repetitive and simplistic, the game did, to its credit, explore the power fantasy of being Spider-Man – which, as we all know, largely revolves around swinging on webs and climbing buildings. The fact that Spidey’s blue and red costume was somewhat recognizable while rendered with a few dozen pixels also meant that the visuals were considered impressive at the time. Seriously.
+
+Players had to scale a skyscraper using the webhead’s signature abilities while dodging baddies with a penchant for sticking their heads out of windows. Upon reaching the top, Spidey had to get past the Green Goblin and defuse his “Super Bomb.” Web fluid was a resource to be managed, and, in a nifty touch, you could stop yourself from falling to your death by shooting a web onto a wall before you plunged too far. Unfortunately, in the grand tradition of arcade games of the day, after completing a stage an almost identical building needed scaling and an identical Super Bomb needed diffusing. Variety was not this game’s strong point.
+
+Questprobe: Featuring Spider-Man (1984) 
+Scott Adams holds the distinction of being the first person to make an adventure game for PCs with 1978’s Adventureland. In 1984, he took a similar approach with Questprobe, a planned 12-part adventure series that would feature a different superhero in each episode.
+
+The bankruptcy of Adventure International, Adams’ publishing company, put a halt to those plans after only three entries, the middle of which featured Spidey (Hulk, and Human Torch and The Thing featured in the other two).
+
+Players needed to enter simple text commands (“Look Table”, “Talk Mysterio,” etc.) to navigate Spider-Man through a mysterious apartment building, confronting villains like Sandman and Electro, while collecting gems for Madame Web. Many of the puzzles were illogical, and finding the exact verb-noun combination was often a matter of trial and error.
+
+But the biggest problem was conceptual: nothing says “thrilling superhero experience” like a puzzle-based text adventure!
+
+The Amazing Spider-Man and Captain America in Dr. Doom’s Revenge! (1989)
+Paragon Software’s 1989 effort for Commodore 64, Amiga, Atari and DOS PCs is notable not only for its unwieldy title but for setting the template for the next decade of Spider-Man games. No more text adventures or score-attack arcade titles – the indefinite future was combat-focused action games viewed from a sidescrolling perspective.
+
+Dr. Doom, seeking to foil this unusual dynamic duo, constructed a doomsday weapon in his Latverian castle. For added protection, he solicited the help of a rogues gallery of extremely B-list Marvel villains, including Rhino, Batroc, Boomerang, Electro, Grey Gargoyle, Hobgoblin, Eduardo Lobo, and Oddball (Dr. Doom’s funds were, presumably, tight).
+
+Like a fighting game, Spidey or Cap needed to beat down on these goons one at a time, whittling down a single health bar while protecting their own, each bout taking place on a single screen. Unlike a fighting game, these duels required very little skill.
+
+Cap could throw his shield, and Spider-Man could fire web balls and climb on walls, but he lacked the ability to swing on web strands. In fact, the action was so simplistic that only six pages out of the game’s 24-page manual were devoted to play instructions – the rest featured character bios and an introduction from Stan Lee himself.
+
+In a creative touch, each fight was interspersed with comic book-style panels explaining the context for the action, but, like the combat system, the story was simplistic and uninspired. Dr. Doom’s Revenge was, however, considered a visual spectacle for the time.
+
+The Amazing Spider-Man vs. The Kingpin (1990-1993)
+The year 1990 saw a trio of Spidey platformers arrive. Both Oxford Digital Extremes and Rare released games called The Amazing Spider-Man (Oxford’s for PCs, Rare’s for the Nintendo Gameboy), but it was Sega’s first crack at the Spider-Man license, handled by developer Technopop, that best captured the  web-slinging fantasy.
+
+The Amazing Spider-Man vs. The Kingpin launched first on the Sega Master System, and was ported to the Mega Drive, Game Gear, and Sega CD over the next few years following its runaway success. A sidescrolling platformer, it was the first Spider-Man game to capture the joy of moving through the air in high-speed web parabolas, allowing players to swing from strand to strand across levels that ranged from warehouses, to cityscapes, to spooky forests.
+
+Unlike Dr. Doom’s lackluster recruiting efforts of 1989, Kingpin managed to round up a posse of A-list thugs to take on Spidey, including Doctor Octopus, Sandman, The Lizard, Hobgoblin, Vulture, Mysterio, Electro, and Venom.
+
+The game attempted to dramatize the Peter Parker side of the equation, as well – namely being broke – and required players to take photographs of the villains for The Daily Bugle in order to earn money to pay for replenishing your web fluid.
+
+Spider-Man and Venom: Maximum Carnage (1994)
+Software Creations’ and Acclaim Black Team’s Spider-Man and Venom: Maximum Carnage was the epitome of a middling licensed brawler. Swinging onto the SNES and Mega Drive, it featured all the right names and likenesses but lacked any semblance of gameplay magic. Reviewers at the time were suitably underwhelmed.
+
+It was, however, notable for two important things. The Maximum Carnage storyline had taken over Spider-Man comics the year prior as a massive 14-part crossover event, one that is now considered an integral moment in the Spidey canon. Being able to re-live those events in video game form so soon afterwards was a rare treat at the time.
+
+It was also the first time gamers could take control of Venom as a playable character. The symbiote featured his own moveset, but given the shallow brawler nature of the title, most of these were just different ways to throw a punch, so it was hardly noticeable.
+
+A 1995 follow-up, Separation Anxiety, was almost identical in gameplay and visual execution – and received almost identically underwhelming reviews.
+
+Spider-Man: Web of Fire (1996)
+The Sega 32X is one of the industry’s most colossal failures, starting a decline that would eventually see Sega leave the hardware market for good. It was conceived as a budget entry point to the 32-bit generation, but was ignored by gamers almost immediately – and by Sega shortly thereafter. Only 40 titles for the 32X were ever released, so Spider-Man: Web of Fire’s mere existence is noteworthy in and of itself.
+
+Developed by Bluesky Software, Web of Fire pitted Spidey against an unusual foe: Hydra. It followed the mid-’90s template of left-to-right platform brawling to a fault, but stood out visually thanks to the added processing power. It is, however, best remembered for being the last 32X game released in the West, and is – and likely always will be – the rarest Spider-Man game in existence. Because of its scarcity, a copy in good condition can fetch upwards of $400.
+
+Spider-Man (2000)
+In stark contrast to Superman’s notoriously awful 3D debut, Spider-Man swung into the third-dimension with style. Riding high following the breakout success of Tony Hawk’s Pro Skater, developer Neversoft repurposed its cutting-edge Pro Skater engine and gave the world its best Spidey game yet. Spider-Man hit the PlayStation in 2000, and was soon ported to the Dreamcast, Nintendo 64, PC, and Game Boy Color.
+
+Neversoft’s title captured the fantasy of swinging across New York City like never before, allowing players a degree of freedom previously unimaginable. Sure, the streets may have been covered in a yellow fog that would kill Spider-Man if he dropped too low, but being able to “do whatever a spider can” in 3D space was a landmark moment in the history of superhero video games.
+
+It excelled in the audio department as well, with actors from the ’90s animated series reprising their roles (including Jennifer “Commander Shepard” Hale as Mary Jane Watson and Rino Romano as Spidey), and, in an inspired touch, Stan Lee himself provided narration. Excelsior!
+
+Spider-Man 2 (2004)
+After laying solid groundwork in 2002 with Spider-Man: The Movie (the game), Treyarch, now better known as one of Call of Duty’s custodians, went bigger and better with this now-classic sequel.
+
+Spider-Man 2, loosely based on the second Sam Raimi film, brought the webhead into the open-world genre. It was a natural fit. The game’s rendition of New York City was a sprawling sandbox filled with random muggings that needed thwarting, civilians in need of a lift to the hospital, and getaway cars just begging to be chased (and punched).
+
+Where previously Spider-Man’s web strands could magically attach to the sky, here Spidey’s webbing actually had to connect with the side of a building in order for Spidey to swing creating a thrilling momentum system that has yet to be bettered.
+
+Though it suffered from repetitive mission design and some poxy voice acting, Spider-Man 2’s open-world and exhilarating web-swinging make it stand out as an important chapter in Spidey’s video game lineage.
+
+Ultimate Spider-Man (2005)
+Treyarch’s Ultimate Spider-Man took the template established by Spider-Man 2, expanded the map to include Parker’s home neighborhood of Queens, and, most importantly, ditched the primitive photorealistic style in favor of a cel-shadded look reminiscent of the comic books. As a result, it’s still a stylish game to this day.
+
+During key moments in the story, the action switched to Venom. Eddie Brock’s unhinged symbiote had a moveset that felt unique from Parker’s, jumping high into the air instead of swinging, hurling cars, and even eating NPCs to replenish his constantly depleting health.
+
+Though Treyarch later released two more Spider-Man games, 2005’s Ultimate Spider-Man, based on the popular Ultimate line of comics, remains the pinnacle of the developer’s Spidey output.
+
+The Rest... (2006-2014)
+From the creative highs of the early- to mid-2000s, Spider-Man was suddenly bitten by a decade of radioactive mediocrity. Activision permanently shifted Treyarch to CoD duties after 2008’s Spider-Man: Web of Shadows, handing the mask to Canadian developer Beenox.
+
+The developer’s run started promisingly with 2010’s Spider-Man: Shattered Dimensions, which flipped between alternative reality Spideys: Noir, 2099, Amazing, and Ultimate. However, an annual release cycle saw predictably diminishing returns – 2011’s Edge of Time and 2012’s The Amazing Spider-Man were each worse than the last. A year off didn’t help 2014’s The Amazing Spider-Man 2, a low point for Spidey’s video game output, which sits on a Metacritic score of 46. It was the last dedicated Spider-Man game released.
+
+The past decade has been a poor, unfitting ending to Spider-Man’s video game journey. Fortunately, true believers, with Insomniac at the helm, our hopes are high for an impressive rebirth later this year.
+
+To see our entire month of Spider-Man coverage, click the banner below and bookmark our hub. New stories and features are added every couple of days, so check back to learn more about Insomniac's Spider-Man game for PS4.
+

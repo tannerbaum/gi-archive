@@ -1,0 +1,92 @@
+
+  'It Would Be Difficult To Create A Sequel' And More Details From the Creator Of Ghost Trick: Phantom Detective
+
+
+
+
+
+
+            Shu Takumi has been with Capcom for nearly 30 years and during that time he directed many games including Dino Crisis 2 and multiple Phoenix Wright and Apollo Justice games. He even provided Wright’s voice in the original game. Perhaps the game he is proudest, of, however, is the 2011 (2010 in Japan) DS game, Ghost Trick: Phantom Detective.
+
+Following its DS release, the game was ported to iOS devices, but later this month, it will land on consoles for the first time. Ghost Trick will be available on PlayStation 4, Xbox One, Switch, and PC on June 30 where it will receive a visual upgrade and the first opportunity to play it without a touch-screen. Ahead of the release we spoke over e-mail with Takumi, producer Shingo Izumi, and the director of the port, Atsushi Maruyama, about Ghost Trick’s legacy, how the game was originally conceived, and the potential of a sequel.
+
+Game Informer: What did the earliest version of the original Ghost Trick look like?
+
+Takumi: The initial concept I had for the game was a story that involved a crowd of characters, a game in which you would observe mysterious characters from the outside and discover their secrets as you played. Because of that, my first draft of the idea was that the game would be set in an apartment building. You would observe the people that lived there and discover what mysteries they harbored. I asked myself what kind of main character would be able to observe that in such a manner and arrived at the concept of a spirit.
+
+From there, I had the idea for the ”Powers of the Dead,” and the question of what those powers are. Eventually, these ideas evolved into the story of Ghost Trick: Phantom Detective and pursuing the truth behind your own death all in a single night.
+
+Was it always meant to be its own game, or did it start as part of the Phoenix Wright universe?
+
+Takumi: I worked on the concept of Ghost Trick: Phantom Detective after Phoenix Wright: Ace Attorney – Trials and Tribulations was finished. I wanted to make a mystery game in a style that was different from Ace Attorney, so from the beginning I was already thinking of it as a completely separate world from Ace Attorney.
+
+I chose to have art designs and character names that did not establish any particular time period or country, since fantasy elements are very strong, such as the main character being a ghost. That's also why there isn't any lettering in any of the background visuals.
+
+Sissel's identity is a fun and worthwhile twist. Was that story element in place from the beginning?
+
+Takumi: When thinking of a mystery story, I start with the end and go backwards from there. The first thing I thought about was the identity of the main character. Of course, if the truth is that he's an everyday normal person, that's not very interesting, so I gave it a lot of thought. The next question I considered was “What are the powers of the dead?”
+
+Actually, a lot of elements changed as I created the plot and wrote out the story. The true identity of the lampstand Ray, who appears early in the game, was something that was finalized towards the end. Creating a mystery story is a journey filled with surprises of its own.
+
+Has revisiting the game for new platforms made you think of potential sequel ideas? Would you like to see a sequel?
+
+Takumi: The story of Ghost Trick: Phantom Detective is completely told in this single game, so I think it would be difficult to create a sequel. However, the powers of the dead that this game introduces may hold some possibility.
+
+What was one of the most challenging parts of creating the original game?
+
+Takumi: The first thing I thought of was the story. From there, I thought of the game systems, how it would be presented, and the design of the world... making a game consists of combining a lot of different elements into one. The balance of those elements is what really decides how well a game is put together. All of it was difficult, and looking back, I even wonder how we ended up with such a perfect game.
+
+...am I being too proud of our own work?
+
+If this remaster sells well, do you think a sequel could be in the future?
+
+Izumi: Right now, we are dedicating all we have to deliver Ghost Trick: Phantom Detective to as many players as possible, so we haven't had time to think about what we're going to do after that. I hope the amount of people who play this game is large enough that it makes us want to consider a sequel!
+
+Was it difficult to port a game to a platform that does not have a touch screen?
+
+Maruyama: We were able to port the game to a platform that does not have a touchscreen thanks to the skill and efforts of our U.I. design team and programmers.
+
+How does the animation work in Ghost Trick? How does it still look so good and unique?
+
+Takumi: Ghost Trick: Phantom Detective was originally created for the Nintendo DS, so it wasn't possible for us to use detailed 3D visuals. That said, I wanted the visuals to look beautiful. To accomplish that, we first created high-resolution 3D models and animated them, then rendered that into pixel art, which the game displays as 2D animation. With this process, we were able to produce visuals that went beyond what you would typically expect from a handheld console at the time.
+
+Because we created the animation with high-resolution 3D models at that time, we were able to make a high-definition version this time.
+
+Additionally, when we created the original in 2010, motion capture wasn't as widely used as it is today. Over 90% of the animation in Ghost Trick: Phantom Detective was animated by hand. That probably wouldn't happen today, but I think because it was made by hand, the movement is uniquely appealing.
+
+ You're missing out!Normally this is where something cool would show.  Your browser is blocking third-party cookies so we're unable to display this content.Try clearing your browser cache, disabling ad blockers, and verifying that cookies are allowed: Verify cookie preferences
+
+What is (or will be) Ghost Trick’s legacy?
+
+Takumi: As creators of games, the only thing we think about is providing an enjoyable experience to the player, so I don't know what kind of legacy Ghost Trick: Phantom Detective has or will have. The answer to that is something I'd like to hear from those who have played the game.
+
+Do you consider Ghost Trick: Phantom Detective a horror game?
+
+Takumi: To me, Ghost Trick: Phantom Detective is a mystery and a comedy.
+
+Personally, I'm not able to handle scary media very well, so I've never aimed to create something in the horror genre.
+
+But I have heard from people who've played it that this game is scary, so it may very well have some overlap in the horror genre. Maybe I just have a strange sense regarding genres.
+
+      Products In This Article
+
+Ghost Trick: Phantom Detective
+
+Platform:
+
+PlayStation 4, Xbox One, Switch, DS, PC, iOS, Android
+
+Release Date:
+
+January 11, 2011 (DS), February 2, 2012 (iOS), June 30, 2023 (PlayStation 4, Xbox One, Switch, PC), March 28, 2024 (Android)
+
+Purchase
+More Info
+
+Kyle Hilliard
+Magazine Content Director
+Kyle plays entirely too much Picross. He once wrote a whole book about The Legend of Zelda.
+
+Email
+Twitter
+

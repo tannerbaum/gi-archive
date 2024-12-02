@@ -1,0 +1,244 @@
+
+  Inside Yager Development's Failed Attempt To Make Dead Island 2
+
+
+
+
+
+
+            From announcement to release, Dead Island 2 was supposed to take less than a year. Instead, it took nine. 
+
+Initially revealed on stage during Sony's 2014 E3 press conference, Dead Island 2 had an infamously rocky road to release. What briefly began in the early 2010s at Techland, the developer behind the first Dead Island and similar open-world zombie game Dying Light, then moved to Yager Development, then Sumo Digital, and then finally, Deep Silver's Dambuster Studio, was for many years a giant question mark in the game industry. Its publisher, Deep Silver, spent many of those years saying little to nothing about the game other than vague confirmations that it was still in development. Until it resurfaced in late 2022, a seeming sign that Dead Island 2 would see the light of day – which it finally did, being released in 2023. 
+
+Understanding what went wrong requires understanding many different factors – how Deep Silver makes deals, how Unreal Engine 4 works (or didn’t, at the time), and how unprepared the team at Yager was for the project it'd taken on. To make sense of it all, sporadically, between 2019 and 2023, we spoke to numerous people from the development and publishing side to find out exactly what Dead Island 2 was in its first iteration at Yager and what went wrong along the way. Everyone we spoke to did so under the condition of anonymity to share what they know, not wishing to publicly break non-disclosure agreements. 
+
+"A Natural Thing"
+
+No one expected the original Dead Island to be as successful as it was. By December 2011, Deep Silver announced it'd shipped more than 3 million units, saying it was "thrilled that it has sustained a robust level of sell-through since [its] launch" in September of that year. According to people Game Informer spoke to, plans for a sequel were immediate. It was a "no-brainer that we should do another one," a former higher-up from Techland says. The team got to work on its pitch for Dead Island 2, using the codename "Dead World." As the higher-up says, the team never got far enough into development to explore what "World" meant fully but knew it wanted to make a game "bigger and better in every dimension."
+
+Techland also wanted to tell a more serious human story compared to the campy nature of the first Dead Island. A story that focused on the people rather than the monsters. 
+
+The original Dead Island
+
+"I think we all kinda felt that we wanted to do something a bit more mature, especially as we started to dive into what zombies are really about," one person says. "The thing about zombies is they're just background; they're just kind of a trigger, a catalyst to observe how humans behave. Difficult times push people to show their true colors, and we thought that that's why zombies are really interesting. When we started exploring the best comic books, the best movies about zombies that we liked, those are really stories about people – not zombies."
+
+One of the most significant changes Techland discussed early on was the player character's mobility, planting the seeds that would become Dying Light's trademark parkour system. 
+
+"It was kind of a natural thing. It felt really weird that you cannot do those things, especially in a zombie apocalypse," one former developer says. "And so it felt like the natural [place] to go, and so we started thinking on, 'Okay, how can we expand on this freedom of movement,' and that was the big thing that we wanted to get into."
+
+And then Deep Silver said no. 
+
+People on both the Techland and Deep Silver sides tell Game Informer the developer's pitch for Dead Island 2 strayed too far from the original vision for the game. 
+
+"Koch [Media, Deep Silver's parent company] turned it down because it wasn't really Dead Island; it was a zombie game with different mechanics. It was a whole separate game," a former employee on the publishing side that worked on the Dead Island series for several years says. 
+
+In January 2015, Techland released Dying Light, its own zombie IP, published by Warner Bros. Interactive Entertainment. It received warm criticism and sold over 5 million copies by August 2015. A sequel, Dying Light 2 Stay Human, self-published by Techland with Square Enix handling marketing and distribution in North America, was announced at E3 2018 and released in 2022.
+
+"The World's Smallest MMO"
+
+Around 2012, after passing on Techland, Deep Silver sent out a request for proposal, or RFP, inviting developers to pitch their ideas for Dead Island 2. Spec-Ops: The Line developer Yager Development came in at the lowest bid, so Yager got the job. 
+
+Former employees tell Game Informer this is a common tactic for Deep Silver – signing a deal with the cheapest developer, thinking it had struck a great deal. However, as with Yager on Dead Island 2, these budgets are often far lower than necessary to make a large-scale triple-A game. While we couldn't confirm the actual budget, many on the development and publishing side estimate it as low as a quarter to a third of what it should've been.
+
+"In all fairness, this is a typical Koch Media play," a former Deep Silver employee says. "They put out an RFP with an unrealistic budget, and then people bid on it knowing that there's no way that they can complete it with the scope that's being asked for within the budget that's being allotted. And then they plan on developing enough [up] to the point where they need more budget, and you're too far along on the project to cut it completely, so you have to pay them more." 
+
+"It's the freelancer dilemma," they add. "What's your budget? Well, what's your rate? Well, what's your budget? Well, what's your rate? So it's that but in the tens of millions of dollars." 
+
+Neither Yager nor Deep Silver responded to our request for comment. 
+
+Yager's Dead Island 2
+
+Based in Berlin, Germany, Yager made its greenlight demos in Unreal Engine 3, showcasing a small vertical slice of potential gameplay. Former developers say its original pitch had much in common with the original Dead Island, with four-player co-op, crafting, and looting. Unlike Techland before, Yager shared Deep Silver's vision for keeping Dead Island 2 campy and lighthearted but contrasted with zombie media's typical violence and gore. "The way Dead Island 1 would've been described just in a different setting with potentially much, much higher production values," a former higher-up from Yager says about the game. 
+
+Or, as another person puts it, "Dead Island but good [...] A game that wasn't a 70-percent game [on Metacritic] but was, like, an 85-percent game."
+
+Moving into full production, numerous people we talked to estimate the development team's size at about 85 to 100 people. Yager set up the sub-studio Yager Productions GmbH to handle the development. For the actual game, the company licensed Epic Games' then-unreleased Unreal Engine 4, being one of the first studios to do so. At the time, Timo Ullmann, Yager's then-managing director, said, "Unreal Engine 4 is, hands down, the best toolset for creating next-generation, triple-A games."
+
+Rather than a fictional island resort like the first game, Yager's Dead Island 2 took place in California and featured multiple open-world maps of key locations around the state. While developers say the details of the game's story were never fully completed, the broad strokes boil down to the zombie outbreak from the first game spreading to the United States and landing in California. To contain the outbreak, the country walls off the state. One of the main features of the game's story that people remember was the Jack Black-like mission-giver Max (not voiced by the man himself, as he confirmed in a Reddit AMA in 2014) that appears briefly in the game's reveal trailer, and more importantly, his cat. According to one developer we talked to – and backed up by reporting from the time – Dead Island 2 was supposedly the first ever game with a motion-captured cat, though we have no way of independently verifying this ourselves.
+
+Max and his cat did end up in the spin-off side-scroller Dead Island: Retro Revenge, developed by Empty Clip Studios and released in 2016 as part of Dead Island Definitive Edition and as a standalone game. In it, Max has to fight through California to get his stolen cat, Rick Furry, back. 
+
+"That's essentially cut content for [the] plotline of Dead Island 2," a former Deep Silver employee says.
+
+Throughout Dead Island 2, people from both Deep Silver and Yager say, players would travel across California to separate open-world levels such as a smaller-scale San Francisco, and then larger levels based on Los Angeles and the Redwood National Forest along the state's northern coast. 
+
+Yager's Dead Island 2
+
+San Francisco, serving as the game's tutorial level, was about the size of a "medium-size Battlefield map," one person tells Game Informer. And while Los Angeles and the Redwoods would've been bigger maps, no one says the open worlds would've been massive on the scale of, say, Grand Theft Auto V or a similar open-world game. This design decision was to add a variety of depth to the game's worlds rather than scale for the sake of scale.
+
+"Part of that came from the intention of, for instance, having houses that will be fully accessible," a higher-up from Yager says. "That would've gotten away from some other games where you are either all outside [or] all inside, and that [is how] you get your world size. For us, it would've been combining those two things and [...] just having a lot more literal room in regards to the world size."
+
+However, not too far into the process, multiple people on the project say there was a shift toward making an eight-player, always-online, seamless multiplayer game. While many core tenets stayed in place – setting, levels, and so on – this was a radical shift from the game Yager pitched. And multiple people say it was done without a new round of pre-production. 
+
+"What happened shortly after the greenlight demo was greenlit was the publisher came to us and said, 'We want seamless multiplayer," one person recalls. 
+
+"And we're like, 'Well, what does seamless multiplayer mean?' 
+
+"And they say, 'Well, we don't really know; you figure it out.'"
+
+The new vision, as people called it, was "the world's smallest MMO." It'd become one of the game's big problems – but certainly not the only one. 
+
+There was also Unreal Engine 4.
+
+"It Looked Good"
+
+Dead Island 2 was announced at E3 2014 with a bright and sunny trailer featuring a man happily running along the Santa Monica boardwalk as a zombie outbreak unfolds behind him. It was big news, the surprise sequel to a smash hit. The press was shown a behind-closed-doors, hands-off demo, including looks at the "unpolished" San Francisco level, combat, and weapon combinations, such as a "weed-trimmer/lawnmower hybrid" and a "power drill/table saw combination."
+
+At the time, it was pitched as a game with "endless replayability" and a constant slew of upcoming content. In Polygon's preview, Deep Silver's creative producer, Sebastian Reichert, discussed the game's MMO aspirations. According to the outlet, Dead Island 2's servers would have remained persistent until all players therein had logged out. So, as Polygon put it, if at least one of the eight players stayed online, a server could ostensibly go on forever. 
+
+"I'm looking forward to the moment where we find out what the oldest game we have is," Reichert said.
+
+ You're missing out!Normally this is where something cool would show.  Your browser is blocking third-party cookies so we're unable to display this content.Try clearing your browser cache, disabling ad blockers, and verifying that cookies are allowed: Verify cookie preferences
+
+A few months later, at Gamescom 2014, Game Informer had a chance to go hands-on with Yager's version of Dead Island 2, playing two different character classes, and trying out combat, weapon customization, and a world event. Overall, we were positive about what we saw. 
+
+"People were very excited about the game," a former Deep Silver employee says. "And we were, internally. It looked good. The game had all the elements to be good – or what we hoped it would be. It all was there."
+
+At the time, Dead Island 2 was announced with a spring 2015 release date. Despite the positive buzz from events, behind the scenes, that date was contentious.
+
+While one person we talked to believes Yager would have hit the initial release date, most people interviewed for this piece did not believe the date was feasible. One higher-up details that internal feelings were split. 
+
+"There were people who were hopelessly optimistic about it and just going, 'Yeah, s—, we'll just make it happen,'" they say. "The other half – I counted myself in that camp – we were just saying, 'Yep, sure. Let them [get] the marketing beat on it, get some pre-orders in; we're going to be a year out from there. Easily.'"
+
+Because Dead Island 2 was in trouble. 
+
+"After we did the Gamescom demo, that was the high point, arguably," a former developer remembers. "And then after that, I guess we had a big milestone of some kind – beta or something. That was where things started going downhill because we weren't able to basically deliver the big open-world maps in a way that was playable on the consoles.”
+
+Despite its lofty goals for the game's setting and gameplay, the game's engine, Unreal Engine 4, essentially doomed the project, multiple people from Deep Silver and Yager say. The problem was Dead Island 2 was an open-world game, and at least at the time, Unreal Engine 4 was not an open-world engine. While the game could run on PCs, it severely struggled on consoles – specifically PlayStation 4 and Xbox One. 
+
+Multiple people describe scenarios where Unreal Engine 4 wouldn't prioritize which of the game's textures to load based on proximity to the player, seemingly pulling them at random. Playing a build, people describe not being able to run around freely in the game's world because something like a trash can directly in front of the player was blocking their path but hadn't loaded in yet. This problem extended all the way up to large assets in the game, like buildings, which wouldn't load into sight once the player was extremely close to them.  
+
+ You're missing out!Normally this is where something cool would show.  Your browser is blocking third-party cookies so we're unable to display this content.Try clearing your browser cache, disabling ad blockers, and verifying that cookies are allowed: Verify cookie preferences
+
+"Especially on PC, it was playable; it was pretty fun," one developer remembers, backed up by people on the publishing side recalling seeing the game running on PCs. "You could run around the entire big maps – we had the big maps more or less working – but the consoles just couldn't stream the content fast enough, so you're just kind of sitting in this big, empty area waiting for all the buildings to load and that kind of stuff."
+
+Another issue, a former senior employee from Yager tells Game Informer, was the aforementioned depth of the game's world. Estimates range on how many interiors would've been enterable across the whole game, but nevertheless, it had a massive impact on the engine – even on the smaller level. 
+
+"What we also worked a lot on was the San Francisco pier level – this was the tutorial thing – and there, you could enter every single building on the pier," one former developer says. "The engine already struggled there, if I recall correctly." 
+
+Multiple people say Unreal Engine developer Epic Games tried to work with Yager to remedy the issues, but the setbacks caused by Unreal Engine 4 took a toll on the game's development timeline. Even though Epic was offering support, throwing a lot of people at problems, as one higher-up from Yager says, "they never got anywhere close to being able to say, 'Yes, this is an open world-feasible engine.'"
+
+Epic Games declined to comment for this story.
+
+Yager began missing its milestones, no longer delivering on the game it was developing. Exacerbating its engine problems, the developer was having its own issues, including a new management structure, needing more people on the project, and a lack of online experience from the team.
+
+"We Were Not Ready"
+
+In an ideal scenario, Dead Island 2 would've worked like so:
+
+You load into a server with seven other people – some might be your friends, others random players. All around you is a world already in motion: Zombies are walking around, missions are in progress, and you're free to explore, tackle objectives, loot, or whatever else you choose. Occasionally, a small event or quest might appear on the map you can play with others on the server. Or you can ignore them. It's up to you. When you're ready, you and your friends can tackle the campaign, triggering larger missions. 
+
+"The minute-to-minute gameplay would've been about running around, discovering, slashing zombies, grabbing loot," one former higher-up says. "The hour-to-hour gameplay would've been about working through your progression, leveling up your skills, and also just figuring out the better combinations of gear – especially the weapons – of what you need to use."
+
+This MMO slant on the action game genre was a fairly novel concept at the time. Not too long afterward, Bungie's 2014 game Destiny did something similar for first-person shooters – but even then, struggled. However, there were some key differences between that game and Yager's Dead Island 2.
+
+"I mean, Destiny was developed by maybe 600 people," one developer says (in September 2014, Bungie revealed its headcount was 500 people, though the point still stands). "We were a team of 90. Maybe 100. And we were not ready for that."  
+
+Yager's Dead Island 2
+
+"We didn't have [the] experience nor the technology to do that back then," they add. "There was one day in which we told everyone, 'Hey, from now on, we need everyone to test this game on a server-client base. We need you to launch the game. Every time you test it, please test it as a client, not as a standalone game. You connect to the game, and you will see how badly this game works.' And yeah, that was the day in which, I think, 95 percent of the company realized that the game was working really horribly. [...] I think it was probably 30 percent or 35 percent of the reason why this game was canceled in the end."
+
+"[There were] not enough people to do what we were trying to do," another former developer says. "We were very light on people with the capabilities of modifying the engine. Online was a huge component; we didn't have many people that were very experienced, seasoned online programmers."
+
+Between the technical challenges of making the “world's smallest MMO,” an engine that wasn't performing, and a budget far below what it needed, Yager was nearing the point of no return with Dead Island 2. And perhaps without the leadership to course correct.
+
+Following the release of Spec Ops: The Line, Yager adopted a flatter work structure. As one former Yager employee says, this was around when the Valve "Handbook For New Employees" leaked online, looking behind the curtain at the company's employee autonomy and lax approach to corporate hierarchy. Yager pushed for a similar corporate culture, and while at least two people we talked to liked the flat structure (though one acknowledged they were mostly alone in their opinion), in the eyes of others, it went too far – to the further detriment of Dead Island 2.
+
+"It was flat to the point that it became ridiculous," one person says. "As in, like, anybody could suggest anything. There was no coaching for it; there were no coaches within the team as part of that enabling people or anything. It was just like, 'Try it out.' The company owners themselves, the executive management, they took themselves out of that. They just said, like, 'Hey, you guys do this and make it work.'"
+
+"I mean, we had the feeling that there were some guys at the top, our leads, that were constantly begging for absolution for us, for the whole team, but it was never reflected on the way we worked," another says. 
+
+In an attempt to salvage the project under Yager, Deep Silver sent engine architects from Volition, developer of the Saints Row and Red Faction series, also owned by Koch Media, to look at the issues with the open world and streaming. The consensus they came to wasn't good. 
+
+Yager's Dead Island 2
+
+"They looked at it, and they're like, 'Yeah, you need to build this s--- from scratch,'" one developer recalls, laughing. "If that was true, we're like, 'Oh f---.' It was a bit of a moment. I think the penny dropped with that, right?"
+
+Employees from the consulting company Toadman were also brought on board to help out. Both parties agreed that the project was too ambitious, the budget too low, and there weren't enough people working on the game. And if they were ever going to release Dead Island 2, they would need to restructure the project completely. 
+
+And so Yager went back to the drawing board.
+
+To solve one of the game's biggest problems, Yager planned to divide Dead Island 2's open worlds into smaller chunks, multiple people say. For example, a former developer recalls that Los Angeles would have been four maps instead of one. 
+
+"That was basically the big part of the solution to the problem," they say. "Just don't have such big maps; have maps that the engine is actually designed to have. And then, going between the different areas, you just got a loading screen. Tough s---, right? Loading screen."
+
+It's worth pointing out that the version of Dead Island 2 that finally came out in 2023 also used this approach to its levels – though the entire game is set in Los Angeles rather than the state of California as a whole. 
+
+Another solution was to keep the game's MMO elements only in small instances. And so, while it would still have eight players, the smaller maps would've acted more like hub areas.
+
+"There you can jump into almost the real game, which would be an instanced little linear section that you play cooperatively and takes maybe a couple hours to play through, so it's a relatively large chunk," a former developer says. "And then we can reuse a lot of maps and have different things going on in them based on if you're playing it in this MMO mode or if you're playing it in the narrative mode."
+
+But despite its best efforts, the axe eventually came for Yager. In July 2015, Deep Silver announced it'd pulled the studio off Dead Island 2. 
+
+"With Dead Island 2, Deep Silver has always been dedicated to delivering the sequel that Dead Island fans deserve," Deep Silver said at the time. "After careful consideration, today we announce the decision to part ways with development partner Yager."
+
+"Having a project canceled in such a late state is a catastrophic event on so many different levels," Ullmann told Gamesindustry.biz later that year in October. "It really is the worst possible outcome. Everybody involved loses."
+
+One developer we spoke to theorizes that the solutions Yager explored could have led it to finally releasing Dead Island 2. They say that after that redesign, it could've shipped something in "two years." 
+
+Reality had other plans. 
+
+"It was rough for a lot of people," they say. "There was tears. [...] There were people who, it was their first game, their first project, their first job.
+
+"Where Others Have Not"
+
+Following the cancellation of Dead Island 2, Yager Productions filed for insolvency. 
+
+"As [sic] single-purpose company, Yager Productions GmbH was assigned to the development of the Deep Silver title Dead Island 2," Ullmann said in a statement (via Gamesindustry.biz). "The insolvency filing is a direct result from the early termination of the project and helps protecting [sic] our staff. In the course of the proceedings, we gain time to sort out the best options for reorganizing this entity."
+
+As Ullman said, the only part of Yager affected by the cancellation was the sub-studio it set up to develop Dead Island 2. He also said staff wages were secured for the "foreseeable future." No one we spoke to disputes this and some employees were moved over to work on the game Dreadnought, a free-to-play multiplayer shooter released in 2018. Other people left. As one person put it, Germany is one of the best countries in the world to be unemployed. 
+
+            Dambuster Studios
+
+Dambuster's Dead Island 2
+
+In March 2016, Deep Silver revealed to MCV that the development of Dead Island 2 had been handed to Sumo Digital, the developer of Sonic & All-Stars Racing series, Little Big Planet 3, and the then-in-development Crackdown 3. According to Deep Silver employees we talked to – who were not involved in the decision-making processes – the move was a shock. 
+
+"When they announced Sumo, we were like, 'Racing game? What? Who are these people?'" one former Deep Silver employee recalls. "Because at the time, the last game they had done was, like, Sonic All-Stars. We were all like, 'What the heck?'"
+
+"Collectively, everyone in the [...] office googled 'What the f--- is Sumo Games,' realized that they had only done kart racing games, and nothing that was rated over 'E' for 'Everybody,'" another says. "And this was an M-rated open-world game."
+
+During this piece's reporting process, we couldn't speak with enough people from Sumo Digital to publish anything conclusive about its time with Dead Island 2. However, by 2019, Sumo was off the project, too. Dambuster Studio replaced it, coincidentally set up in 2014 by Deep Silver to take over the development of Homefront: The Revolution from Crytek UK. 
+
+Dambuster released Dead Island 2 on April 21, 2023, more than a decade after work first began at Yager. While there are certainly similarities between the released version and Yager's vision – the California setting, small, segmented levels, and so on – Dambuster claims it started mostly from scratch when it inherited the project. The MMO aspects of the game, Jack Black-like character and cat, cross-state adventure, and other features weren't carried over. Though notably, the released version of the game is running on Unreal Engine 4. 
+
+In a piece by IGN chronicling Dambuster's time with Dead Island 2, technical art director Dan Evans-Lawes said he hopes this version of the game reinvigorates the zombie genre, taking it back to a place "that is trashy, kind of pulpy and lots of fun."
+
+"And I feel like that's what we've done," Evans-Lawes told the outlet. "We have succeeded where others have not. So yeah, that's nice too."
+
+Dead Island 2 received positive reviews and thus far has sold over 2 million copies.
+
+            Dambuster Studios
+
+Dambuster's Dead Island 2
+
+But Yager's work is not lost – not fully, at least. Footage of the game, confirmed to us by a former employee, leaked online back in 2020. 
+
+But even if Dead Island 2 eventually had a happy ending, it's hard to untangle it from its rocky road to release. We could only tell part of the story; two other studios had hands on the project. And at least according to one person we talked to before the game's eventual re-reveal, Dead Island 2 stands out as a particularly notable project – even if it's for all the wrong reasons. 
+
+"You know, it did strike me as, 'This is one of the oddest projects I've ever worked on,'" they say. "The funniest thing is, I keep running into people who have a connection to Dead Island. Even at my job now, I have met people that have worked on Dead Island in some form or fashion, and everybody keeps telling the same stories of how unimaginably f---ed up it is."
+
+If you’re a developer who worked on Dead Island 2 and would like to speak about your experiences, the author of this piece can be reached via email at blakehester@gameinformer.com.
+
+      Products In This Article
+
+Dead Island 2
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC
+
+Release Date:
+
+April 21, 2023
+
+Purchase
+More Info
+
+Blake Hester
+Senior Associate Editor
+Blake Hester writes about the people who make video games. Before joining Game Informer, he freelanced for outlets such as Polygon, Vice, USG, and Rolling Stone. 
+
+Email
+Twitter
+

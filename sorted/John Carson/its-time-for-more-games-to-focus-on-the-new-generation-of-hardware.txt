@@ -1,0 +1,30 @@
+
+  It's Time For More Games To Focus On The New Generation Of Hardware
+
+
+
+
+
+
+            Yesterday marks a year and a half from the start of this console generation. Many great games are available on PlayStation 5 and Xbox Series X, but there's a problem. It doesn't feel like we've seen the promised significant quality improvement with the new hardware. As an owner of both of those consoles, I'm pretty disappointed. Yesterday, we learned Gotham Knights would only release on the current generation, leaving PS4 and Xbox One behind, and you know what? I'm glad that's happening, and more studios should consider doing the same thing.
+
+I'm very aware there are still many people out there with last-gen consoles who haven't been able to buy into the new machines due to various reasons – supply constraints and high price points being among the most common. However, as time goes on and these consoles become cheaper and readily available, there have to be reasons for consumers to choose to upgrade and buy one, like games that take full advantage of the technology stored inside these high-tech boxes or whatever shape you want to call the PS5.
+
+Graphical and performance improvements are only the tip of the iceberg for what I'd love to see in dedicated PS5 or Series X/S games, but visuals are just as crucial as any other technical improvements for incredible immersion or simply that "wow factor." Some developers have utilized new visual techniques like ray tracing to make realistic shadows and reflections. However, this comes at a significant resource cost, especially in cross-gen games. Firing up a cross-gen game and cranking up its graphical settings to see some visual splendor, only to find that it significantly tanks performance, is painful. Titles like Returnal or Astro's Playroom are examples of games benefiting from new-gen hardware by using new lighting and shadow techniques, an abundance of impressive particle effects, and high-quality textures as the visual baseline without sacrificing framerate.
+
+These consoles include high-speed SSDs that we've mostly seen used to decrease load times and, at best, make rapid dimension-hopping possible in Ratchet & Clank: Rift Apart. There's so much more that's possible with lightning-fast storage solutions than making the game pop up faster. Many files for games have been restructured to account for the advanced memory and storage architecture, reducing the download size of games. More visually impressive showings of Unreal Engine 5 and the recent The Matrix Awakens tech demo demonstrate how quickly traveling over vast swaths of land in a matter of seconds looks natural in ways that aren't possible if a game is tethered to development on last-gen systems. Imagine a Superman game that has the superhero zipping through Metropolis without a hitch, with minimal pop-in because the hardware can handle the speedy transition across the city. A technical artist called Volod actually made that Superman prototype using city assets from The Matrix Awakens, and the early results look incredible!
+
+The #UE5 CitySample told me that it wants to turn into a #Superman game when it grows up...#IndieGameDev #gamedev #games pic.twitter.com/7BwAOt3KVF
+— 𝕧𝕠𝕝𝕠𝕕▿ (@volodXYZ) April 6, 2022
+
+However, The Matrix demo is just that at the moment; a demo. Those assets – and the next-generation tools they're built on, like Unreal Engine 5 – have only just been made available to all developers in the last couple of months and will go a long way to making this generation truly feel next-gen. Many of the graphical and technical solutions I mention above are built into the DNA of this evolved software and will likely be the catalyst for more devs pushing the current consoles further. 
+
+I realize many factors have made the long cross-gen period necessary for many companies. Still, once these more powerful/efficient engines start rolling full stream, I'm hopeful developers will unshackle themselves from old hardware to unleash the true potential of the PS5 and Series X.
+
+John Carson
+Associate Editor
+John likes to think of himself as a gaming Jack-of-all-trades. He'll give any game a shot just to know what it is. In his free time he can likely be found shuffling up Magic cards or trudging through an RPG.
+
+Email
+Twitter
+

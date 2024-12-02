@@ -1,0 +1,74 @@
+
+  Creature Feature – Capturing The Curious Story Of Palworld
+
+
+
+
+
+
+            Three words come to mind when looking at Palworld: Pokémon, absurdity, and ambition.
+
+Since its official reveal in June 2021, Palworld has raised eyebrows with its vibrant, expansive world teeming with dozens of monsters ripe for catching but in greater fidelity than Pokémon’s recent entries. In addition to capturing them and harnessing their abilities in battle, you can also wield realistic firearms and other weapons to blast them apart or, more hilariously, arm your cuddly critters with some serious heat.
+
+“Pokémon with guns” has become the shorthand description of Palworld, but the experience packs in survival mechanics, base-building, a central narrative, and other bells and whistles. With so many promises, some have deemed Palworld too good to be true, a sentiment its Tokyo-based developer Pocketpair finds puzzling.
+
+Chief Dev Hiroto Matsutani (right), Founder/CEO Takuro Mizobe (middle), Chief Artist Daiki Kizu (left)
+
+“Palworld is not a ‘fake game,’” Pocketpair founder and CEO Takuro Mizobe tells me over email. “We are really surprised that some people say that.”
+
+Palworld hits Steam Early Access in January, giving skeptical players a chance to see just how real the game is. But despite Pocketpair releasing numerous gameplay videos, an air of mystery still surrounds Palworld. How does its sizable feature list blend into a cohesive experience? Where did this wacky idea come from in the first place? Perhaps most importantly, just who the heck is Pocketpair?
+
+The answer to the last question begins with Mizobe. A lifelong fan of video games, the NES ignited his childhood love for the medium before he graduated to the Super Nintendo. Mizobe says the turning point came when he discovered free games available through the internet in elementary school, which allowed him to sample a variety of genres easily. His broad palette is evident in his short list of all-time favorite games, which range from The Legend of Zelda: Ocarina of Time to Age of Empires to Serious Sam to Soldat, a free multiplayer action game. This exposure set him on the path of becoming an indie developer; he created his first game at 11 years old, which won awards at his school.
+
+Fast-forward some years, and Mizobe, now a university student at the Tokyo Institute of Technology, got his first taste of professional game development by participating in the Nintendo Game Seminar. From 2005 to 2014 (with a break between ’11 and ’12), the yearly event invited Japanese game design students to learn the tricks of the trade and then work in teams to create an original title. The cream of the crop would then be released as free downloads on platforms like DS Download Play or the Wii U eShop. For the 2010 edition, Mizobe and his college friends created The Tentai Show, where players use black and white holes to absorb incoming meteors before they strike Earth. It was released as DSiWare in Japan in 2011.
+
+In 2012, Mizobe graduated from university. He would spend a few years working “normal” jobs like JP Morgan Securities before founding Pocketpair in 2015. The team released its first title in 2019: Overdungeon, a real-time tower defense card battler that garnered a generally positive reception from players. For its second game, Pocketpair tackled something a bit more ambitious. Enter Craftopia, a game that feels like the precursor to Palworld. It, too, is a sprawling open-world survival game boasting features such as farming, crafting, dungeon crawling, base-building, pet breeding, and multiplayer. Craftopia has been playable in Steam Early Access since 2020, so it’s technically still in development. Despite this, Pocketpair is tackling perhaps its most ambitious title yet in Palworld.
+
+Mizobe tells me Pocketpair develops games in a style that borrows ideas from others the team enjoys playing. Overdungeon takes clear influence from Slay the Spire and Clash Royale, while Craftopia has elements of Zelda, Harvest Moon, and a litany of survival games. Palworld draws from games like Pokémon, Age of Empires, Grand Theft Auto, Elden Ring, Valheim, and Fortnite to create what Mizobe calls a “unique gaming experience that is different from existing games.”
+
+Palworld unfolds on the Palpagos Island in the Pacific Ocean. Strange monsters called Pals, of over 100 varieties, occupy this tropical land undiscovered by humankind for generations. That eventually changed, and now various factions have set up shop in pursuit of their own interests. Players control an explorer who washes ashore on the island following a shipwreck. Thus, survival is your primary goal, and you need the Pals’ help to accomplish this.
+
+Pals are based on real animals and cultural myths from places like Europe, China, and Egypt. They come in several attributes: Neutral, Flame, Water, Grass, Electric, Frost, Earth, Dark, and Dragon. Resistances and vulnerabilities follow the rock/paper/scissor format of Pokémon: Water is resistant to Flame, for example. However, Pals can learn attacks opposite their types, so you can teach a Flame move to a Water Pal. Players can also breed Pals to create new species. This opens the door to a plethora of possible combinations, and while not all of them result in a completely new creature, others carry the traits of their parents. Mizobe says designing so many uniquely talented Pals, including the long list of breeding offspring, has been the most formidable development challenge.
+
+Pals roam freely, with players catching them by blasting them with weapons, like guns, to weaken them. After that, you toss a blue spherical device to capture targets. Pals can then be used in battle, and the number you can use at a time varies depending on the situation. You can let Pals handle combat by issuing commands or picking them up and using them like living firearms. Pals also come with their own unique partner skills and abilities.
+
+Your non-living arsenal includes clubs, bows, and spears to heavy gun weapons like shotguns, ARs, miniguns, and rocket launchers. As effective as these killing machines can be, some Pals can’t be beaten using conventional weaponry. Pocketpair doesn’t elaborate, only teasing that these sturdier Pals require more clever methods to defeat them.
+
+Outside of battle, you can put Pals to work farming crops to cook beneficial dishes and constructing buildings and factories to create settlements. In fact, some Pals are better specialized for labor than fighting. Trailers have shown assembly lines of cute critters building weapons and looking decidedly unhappy about it. This plays into the game’s dark humor. You’re free to be a jerk by, for example, illegally poaching them in forbidden zones, attracting the attention of a corrupt police force that monitors the island. Mizobe tells me morality doesn’t factor into the storytelling, so if you want a (mostly) consequence-free excuse to be a monster, go right ahead.
+
+Regarding survival mechanics, Palpagos features a day/night cycle and changing climate, meaning you need to cope with uncomfortably hot or cold temperatures. With all these spinning plates, Pocketpair tells me the general gameplay loop looks like this: You craft vital tools, gather resources, build a base, explore some more, perhaps fight a boss along the way, and repeat. In between that, you catch Pals since they’re necessary for almost every facet of play.
+
+Additionally, multiplayer allows players to explore Palworld together. Up to four friends can play normally, but dedicated servers support over 20. With so much going on, Mizobe tells me feature creep has often reared its ugly head. Thus, cutting ideas to prevent Palworld from becoming bloated and unfocused has been an ongoing challenge. “At the beginning, we thought about having a huge underground world and the ability to live in outer space, but we decided to give up on these for the time being,” says Mizobe.
+
+According to Mizobe, Palworld carries lessons learned from the studio’s previous efforts. Mainly, simply mashing together disparate genres isn’t enough and should be done carefully. Pocketpair had trouble defining the rules of Overdungeon because it was so focused on replicating the RTS elements of Clash Royale. Craftopia had so many ideas that some mechanics clashed, which the team is still correcting.
+
+“Palworld is being made with the awareness that ‘we are working through difficult game design problems in order to keep the consistency of each genre,’” Mizobe writes. “We try to not tackle too much at the same time while being focused on meeting the players' expectations. We've made a lot of mistakes along the way, but overall, we think it turned out well in the end.”
+
+We can only hope that the team continues to zero in on what makes Palworld click, even if they still have some more tough decisions to make in the long road ahead.
+
+“We recently noticed the potential for a PvP mode in this game and are now reconsidering if we should expand on it,” says Mizobe. “That has us facing a difficult challenge again. Game development is always difficult.”
+
+This article originally appeared in Issue 360 of Game Informer.
+
+      Products In This Article
+
+Palworld
+
+Platform:
+
+PC
+
+Release Date:
+
+2024
+
+Purchase
+More Info
+
+Marcus Stewart
+Associate Editor
+Marcus is an avid gamer, giant wrestling nerd, and a connoisseur of 90's cartoons and obscure childhood references. The cat's out of the bagel now!
+
+Email
+Twitter
+

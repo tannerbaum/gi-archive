@@ -1,0 +1,211 @@
+
+  Star Wars Outlaws Cover Story – Forging A Strong Reputation
+
+
+
+
+
+
+Platform
+PlayStation 5, Xbox Series X/S, PC
+
+Publisher
+Ubisoft
+
+Developer
+Massive Entertainment
+
+Release
+August 30, 2024
+
+            When Star Wars: Episode IV – A New Hope – then simply known as Star Wars – hit theaters in 1977, it changed cinema. The grand scale, eye-popping visuals, and relatable cast of characters made it an instant classic and established the IP as one of the biggest of its time. However, it was its sequel, 1980’s The Empire Strikes Back, that demonstrated that not only was creator George Lucas’ magnum opus more than a one-off fluke, but he had established a universe ripe for expansion.
+
+ You're missing out!Normally this is where something cool would show.  Your browser is blocking third-party cookies so we're unable to display this content.Try clearing your browser cache, disabling ad blockers, and verifying that cookies are allowed: Verify cookie preferences
+
+Following the darkest chapter in the Original Trilogy, which is considered by many as the defining piece of Star Wars media and a classic film against which second chapters in stories are still compared to today, fans’ imaginations ran wild with what could possibly happen next with Luke Skywalker and his underdog crew of rebels. In the one-year in-universe space between The Empire Strikes Back and 1983’s Return of the Jedi, the galaxy is in a delicate state. The Galactic Empire is at the peak of its powers, and the Rebel Alliance is regrouping after a harrowing defeat. However, where some see a dire situation, others see opportunity.
+
+It’s in this period that Massive Entertainment, the developer behind The Division, The Division 2, and Avatar: Frontiers of Pandora, chose to make its scoundrel playground. We traveled to a galaxy far, far away – Malmö, Sweden – to be the first to play Star Wars Outlaws and speak with those creating this promising spacefaring adventure.
+
+A Long Time Ago
+
+A Long Time Ago
+
+At the beginning of each conversation I facilitated with various Star Wars Outlaws development team members at Massive Entertainment, I asked them to tell me their histories with the Star Wars franchise. Without fail, each developer lit up as they recounted their childhood trips to the theaters, the worn-out VHS tapes, and how Star Wars altered the course of their lives.
+
+“I think if you talk to most developers of a certain age, it’s one of the first movies that we remember going to see at the cinema,” creative director Julian Gerighty says. “I can remember going to the Odeon Theatre to see the movie, maybe in 1977 or early 1978, and my mind was blown. This was special effects of a level that we’d never seen before. And it was the whole spirit of exploration, mysticism, romance – it was all these things packed into one experience. And remember, this is hard for us to remember these days, but there was no Netflix, there was no video on demand, so this was ultra rare. It lived in your memories, your experience of seeing it, and then it was my first VHS; it was the VHS that I watched the most. It was the foundation movie of my youth.”
+
+Each developer I spoke with has a similar story to share with a level of passion that spells authenticity. While it’s not a surprise for people born in the ’70s, ’80s, and ’90s to be fans of Star Wars, what is refreshing is to speak to developers about working on a licensed product and when they say it’s a “dream come true,” I can see in their eyes and hear in their voices that these aren’t just empty platitudes and PR-fed lines. Gerighty even calls the franchise “foundational in our cultural upbringing.”
+
+With that baked-in love for Star Wars, the developers fondly remember when Ubisoft leadership came to them to offer the opportunity to work on an all-original Star Wars adventure. Following development on The Division 2, Massive Entertainment’s former managing director David Polfeldt had been in discussions with Disney about working together on one of its properties. According to Gerighty, during those discussions, Polfeldt brought up the studio's passion for Star Wars, which served as a way to get the ball rolling.
+
+With seemingly limitless options for the direction the studio could take its adventure, Gerighty and his team looked at the archetypes available in the Star Wars tabletop role-playing games, including Jedi, spies, operatives, and more. Massive wanted to craft an adventure built around a unique perspective: one that speaks to a different set of characters and navigates the galaxy in a different way. The archetype that stuck out to the developers was the scoundrel. Plenty of developers have explored the Jedi and Rebel experiences, but scoundrel tales are far less prominent.
+
+“We felt that one of the venues in Star Wars that, especially recently, hasn’t been explored as much is that of the scoundrel character,” associate narrative director John Björling says. “A relatable character, a rookie kind of taking their first steps into the galaxy, exploring the world, and really getting involved with the people and factions that make up the fabric of the galaxy. That was something that we knew very early on that we wanted to pursue: to have that personal story and really make the galaxy come to life.”
+
+In the Star Wars galaxy, the scoundrel is personified by Han Solo, but even though Massive and Lucasfilm decided early on to establish this new game in the Original Trilogy, Massive didn’t want to merely retread that ground by making a Han Solo game. “Not once did that come up,” Gerighty says. “We wanted to tell different stories with different main actors, as well.”
+
+Once Massive set its sights on a scoundrel adventure set in the period between The Empire Strikes Back and Return of the Jedi, it began taking stock of its strengths and areas where it “wanted to exercise muscles [it] didn’t necessarily exercise on previous games,” according to Gerighty. The title was established as a single-player action/adventure game within an open world. However, if the player chooses, they can jump into a ship and fly out into space to participate in battles and jump to other planets.
+
+But that’s just part of the scoundrel fantasy Massive wanted to shoot for. Star Wars Outlaw’s main character, Kay Vess, starts as a thief before growing into a gunslinger. Massive wanted to portray more of a “resourceful underdog” approach instead of the trained soldiers that star in The Division. “A scrappy underdog is going to use every trick in the book to get out of a tricky situation,” Gerighty says. “Sometimes, a scoundrel should avoid getting into combat, so stealth became incredibly important for us as well, and having the choice of going in with your guns or sneaking around, that needs to be at the heart of every single encounter that we create.”
+
+As Kay, players take on jobs from various crime syndicates as they navigate the underworld of the Star Wars galaxy during this precarious period. However, things are never so black and white when dealing with the Hutt Cartel, the Pyke Syndicate, and other established syndicates across various planets. Kay needs to make difficult decisions about how she approaches each job.
+
+That gets to the heart of what Massive Entertainment calls the “ultimate scoundrel fantasy.” Massive wanted the notion that actions have consequences, and your reputation follows you wherever you go to permeate the entire experience, giving birth to a robust Reputation System that feeds into nearly every part of Star Wars Outlaws.
+
+With the foundation and premise of the title established, Massive Entertainment shot for the stars as they got to work creating a scoundrel experience for the ages. And while some may choke on ambitions as lofty as the ones set forth for this project, Massive feels it has risen to the occasion and is on track to deliver a full-spectrum scoundrel experience within the fertile Star Wars galaxy.
+
+Honoring The Classics
+
+The positioning of Star Wars Outlaws during the Original Trilogy after the Rebellion’s darkest hour defines so much of the game. The Imperial presence, the flourishing crime syndicates, and the iconic locales in familiar states all play into Kay Vess’ experience within the game.
+
+“In our first meeting with Lucasfilm, this was one of the key topics that we really wanted to solve: Where do we put the game?” associate narrative director John Björling says. “We agreed that really the perfect fit for this type of game and for this story is the Original Trilogy.”
+
+But before Massive Entertainment could reap the benefits of the most classic Star Wars trilogy, it needed to ensure it remained authentic to the films. The team examined the cinematic roots of the Star Wars franchise, down to its inspirations, including Akira Kurosawa, Westerns, and old war movies.
+
+“It should feel like a classic matinee adventure,” Björling says. “Gripping conflicts and challenges wrapped in explosive action, adventure, and suspense. But it’s also a space opera. You have to have that emotional tension, that character-driven drama.”
+
+The lighthearted, approachable angle of Star Wars is accentuated by the designs and concepts of designer Ralph McQuarrie, who worked closely with George Lucas on the art direction of the Original Trilogy, including characters like Darth Vader, Chewbacca, and various droids.
+
+Massive worked alongside Lucasfilm to honor that initial vision set forth by McQuarrie when designing new elements for Star Wars Outlaws by adhering to three rules: strong silhouettes, the Three Second Rule (regarding how long it takes a viewer to understand what they’re seeing), and injecting or maintaining the personality of characters, locales, vehicles, and so on. But the studio didn’t stop there, as the team even studied things like the camera lenses used to shoot the first Star Wars film.
+
+“We want the game to be like a realistic rendering style with the filmic treatment, the color grading materials, and the camera effects to ensure this authentic experience that we know from the original movies,” art and world director Benedikt Podlesnigg says.
+
+From what I’ve seen, the result is an experience that is definitively Star Wars Original Trilogy but presented in the modern era with all the conveniences of modern game-development technology, like improved visual fidelity and frame rates.
+
+A Hive of Scum and Villainy
+
+A Hive of Scum and Villainy
+
+One of Massive’s guiding principles for Outlaws is that someone existing in the Star Wars underworld inevitably lives and dies by their reputation, a notion I felt throughout my hands-on demo with Star Wars Outlaws. Following an unfortunate turn of events, Kay lands on Toshara, an all-new moon created by Massive in collaboration with Lucasfilm Games.
+
+“It was a process that taught us that no matter how much you think you know about Star Wars, you don’t know enough about Star Wars,” Gerighty says with a smile. “There is a beauty and a simplicity in terms of the design of every single one of those locations that we’ve learned a lot from. It has to be familiar. It has to be something that you could almost recognize on Earth, but there’s always a twist. And in the case of Toshara, it’s these huge streaks of amberine, an amber-like material that’s translucent that forms part of the landscape, but it’s also within the cities.”
+
+The picturesque landscapes and beautiful plains inspired by the African savanna may distract you from the corruption the moon faces for a moment, but the discerning eye will immediately notice signs that not all is well on Toshara. Corrupt politicians, Imperial occupiers, and, most pertinent to Kay, multiple crime syndicates all have a home on the moon.
+
+This state is one of the primary reasons Massive chose this era in the Star Wars canon to craft its adventure. “This is the time where the underworld thrives,” game director Mathias Karlson says. “That is fundamentally the world which Kay moves in, and a large part of the game and its story will be about Kay’s journey deeper and deeper into this underworld, navigating its different threats and opportunities.”
+
+Nowhere is this more evident than in Toshara’s capital city, Mirogana. It’s here that my time with Star Wars Outlaws begins. Mirogana is multi-leveled and dense, with diversions from your main mission aplenty. “If you open up the map, the location that we’ve built for Mirogana is quite compact,” Gerighty says. “What we wanted to do is to have something that is very dense in activities rather than super expansive where you get lost, and there’s not much to do. It’s very, very focused on providing a dense, busy city experience.”
+
+After flashing a fake identification to a Stormtrooper, I progress to my destination. This moment is a stark reminder of the state of the galaxy. I ignore the beckoning shopkeeps, arcade games, betting areas, and the table hosting the in-universe card game Sabacc to navigate to the cantina. In each city you visit, whether on Tatooine, Akiva, or Kijimi, the cantina is always a central location for gathering intel, getting the lay of the land, and finding work. Toshara – and Mirogana, in particular – is primarily a Pyke enclave despite being home to other syndicates too, so Kay needs to meet with Gorak, the leader of the Pyke Syndicate. Unfortunately, he’s locked away in the VIP section, and I need to find a way in, so it’s time to look for a backdoor. Using Kay’s hairpin – which is actually a dataspike – I hack into a back room by doing a simple rhythm-based lockpick minigame.
+
+After entering the backroom of the cantina, I see a blue icon in the distance, which means Kay can send her companion, Nix, to fetch it. Nix is a merqaal, a new species designed in collaboration with Lucasfilm Games. Nix is far more than just a helper, though. Nix is as close to a part of Kay as a separate creature can be.
+
+Massive describes Kay and Nix in terms of “1 + 1 = 3” because they are greater than the sum of their parts. “I always say, ‘Kay’s not a Solo, Kay’s a duo,’” associate art director Marthe Jonkers says with a chuckle after I ask if Kay’s relationship with Nix is similar to Han Solo and Chewbacca. “We have Kay as the main character, but it’s actually Kay and Nix. They are the main character. We really wanted to bring this unique duo as the main character to the Star Wars galaxy. They work together a lot, and Nix helps you, but he’s really her buddy. […] That relationship and having this duo is what makes Kay a unique character, like a unique scoundrel. She’s not on her own. She’s not doing this all by herself. She actually has her partner in crime. That brings a unique take on the scoundrel archetype.”
+
+Nix helps Kay find novel solutions to problems, like distracting enemies. As I play through my demo, it takes a while to remember to use Nix, but once I do, I immediately understand the benefits of his utility (more on that later).
+
+Kay reaches Gorak’s suite, and after making a joke that lands with a thud and name-dropping the wrong person, she is tossed out. As she dusts herself off, Nix reveals that he stole Gorak’s ring during the scuffle. A voice tells her that might not be the best decision given the Pyke’s power.
+
+The voice comes from Danka, a Mirogana broker. After giving you a rundown of the syndicates operating on Toshara, she gives Kay a job from an unknown client: steal a file from a Pyke stronghold. And with that, one of Star Wars Outlaw’s defining elements emerges: the Reputation System.
+
+You Like Me Because I'm A Scoundrel
+
+Kay Vess enters the Star Wars Outlaws story as an unassuming thief from Canto Bight, a city most known for the casino scene in Star Wars: Episode VIII – The Last Jedi. But she didn’t come from the extravagant portion of the town; instead, Kay grew up in the workers’ district, where she started as a common pickpocket before graduating into a full-on thief.
+
+“We put a lot of care into her design and what she’s wearing and how she looks to tell her story,” associate art director Marthe Jonkers says. “She has a lot of elements in her design that tell a bit of her story. For example, she has a broken nose. She’s been through a lot; you can see that she has scars and stuff. She also has a hairpin; I love that element because she uses that to lockpick doors, and you can use that from the beginning to do some thieving.”
+
+She dreams of pulling off the ultimate heist, allowing her to attain her primary goal for her and her companion Nix: freedom. However, after a job goes sideways, Kay finds herself with a massive bounty on her head and a target on her back, which is where we pick up with her at the beginning of Star Wars Outlaws.
+
+“I think it’s very relatable as a human being on planet Earth that this character doesn’t have any magical powers or properties beyond her daring, her wits, her skills, her tools, and her buddy Nix,” game director Mathias Karlson says. “The personality type is also perfectly suited for going on a swashbuckling adventure. I think that’s something I really resonated with thinking about this character in terms of building a game and gameplay around it.”
+
+Kay and Nix are later joined by a droid veteran of the Clone Wars named ND-5 as they navigate the criminal underworld together.
+
+Making a Name for Yourself
+
+Making a Name for Yourself
+
+In Star Wars Outlaws, Kay must navigate the criminal underworld through four syndicates, each with its own leader. Jabba the Hutt, leader of the Hutt Cartel, stands out as the most recognizable underworld boss Kay crosses paths with, but she’ll also deal with Lady Qi’ra (who many know from Emilia Clarke’s portrayal in Solo: A Star Wars Story) of Crimson Dawn, Queen Ashiga of the Ashiga Clan (a new syndicate created for Outlaws), and Gorak of the Pyke Syndicate.
+
+The Reputation System in Star Wars Outlaws represents your relationship with these four syndicates. Your reputation, which ranges from Terrible to Excellent for each group, determines how that criminal organization treats you. Having a good reputation with a syndicate may mean they let you walk freely in their hideouts, offer you special stock or discounts at the shops in their territories, and even help you if you get into a hairy situation with another syndicate or even the Empire.
+
+In the case of my playthrough, my introduction to manipulating Kay’s reputation starts with this simple mission of infiltrating the Pyke territory of Mirogana and stealing a file for a mysterious client. I guide Kay to the Pyke territory, but the fact that she recently met with their leader hardly leads to a red-carpet rollout from the guards stationed at the front gate.
+
+“If you have a bad reputation with the syndicates, they won’t let you in,” lead systems designer Matthieu Delisle says. “You can sneak in, but if you get caught, you will be kicked out. However, if you have a good reputation once you’ve worked good rep with the Pyke Syndicate, for example, you’ll be able to freely go in and then you can get access to a bunch of opportunities. That can be things like jobs for the syndicates, merchants with some of the better stuff for sale, intel, rumors, and can also be high-stakes Sabacc tables. The syndicates are hubs of opportunities that you get access to with the right rep.”
+
+Since my standing with the Pykes is firmly in the “Poor” section of the Reputation meter, I can’t just walk right in; I’ll need to sneak. After finding a back way in, which involves looping around, heading down a back alley, and climbing up a ledge, I emerge in a restricted Pyke area. Star Wars Outlaws strives to provide player agency to those in control of Kay, but in these early portions where you must break in, you need to be stealthy. As such, you can’t use your blaster in these sections. However, you can perform stealthy takedowns of guards to make the path to your destination easier.
+
+These moments are when Nix really comes into play. As Kay crouches behind a box, a Pyke guard approaches my position. From the shadows, Kay instructs Nix to hassle the guard. He can do the subtle approach of acting cute in front of the guard while Kay sneaks around to take them out, or Nix can do what I ultimately chose in this situation: climb up the guard’s legs and jump on their head. It’s louder, but that can play to your advantage of running up and taking them out without the need for finesse.
+
+After sneaking past a couple of guards and taking out some others, I find a backroom with a locked door. Once Kay picks the lock, she finds herself in what appears to be a maintenance room. Using another of Nix’s abilities – his senses – Kay identifies electrical circuits in the walls, which tell you which buttons to press to call the elevator needed to reach the next area. Unfortunately, the first elevator doesn’t raise high enough, and the second elevator’s button is out of reach for Kay – but not for Nix. By directing Nix to press the button, Kay successfully lowers the second elevator to a position where she can climb onto a grated wall to reach the ledge. Continuing into the ventilation shafts, a whirling fan impedes Kay’s path, but by telling Nix to pull down a shutter, Kay can blast the power supply and get past the fan.
+
+After using Kay’s grapple hook to swing across a gap, I reach the area with the file. Unfortunately, it has an energy shield with two generators. Even worse, the area is heavily guarded. There is some good news: Since I’ve entered a contained, hostile area, I can use Kay’s blaster if it comes to that. But it also means if I get caught, it won’t just result in getting kicked out; the enemies in this area shoot to kill.
+
+I decide to start with a stealthy approach. Using Kay’s binoculars, I mark enemies to keep track of them once I descend to the floor. I take down a few of them thanks to a combination of my cunning, Nix’s assistance, and the “stun” setting on Kay’s blaster, but it doesn’t take long for the guards to spot me and a shootout begins. Sadly, I did not think to disable the alarm system, so it’s triggered. Even if I had taken down the alarm system, it wouldn’t have made a difference, as I accidentally walk past the sightline of a security camera.
+
+The firefight goes on for a long time. As I take out Pykes, stronger enemy types with shields and more advanced weaponry arrive. Thankfully, I have healing items I can use, and the fallen enemies drop better weapons than Kay’s blaster that she can use until they run out of ammo. Since I’ve triggered this alarm, my reputation with the Pykes drops; had I made it through without being spotted, my reputation with them wouldn’t have taken a hit.
+
+That’s not the world I live in, though, as the bodies are piling up. At the risk of doing something rash, I make a break for it. In breaking the line of sight with the guards, a blue silhouette shows my last-known location; that’s the first place the guards will look before fanning out to try and find me. I use this temporary de-escalation to make a break for the generators. After stealthily taking down the guards stationed by them, I deactivate both generators and go to retrieve what I came for. After grabbing the file from the terminal, Kay stumbles upon something juicier: footage of one of Gorak’s underlings plotting against him. Ever the opportunist, Kay knows that someone would pay a pretty penny for this info – maybe even Gorak himself.
+
+That’s right. Even after the violence I just took part in with the Pykes – my face on camera and everything – Kay still considered going to their leader. That’s because there’s somewhat of an understanding from all viewpoints that these relationships aren’t about making friends. They’re about mutual benefit.
+
+Taking Flight
+
+When on the surface of a planet or moon, Kay Vess can traverse by foot or speeder. However, once she decides to go off-world, the Star Wars Outlaws protagonist can navigate the stars using her trusty ship, the Trailblazer.
+
+Though I didn’t get the chance to play any space sequences, the open-world philosophy of Star Wars Outlaws extends to the orbit of these planets and moons. “You have space combat, space exploration, sense of travel, sense of movement,” creative director Julian Gerighty says. “The combat can be very intimate dogfights, but it also can be large, epic set pieces.”
+
+Planets and moons have a buffer zone around them, allowing for real-time space flight, with the edges of these areas serving as jump points for hyperspace. “For planets, we wanted to have an orbit around them with lots of different points of interest, things to do, battles to get in, places to explore,” Gerighty says. “The orbits for each one of the moons or planets that we created had to be populated with lots of different things, and we didn’t want to create endless space, so you hyperdrive from the orbit of a planet to the orbit of another planet.”
+
+Once in that orbit, you can take part in those combat scenarios, but you can also take on quests. In one case, as described by art and world director Benedikt Podlesnigg, he was completing other tasks in space. He received an emergency signal that a helpless freighter was under attack by pirates. After fending them off, he landed on a nearby space station. While he can’t go too deep into these space stations or their scale, he confirms they can have vendors and quest-givers.
+“The way that people in the world react to Kay will vary depending on the reputation, but it is very transactional,” senior systems designer Alice Rendell says. “These aren’t friendships, so it’s still very, ‘Okay, can Kay help you out in that moment?’”
+
+I return to the cantina with the file for the client. It turns out that the anonymous client was a member of Crimson Dawn, and this file retrieval was a test to see if that syndicate could rely on Kay for more important jobs. With a foot freshly in the door, Kay thinks fast, wondering if she should give the extra file regarding the Pyke Syndicate coup to Crimson Dawn instead. At this moment, the player has a choice: do you provide it to the Pyke Syndicate as initially planned or your new associates in Crimson Dawn? I opt to give it to Crimson Dawn, causing my reputation with them to increase. To thank me, they give me fuel injectors for my ship.
+
+“It’s really about choosing whichever syndicate benefits her in the moment,” Rendell says. “It’s really up to the player to decide how they want to balance their reputations throughout the game. You can go all in with one syndicate, but obviously at the risk of displeasing others, or you can try and play the underworld a bit more and try to find something a bit more balanced.”
+
+After taking on an optional job with another quest giver in the cantina, I return to Danka for more work. She tells me to go to a particular merchant to retrieve a part needed for Kay’s blaster. Sadly, when I arrive, I learn he doesn’t have it, but I can probably steal the part from a nearby syndicate. The question is, do I steal it from the Pyke Syndicate or Crimson Dawn? Both of them have a presence in Mirogana, but since I have a better reputation with Crimson Dawn, they let me walk into their territory without resistance.
+
+That only gets me so far, as I need to get into the guarded heart of the syndicate territory to retrieve the part. Like the earlier Pyke encounter, if I can get in and get out without raising the alarm, Kay’s reputation with Crimson Dawn won’t take a hit, so I make that my goal. After some close calls and last-second stealth takedowns, I reach the part without making Crimson Dawn skittish about trusting me.
+
+As if maintaining your reputation with the various crime bosses wasn’t enough, don’t forget the ever-looming presence of the Empire during this period. Despite the power and influence of Jabba or Qi’ra, the Empire holds the true power. As such, you don’t have a reputation meter with them; they operate with a Wanted System instead. If you break enough rules, your wanted level rises. The more wanted you are, the worse the Empire makes your life.
+
+More Imperial troops join the hunt for you as your wanted level goes up, with the maximum level summoning elite enemies. You can try to hide to decrease your wanted level, but the higher your wanted level, the longer it takes the Empire to move on from the hunt. You can also meet with corrupt Imperial officers who might take a bribe or, in the worst scenario, participate in a challenging in-world event at the maximum wanted level.
+
+Before wrapping up my demo, I get a brief chance to explore the open world of Toshara. With the press of a button, I summon a speeder, which Massive designed with inspiration from a Swedish manufacturer of motorbikes. The vehicle feels excellent in action – smooth, quick, and agile like a speeder should. After some brief navigation that includes hearing radio chatter for some activities I could pursue, I arrive at a small town called Jaunta’s Hope, which is the current location of Kay’s ship, the Trailblazer.
+
+I need to go to a nearby building and grab an item from it. However, the door is locked. After a quick modification to Kay’s blaster, her weapon gains the Ion Blast ability, which gives her an advantage over droid enemies and allows her to solve environmental puzzles like this one. Kay can access the building and loot all the goodies by shooting the two transformers for the lock with the Ion Blast.
+
+I didn’t get to explore the Reputation System to its fullest extent, nor did I get to interact with the Empire to where I can raise my wanted level, but from my hands-on session, I can tell I’m going to enjoy keeping up appearances to exploit the syndicates for maximum benefit. Star Wars Outlaws delivers systems stacked on top of other systems, and the result promises to provide the kind of scoundrel adventure that served as the studio’s thesis statement when beginning development on the project.
+
+An Unexpected Pleasure
+
+Since Star Wars Outlaws takes place during the latter portion of the Original Trilogy, the galaxy is full of recognizable faces. We already know that Kay’s adventure will see her cross paths with the likes of Jabba the Hutt, Lady Qi’ra, and Han Solo frozen in carbonite, but what about other icons from this era of Star Wars like Luke, Leia, Vader, Boba Fett, Chewbacca, or Lando?
+
+When I ask about seeing additional classic Star Wars characters, creative director Julian Gerighty teases more familiar faces but will not budge on giving more details. “There are a few [recognizable] Star Wars characters that we’ll meet across the adventure,” he says with a smirk.
+
+But fans worried about heavy-handed cameos and fanservice can breathe a sigh of relief, as associate narrative director John Björling understands that any character appearance must be earned to be impactful. “There are tons of characters that you could pull in, and you could probably force some excuses for why that should happen, but if it isn’t earned by the character and the story, it will feel forced, and it’s not going to be enjoyable,” he says. “Where we’ve made those calls of, like, ‘Who are the characters that she will cross paths with? Does it feel earned? Would she go there? How would she handle that?’ et cetera. That has been our mantra for doing this, and I think it feels so much more rewarding that way.”
+
+A Strong Presence
+
+A Strong Presence
+
+Star Wars Outlaws takes various disparate elements of beloved games and places them in a galaxy far, far away to deliver something chock-full of potential. On the surface, it seems like it’s going for a jack-of-all-trades approach with third-person combat, stealth, an ever-changing reputation, open-world exploration, speeder bike traversal, and space combat, but every piece of Outlaws I got my hands on felt worthy of its inclusion in this sprawling outer-space odyssey.
+
+Though I only had a controller for a relatively small portion of my two days at the studio, the loop of exploring a bustling world that is definitively Star Wars, taking on jobs, making difficult choices, and working to get myself out of trouble sunk its hooks into me. My time with Massive Entertainment’s scoundrel journey was rewarding, exciting, and – perhaps most importantly – whetted my appetite for the adventure. I can’t wait to step into the shoes of Kay Vess as I try to charm, swindle, backstab, and shoot my way through the galaxy.
+
+Star Wars Outlaws arrives on PlayStation 5, Xbox Series X/S, and PC on August 30. For more exclusive coverage, be sure to visit our Star Wars Outlaws cover hub through the banner below!
+
+This article originally appeared in Issue 365 of Game Informer.
+
+      Products In This Article
+
+Star Wars Outlaws
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PC
+
+Release Date:
+
+August 30, 2024
+
+Purchase
+More Info
+
+Brian Shea
+Online Content Director
+Brian has written about video games for more than 15 years across multiple publications. Brian is also the host of All Things Nintendo, a weekly podcast focused on the news and games of Nintendo.
+
+Email
+Twitter
+

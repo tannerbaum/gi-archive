@@ -1,0 +1,66 @@
+
+                                          Metroid: Samus Returns
+                  
+
+
+  A Remake That Feels Original
+
+
+
+
+Platform
+3DS
+
+Publisher
+Nintendo
+
+Developer
+MercurySteam
+
+Release
+September 15, 2017
+
+Rating
+Everyone 10+
+
+Metroid II: Return of Samus is considered the black sheep of the Metroid franchise. First released on the Game Boy in August of 1991, this little handheld’s cartridges held six-times less memory than its NES predecessor, which meant Nintendo needed to make several compromises to the game’s design. One of the most noticeable concessions was Metroid’s alien landscapes, which were drained of their color and much of their mood, thanks to the Game Boy’s green LCD display. The handheld’s limited pixels also meant Nintendo needed to zoom in on the action. Samus took up a large portion of the screen’s real estate, leaving players feeling cramped. Moreover, Samus’ overall mission to destroy a set number of Metroids across the alien world of SR388 led to a linear design, which was antithetical to the series’ core concept of rewarding exploration.
+At the same time, Metroid II contains several series firsts. It was the first game to give Samus her signature rounded shoulders. It was the first game to introduce players to popular items like the spider ball, space jump, and plasma beam. And it was the first game to give players insight into a Metroid’s lifecycle. These innovations are why series producer Yoshio Sakamoto wishes more fans had played the original Game Boy game. Sakamoto believes that Metroid II’s basic design is still remarkable today, and he aims to prove it with the 3DS remake, Me troid: Samus Returns.
+[Note: This feature first appeared in issue 293 of Game Informer Magazine]
+The Metroid Maker No other designer has worked on more Metroid games than Yoshio Sakamoto. As one of Nintendo’s longest-tenured designers, Sakamoto helped create classic NES titles like Donkey Kong Jr., Balloon Fight, and Kid Icarus. But when his boss first approached him to help finish Metroid, Sakamoto was wary.
+“My boss told me that the Metroid team was having a very hard time, and as someone who had experience on building video game projects could I go and somehow help this game progress to release?” Sakamoto says. “In short, I was forcefully asked to participate. By his tone, I really smelled danger. And as I joined the project and looked around, I realized that the release date was right around the corner but the project had nothing there. Even with our limited resources and time, I figured out how we could leverage the existing components of the game to create variation and an exciting experience.”
+Sakamoto’s work on Metroid has become legendary. Nintendo was so impressed with his designs that he was eventually given the reigns for Super Metroid, where he perfected the ideas he had worked on during the original NES title. Over the years, Sakamoto has had his hands on nearly every Metroid game, from Retro Studios’ Prime trilogy to the GBA remake of the original game, Metroid: Zero Mission. However, there is one Metroid game that Sakamoto never touched, Metroid II: Return of Samus.
+“I have been wanting to make a 2D Metroid game for four or five years,” Sakamoto says. “Compared to the rest of the Metroid franchise, Metroid II has a unique game design and its characteristics really stand out. I didn’t make the original, but I have huge respect for the original game. It tells the story of an important event in the Metroid series, which is Samus meeting the big Metroid, so I wanted players to have the opportunity to experience this very important event in the franchise.”
+With all of Nintendo’s internal studios busy with other projects, Sakamoto needed to find a development team that could tackle his dream project. Fortunately, one studio had been pounding on Nintendo’s door with a Metroid pitch. After finishing work on a few Castlevania projects for Konami, the Madrid-based developer MercurySteam pitched Nintendo on the idea of remaking Metroid Fusion – the 2002 GBA title where Samus got infected with a parasitic organism. Sakamoto was impressed with the studio pitch and their love for Metroid. He told them no, they couldn’t remake Metroid Fusion…but he did need their help on another remake.
+Sorry, this video is not available
+Return To FormAfter the events of the original Metroid, the Galactic Federation grew worried that the alien race known as the Space Pirates would try to use the vampiric organisms called Metroids to create an array of fearsome new biological weapons. To prevent this, the Federation sent several assault teams to the Metroid’s home planet of SR388. However, after these teams went missing, the Federation turned to the only intergalactic bounty hunter in the universe with experience hunting Metroids. The Federation asked Samus Aran to do what no one else could: eradicate the Metroid species once and for all.
+Sakamoto says he’s not interested in adding new wrinkles to Metroid II’s original story, like he did with the GBA remake of the original game. This might be a good thing, as Metroid stories tend to become more nonsensical as they grow more verbose.
+The strength of the Metroid series lies in its ability to deliver a sense of haunting isolation as players freely explore alien landscapes. In this arena, MercurySteam has succeeded. Strange goo oozes down SR388’s cave walls, rare crystals drift lazily across underground lava flows, and ancient alien architecture creeks and crumbles as Samus climbs over a series of pipes.
+In addition to the improved visuals, Sakamoto and the team at MercurySteam wanted to adjust Metroid II’s linear design structure. In the original Metroid II, players were tasked with destroying a set number of Metroids in each area before they could unlock the next zone. This overall structure remains roughly in place for Metroid: Samus Returns, but the developers sprinkled in a variety of secrets and other reasons for players to return to old areas. It’s now a breeze to quickly travel through SR388’s various locales thanks to a series of teleportation stations – a first for the series.
+“The original Game Boy version had a very simple and straightforward progression,” Sakamoto says. “So, of course, I wanted to add many things to spice up and excite the experience on SR388. The player can make many new discoveries and new findings. The flow is basically the same, but we have some extra areas and we powered up the map system.”
+The third big overhaul for Metroid II relates to combat. MercurySteam feels Metroid’s combat has always lacked complexity, as its enemies are usually little more than minor obstacles on Samus’ journey to her next boss encounter. To make the action more engaging, the studio dreamed up a new counter system. When many of SR388’s creatures get close enough to Samus, they charge at her, initiating a powerful physical attack. When this happens, Samus can perform a melee counter that knocks them back, temporarily stuns them, and opens them up for a quick finish with her blaster. It only took me a few minutes to get used to this melee counter, but it adds a nice rhythm to the combat. I felt more engaged in the action, because I had to be tuned into when an enemy might charge at me.
+“The melee counter system was a proposal from MercurySteam,” Sakamoto says. “Looking at the prototype, even from a glance, it felt fresh and new, and I really felt a possibility that this Metroid was going to be something new. I think it brings a new spice to the Metroid gameplay and I think it’s a really great invention.”
+Another new addition to this remaster is a set of powers called Aeions. These abilities use a resource (also called Aeion), which Samus can replenish by killing enemies. The first Aeion ability I acquired is a pulse scan that reveals a portion of my surrounding map. This ability comes in handy since it temporarily highlights destructible walls, which prevented me from having to bomb every single inch of SR388 looking for secrets. Other Aeion abilities include a power-up attack that lets you unleash a gatling gun shower of bullets, and a temporary shield that protects Samus from both enemies and environmental dangers.
+That last ability comes in extremely handy when I encountered one of SR388’s new enemies, a horde of space bats. These bat-like creatures are relatively harmless by themselves and are killed in a single hit. Unfortunately, they travel in packs of more than a dozen, swarming Samus with flapping wings and razor-like teeth. The Aeion shield buys her enough time to turn these creatures into space dust.
+As I continue my journey into the heart of SR388, I acquire a steady stream of valuable upgrades. The spider ball allows Samus to climb on walls, while the spring ball allows her to jump in ball form. The Varia Suit boosts Samus’ defense and makes her immune to extreme heat, which opens up a whole new section of the map. Nintendo says it has even added a few new power-ups that weren’t featured in the original Metroid II, such as the grappling hook, which lets Samus swing across large gaps.
+Before long, I discover the ice beam, which lets me freeze enemies in place and turn them into makeshift platforms. The ice beam is handy, but sometimes it’s better to destroy your enemy rather than freeze them. Fortunately, Samus Returns lets players hot swap between ammo types, like the ice beam or wave beam, on the fly using the 3DS’s touchscreen – a feature that wasn’t in the original Metroid II.
+Long Time ComingMetroid: Samus Returns isn’t just a remake of a 25-year-old Game Boy game, it marks the first 2D Metroid game in over 13 years. Sakamoto recognizes fans’ expectations for the game are high. Samus Returns must walk a tricky line of giving players an experience that matches what has come before, while creating something unique enough to feel like a -brand-new -experience.
+Fortunately, Metroid: Samus Returns seems to walk that tightrope. Fans who previously played Metroid II: The Return of Samus on the Game Boy might recognize many of Metroid: Samus Returns’ areas and gameplay elements. However, Nintendo and MercurySteam have added enough to Metroid’s combat and overall mission flow that this return to SR388 feels like a new adventure. “Metroid was one of my first experiences on a pretty big video game project, but I wasn’t sure if players would enjoy the game,” Sakamoto says. “I thought that it was a special game, and even then, I believed that it could be a special franchise, something that I would like to continue. Through the development of Metroid 1, I really grasped the possibilities and potential of a video game.”
+Sakamoto reflects many of these same sentiments when he talks about the development of Metroid: Samus Returns. “The player who has played the original version and then this new version – I think they will be able to sense and feel the passion I put into this version,” he says. “Through the development of Metroid: Samus Returns, I was able to really grasp the possibility and fun of a 2D Metroid. Like when I finished the first game, if there is another opportunity to make another Metroid, that is something that I would love to do. Of course, that really depends on how much people really want to buy a 2D Metroid.”
+Sakamoto will learn the answer to that question when Metroid: Samus Returns releases on September 15. For he and the team at MercurySteam, this game is the culmination of nearly a half-decade of hard work and dreaming. For fans, it is an answer to more than a decade of pleading for another instalment in a beloved franchise.
+Thankfully, Metroid: Samus Returns looks worth the wait.
+
+      Products In This Article
+
+Metroid: Samus Returns
+
+Platform:
+
+3DS
+
+Release Date:
+
+September 15, 2017
+
+Purchase
+More Info
+

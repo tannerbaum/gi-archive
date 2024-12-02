@@ -1,0 +1,146 @@
+
+  Under Construction: The Process, Pressure, And Mindset Behind Developing With Early Access
+
+
+
+
+
+
+            In 2013, Valve launched Early Access on Steam. While other titles had experimented with paid access to a work in progress, such as Minecraft in 2009, Steam’s program brought the concept to the mainstream. Avenues such as Indiegogo or Kickstarter allowed for crowdfunded titles, but there was no regulation as these options weren’t required to provide backers with playable versions of the games they supported. Steam’s budding program allowed developers to self-publish games but required a playable product and allowed users to refund their purchases further down the line. Since then, Early Access has exploded and titles like The Long Dark, Don’t Starve, and PlayerUnknown’s Battlegrounds have gained massive popularity that they may not have achieved without this new method of development and delivery.
+
+Early Access seemed like a dream come true for developers, but there are many difficulties associated with development using the program. According to GamesIndustry.Biz, only twenty-five percent of Early Access titles make it to a full release. Why is it so difficult to launch a game out of Early Access? I picked the brains of Crytek, Motion Twin, System Era, and Red Hook Studios about their experience with Early Access to help get a better picture of why the program is a worthy gamble for developers, despite the number of games that didn’t complete their development and why developers and players are more likely than ever to jump into it.
+
+Leap Of Faith
+
+Feedback can lead to better iteration and fixes on a budding game. In the case of Dead Cells, entire systems have been reworked based on community engagement. The skill system was originally a simple, three stat system like Skyrim, revolving around health, stamina and magic, and Sébastien Bénard, the games lead designer, had no plans to modify this system throughout development until a conversation on the Steam forums changed his mind. “It was a debate between players,” Bénard said. “They were talking about this build system and how it was actually kind of boring and not very profound. …They were right on the very core problem of this system.” Bénard later went to the team with the idea to shut himself in for about four weeks and rework his entire skill system. “Decisions like this are scary for teams, but they are why Early Access can be such a boon in the first place,” he says. “Having the ability to get player feedback that is thoughtful alongside having direct communication is why the system is so appealing. Players can feel like they have a real impact on development If teams are willing to take suggestions and implement them.”
+
+Dead Cells
+
+Building games as a group is the most appealing aspect of Early Access for many fans as well. “Being part of the development process … it really gives that sense of community,” said Angela De Castro, product manager for Hunt: Showdown. “It feels like you are working together with the team to accomplish something … that you can make some sort of influence on the final product.”
+
+One of the main reasons studios enjoy the Early Access development model is the benefit of playtesting and creating alongside their communities. Chris Auty, the design director on Crytek’s Hunt: Showdown, a PvE based free for all where five teams of two duke it out as they hunt monsters for bounties, said this is the primary reason it entered the Early Access program. “What attracted us to Early Access in the beginning was that we knew that this game would be developed closely with the community. We wanted to make sure that we could iterate quickly on it … with the community alongside us.” This is especially helpful for games that require a lot of balancing and tweaking, such as multiplayer titles and systems-based roguelikes. An example would be community feedback changing the speed at which Crytek delivered content, moving them into a model of adding content from as close to every two weeks, to larger updates within four.
+
+Hunt: Showdown
+
+Dead Cells developer Motion Twin felt its game was a tough sell on paper; a roguelike infused with Dark Souls sensibilities and a progression system that requires players to fail. Getting it into players’ hands and allowing them to see why the game clicks was important. Producer Steve Filby said Early Access “is a good way for us to sort of put something out there that is maybe not one hundred percent. Instead of taking three years and build a game and fail, you can only take a year and then fail.”
+
+For many small development teams, another major draw of early access is the financial safety net it provides. Many teams dip into their savings to make the games they love, and Early Access is a huge leap of faith. With System Era’s Astroneer, a wistful space exploration co-op base-building game, the situation started out dire. “The earliest version of Astroneer was built alongside our day jobs,” said sound designer Riley Gravatt. “Later, we were able to work for about a year on Astroneer full-time with our savings, but we knew we needed additional finances.”
+
+Red Hook Studios had an incredibly successful Kickstarter with Darkest Dungeon, a Lovecraftian turn-based roguelike featuring permadeath. The studio raised $313,337 with only a $75,000 goal before going into Early Access, but most of that money went directly into development and the team still had to survive. “Early Access is a friendly cash-flow model to a struggling developer,” said Tyler Sigman, studio co-president and design director for Darkest Dungeon. “Being able to make sales while the game is still in development directly funds that continued development and can allow you to invest more in making a better game, while still keeping food on your table at home.”
+
+Darkest Dungeon
+
+Timing Is Everything
+
+For many developers today, Early Access is not the question mark it was in 2013. Given the long string of success stories like Darkest Dungeons and Dead Cells, players are more willing to jump into these titles. Titles built alongside a community can be appealing because they allow players to feel like they helped the development and have a sense of ownership over the final product. “Early Access has been around long enough now that it’s no longer a foreign idea,” Gravatt said. “Most players understand what it means, they know what they are getting into and the risks of investing in an Early Access game.”
+
+Sigman echoes this sentiment: “I think we are safely out of the ‘Is Early Access dead?’ phase, where there was great debate about whether [Early Access] should be a thing. There have been enough great games that have come out of [Early Access] that I think consumers understand that [Early Access] can be great. There are, of course, failures, but that's true of game development as a whole, too.”
+
+Players may be more willing to support Early Access titles, but they also are more scrutinizing of the program. Sébastien Bénard knows players are still hesitant and that developers have to be conscious of that. “I think it is quite a mixed feeling for the player … because, most of the time, players just don't want to go into Early Access and have a fear that they may have a bad experience,” he said. “They’ll say, ‘I think it is a cool game, but it is still in Early Access.’ Most players will wait until it is released and not before.”
+
+Dead Cells
+
+Communication Is Key
+
+Early Access is designed for small developers to make games they couldn’t otherwise, but these teams take a big chance on the service. The risks are the same any AAA developer faces, but Early Access also poses a few unique challenges. Developers have to fund and produce their own titles, work indefinitely depending on how long the game remains in development, and ultimately serve as the arbiters of their own success or failure. Daily moderation of their forums, weekly patches or developer blogs, all are important to making sure players know what is happening with the studio and the game, essentially forcing studios to serve as their own public relations, marketing, and community management teams as well. There are no publishers or safety nets; the program provides a way to fund and distribute a game, but it is up to developers to market and push the game to players.
+
+Clearly laying out a roadmap for development, consistently telling players where progress is, and being clear with delays and issues that arise is an important element to keeping communities happy. “Most fans understand (the challenges developers face), ... but they definitely appreciate timely updates and expectation setting through communication,” Sigman said. “Going completely dark during Early Access is a big mistake. If you're behind, just say it, and people will know you haven't abandoned the game.”
+
+Darkest Dungeon
+
+In Early Access, there is a fine line to walk between creating the game you want and communicating with your fans, learning along the way can cause struggles with the community and the developer. For many, a focus on community contact is incredibly important. “You really need someone dedicated to it,” Gravatt said. “That’s where that full-time position comes in to play. They really need to distill down all the feedback and concerns of our players and bring it to the development team.”
+
+Astroneer
+
+The development roadmap is one of the most clear-cut ways teams can communicate to players what to expect from their Early Access title. Updating the roadmap and making sure it is reasonable is important for developers. Despite only recently coming out of Early Access, Unknown Worlds Entertainment’s well thought-out development and success with Subnautica has inspired many. “We were introduced to the concept of the ‘developer timeline’ by Subnautica,” Gravatt said. “They pretty much set the standard for what works for an Early Access title.” Sigman shares the sentiment. “They made consistent updates and just kept making the game better and better and bigger and bigger. As a fan, that should be a good thing! Keep making this awesome game better!”
+
+For these studios, updating the roadmap and having flexibility is key to progressing. At Motion Twin, Dead Cells ended up being more a community project than the team originally expected. “We thought we should have a precise roadmap and we should take lead on making the game the way we want,” Bénard said. “Quickly, it was obvious we could adjust and modify the game in a profound way based on player feedback, still following the roadmap.”
+
+Hunt: Showdown's Roadmap
+
+1.0 Woes
+
+Early Access has its benefits, but the style of development has created a whole new set of challenges, even for veteran developers. At Crytek, a studio known for big budget AAA games like Crysis, Ryse, and the original Far Cry, the move to Early Access was not challenging in the ways they expected. Issues arose, however, when it came to workload. “The hardest part for us has been that you don't really stop,” Auty said. “In AAA development, you work quite hard towards the end to get it done, and then it’s over. And you start figuring out the next thing that you're going to work on. … With Early Access, that is a lot more sustained over a longer time. So that is a big difference from our perspective. We have to be very careful to pace ourselves.”
+
+In Early Access, even single-player games require live team fixes. Games have their current builds that need to be maintained, but also new builds that are being built for later in the roadmap. Running two builds is an issue that has cropped up for System Era and many other developers in Early Access. “Normally, in game development things can break internally, you can develop alongside lots of bugs, or systems can be built from the ground up without worrying about supporting existing users,” Gravatt said. “That’s certainly not the case with Early Access. You kind of have to build two games simultaneously.”
+
+Astroneer
+
+One problem developers face is making sure their game is successful in its first iteration, while simultaneously making sure 1.0 improves enough product from the last build to ensure new players will want to jump in. Console ports and post-game add-ons can help stymie the possible dip in sales. With Darkest Dungeon, the dip in sales for the 1.0 release was surprising. “The first 24 hours of Early Access, we sold three times what we sold in the first 24 hours of 1.0,” Sigman said. “Early Access was incredibly successful for us, so we're just grateful to have a good launch whenever it comes.”
+
+Each of the studios we spoke with were realistic about the possibility that 1.0 won’t see the same success as the Early Access release. Filby is aware of the challenges Dead Cells must overcome. “Everyone tells you, you don't get two launches, but I am going to try and buck that trend,” he said. “If we don't do 50 percent of what we did at [Early Access], that's fine. … The main thing that we do differently to some developers is that 1.0 is not really the end of the game. We have already talked about another sort of DLC or major update that we will put out for free post-release.”
+
+Dead Cells
+
+Looking Forward
+
+Early Access titles take a long time to develop, and many are in the earliest stages of infancy when they launch on the platform. It is up to the consumer whether they are going to make an informed purchase with an Early Access title. Sigman said players should not be preoccupied with when a game leaves Early Access. “The best way to protect yourself as a consumer is just make sure that, at the moment you buy the game, you feel that it's worth the money. I'm not saying don't ever take a chance – just be aware with what you are doing. Games are very hard to make, and even harder to predict how long they will take. This is doubly true in a scenario like early access where one of the main points is to collect feedback and act on it. You don't really know what you have until you let people play it. Darkest Dungeon was in Early Access for just less than one full year, which I think is pretty fast comparatively. But I chuckled/barfed a little when I saw a few reviews talking about how DD ‘finally’ exited a long Early Access.”
+
+Darkest Dungeon
+
+Still, the reality of the situation is not lost on any of these developers. Their games have molded into something the community has built with them and they realize these games are becoming something much more than what they originally envisioned, especially for Gravatt. “Astroneer is a System Era game as much as it is a game ‘owned’ by the community who plays it,” he said. “We share authorship of the game between us and our players.”
+
+Early Access has its roots based in delivery systems that have been around for years, betas and closed alphas are ways that players have affected change on major titles through feedback. These systems were primarily reserved for multiplayer games, and only offered what amounted to a demo of the final game, unlike Early Access. With the advent of Steam’s program, major publishers have taken notice, with Microsoft adding a game preview feature that has many popular Early Access games that are exclusive to it’s console, such as Battlegrounds and Astroneer. Despite this, many AAA developers have yet to take the plunge, with games like Battlefield V and Call of Duty: Black Ops 4 still using typical testing models, such as closed alphas or the always derided pre-order beta. Hopefully more big-budget studios will see the viability of Early Access, as many could greatly benefit from it as many are moving to games-as-service models that require longevity and online content delivery that is impossible to test without continued public feedback.
+
+Hunt: Showdown's Early Access Page
+
+Early Access is a powerful tool. One both players and developers need to research before jumping in. Risk-taking is healthy for the industry, and many games that wouldn’t normally get made have been developed by inspired teams thanks to Early Access. None of the titles mentioned would exist today without the program, and while there is no perfect formula, there are enough successes to show it is a great way for budding developers to create the games of their dreams. The simplest advice for developers and players comes from Dead Cells’ Filby “Just don’t be an asshole [laughs]!” If developers continue to communicate and learn from peers, and players remain empathetic and patient, Early Access could continue to provide many more great titles in the future.
+
+For More On Early Access, check out some of the gems of this summer, and our reviews of Dead Cells and Darkest Dungeon. 
+
+      Products In This Article
+
+Astroneer
+
+Platform:
+
+PlayStation 4, Xbox One, Switch, PC
+
+Release Date:
+
+February 6, 2019 (Xbox One, PC), November 15, 2019 (PlayStation 4), January 13, 2022 (Switch)
+
+Purchase
+More Info
+
+Hunt: Showdown
+
+Platform:
+
+PlayStation 4, Xbox One, PC
+
+Release Date:
+
+August 27, 2019 (Xbox One, PC), February 18, 2020 (PlayStation 4)
+
+Purchase
+More Info
+
+Dead Cells
+
+Platform:
+
+PlayStation 5, PlayStation 4, Xbox One, Switch, PC, iOS, Android
+
+Release Date:
+
+August 7, 2018 (PlayStation 4, Xbox One, Switch, PC), February 28, 2019 (iOS), June 3, 2020 (Android), June 29, 2023 (PlayStation 5)
+
+Purchase
+More Info
+
+Darkest Dungeon
+
+Platform:
+
+PlayStation 4, PlayStation Vita, PC
+
+Release Date:
+
+January 19, 2016
+
+Purchase
+More Info
+
+    expand for more
+

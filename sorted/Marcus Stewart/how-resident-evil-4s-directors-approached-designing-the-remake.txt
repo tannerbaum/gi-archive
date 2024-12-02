@@ -1,0 +1,74 @@
+
+  How Resident Evil 4’s Directors Approached Designing The Remake
+
+
+
+
+
+
+            "Honestly speaking, I didn't want to do it."
+
+Those were the words of Capcom's Yasuhiro Ampo, the main director of the Resident Evil 4 remake. Alongside fellow director Kazunori Kadoi, their team has taken on the lofty task of reinventing the 2005 classic for a modern audience, recapturing the game's magic while also expanding it with new features. During our cover story interview with the two designers, they spoke candidly about the early phases of the game's development, their initial hesitation to tackle such an intimidating project, and how the team's approach in identifying areas for improvement gave them the confidence to see the project through. 
+
+Ampo and Kadoi have plenty of experience working on Resident Evil. Their combined credits span the original 1996 game to titles such as Resident Evil: Outbreak, Resident Evil 5, and Resident Evil: Revelations 2, the latter two of which were directed by Ampo. As a directorial duo, the pair's most impressive accomplishment is leading the creation of the critically acclaimed remake of Resident Evil 2, which launched in 2019. 
+
+After Resident Evil 2 shipped, Ampo and Kadoi moved on to other projects within Capcom, while the 2020 reimagining of Resident Evil 3 was developed without their involvement. Upon that game's launch, the two were approached with leading the next remake: Resident Evil 4. Considered one of the greatest games ever made, it had already been remastered and updated numerous times over its lifespan due to how well it aged. That also means it has a legion of fans who are very particular about anyone fiddling with its winning formula. 
+
+"Among the RE series and even games in general, the original RE4 has become a legend," Ampo says. "I knew that it would be difficult to successfully remake it, and if we made one mistake with any updates we made, we would anger its fans."
+
+"When I first heard about remaking RE4, my first impression was that since the original is a masterpiece, a remake would be difficult," adds Kadoi. "So I didn't want to do it."
+
+As beloved as the original Resident Evil 2 is, its dated presentation, gameplay, and general framework make it tough to revisit today. Ampo and Kadoi's solution to that problem? Remake it in the style of Resident Evil 4, a game that set the standard for modern third-person over-the-shoulder action games. Because of this, Resident Evil 4 still holds its own against today's games to the point that Kadoi told us that initially, he "didn't think there really was that much to update," which only added to their trepidation. 
+
+"For RE2, you could feel how much it had been updated just from the new camera system, for example," says Ampo. "But for RE4, we knew that wouldn't really be the case, so one of the first things we did as a team was discuss how we would handle this."
+
+Step one of alleviating that pressure: don't recapture lighting in a bottle. The original game revolutionized a genre, so attempting to repeat that feat "wouldn't be possible," according to Ampo. Instead, Ampo and Kadoi decided to stay largely faithful to the original and incorporate evolutions introduced throughout the series since its release to create "a new form of Resident Evil game." If they could pull that off, then maybe fans would accept it. 
+
+That required the team to replay the original and closely examine spots that could either be reworked or enhanced. One area for expansion that came to Ampo's mind from the start was the scenario elements: the characters and plot. Though the team would retain the core characterization of Leon, Ashley, and others, a remake allowed them to flesh out their personalities, interactions, and back story via elements like additional lore notes. 
+
+Another mechanic that stuck out like a sore thumb was Resident Evil 4's numerous quick-time events. Early in development, it was decided to strip as many of them away as much as possible. While a bummer for fans who still enjoy furiously mashing a button to help Leon evade that Indiana Jones-style rolling boulder, Kadoi believes QTEs don't have the popularity or appeal they once had.  
+
+"We really did not think players today would enjoy them," says Kadoi. "So we thought about what we could implement to take their place."
+
+The solution to reworking these sequences arose from reexamining the knife fight with Jack Krauser. In the original game, the confrontation unfolds entirely through QTEs. The team asked themselves, "if we wanted to fight with a knife in the remake, how could we do it?" That question eventually spawned the remake's new knife parry mechanic, which preserved the spirit of that battle in a more engaging form. This was a game-changer as the team soon realized this system could be applied beyond this boss fight to the rest of the game in standard encounters. This proved to be a fun addition, instilling plenty of confidence that the team was on the right track. 
+
+"Once the parry mechanic had been implemented, from that point when I played the original, I found myself wanting to parry in the original as well," says Kadoi. "That was when I felt things became really interesting."
+
+In terms of visuals, the team looked at Resident Evil VII and Village as references for how a modern Resident Evil game should look from a fidelity standpoint. Speaking of Village, Resident Evil 4's new sidequests spun out of that game's upgrade system, in which players acquired upgrades by bringing ingredients to the Duke. These new quests tied into perhaps the biggest areas Ampo and Kadoi hoped to expand: player choice and replayability. 
+
+Resident Evil 4's many options for how players approach it may be the primary reason for its sustained popularity. Both Ampo and Kadoi call this out as among their favorite aspects of the game. Today's games present more freedom than ever, so to ensure the remake would be entertaining after multiple playthroughs, the team knew it needed to be bigger. New paths were added to let players explore in different ways, and Capcom wanted new options for dealing with the Ganados. 
+
+"Within the confines of fighting, the combat is really well done, and the choices you have when fighting are rather varied," says Ampo. "But outside of that, we felt there wasn't a lot of choice and thought there was room for updates there."
+
+This paved the way for adding more situations to use stealth, giving players a totally different option to combat beyond running and gunning. To supplement this approach, the new bolt thrower weapon was added, which fires quiet rounds ideal for picking off foes undetected. Ampo and Kadoi hope that the other new specialized weapons, which they're keeping secret, ensure Resident Evil 4 keeps players engaged no matter how many times they play it. When they realized they couldn't put the game down themselves during development, something they also felt while developing Resident Evil 2, their early fears evaporated even more.
+
+"Making a game that you have fun playing yourself is important," says Ampo. "If you're making a game, you play it over and over during the course of development, and eventually, you'll probably start to get bored. But with the remake of RE2, no matter how much I played it, I never became bored. That's an important core factor."
+
+Kadoi states the Resident Evil 4 remake is the culmination of the years spent developing both it and the original game. In his mind, Capcom should be able to make something better with that much work behind it. They may have shied away from remaking this classic in the beginning, but now he and Ampo feel confident they've identified the right elements to improve or completely rework to give fans what they remember without any lingering design baggage. We'll have to wait until March (or, hopefully, for a demo beforehand) to see how Leon's revamped rescue mission comes together. 
+
+*Editors note: the original version of this feature stated that Ampo and Kadoi are co-directors, which is incorrect. Ampo serves as Resident Evil 4's main director, while Kadoi, who carries a director title, is assisting Ampo. 
+
+Resident Evil 4 launches on March 24 for PlayStation 5, Xbox Series X/S, PlayStation 4, and PC. Be sure to click the banner below to visit our coverage hub filled with exclusive features and videos hitting throughout the month. 
+
+      Products In This Article
+
+Resident Evil 4 (Remake)
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation VR2, PlayStation 4, PC, Mac, iOS
+
+Release Date:
+
+March 24, 2023 (PlayStation 5, Xbox Series X/S, PlayStation 4, PC), December 20, 2023 (Mac, iOS), December 8, 2023 (PlayStation VR2)
+
+Purchase
+More Info
+
+Marcus Stewart
+Associate Editor
+Marcus is an avid gamer, giant wrestling nerd, and a connoisseur of 90's cartoons and obscure childhood references. The cat's out of the bagel now!
+
+Email
+Twitter
+

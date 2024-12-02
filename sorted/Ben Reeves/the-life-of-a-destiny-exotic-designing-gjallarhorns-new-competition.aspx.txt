@@ -1,0 +1,64 @@
+
+  The Sleeper Simulant Is The Taken King's Biggest Mystery, See It In Action
+
+
+
+
+
+
+When we first posted this article on Destiny’s Sleeper Simulant exotic weapon during our month-long cover story for The Taken King, little did we know how elusive the weapon would turn out to be. Even as Destiny fans have continued to uncover new secrets in The Taken King, as of this writing, no one in the game has figured out how to acquire Sleeper Simulant. There’s even a dedicated subreddit filled with Guardians hunting out clues. As the community continues to search, here’s a look at our original article on the exotic heavy fusion rifle, including our exclusive video of an unleveled Sleeper Simulant in action.
+
+[This article was originally published on August 7, 2015]
+
+Original Story: For the Taken King, Destiny is crafting a suite of new exotic weapons for players to fawn over and collect. However, not all of these will be acquired randomly; some truly powerful tools will require work to unlock. The journey Bungie took to create Sleeper Simulant, however, is nearly as interesting as the path players will take to unlock it. We spoke with a few of Destiny's weapon smiths to get the rundown on how Bungie designs an exotic weapon from scratch, and then we took the weapon for a test drive ourselves.
+
+The Sleeper Simulant is a fusion rifle that will sit in your heavy weapons slot, so you know it packs a punch, since it needs to compete with weapons like rocket launchers and machine guns for your attention and use. Unlike most fusion rifles, its charged up blast can penetrate through multiple enemies and will ricochet off walls up to five times when fully upgraded. Think hand-held rail gun, and you're on the right track.
+
+However, in order to unlock the gun, players first have to collect relics of the Golden Age which have been scattered across the various locations of Destiny. After players bring these pieces back to Banshee-44 (the Tower's gunsmith), the ancient artifacts trigger a memory in the ancient Exo gunsmith, and he will invite players on an odyssey to repair and reactivate one of the Taken King's most striking exotics. Bungie doesn't want to spoil the story content of this mission, but it did say that there will be unique tasks and objectives required for completion, which might even include puzzles that are too hard for any one player to figure out on their own.
+
+We asked Bungie to walk us through the process of creating this powerful weapon, and these are the answers the team provided: 
+
+Finding Inspiration:
+"We wanted to design a gun that matched the theme of cutting edge technology that was still in its infancy, but bears the hallmarks of a prototype that is not ready for mass distribution," says concept artist Jesse van Dijk. "One of the designs that exemplifies this concept to me is the prototype of the first stealth fighter. I remember seeing it for the first time and thinking it didn't look like a plane. In almost every conceivable way, it was a much more advanced version of what came before and yet it looked so much simpler. It had all these incredibly primitive geometric shapes, so it had that dichotomy of being super advanced on one end and being incredibly visually simple on the other. We latched onto that theme for the Sleeper Simulant, and also looked at images from NASA, such as the Mars rover."
+
+Breaking The Rules:
+"When it comes to exotics, anything goes," says gameplay designer Jon Weisnewski. "We have a joke in the design pod that we spend all this time building all these rules for how combat works, and then, when we make an exotic, we pick a rule to break. For the Sleeper Simulant our idea was to take a weapon archetype and move it out of its current role as a primary weapon and make it a heavy. We wondered how could we turn something like a fusion riffle into a heavy hitter. The creation of the Sleeper Simulant was a happy high-five. We said we wanted to make a laser that bounced off walls, and the art team showed us this image and we were like, 'Sweet, let's make these things kiss.'"
+
+Finding The Fantasy:
+"We try to hit two fantasies for every weapon," Weisnewski says. "One is the emotional fantasy that the player has just by owning the weapon. How do you feel when you get this weapon? That's all dependent on how it looks, what it's called, its lore, what it sound like when it shoots, and just how devastating it feels to use. Our second fantasy is the gameplay fantasy, which is more like the water cooler line that someone will give you the next day after using it. For something like the Red Death it might be, 'That's the gun that heals me when I shoot.' For the Sleeper Simulant we're thinking it's, 'the laser that bounces off walls and kills a lot of guys."
+
+Fine Tuning In First-Person:
+"The design of a weapon is constantly changing through development, and it's critical for every weapon that it gets proven to work in first person," van Dijk says. "The perspective you have on a gun is so different when you hold it up close to your eyes. The field of view creates distortions that you might not even think of when looking at a weapon from the side view. What does the gun's heads-up display looks like? How well does it perform in a combat scenario? Can you actually see what you're shooting at, or is the weapon in the way? All this fine tuning generally takes a while to sort out. At this point, we never assume that a gun's design is final until we put it in the game and see how it looks down the barrel."
+
+Putting It In The Game:
+"We went back and forth on depth of view with this gun," Weisnewski says. "The nature of the gun is that you want players to take it into a base and fire it off and watch it ping-pong around environment and hit multiple guys. But in actual play, players kept wanting to use it like a precision weapon, and they would charge up their shots and try to take out their targets from a distance and continually miss. So we started playing with the zoom, and trying to dial that in so we could help them out a bit. Charge time was another issue. We wanted the gun to feel really heavy and feel powerful, but at first it was too slow and took a long time to charge up, so players didn't want to use it."
+
+Sorry, this video is not available
+
+See an unleveled Sleeper Simulant in action as we shoot it for the first time in one of The Taken King's missions
+
+Path To Glory
+
+Here's a look at Sleeper Simulant's upgrade path, charting how the gun grows as you level it up. Like all new exotics, Sleeper Simulant has an intrinsic property that is unlocked immediately upon acquisition, helping to make it stand out right from the start. 
+
+Intrinsic properties:
+Projectile over-penetrates enemies and will ricochet once. Projectile capable of dealing precision damage
+
+Barrel column upgrades:
+CQB Ballistics - Bonus to Stability
+Linear Compensator - Bonus to Range, straighter recoil, bonus to Impact. Reduced Stability.
+Accurized Ballistics - Bonus to Range, bonus to Impact. Better Target Acquisition. Reduced Stability.
+
+Support Perk:
+Just a Scratch - Reduces aim deflection on incoming rounds while you're aiming with the weapon. Helps the wielder stay on target during the long charge up.
+
+Stat upgrades:
+Speed Reload - faster reload speed
+Perfect Balance - Better Stability
+Single Point Sling - Ready the weapon faster, and faster move speed while aiming.
+
+Exotic Perk:
+[Final name TBD] - Increases bounce count of projectile to 5.
+
+That's our look at the creation of the Sleeper Simulant, but you can get more details about Destiny's The Taken King expansion in our cover story hub. We recently posted an interview with creative director Luke Smith where we asked more than 100 questions about the game, but you can also look forward to more developer interviews as well as a look at why now might be the best time to return to Destiny.
+

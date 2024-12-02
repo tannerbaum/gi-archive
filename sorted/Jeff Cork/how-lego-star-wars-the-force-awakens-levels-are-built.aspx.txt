@@ -1,0 +1,23 @@
+
+  How Lego Star Wars: The Force Awakens’ Levels Are Built
+
+
+
+
+
+
+There are many components of game design that players take for granted. When we fire a blaster, we expect that it will be accompanied by a satisfying pop. Thanks to sound designers, that’s usually what happens. Combat designers work to ensure that controls and player intentions sync up to create satisfying battles. Today, we’re taking a look at how TT Fusion’s art team works closely with other departments so that Lego Star Wars: The Force Awakens captures the look and feel of the franchise that so many of us grew up with.
+During our visit to TT Fusion’s offices in Wilmslow, England, I got to sit down with lead artist Josh Pickering Pick and get a tour of how his team of 26 artists puts together the levels. As with much of game development, it’s a collaborative process that involves people from a variety of backgrounds and disciplines. To show off the game, he chose his favorite section of the game, which takes place on Jakku as Rey slides down a sandy berm and toward her scavenging destination.
+“I think this one just works really well,” he says. “It’s nice and varied, you get to slide down this section here, and then you land into this arena area where you have some gameplay, then you move into the hangar as well. It’s destroyed and darker inside. For one level it’s got quite a few unique areas visually, which is always a challenge.”
+
+At the earliest point, Pick and his team will get rough 3D models of a stage from the level director. “They’ve made this in 3D to elaborate on their written design,” Pick says, showing me the wireframe sketch of the sand-surfing section of the Jakku level. It’s quite rough looking at this point, serving mostly to show the art team the flow of the level and how the gameplay will be structured around the area. Pick and his team can then open up the level into the game’s engine and play it, to get a sense of how it works from their art-focused perspective.
+“I get a look at it at this stage, and I can play it in the game and I can give my feedback on it, which is usually sometimes performance feedback or sometimes asking ‘How am I going make that work, how am I going to make that realistic?’” 
+The levels are incredibly rough, and Pick’s team is tasked with taking that kernel of an idea and fleshing it out to what players will eventually see on the screen. They’ll take that early concept and work through it with help from their 2D artists. Those artists can turn out images that capture the essence of what a level might look or feel like in a couple of days – far faster than rendering an entire level with that degree of fidelity would. In the case of this level, the artists pulled renderings of Star Destroyers, knowing that the wreckage of one would be a centerpiece of the level. Engines were incorporated into the design, as well as wreckage from other ships.
+
+Josh’s department might take six weeks to do a final pass on a level, so it’s critically important that things are figured out at this concept stage. “If it’s wrong in my head or in the concept artist’s head, then it could be disastrous,” he says. Pick says he gets feedback from designers and other members of the development team every few days, so those kinds of miscommunications are prevented. 
+Once those sketches are approved, the level is passed along to the environment artists. Their job includes building the props and assets that fill levels. They aren’t necessarily just decorations, though. In the case of the Jakku sliding section, debris is a visual shorthand for sections that are off limits to players. After the level is “built” Pick takes a look to ensure that it looks good, is consistent to the game as a whole, and that it balances the fine line of including as much detail as possible while running smoothly in the game’s engine.
+
+By the time the game’s finished, Pick and his artists will have played through their sections hundreds of times. This Jakku section is no different – if anything, it’s required even more attention. “A level like this takes a lot of playtesting to get it right, but that’s just the nature of it,” Pick says.
+
+Want more information on Lego Star Wars: The Force Awakens? Check out our hub page by clicking the banner below for more exclusive features and video interviews.
+

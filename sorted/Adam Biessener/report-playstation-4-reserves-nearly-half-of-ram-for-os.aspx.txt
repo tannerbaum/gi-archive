@@ -1,0 +1,20 @@
+
+  [Update] Report: PlayStation 4 Uses At Least 2.5 GB Of RAM For OS
+
+
+
+
+
+
+Update: Sony has provided a comment that, while being ambiguous about the actual RAM requirements for the OS, clarifies a bit about how the system utilizes its memory. Please read this story for the full details.
+A new report states that Sony’s upcoming PlayStation 4 console reserves 3.5GB of its main system memory for its operating system – slightly more than its competitor, Microsoft’s Xbox One, has taken heat for doing.
+Eurogamer’s Digital Foundry cites “a well-placed development source” for its claim that the PlayStation 4’s operating system keeps 3.5GB of its 8GB of RAM to itself, leaving only 4.5GB for games to use. However, the documentation shown to the publication says that another 1GB is available as “flexible memory” that can be used on a limited basis when not being engaged by the OS – but that incorporating this additional gigabyte is a difficult engineering task for developers.
+The Xbox One keeps 3GB reserved for its operating system at all times. Microsoft’s rationale, presumably shared by Sony if this report is accurate, is that the positive aspects of instant application-switching outweigh the limitations such a system imposes on game developers.
+Microsoft’s console also reserves two of its eight CPU cores for the operating system’s use. Digital Foundry has published a purported screenshot of a Killzone: Shadow Fall development tool that the website says strongly suggests that the PS4 likewise makes only six of its eight CPU cores available to developers.
+Digital Foundry also cites other sources “close to Sony” as saying that the company could downsize the operating system’s memory footprint later in the console’s lifecycle with optimizations that increase its efficiency, whereas the Xbox One’s 3GB allocation is more or less set in stone. 
+We've reached out to Sony for comment.
+[Source: Digital Foundry]
+
+Our Take:Those supposed advantages that the PS4 was set to enjoy over the Xbox One sure seem to be dropping like flies, don’t they? I’m no fan of the unbearable wait to bring up the Xbox Guide or the somewhat more manageable delay in calling up the PS3 XMB, but reducing your system’s available memory by 43 percent is a high price to pay. RAM is the most important resource for many new modes of gameplay and other innovations that developers are looking to create on next-gen consoles. I’m all for my friends list instantly popping up on screen when called for, but do I want that at the cost of another 20 AI-driven characters active in the world? That’s a much harder question.
+4.5GB of GDDR5 is still a huge bonanza of high-speed memory for developers to work with in 2013, but will we still be saying that in five years when Nvidia is rolling out unified CPU/GPU architecture with 16GB of similarly fast RAM for $200 tablets? As sexy as the PS4/XB1 tech specs are today, remember that they’re broadly similar to mid/high-end PCs available right now and that technology gets faster and cheaper every day. Ten years is a long time to lock in a hardware spec for, and I question the wisdom of both Sony and Microsoft cutting their systems off at the knees like this.
+

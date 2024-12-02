@@ -1,0 +1,153 @@
+
+  The Past, Present, And Future Of Hip-Hop In Video Games
+
+
+
+
+
+
+            In December 2023, Epic Games launched the next chapter of Fortnite, one of the most popular games of all time, with a huge virtual performance featuring Eminem, his avatar landing on a stage in front of fans in a far-off world. Who thought hip-hop would take it this far?
+
+Eminem in Fortnite (2023)
+
+As we celebrated the 50th anniversary of hip-hop last year, it’s now a good time to look back at how ingrained hip-hop music is in gaming, from NBA2K (remember that 2K13 soundtrack curated by Jay-Z?), Mortal Kombat, and Need for Speed, to Cyberpunk 2077 and, of course, Fortnite.
+
+Mortal Kombat 11 came out of the gates in 2018 with a fiery trailer featuring music by 21 Savage, and later Megan Thee Stallion live-streamed an MK11 match on Twitch. The lore of Grand Theft Auto continues to grow, powered by recent GTA Online updates featuring Dr. Dre and Snoop Dogg. Time will tell how hip-hop will be used in Grand Theft Auto VI, which at long last stopped playing hard to get and finally gave us a trailer to chew on in December.
+
+ToeJam & Earl (1991)
+
+But while rappers might have quickly penetrated into the suburbs with their music in the early 1990s, that wasn’t going to happen as easily with a Genesis cartridge. One of the earliest hip-hop-infused games, ToeJam & Earl (1991), centers on two alien rappers who have crash-landed on Earth, desperate to return to their home planet. Other games followed, with varied success, including 1996’s PaRappa the Rapper. By the early aughts, Def Jam Vendetta, NBA Street, and GTA San Andreas signaled hip hop was here to stay in gaming. Today, while hip-hop is regularly featured in games, we still haven’t seen the genre make its way on a large scale to the RPG, strategy, or sci-fi genres.
+
+Game Informer recently spoke with some of the architects and rappers involved with the hip-hop games of the past few decades, including Josh Holmes, co-creator of NBA Street & Def Jam Fight for NY, ToeJam and Earl creator Greg Johnson, rapper Saigon, and former Rockstar leads. How did these game designers go about fashioning games that incorporated hip-hop at a time when the genre was coming of age? How did they get rappers – sometimes legendary ones – to lend their voices, their likenesses, and their stories? Why did some games fall short? We then asked these hip-hop stars and game developers about the future. What role do they see hip-hop playing in gaming in the coming years? What will it take for hip-hop to be the soundtrack for a sci-fi game as much as it is for an NBA2K game? And how do video game developers make sure the culture remains authentic? This is the story of the past, present, and future of hip-hop in games.
+
+ToeJam & Earl (1991)
+
+The Early Days
+
+Greg Johnson’s sleeper hit ToeJam and Earl came out the same year the whiny synths of N.W.A.’s opus Alwayz Into Somethin’ were unleashed on the world. Born to a white mother and a Black father, Johnson describes going to an ethnically diverse Los Angeles high school in the mid-1970s and listening to the kind of music that served as a forebear to rap – funk, R&B, and jazz. Specifically, Johnson recalls listening to artists like Stevie Wonder, Parliament, and Herbie Hancock. Johnson initially wanted to get into biolinguistics (“I was going to be the one to talk to the dolphins and the whales”), but in the early 1980s, he tried his hands at games during a time when Tandy, an early computer that could play games, and Space Invaders in bowling alleys were king. “I got really intrigued at the idea of what a game might be. It was wide open. You could do magic,” Johnson says.
+
+Johnson says gaming machines couldn’t really handle complex music in those days, so putting in great music, including hip-hop, wasn’t yet in the cards. But with the Sega Genesis arriving in North America in 1989 and Johnson now consuming the music of rappers like Young MC and Heavy D, he linked up with programmer Mark Voorsanger to start work on ToeJam and Earl. As the story goes, while still working on his first game, Starflight, Johnson, long obsessed with alien life, had a dream about two aliens with hip-hop inclinations.
+
+ToeJam & Earl (1991)
+
+The offbeat Sega Genesis game definitely leaves an impression. Titular characters ToeJam and Earl, alien teenage rappers from a musical planet dubbed Funkotron, crash land on Earth. In each island world, our two red and orange heroes amble about, avoiding hostile humans while picking up pieces of their ship in the hopes of ditching Earth and getting back to their homeland. “I thought it would be really fun to flip things on its head and do some satire. [ToeJam and Earl are] the sane ones. They’re cool and funky. It’s the Earthlings who are the crazy ones in this insane world,” Johnson says.
+
+Other Early Creators
+
+The early days of hip-hop games were a wild west with no enduring franchises and many one-offs. Not all games are remembered as fondly as others, either. 1995’s Rap Jam: Volume One for SNES features character models of rappers like Coolio, Yo-Yo, and Warren G facing off in games of street basketball. NBA Street it was not. Besides a barebones hip-hop beat in the menu, the actual in-game action is devoid of music entirely, hip-hop or otherwise. Not even a DJ scratch. Then there’s the graphics and perplexing controls.
+
+Rap Jam: Volume One (1995)
+
+Pascal Jarry, calling in from Bordeaux, France, is well aware of how his game turned out. But the 20-year industry veteran, who has designed games in three languages and on three continents, was just a young game developer back then.
+
+Jarry and his business partner already had a finished game, which focused on street culture, having come up with friends who were into graffiti and skateboarding in France. But the game needed a distributor. One day in the early 1990s, Jarry says he received a call from someone representing “Motown,” offering up the licenses for well-known rappers. Motown Games was a spin-off of the storied Motown Records and had just come off of Bebe’s Kids, an ill-fated video game version of the 1992 film by the same name.
+
+PaRappa the Rapper (1996)
+
+Soon, Jarry and his partner landed in the United States to promote the game. During a video game show on the west coast, Jarry recalls running into Coolio and inadvertently leaving him hanging after the rapper gave him a high five. “My friend Marco, the guy doing the art, said, ‘Man, you left him hanging!’” Jarry recalls with a laugh. He had half a mind to go back and complete the handshake, but Marco advised him that would be even worse.
+
+Regarding the many critiques of the game, Jarry emphasizes that he definitely wanted to record music and sound from the featured rappers but describes his hands being tied. “At the time, I was just a subcontractor in the corner,” Jarry says. “The game was not the best game we have ever made. I like the journey of finishing that game much more than the game itself.”
+
+Hideyuki Tanaka, character designer and art director of Bust a Groove, a 1998 cult classic hip-hop rhythm game, continues to stay connected to his game today. He has two Instagram accounts full of artwork and merchandise and a website.
+
+Tanaka said he began drawing at a young age, primarily influenced by manga. That work eventually landed him on a kid’s television show, where he designed characters using 3D computer graphics, which caught the attention of a Square Enix producer. “They considered this to be a rhythm game and incorporated elements of fighting games to enhance the entertainment value as a game,” Tanaka explained.
+
+Bust a Groove is not just influenced by hip-hop music but also dance, with different characters drawing from different dancing styles. Piping hot character Heat moves around a subterranean stage with the swagger of Usher as his platform shoes skate across the floor. Tanaka explained that the game’s dance choreography draws inspiration from many sources including Saturday Night Fever (character Hiro), MC Hammer, and even Spike Lee. Bust a Groove was produced with the expectation of being released in Japan, but he is heartened that the game was embraced in the U.S. and Europe as well.
+
+The Big Leagues
+
+The early aughts were big years for hip-hop video games. The Tony Hawk’s Pro Skater series, in addition to punk, also had artists like Nas. And finally, entire video game franchises were being built with hip-hop, including EA’s Def Jam Vendetta, which arrived in 2003 with a roster of fighters including Ludacris, Method Man, and DMX.
+
+Co-creator Josh Holmes says building the roster of hip-hop legends was a collaborative effort, and his team had a quick turnaround – nine months – to pivot from an intergalactic wrestling game to what became Def Jam Vendetta. Holmes personally met with each rapper to pitch them on the game and outline their role.
+
+NBA Street (2001)
+
+The initial game did not have all the artists the team originally wanted. Some were on tour, while others weren’t sold on the project. But with sequels Def Jam: Fight for NY and Def Jam: Icon, Holmes says rappers really started to trust the franchise’s intentions. “To this day, I continue to receive messages from fans who express how much these games meant to them and how they wish for another sequel,” Holmes says.
+
+Mark Jordan, a.k.a. DJ Pooh, in addition to being a legendary LA-area hip-hop beatmaker for songs like Ice Cube’s “Today Was a Good Day,” joined the Grand Theft Auto franchise as a writer for San Andreas and later provided the cosign that convinced Dr. Dre to feature in GTA Online. Pooh brought a lot of other hip-hop talent to Rockstar, including Julio G (née Julio Gonzalez), the veteran voice of 93.5 KDAY radio in Los Angeles, who has worked with the likes of Eazy-E and Snoop Dogg. Julio G ended up also being the voice of Radio Los Santos, the in-game radio station that plays the same West Coast ’90s hip-hop that Julio G helped beam across SoCal.
+
+Def Jam Vendetta (2003)
+
+“Myself and DJ Pooh, we’ve known each other since the ’80s,” Julio G tells Game Informer. He clarifies that he’s not even a gamer, but that one day in 2003, he received a call from Pooh asking him to come down to talk about this new video game he was putting together. Julio G agreed without a second thought – and without fully understanding that he was about to be in one of the biggest games ever.
+
+At a Los Angeles studio, Pooh asked Julio G to read from a script. Some Rockstar staff were also present. It was in this setting that Julio G delivered hilarious lines like “We got a shout out from Denise in Ganton for her man. Give her a call, man!” a reference to one of CJ’s girlfriends. And later, when a riot erupts all across Los Santos, Julio G gets on the airwaves to urge calm. He recorded his segments in about two to three hours, with 90 to 95% of those coming on the first take, he says. “I’m just reading and flipping it my way.”
+
+Grand Theft Auto: San Andreas (2004)
+
+While every other DJ on the game goes by an alias, Julio G says Pooh insisted that Rockstar use the radio veteran’s real name because he wanted it to be authentic to LA and the legacy of West Coast rap.
+
+As far as the range of tracks on Radio Los Santos, including Chicano rapper Frost’s “La Raza,” Julio G clarifies that that was “all DJ Pooh.” Julio G says he didn’t even hear the full recording of all of his work until someone showed him a compilation of his segments on YouTube last year.
+
+He also had some surprising things to say about Eazy-E, who, in addition to being a gangsta rap pioneer, was also working on a video game concept before dying of HIV in 1995. The idea is something Julio G says Eazy would talk a lot about with him. “The whole concept of [his] game was getting your lowrider to a supershow, and in the process, you had to go rob somebody… go hydraulic hopping against this dude in a different neighborhood. It was like a Grand Theft Auto in its own way. He was working on it when he passed in ’95. He was working on it all through ’94,” Julio G says.
+
+Kobe Bryant in NBA 2K24 (2023)
+
+Rockstar’s Hip Hop Nerds
+
+Several Rockstar brass also had a passion for hip-hop and took the task of weaving the genre into their games very seriously. One of Rockstar co-founder Sam Houser’s idols is Rick Rubin, the founder of Def Jam Recordings. Another is Greg Johnson, longtime Rockstar Games senior researcher, not to be confused with the ToeJam game developer. This Greg Johnson, now at Lightspeed LA, is a veteran hip-hop journalist for publications like Spin, Complex, and XXL. In the early 2000s, Johnson’s editor friend told him about a new opportunity at Rockstar Games, which wanted to build out a dedicated research team to gear up for the development of San Andreas. “Especially for that game, having a potential hip-hop journalist that could make the leap to game design was one thing that they were strongly considering,” Johnson says. Rockstar and Johnson quickly connected during a series of interviews, and he was soon reporting directly to Rockstar co-founder Dan Houser on the job.
+
+Adam Tedman, former Rockstar vice president of new media and global head of digital marketing, who now works at Dan Houser’s new Absurd Ventures, was particularly keen to talk about Rockstar’s use of hip-hop in The Warriors, its 2005 beat ‘em up adapting the 1979 movie of the same name, and in Grand Theft Auto IV. Tedman helped bring producer Statik Selektah to GTA IV’s expansions, where Selektah produced tracks for Talib Kweli and Freeway. Selektah tells Game Informer he met Tedman in 2008 right after GTA IV dropped. “They asked me to come out and produce a couple of records and do the radio station and all that. It was like a dream come true,” Selektah says.
+
+Grand Theft Auto IV (2008)
+
+Sometimes when hip-hop comes together to create music for games, there are unintended consequences. Rapper Saigon, maybe best known for his recurring role in HBO’s Entourage Season 2, says that when he went over to record “Spit” at Selektah’s house specifically for GTA, the two ended up with an entire album, All in a Days’ Work. “If I didn’t go there to do that song, that album never gets made,” Saigon said.
+
+As a rapper early to moving between television, music, and video games, Saigon is impressed with the current generation of rappers, who are taking things to a whole new level. “They’re making songs solely for Rockstar Games and NBA2K and all those big games,” Saigon says. “It feels good to know I had some kind of influence to the generation who went on to become the most successful generation of the culture ever.”
+
+The Future of Hip-Hop and Gaming
+
+Several of the hip-hop stars who spoke to Game Informer are serious gamers. Saigon has been playing games for decades (“I was the one who learned how to warp [on Mario]”). Selektah speaks about unwinding with Call of Duty and GTA as a single father after his daughter goes to bed.
+
+These days, Johnson thinks the gaming industry is starting to recognize the sheer creative talent in the hip-hop world. “When you get to know them, you find a whole bunch of comic book fans, you find anime nerds, a whole bunch of dudes who used to compete to see who could draw comic book heroes better in the third grade, you know?” Johnson says.
+
+Cyberpunk 2077 (2020)
+
+For sports games, it’s almost inevitable that hip-hop found itself there because the music made a huge impact on several generations of NBA and NFL athletes. But now the question isn’t just about artists appearing in a game as a one-off but about actually having true equity from a business standpoint. He mentions musician Raphael Saddiq, a cofounder of independent game publisher IllFonic. Johnson expects more stars to think more about the business side of video games down the line.
+
+He’s unsure exactly how hip-hop will be used next and if games will use hip-hop more heavily in sci-fi and other genres. But he calls rap “outlaw” music and thinks it can serve as the sound of many different stories and worlds. This is something game developers should keep in mind. “Whether you’re sampling or replaying, that’s a very hip-hop mentality and sensibility. If you’re interested in representing any outlaw vibe, any rebel culture, it could be rastas, it could be bikers, it could be smugglers, hip-hop is always a good soundtrack for that.”
+
+This article originally appeared in Issue 363 of Game Informer.
+
+      Products In This Article
+
+Fortnite
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC, Mac, iOS, Android
+
+Release Date:
+
+July 25, 2017 (PlayStation 4, Xbox One, PC, Mac), April 2, 2018 (iOS), June 12, 2018 (Switch), August 9, 2018 (Android), November 10, 2020 (Xbox Series X/S), November 12, 2020 (PlayStation 5)
+
+Purchase
+More Info
+
+NBA 2K24
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC
+
+Release Date:
+
+September 8, 2023
+
+Purchase
+More Info
+
+Cyberpunk 2077
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Stadia, PC
+
+Release Date:
+
+December 10, 2020 (PlayStation 4, Xbox One, Stadia, PC), February 15, 2022 (PlayStation 5, Xbox Series X/S)
+
+Purchase
+More Info
+
+    expand for more
+

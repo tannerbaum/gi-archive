@@ -1,0 +1,114 @@
+
+  Bungie's Endgame: Destiny's Raid Philosophy And The Scope Of King's Fall 
+
+
+
+
+
+
+Aside from the fact
+that King's Fall will be Destiny's biggest and most complex raid to
+date, Bungie has been reluctant to talk about it.
+The studio hopes for King's Fall to be a complete surprise for players when
+they first dive into it in September, but we managed to wrangle up an interview
+with The Taken King's creative director Luke Smith, who was also the lead designer on
+Destiny's Vault of Glass raid. In our interview, Smith shares the history of
+Destiny's raids, explains how Vault of Glass showed the team they needed
+to redesign Destiny's gear system, and hinted at what players can expect from
+Destiny's biggest raid to date. 
+Was the concept of
+a raid always part of the Destiny experience? Where did you come up with the
+idea for this six player experience?Raids were something that [franchise director Jason Jones]
+wanted pretty early on. He wanted raids in Destiny, and he felt it was really
+important that players have a cooperative activity that requires coordination
+and communication. One of our goals was to make raids different from the rest
+of the game. All the activities in Destiny rise up to meet you in different
+moods. You can get through strikes with minimal cooperation, and that's one of
+the experience goals for our strikes. We want you to just plow into those and
+have a great time shooting monsters, because shooting aliens is relaxing. But
+with raids we wanted something different. We wanted something that would
+challenge players. We wanted to challenge player's minds, and their thumb skills,
+and their coordination skills with other players.
+During the
+development process did you guys have a lot of iteration on what you thought
+raids should be like?We were pretty set on six players pretty early. There's a
+pretty old prototype we did during very early Destiny development that even
+took place in a different engine, and even in that early period we had raids as
+a six player activity. But I think we're still discovering what raids can be
+gameplay-wise. We're still exploring and learning. Each of our raids has provided
+a different type of experience. The Vault of Glass is a journey with your
+friends into a dark series of caves, and navigation is a big part of it. Crota's
+End is a much more kinetic and frenzied experience, because you're in an evil
+Hive fortress. We're continuing to solidify what the gameplay of raiding looks
+like in Destiny. We have a bunch of experiments and prototypes of different
+mechanics that we've tried along the way. Some of those experiments and
+mechanics have showed up in raids we've shipped, but we're going to continue to
+experiment and work on those mechanics we haven't totally nailed yet.
+Raids have an
+element of discovery in that the community usually has to figure out what
+they're about and discover the best way to complete their challenges. Does that
+continue to be a goal for King's Fall?The raid coming in the Taken King is objectively and
+emphatically our biggest raid yet. It is a journey that we hope players and
+their friends are going to remember. We're really excited about it, and we
+think it will raise the stakes again for what the raid team is asked to deliver
+next time. It's big. The name King's Fall is really like a shot across the bow
+in a game called The Taken King. That story of Oryx and his presence in our
+solar system is going to continue after the credits roll and were going to
+continue to tell you more about Oryx and his minions after you face them for
+the first time in the game. The raid is really the culmination of that story.
+
+What were some of
+the lessons you learned while designing Vault of Glass and Crota's End that
+helped you during the development of King's Fall?In Crota's End, we learned a bunch of valuable lessons
+about the difficulty of player containment. And when I say player containment I
+mean the players' ability to manipulate the environment to their benefit.
+Players do these amazingly intelligent things that we don't plan for when we're
+designing the game. In an hour of Crota's End going live, the raid was probably
+played more than it ever was during the entirety of its development. Our
+players are playing the game in a way that we can't always anticipate. Crota's
+End was an awesome learning opportunity for us at Bungie where we said, 'Oh my
+gosh, look at how we could be testing these experiences better. Look at the
+ingenuity of our player base. How can we react to that?'"
+It seems the
+new strikes in The Taken King have learned a lot from Destiny's raids in that
+they are more crafted experiences requiring players to do unique activities
+and encourage players to work together. Does that push the raid team to try to
+up the ante even more?I don't think there's that kind of competition between the
+two teams. They both have very different goals. There's a real verve on the
+part of our player base to see more things that evoke feelings like raiding but
+with a smaller team. We're responding to that. I think Prison of Elders had
+some cool mechanics that evoke feelings of raiding, and we're trying to build
+this journey for players where the game is preparing you for what the raids
+will ask you to do later on.
+You guys have
+continued to experiment with the reward drops in raids. How do you feel
+you have improved the reward systems for King's Fall?The Taken King is going to
+continue to feel like an outgrowth of what's come before. I think Crota's End
+vastly improved the drop system from Vault of Glass. We made that better. The
+forever 29 meme was pretty heartbreaking for us as developers, because if you
+did not get a pair of raid boots you could never hit 30. It was this disempowerment
+for a player. The conflation of gear and character level led to this place
+where your identity was determined by things that were out of your control, and
+it was something that we looked at and said 'We don't want to do that.' We
+don't want to have only four slots that contribute to this number. We want all
+the slots on your character to matter. We want every piece of gear that you get
+to have the potential to be something that excites you or makes you more
+powerful in both great and small ways. In order to do that we had to separate
+your light level from your character level.
+But player gear is still very significant in measuring each player's
+power. Do you still see raids as the gateway to gaining the best gear as it was
+in the past?We believe the highest gear level
+is a little less important to the game now. We hope that players see their
+light level as a tool that allows them to climb the mountain they want to climb
+in the way that's most interesting to them. If they look at a raid and they see
+it's recommended light level is 280, then we want them to think, 'I want to get
+my light to 280, so I can climb this mountain in front of me.' In the same way,
+we want players to look at the PvP activities they want to do and say, 'I want
+to get there, so I can go into that activity and have a great time.'
+Post-launch, we've created a bunch of ways for players to chase progression,
+chase creativity, and look how they want to look. That's all stuff we want to
+carry forward. But the gear you have is just a tool to reaching those
+activities and not the end goal.
+To learn much more about Destiny: The Taken King, click on the banner
+ below to enter our constantly-expanding hub of exclusive content.
+

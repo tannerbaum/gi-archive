@@ -1,0 +1,41 @@
+
+  Xbox Series X/S Boot-Up Time Just Got Faster
+
+
+
+
+
+
+            Xbox Insider testers noticed a faster boot-up time for their consoles, revealing Microsoft’s recent initiatives to get players into their games quicker. According to The Verge, the cold boot-up time is now estimated to be around 5 seconds. The trick to the faster time lies in a shorter animation. 
+
+Can confirm - worked with @harrisonhoffman and @jakerose27 to create a shorter boot up animation (~4s) from the original boot up animation (~9s), helping to reduce the overall startup time.
+— Josh Munsee (@joshmunsee) July 23, 2022
+
+The director of Integrated Marketing at Xbox stated (see above) worked alongside the principal product manager for connected TV apps, Harrison Hoffman, and senior product manager lead Jake Rosenberg to “create a shorter boot up animation (~4s) from the original boot up animation (~9s), helping to reduce the overall startup time.” However, there is a catch. You’ll have to set your Series X/S to Energy Saver mode to benefit from the faster boot-up. This means the console will completely power off when you decide to put the controller down and do something else. Nevertheless, this benefits the environment and helps drop the monetary load of electricity bills. 
+
+Ultimately, the boot-up is down from 20 seconds to 15 seconds. That might seem negligible at first glance, but perhaps we’ll reach a period when wait times are nonexistent. 
+
+[Source: The Verge]
+
+      Products In This Article
+
+Xbox Series X
+
+Release Date:
+
+November 10, 2020
+
+Purchase
+More Info
+
+Xbox Series S
+
+Release Date:
+
+November 10, 2020
+
+Purchase
+More Info
+
+    expand for more
+

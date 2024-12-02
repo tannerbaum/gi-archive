@@ -1,0 +1,102 @@
+
+                                          Star Wars Outlaws
+                  
+
+
+  Exclusive Hands-On Impressions
+
+
+
+
+Platform
+PlayStation 5, Xbox Series X/S, PC
+
+Publisher
+Ubisoft
+
+Developer
+Massive Entertainment
+
+Release
+August 30, 2024
+
+            As one of the main components of our trip out to Malmö, Sweden, for this issue's cover story, we were the first to get our hands on Star Wars Outlaws, the highly anticipated open-world action game from Massive Entertainment, the studio behind The Division and last year's Avatar: Frontiers of Pandora. Taking place between Star Wars Episode V: The Empire Strikes Back and Star Wars Episode VI: Return of the Jedi, Outlaws puts you in the shoes of Kay Vess, a common pickpocket-turned-thief who gets in over her head and becomes a player in the thriving underworld during this dark period in the Star Wars timeline.
+
+Mirogana
+
+Star Wars Outlaws features several planets and moons for players to explore, including iconic and well-known locales like Tatooine, Kijimi, and Akiva, but my hands-on demo takes place entirely on Toshara, a new moon created by Massive Entertainment in collaboration with Lucasfilm Games. Given the timeline placement of Star Wars Outlaws, the Empire's presence is immediately felt and consistently present. After landing on Toshara following an unfortunate turn of events, Kay heads to the moon's capital city, Mirogana.
+
+Mirogana is dense and multi-leveled, but it was intentionally designed to not be a sprawling city like in other open-world games. "If you open up the map, the location that we've built for Mirogana is quite compact," creative director Julian Gerighty says. "What we wanted to do is to have something that is very dense in activities rather than super expansive where you get lost, and there's not much to do. It's very, very focused on providing a dense, busy city experience."
+
+Following an encounter with a Stormtrooper at the entrance to the city, Kay flashes a fake identification and is allowed through. This exchange is a reminder of the state of the galaxy in this space between the two classic films. Making her way through Mirogana, Kay ignores the beckoning shopkeeps, arcade games, betting areas, and a table hosting the in-universe card game Sabacc to find her way to the cantina. In each city you visit, the cantina is always a central location for getting the lay of the land, gathering intel, and finding work. Toshara – and Mirogana in particular – is primarily a Pyke enclave despite being home to other syndicates as well.
+
+To gain some ground with the Pyke Syndicate, Kay wants to speak with their leader, Gorak. Sadly, he's in a private VIP section of the cantina, so Kay needs to find a backdoor. Luckily, Kay's hairpin is a dataspike, so I can lockpick a side door using a rhythm-based minigame. After entering the backroom of the cantina, I see a blue icon in the distance. These icons demonstrate that Kay can send her companion, Nix, to interact with it. In this case, he fetches the item and brings it back. Nix is a merqaal, a new species created in collaboration with Lucasfilm Games. Gerighty describes him as having two sides: Nix is very cute and friendly but also extremely protective of Kay, even to the point of aggression.
+
+Kay reaches Gorak's suite and is immediately picked out by the Pyke Syndicate leader as an intruder. Kay gets a chance at face time, but after making a joke that lands with a thud and name-dropping the wrong person, Gorak has his guards toss her out. So much for making headway with the Pyke Syndicate. As Kay dusts herself off, Nix reveals he stole Gorak's ring during the scuffle. A voice tells her that might be an unwise move given the Pyke's power. 
+
+Pyke Infiltration
+
+The voice comes from Danka, a Mirogana broker. She gives Kay a rundown of the syndicates operating on Toshara, then offers her a job from an unknown client. The job? Steal a file from a heavily guarded Pyke stronghold. 
+
+This mission surfaces one of the defining elements of Star Wars Outlaws: the Reputation System. Kay must navigate the criminal underworld through four syndicates, each with its own leader. Jabba the Hutt, leader of the Hutt Cartel, stands out as the most recognizable underworld boss Kay crosses paths with, but she'll also deal with Lady Qi'ra (who many know from Emilia Clarke's portrayal in Solo: A Star Wars Story) of Crimson Dawn, Queen Ashiga of the Ashiga Clan (a new syndicate created for Outlaws), and Gorak of the Pyke Syndicate.
+
+The Reputation System represents your standing with these four syndicates, ranging from Terrible to Excellent for each individual group. Your reputation with each syndicate determines how that criminal organization treats you. Having a good reputation may mean they let you walk freely in their hideouts, offer you special stock or discounts at shops in their territories, and even help you out if you get into a hairy situation with another syndicate or even the Empire.
+
+In my case, my introduction to the system starts with the mission of stealing from the Pyke Syndicate. I take Kay to the front entrance of Pyke territory, but the organization isn't exactly eager to roll out the red carpet, even though I just met with their boss. Since my standing with them is firmly in the "Poor" section of the meter, I'll need to sneak in. I loop down a back alley, climb a ledge, and emerge in a restricted Pyke area.
+
+Star Wars Outlaws strives to provide player agency, but in early portions of a hideout infiltration, you need to be stealthy. As such, Kay's blaster is off-limits until she can get deeper into the territory. However, you can perform stealthy takedowns to clear the path to her destination. This is where Nix really comes in handy, as you can guide him from the shadows to either distract or attack guards. In this instance, I go the slightly louder route of having Nix run up the guard's leg and latch onto his head. This way may be a bit louder, but it also means I can have Kay sprint up and take the guard out without being detected.
+
+After taking out and sneaking past a few guards, I find a door that Kay can lockpick. After completing the rhythm minigame, Kay finds herself in what appears to be a maintenance room. Using Nix's senses, Kay can spot the electrical circuits in the walls, which tell you which buttons to press to call the elevator needed to reach the next area. Sadly, the first elevator doesn't raise high enough, and the second elevator's button is out of reach for Kay – but not for Nix. By directing Nix to press the button, Kay lowers the second elevator, creating a makeshift staircase to climb onto a grated wall to reach a ledge. Continuing into the ventilation shafts, a whirling fan impedes Kay's path, but by telling Nix to pull down the shutter, Kay can blast the power supply and get past the fan.
+
+I use Kay's grapple hook to swing across a gap, and she reaches the area with the file. Unfortunately, it's protected by an energy shield with two generators. Even worse, the area is heavily guarded. Since I've entered fully hostile territory, I'm able to choose my approach to the generators: Do I continue my stealthy approach, or do I pull Kay's blaster out of her holster and go in guns blazing? I decide to try the path of least resistance and continue operating in the shadows. Using Kay's binoculars, I mark enemies to keep track of them once I descend to ground level. 
+
+I take out a few enemies using a combination of Nix's distractions and the "stun" setting on Kay's blaster, but it doesn't take long for a guard to spot me, and a shootout begins. Unfortunately, I did not think to disable the alarm system, so it's triggered. Even if I had taken down the alarm system, it wouldn't have made a difference, as I accidentally walk past the sightline of a security camera.
+
+I dig in and try my best to keep the Pykes at bay. As I take out more and more Pykes, stronger enemy types emerge with shields and more advanced weaponry. Thankfully, I have healing items, and the fallen enemies drop better weapons than Kay's blaster that she can use until they run out of ammo. Since I triggered an alarm, my reputation with the Pykes drops; had I made it through without being spotted, my reputation with them would not have taken a hit.
+
+Sadly, that's not how this played out, as the bodies are piling up, and the enemies are closing in on my location with an increased intensity. At the risk of exposing myself and doing something rash, I make a break for it. In breaking the line of sight with the guards, a blue silhouette shows my last-known location; that's the first place they'll look before fanning out to try and find me. I use this temporary de-escalation to make a break for the generators. After quietly taking down the guards stationed by them, I deactivate both generators and go to retrieve what I came for.
+
+The Reputation Game
+
+Kay accesses the terminal and easily finds the file the mysterious client wanted, but she finds something even juicier: video footage of one of Gorak's underlings plotting against him. Ever the opportunist, Kay knows that someone would pay a pretty penny for this information – maybe even Gorak. That's right; even after the violence I just took part in with the Pykes – my face on camera and everything – Kay still considered going to their leader. That's because there's somewhat of an understanding in the criminal underworld that these relationships aren't about making friends. They're about mutual benefit.
+
+It seems like Kay is set on giving it to Gorak to curry favor, but after returning to the Mirogana cantina with the file for the client, she spots another opportunity. It turns out the anonymous client was a member of Crimson Dawn, and this file retrieval was a test to see if the syndicate could rely on Kay for more important jobs. With a foot now in the door, Kay thinks fast, wondering if she should give the extra file regarding the Pyke Syndicate coup to Crimson Dawn instead. At this moment, the player has a choice: Do you provide it to the Pyke Syndicate as initially planned or your new associates in Crimson Dawn? I opt to give it to Crimson Dawn, causing my reputation with them to increase.
+
+After Stealth Mission
+
+After taking an optional job with another quest giver in the cantina, I return to Danka for more work. She tells me to go to a particular merchant to retrieve a part for Kay's blaster. Sadly, when I arrive, I learn he doesn't have it, but I can probably steal the part from a nearby syndicate. Player agency and the Reputation System again pop up in my playthrough, as I can choose if I want to steal it from the Pyke Syndicate or Crimson Dawn. Both of them have a presence in Mirogana, but since I have a better reputation with Crimson Dawn, they let me walk right in without resistance. 
+
+However, even with my decent reputation with them, they'll only let me get so close. My reputation isn't good enough to get into the guarded heart of Crimson Dawn territory, so it's back to the stealth mechanics. Like the earlier Pyke encounter, if I can get in and get out without raising the alarm, Kay's reputation with Crimson Dawn won't take a hit, so I make that my goal. After some close calls and last-second takedowns, I reach the part without making Crimson Dawn skittish about trusting me.
+
+Outside the City Walls
+
+Before wrapping up my demo, I get a brief chance to explore the open world of Toshara outside of Mirogana. With a press of a button, I summon a speeder, which Massive designed with inspiration from a Swedish motorbike manufacturer. The vehicle feels excellent in action – smooth, quick, and agile like a speeder should. After some brief navigation that includes hearing radio chatter for some activities I could pursue, I arrive at a small town called Jaunta's Hope, which is the current location of Kay's ship, the Trailblazer.
+
+I need to go to a nearby building and grab an item from it, but the door is locked. After a quick modification to Kay's blaster, her weapon gains the Ion Blast ability, which gives her an advantage over droid enemies and allows her to solve environmental puzzles like this one. Kay can access the building and loot all the goodies by shooting the two transformers for the lock with the Ion Blast. 
+
+Unfortunately, just as I was starting to get a true feel for the gameplay loop of Star Wars Outlaws, my session ended. I didn't have an opportunity to explore the Reputation System truly, but I love the notion of keeping up appearances with the various syndicates, not to mention making sure not to annoy the Empire too much. 
+
+After spending my afternoon taking in the sights and sounds of Toshara, I came away excited about how far you can manipulate the various systems at play in Star Wars Outlaws. Massive Entertainment came into the project wanting to create the ultimate scoundrel experience set in the Star Wars galaxy, and from what I've seen and played, it has a lot of important elements in place to accomplish that goal. I'm more excited than ever to get my hands on the final product when it arrives on PlayStation 5, Xbox Series X/S, and PC on August 30.
+
+      Products In This Article
+
+Star Wars Outlaws
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PC
+
+Release Date:
+
+August 30, 2024
+
+Purchase
+More Info
+
+Brian Shea
+Online Content Director
+Brian has written about video games for more than 15 years across multiple publications. Brian is also the host of All Things Nintendo, a weekly podcast focused on the news and games of Nintendo.
+
+Email
+Twitter
+

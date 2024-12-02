@@ -1,0 +1,37 @@
+
+  Advanced Tactics: Exploring XCOM's Combat, Part 1
+
+
+
+
+
+
+In the world of XCOM: Enemy Unknown, players will need much more than brute strength and Rambo tactics. Would-be generals will need to implement precise coordination between all of their elite soldiers. Take note as we walk you through some sample tactics, featuring a three-person squad. 
+[This feature was written with the assistance of XCOM: Enemy Unknown producer Garth DeAngelis]
+XCOM HQ has been getting reports of alien activity circling the skies over a small American town. Our team lands near a gas station and pushes forward into a fog-enshrouded battlefield.
+Our Sniper, codenamed Cornbread, sports a freshly engineered Skeleton Suit, which allows him to grapple to higher ground. 
+
+From the top of the canopy, Cornbread can take advantage of a perk: Damn Good Ground. This passive ability provides an offensive and defensive bonus to the unit. Additionally, Cornbread is now placed in a prime scouting point.
+
+Below the roof of the gas station, our Heavy unit takes up a position that will give him a better view of what's happening inside the store. 
+
+A deadly unit of Mutons lurk inside.
+
+The Mutons immediately open fire on our Heavy, who is fortunately safe behind high cover. However, the suppressive fire from the Muton locks the Heavy down.
+
+It's too dangerous for our Heavy to advance, and our Sniper’s visibility is blocked by the storefront's walls. We’ll need to free the Heavy another way.
+
+Moving our Assault unit to the rear of the building, we make her climb onto the roof hoping to put her in a position to help our Heavy. 
+
+Our Assault soldier's Run & Gun ability gives her double standard movement, allowing her to dash across the roof and still have the ability to open fire at the end of her turn.
+
+Kaboom. She’s now flanking our original Muton suppressor through a destroyed roof...
+
+...thereby freeing our pinned Heavy.
+
+Since the Heavy is no longer taking fire, he’s free to set up a well-aimed rocket launcher that remodels the station's exterior.
+
+Rather than obliterate the remaining Muton with an explosive weapon, the Heavy has instead provided Cornbread with a clear line of sight.
+
+Using this strategy, we have not only kept all of our units alive, but we have carefully preserved all collectible tech from the aliens, which we can now bring back to headquarters for our scientists to develop new tech with.
+

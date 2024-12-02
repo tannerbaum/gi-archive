@@ -1,0 +1,138 @@
+
+  The Making Of Fallout 4
+
+
+
+
+
+
+Coming off of the success of The Elder Scrolls V: Skyrim, Bethesda Game Studios began work on its most ambitious game yet for hardware that didn’t exist. The team’s plans were impressive, allowing players to build their own weapons and homes, and dictate their own fates in the wasteland through intertwining story arcs and relationships that could end in love or death. The development spanned seven years, delivering successes, failures, and unexpected detours like porting Skyrim to the Xbox One (keep reading). Just 25 days before Fallout 4 releases, the creators sound off on the lengthy development process as they brace for players to experience their game.
+
+The sprawling open-world adventures Bethesda Game Studios is known for were once made in the basement of a fairly ordinary office complex located in Rockville, Md. The floors above it that allowed sunlight were occupied by a wide variety of businesses and Bethesda’s publishing division. The enormous success of the studio’s in-house franchises, The Elder Scrolls and Fallout, led to Bethesda taking over the entire building. The lobby, which was once a sea shared by business people in suits and game developers in T-shirts, is now a gaming shrine holding an enormous statue of the Panzerhund from Wolfenstein: The New Order, and various life-size statues of characters from Fallout and Elder Scrolls. The T-shirts of the game developers won out. Bethesda Game Studios’ office was moved from the basement to the building’s top floor, its walls littered with beautiful concept art from all of its projects.
+
+The office is abnormally quiet for the number of people who are hard at work. Almost everyone has their head buried in their computers as they finalize the launch plans for Fallout 4. A timer in the office ticks down to the launch date, but the time isn’t exactly correct. When director Todd Howard set it up, he entered the wrong time for the Australian launch, but it still gets the point across – Fallout 4’s release is imminent.
+
+Howard is calm and collected when he enters the conference room that has been designated for the interviews. He looks around the room quizzically and tells me he hasn’t spent much time here. He says he doesn’t leave the development studio often, and he believes this room was once an architecture firm. When I ask him my first question, it’s clear his head is still on the present and ensuring Fallout 4 is the game the studio always wanted to make. He leans back in his chair, collects himself, and says, “I believe the first asset for Fallout 4 was created in 2009 – a week after Fallout 3’s DLC was completed.”
+
+At that time, most of the development team began ramping up work on The Elder Scrolls V, but lead artist Istvan Pely didn’t follow them into the dragon-infested mountains just yet; he remained firmly planted in the irradiated wasteland to envision what the next Fallout project would look like – even without knowing the specifics of the forthcoming PlayStation 4 and Xbox One hardware.
+
+“When we began Fallout 3, the first asset was the Power Armor,” Pely recalls. “It’s the iconic image. It’s on the cover of the box. That sort of represents Fallout for us. That was the T-45 Armor. We wanted to update that for Fallout 4. It’s a great way for us to simultaneously say, ‘Here’s how it’s going to be true to Fallout 3, and here’s how it’s going to be different.’”
+
+Repeating history, Pely crafted Fallout 4’s first in-game model of the Power Armor, and upgraded it to the T-60 model. That art, created over seven years ago, is in the game today, but it underwent a number of iterations throughout the years.
+
+Bigger and bulkier, the T-60 armor isn’t just another wearable piece of apparel that you slide over your head and shoulders. This armor is “authentic in the power armor sense,” Pely says, almost acting like a standalone vehicle. When it’s needed for war, the armor opens up, gears turn noisily as the cockpit is revealed, and the protagonist climbs in – serving as the brains and skeleton of a lumbering tank.
+
+The concept for this new armor design came from discussions Pely had with director Todd Howard and lead designer and writer Emil Pagliarulo. Much like people discussing movies with friends, these conversations were informal, often happening at lunch or as they walked together throughout the office. No one on the team can pinpoint the exact dates when these talks occurred, but Howard recalls they started near the end of Fallout 3.
+
+“You try not to think about, ‘What are we going to do next?,’” Howard says. “We were working on Skyrim at the time, but like anybody with this career or who is talking about making a movie or a game, ideas come to you. It was pretty early on that I said, ‘This is what will happen at the beginning of the game. You’re going to play the day the bombs fall, and head to the Vault.’ If I close my eyes and think of a world or IP, I see classic images. For Fallout, I see the world that was left behind, the bombs falling, and going into the Vault. Just making [those images] come to life excited me, and everyone else from the get-go.”
+
+This apocalyptic vision was put into motion early on. Pely and the concept team started exploring ideas of what a pre-irradiated Fallout might look like, even without knowing what city or region of the world it might be set in. The team talked about setting Fallout 4 in a number of different locations, which Pagliarulo remembers being mostly “major cities.” Boston was always one of the early frontrunners, as the team gravitated toward the idea of exploring a location that hasn’t been tapped extensively for video games, much like Fallout 3’s Washington, D.C. setting.
+
+As a Boston native, Pagliarulo distinctly remembers the day the development team decided to set the game in the Commonwealth. Pely, Howard, and Pagliarulo were having lunch in the office’s cafeteria, and walked away on a fairly downtrodden note – they were going back to the drawing board.
+
+“We were talking about changing the setting from something else we were thinking about,” he says. “We were like, ‘This is probably not going to work.’ We kept talking after lunch, in the hallway, in the elevators, like a West Wing walk-and-talk, and ended up in front of Istvan’s office. We were just standing there talking. Istvan was at his desk, Todd was standing next to him, and I was in the corner letting them talk it out, because I could see they were going towards Boston. They started talking about the map and getting excited, and I was like ‘No f---ing way! No f---ing way!’ Todd eventually turns to me and goes ‘I assume this is okay with you?’”
+
+With the destination agreed upon, the concept team traveled to Boston for a weekend to take photos and soak up the vibe of the city. “They came right back and started drawing like crazy,” Pely says. But the team learned early on that Boston didn’t fit into Fallout’s traditional visual framework as well as Washington, D.C., did.
+
+The elements of Boston that the art team latched onto were mostly historical in origin – the colonial side of the city. The problem was the Boston skyline of today is dominated with contemporary buildings. Most of these structures were built decades after the point Fallout’s timeline diverges with ours. That challenged the art to team think of what a Boston of tomorrow would look like if it were designed with a retro/futuristic aesthetic.
+
+“We’re always trying to stay true to this franchise, and part of the challenge is we had a lot of freedom there creatively,” Pely says. “We had to figure out what the skyscrapers look like in our universe, and also hone in on the contrast of recognizable elements with futuristic stuff. It’s a very eclectic mix. I think it’s a pretty fresh take on a science-fiction city.”
+
+The team also explored what life would be like on an intimate level for the people of this wasteland. That included the little details like what a living room looks like, what brands they buy, and what life was like before the war erupted and changed everything. Some of these stories come through in pre-war ads – a trait from the era.
+
+Artist Adam Adamowicz, who passed away from cancer in 2012, was a key contributor in this form of Fallout 4’s world building. Many of his designs are a part of the final game. He brought a lot of color to the game, and made such a large mark on the project, he was mentioned numerous times for making the world more vibrant.
+
+“We were working on Skyrim and went back to Fallout and said, ‘Wow, we were really into brown,’” Howard muses. “It was a stylistic choice based off of the question: What is the mood of our game? The world is already destroyed, but people in it don’t sit around thinking about what it was. They don’t know that world, but your character does. You’re coming into the world and are meeting people and this is their life. It would be like Superman coming to Earth and saying, ‘This sucks!’ and you would be like, ‘I don’t know. I thought it was fine until you got here.’ They’re going about their lives. They are building. They are growing. They are doing all of these things. Not having it be just visually depressing all of the time works with it.”
+
+Color and mood shifts at any given time through simple changes in the weather. A scenario will have a different tone if it unfolds in sunny skies opposed to a rainstorm. Radiation storms can also blow in to deliver an instant post-apocalyptic feel with haze and lightning.
+
+Home Decorating
+
+Writer Emil Pagliarulo didn’t want to influence the decision to set Fallout 4 in Boston, as he grew up there, but once it was locked in stone as the series’ next destination, he didn’t hold back from inserting himself and his life into his work. “My house is in the game,” he says with a wide smile. “It’s a destroyed house. Players won’t know things in there relate to me, but it’s actually a good snapshot of my bedroom from high school – just a mattress with comic books all over the floor.”
+
+Pagliarulo also added his high school, a train station and sub shop he was fond of, and he helped the team hone in on the realism of Boston by inserting themes and landmarks that were important to him while he lived there. He also made sure certain pronunciations and colloquialisms were correct.
+
+While most development teams have grown in size to accommodate the challenges of new-gen game creation, Fallout 4’s team didn’t budge much, remaining at just over 100 people. Howard believes his team has only grown by eight people since Skyrim. Most of the team has worked together for over a decade, chemistry that everyone I talked to said is the key to Fallout 4 being so big and ambitious.
+
+“You would not get this much good content that comes together the way it does without that kind of chemistry,” Howard says. “You couldn’t build a studio and say, ‘I’m going to build something like that.’ I just don’t think you could. We work together very well. We solve wacky problems together very well. We enjoy that process.”
+
+The transition to Sony and Microsoft’s new hardware went relatively smooth for the Fallout 4 team. Both hardware manufacturers clued Bethesda in on their plans early, and were in constant communication with the team as development began. Knowing they didn’t have to worry about hitting the launches for both systems also helped. In the previous generations, both The Elder Scrolls: Morrowind and Oblivion were targeted as launch titles. The fastest way for the team to learn about the new machines was to collect data while using them. With most of Fallout 4 existing in art and on paper at this point, the team’s solution was something that will likely make fans freak out.
+
+“The first thing we did was port Skyrim to Xbox One. Don’t get your hopes up yet,” Howard says with a smile. “We moved all of our data over to the system to learn it faster, and we realized we needed a new renderer. We started rewriting it for Fallout 4 in 2012. To do the amount of dynamic lighting we wanted to do, we knew we needed to have a deferred renderer. It’s kind of the popular way of doing rendering now. We spent a while on that.”
+
+The Destiny Influence
+
+Combat consists of the same choices of running and gunning or tapping into the Vault-Tec Assisted Targeting System (V.A.T.S.) as Fallout 3, but the team hopes that players don’t feel the need to switch between them to make situations easier. Bethesda wants players to play the way they want to.
+
+The team knew the gunplay needed to be improved from Fallout 3. To get the correct feel, the developers had to start from scratch. Their goal? Make it feel like Destiny.
+
+Bethesda made Destiny a touchstone not just because it liked the feel of the gunplay, but because the game also ran at 30 frames-per-second, just like Fallout 4. The team locked in the frames per second early in development, mostly because 30 allowed for greater density. They wanted players to be able to interact with everything and have it all move dynamically. The gunplay was worked on from day one of the project, and was iterated upon right up until the end.
+
+“The main difference in the way we develop [and other studios] is that we will develop with as many knobs as possible,” Howard says. “We’re always thinking of scale. We’re not a team that is just going to make eight guns and spend forever on one gun. We knew we were going to have thousands, so we needed to develop a gun system that had all of the dials.”
+
+The team started with one initial gun that could quickly transform into any firearm that would be in the game. One second it could function like a shotgun, the next a sniper rifle. Bethesda’s final touch on improving the gunplay came from recruiting a new team member – Josh Hamrick from Bungie, one of the people who made those guns feel fantastic. He joined the team in April of this year and focused intently on tuning the firearms.
+
+With the tech and art moving forward early on, the remainder of the development team switched from Skyrim’s final DLC to Fallout 4 in April, 2013. Although the team knew how its game would begin and were actively discussing key beats they wanted to hit both narratively and through gameplay, the next step in development was building the world. It all begins as simply as sketching it out.
+
+“In all of our games we’ve gotten the scale initially a bit wrong,” Howard says. “Changing that mid-stream is a problem. So we tend to do that very early on paper.” The next step is building the topography in game, and walking through it to make sure the scale is correct. Locations can move across that map with relative ease to find the right balance of density. Once that map is roughed out, the team begins building a vertical slice – the first true representation of what the game will be.
+
+For a game like Fallout 4, which is a sprawling open-world wasteland, that vertical slice is something the team calls “the first hour of exploration.” This includes emerging from Vault 111 and everything you see around it. The team spent the most time working on this small slice (which is actually huge when stacked up against what other development teams call their vertical slices).
+
+Knowing that Fallout 4’s cities would have greater density and more vertical spaces than any other project the studio had released, the team also focused its efforts on Diamond City, the main fortified area for humanity. That early city work included examples of picking up quests and the new communication system.
+
+The team never once thought about using satellite data to attain the highest level of realism in the topography. Lead level designer Joel Burgess says that’s “sort of missing the point. It’s more about capturing the feeling of the place. That’s when it feels real, whether you’ve been to Boston or not. It still has that sense of a real place, because it is, but it’s video gamed.”
+
+The first days of building the studio’s take on Boston included discovering what the anchor locations would be – be it Concord, Lexington, or Salem – and figuring out the compression between them for real world versus fictional space. “We take judicious liberties with the accuracy of the real world,” Burgess says. “Early on, we say, ‘Okay, we want maybe these two dozen key locations for story or location reasons.’ But then we can look at that list and say, ‘We’re making these pieces of art, so we could use more factories or another academic building.’ We end with a list of 150 to 200 locations, going from your huge locations to small locations.”
+
+With the world built in a fairly crude way at this point in development, the team started looking at its density through an internal process called the “Wasteland Task Force.” In this peculiarly named test, a developer is placed onto a specific point of the map and has one task: march forward. The point of this exercise? Burgess says it’s to create a “s--t list,” which outlines where the world feels empty or has too much going on.
+
+“They basically come back and say, ‘This sucks, and this sucks, and this sucks,’” Burgess says. “The Task Force sort of saved Fallout 3 and Skyrim in terms of making sure the exploration experience was good. If we shipped it six months earlier, before we could test that stuff, you would have felt more like, ‘This part of the world no one cared about, and this part of the world is a part of a big quest line.’”
+
+The team jumped the gun on the first Task Force endeavor, since they hadn’t had the chance to play a full version of the game yet, and it wasn’t entirely content complete. Assets were still coming on line. “What we had in that Task Force march was a bunch of burning tires and bathtubs,” Burgess says. “I was seeing the same combination of things over and over again. It was clear that people ran out of ideas because people didn’t have a deep enough pool to draw from.”
+
+That Task Force drove content that the team hadn’t planned to make at this point in development. One addition was military vehicles that flesh out the story of the days before the bombs dropped. Players will see that Boston was somewhat of a hub for military activity. “Having that bad Task Force pass proved to us that we should really get those military assets in,” Burgess said. “We had to screw that up a little bit to see that some of our ideas were bad ideas or some of the areas in the game were way too sparse.”
+
+With the world established, the designers and writers started exploring it with storytelling and quests in mind. Some of the big landmark moments were decided well before development began, but the team had concerns about locking in too much story content before the world was created. Instead, the story arcs emerged as the game was being made. This approach was adopted after lessons learned in Fallout 3.
+
+Pagliarulo recalls being a little too obsessed over the narrative arc with that game. “Whenever you start to think about just story, you can really screw yourself because you lock yourself into this narrative structure that doesn’t give a lot of player freedom,” he says. “We’ve been doing this long enough together now that we always think in terms of player experience. ‘Okay, if this is the high-level thing and we end up here, what is the player doing? What am I doing to get there?’ We do have our major story beats, but we also have our gameplay wish list.”
+
+Just as the player has a choice to determine what direction they go after leaving Vault 111, the team wanted to make sure most of the story and events were determined by the player. Numerous people I talked to kept hammering home that, if they developed the game right, this game is a reflection of you – how you play, what you look like, and what you do.
+
+Fallout 4 offers more player choice than any Bethesda game has before. This even affects little things like conversations. If players want to play the entire game sarcastically, they can, as one of the conversation buttons often delivers that tone. If they want to veer off of the beaten path to build settlements for days on end, they can, and can even link them together to share resources.
+
+The Art Of Collectible Placement
+
+Fallout 4’s collectible Vault Boy bobbleheads and various magazines reward the player with bonuses and even new gear. These particular items are some of the last things the development team inserts into the game. Lead level designer Joel Burgess says the team almost created a disaster with one collectible type. “We came irresponsibly close to being past the point of changing stuff with a type of magazine where you can play a game on a Pipboy,” he says. “We of course decided to change it, knowing we may not have the time to do it. The [magazine locations] were all too obscure, and we had to make them more obvious. They all got removed, and that meant other things needed to be moved to fill in their gaps. It doesn’t really behoove us to do those types of things too early in development, because those things are joy buzzers and we want to spread them out evenly.”
+
+Most video game studios propose more ideas than actually make it into the game. Cuts are the nature of the business, but most of the core concepts pitched for Fallout 4 made it into the game. Had development gone any differently, that might not have been the case.
+
+Lead producer Jeff Gardiner had concerns about the workshop content (settlement building, weapon and armor modding), which originally was being made for the mod community, but eventually became a part of the game. The team even put a Python compiler into the interactive terminals, but decided to remove it because they thought it was too complicated and would require a keyboard to let people write code. The solution the team settled on was holotapes that made the experience more visual, hopefully allowing anyone to use it and figure how to connect wires and switches.
+
+“I remember thinking, ‘If anything has to get cut, the workshop is going to be it,’” Gardiner says. “We had never done something like that before, and it’s big, scary new tech. No one likes big, scary things. As a producer, I was like, ‘In my little jigsaw puzzle of a schedule, if that falls off, that’s the thing that will make me find time to accomplish the other goals we have for this project.’ It was very ambitious, but we stuck to our guns and Todd’s vision.”
+
+Gardiner says the workshop eventually became so popular with the development team that it became a problem, as very few people were finishing the game. They didn’t have that data coming in. They needed people to leave that meta-game behind to finish the story.
+
+The loot tied to these building avenues also proved to be a major struggle for the team. One designer spent three years making that system work the way it needed to. Early in development, the designers would try to maintain a form of economy for items. They thought adhesives should be incredibly rare, so they didn’t litter the landscape with much duct tape or items of that ilk. That decision made the world feel unrealistic. If a player enters a garage, the odds of finding duct tape there should be greater.
+
+“What we ended up doing with some of that stuff was holding our horses on it, building the game world the way it needed to be built, and then we took a kind of reverse approach to traditional systems design, like, ‘What is in the world and how prevalent is it?’” Burgess says. 
+
+One of the solutions was the addition of a perk that allows the player to get more components out of objects. Another late addition was rare variants of items, such as the Carlyle typewriter, which is shinier than others and holds better components.
+
+As Howard quickly pointed out, any change this late in the game could be catastrophic. The ramifications of a simple change are not known until the team tests it fully. Some changes require a few people testing for a couple of hours, others could lead to roughly 200 hours of exploration and data gathering.
+
+The Sounds of War
+
+Sound designer Mark Lampert is another Bethesda Game Studios veteran, creating most of the sounds you hear in the Elder Scrolls and Fallout adventures. For Fallout 4, he worked closely with composer Inon Zur to blend the sound design with the score. Zur and Lampert would use random objects from their garages and kitchens to create material that fit the Fallout vibe and the wars that erupt in the wasteland. Some of the combat tracks use an oil drum that is half full for percussion.
+
+The sound design for Fallout 4 began as early as 2010. Lampert started gathering a library of sounds he thought he might use at the same time he was working on Skyrim. “The Elder Scrolls series is all nature and magic based – sound wise it’s a lot of natural stuff without mechanical or synthetic stuff – so I was really anxious after four years of Skyrim to get my toys back and do more synthetic things.” Lampert says.
+
+Sound also weighed heavily on the writers’ scripts, as they learned early on that giving voices to the protagonists meant that they had to approach their dialogue in slightly different ways. “Once Brian [Delaney] and Courtenay [Taylor] came in – the two voice actors for our protagonists – it was like, ‘Oh, this is what a professional actor can do with my words.’” Pagliarulo says. “In Fallout 4, some of the choices are different, but even when they are the same, the way [Courtenay and Brian] deliver them is so different that it actually changes the context. I was like, ‘Wow, that’s really interesting.’ In a lot of ways, Brian’s take for the male protagonist is a little bit more sentimental, whereas Cortenay’s tougher and in your face. That isn’t how we intended it, but we thought it was pretty awesome.”
+
+When Fallout 4 was officially revealed to the world at this year’s Electronic Entertainment Expo, it was in an alpha state – playable from start to finish and on the home stretch of hitting its November 10 release date. “Getting Game of the Show at E3 blew us away,” Howard says. “We’d been working so hard for so long, and that kind of response was the perfect shot in the arm we needed to make the final push.”
+
+After the E3 showing, and delivering a few additional details at QuakeCon, Bethesda went dark on Fallout 4, an unprecedented move for a high-caliber holiday release. The team retreated to its office to play test the game extensively, and add more polish than they have to any one of their projects. Not much else is known about Fallout 4. The project has remained under lock and key for seven years. Bethesda hopes fans are given the chance to discover new things on their own. Thankfully, fans will finally be able to unearth its secrets on November 10.
+
+When Howard was asked what he hoped to hear from fans post launch, he stared blankly at the table in front of him for a few seconds. “You know, people have really waited for this, and we’ve waited to make it as well, so it goes beyond just going in and giving it our all. It was a bigger deal to us this time, I think. That might sound a little bit cliché, but the time someone spends playing our game that’s important time for them. This type of entertainment, and being in this world, and being a part of something they really love…We have a responsibility to do everything we can to make that incredible. That thought permeated the studio.”
+
+This feature was originally published on November 6, 2015.
+

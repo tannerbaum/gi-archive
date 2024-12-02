@@ -1,0 +1,108 @@
+
+  Vomit And Ginger Candy: Inside The VR QA Process
+
+
+
+
+
+
+            Introduction
+
+Climbing a skyscraper for the 25th time in a day quickly erodes the novelty of virtual reality.
+
+For over three years, Attila Kardos was one of the quality assurance testers at PlayStation Liverpool, one of the testing centers of Sony Interactive Entertainment Europe. During his tenure, he worked on first-party behemoths like God of War, Horizon: Zero Dawn, and Detroit: Become Human. But today, heʼs talking about a different type of testing involving a headset and physically mimicking movements for multiple hours at your office desk.
+
+In games like Blood & Truth, where you take a starring role in action movie-esque setpieces, the fun factor of virtual reality quickly makes itself apparent. However, experiences like this can be taxing. A player can stop at any time. A tester doesnʼt have that luxury. It doesnʼt take long for the monotonous physical effort to take a toll. And then they have to show up at work the next day and do it all again.
+
+Job Simulator
+
+“Eventually, you start feeling your shoulders,” Kardos laughs. “You feel the extra muscle pain.”
+
+On average, he spent five to six hours a day in VR. He says it was “pretty intense,” to the extent that some colleagues asked management to swap to non-VR projects. Eventually, Kardos got acclimatized to working in virtual reality and recalls the experience fondly. However, during the first two weeks, heʼd often feel “detached from reality” whenever he moved his head around after clocking out from work.
+
+As companies continue to iterate on past foundations or release new platforms altogether, from PlayStation to Apple, VR is constantly innovating. But the work conditions for QA folks who learn the inside out of these technologies rarely are. Game Informer spoke to testers, artists, and engineers who worked on VR games like Beat Saber, Job Simulator, Cosmonious High, Resident Evil 4 VR, and Blood & Truth about the differences with regular testing, how elements like physicality and hygiene come into play, unorthodox workarounds, and the unsung tradition of ginger candy.
+
+Rift
+
+Into Another Dimension
+
+Into Another Dimension
+
+VR leaping into the mainstream meant new considerations for game development. And, as a consequence, testing. In order to understand the differences with traditional QA practices, itʼs important to look back at the technologyʼs origins to understand how impactful of a precedent it would set.
+
+Few studios have the institutional knowledge of Owlchemy Labs. Based in Austin, Texas, the team began experimenting with the technology when the HTC Vive and Oculus Rift were only prototypes. There was no documentation or beginnerʼs manual. As promising as this empty virtual canvas was, it was a long time until the studio saw that potential materialized. “We had a very early headset that would shock you if you touched it on the wrong part of the circuit board,” says Graeme Borland, gameplay director at Owlchemy since 2013. “[It was] that level of true prototype.”
+
+Multiple new considerations quickly came into play. Comfort, both inside and outside the headset, was paramount. As a principle, it intertwined with everything: locomotion methods, figuring out how elements like framerate and draw distances could make or break the experience, and the fact that visual bugs could lead to immediate discomfort.
+
+Cosmonious High
+
+During the first few years of the main headset companies, trial and error and experimentation led to different ideas. Unlike Owlchemyʼs Job Simulator, which had sold over a million copies by 2020, not every early project managed to successfully combine its ideas with this emerging technology. Such was the case of Rigs: Mechanized Combat League, developed by Guerrilla Cambridge and published by Sony.
+
+“It was the first version of PlayStation VR, so we had resolution problems, sweaty eyes, everything was very fresh,” Kardos says. Rigs was his first project. In it, youʼre sitting in the cockpit of a mech – the movement of the robotʼs head, and as a result, your view direction, was controlled with the VR headset, while the body relied on the controller. Kardos thinks thatʼs one of the things that compromised the end result, as it was “absolutely dreadful” to run around and fight in arenas. As a fast-paced shooter with multiplayer modes, there were many things happening on screen at all times. It didnʼt take long to feel dizzy.
+
+According to Kardos, there was a market research report dictating that “there are not many people interested in these kinds of games.” Initial feedback was fairly rough, too, pinpointing the complicated control scheme and proneness to motion sickness as weak points. Sony closed Guerilla Cambridge in 2017, a year after Rigs’ release.
+
+Go Move
+
+Go Move
+
+In terms of the testing itself, most of the regular QA processes are compatible. Tasks such as bug reports or running test cases – checklists of specific elements to test in different environments – largely apply to VR. The problem is that even mundane actions such as switching to a second monitor to take notes or sending a Slack message turn cumbersome.
+
+Both Borland and Ben Hopkins, principal graphics engineer at Owlchemy, reinforce that the human experience of being inside a game is a significant factor of developing for VR. To try and mitigate constant usage of the headset, the team implemented a debug system, which essentially allows them to play the game with mouse and keyboard. “Itʼs good for a fast iteration, but there are so many things you canʼt actually understand whether they work or not unless youʼre actually in the headset,” he says.
+
+When asking the QA testers at Owlchemy if they ever use the debug editor, they reply with laughter. “The approach is very different,” says Jessica Fly, senior QA specialist. Previously, she worked at Cloud Imperium Games testing Star Citizen. All she needed was to boot up the game on a flat screen, and she was set. The routine now involves putting on the headset and ensuring the room is set up properly to avoid tripping over anything. And thatʼs before the actual physicality of the job.
+
+Blood & Truth
+
+A clear example arises when doing full regression testing. During this stage, testers go through the game after an update or new version to ensure nothing is broken. In the case of Cosmonious High, one of the tasks involves testing all 18 recipes, each requiring a mixing-in-a-bowl type of movement. “Itʼs really murder on the arms,” Fly says. “Thereʼs this physical part of VR testing that is honestly one of the things that interest me.”
+
+“Before Owlchemy, I was at Blizzard working on Hearthstone, and I canʼt think of a stronger differential between testing a fully immersive VR video game and testing a digital card game,” says Paul Henderson, QA tester 1 at Owlchemy. “You go from a game that is the most basic inputs; you drag a card to the slot, you drag it to your opponent to how can you move? Thatʼs your inputs! Go move.”
+
+Through the Motions
+
+Through the Motions
+
+Mayank Lal joined Keywords Studios in Gurgaon, India, back in early 2017. He started as a QA games tester. Almost seven years later, heʼs a quality assurance test lead. During this time, Lal witnessed VR gaining more relevance in the studioʼs portfolio. This, thankfully, led to better conditions for the 40 dedicated VR testers out of around 200 employees.
+
+In the beginning, things were messy. It started with a partnership with Oculus back when Meta (formerly Facebook) wasnʼt involved. Testers quickly realized some issues needed to be addressed. “One of the most common things that we observed as testers in that particular time was feeling nausea in longer periods of use,” he says. “Headsets also heat up and that actually affects the skin on the face. Sometimes headsets are shared between testers, which increases the probability of getting infections.”
+
+One of the policies that came up was about breaks. For every 20 minutes using the headset, testers are encouraged, not mandated, to take a 10-minute “break” to file any bugs, report issues, and so on. Over time, they realized the platform just isnʼt for everyone. Employees can present a doctorʼs note to HR so theyʼre no longer deployed into VR projects. Nowadays, the studio doesnʼt immediately assign a tester to VR. After six months with other platforms, theyʼre given training and, eventually, see if theyʼre comfortable with virtual reality.
+
+Beat Saber
+
+“People actually leave here,” Lal says. “When it comes to health, people donʼt think, ‘I will not have another opportunity,ʼ because in this company youʼre already learning things and adding them to your CV. So if they feel weʼre exerting them, theyʼd not even give a letter of resignation. Next day theyʼd call and not come back.”
+
+During the pandemic, the studio got each tester a separate foam attachment, which mitigated the infection problem. Now, testers are back in the office – only people at a managerial level can opt for a hybrid model – where they have a floor dedicated solely to VR projects. On average, they spend half of their eight-hour shifts in the headset.
+
+All these elements vary depending on the studioʼs internal rules or even across different branches. In the Québec, Montreal, branches of Keywords Studios, former functional QA tester Sammy Fox says you were expected to do “as much VR as you could tolerate,” as long as it didnʼt take time from actual bug reporting or assigned tasks for the day. That being said, breaks were regulated, with two paid short breaks and one unpaid but longer lunch break.
+
+Another former tester, who requested anonymity, says even though everyone is legally an employee on file, almost all testers were on an “on-call basis.” Basically, theyʼd find out if theyʼre working the next day through email, receiving a new notice on a daily basis.
+
+While they were lucky enough to get fairly consistent work, pay was a letdown. Doing the conversion from Canadian to American dollars, the source says they peaked at around $10.50 USD an hour, back when the local minimum wage was around $9 USD an hour. They add that, for comparison, test leads were making more than $30,000 USD a year around the same time.
+
+During busy periods, it was common for a single tester to work on multiple projects per day. While the source didnʼt do much overtime, there were morning, afternoon, and, on occasion, so-called “graveyard” shifts that occurred overnight during the week and weekends. Employees would receive bonus pay for doing so. “The worst memory was once a stress test over the weekend, and someone projectile vomited all over a busy shared bathroom,” the source says. “It wasnʼt cleaned until Monday morning because maintenance wasnʼt available on the weekend. You could imagine the smell.”
+
+Resident Evil 4 VR
+
+Waving
+
+Waving
+
+In a 2017 report from CNN, experts say that the cause behind eye strain, headaches, and nausea is due to the way VR affects the eye-brain connection. In real life, the eyes and brain simultaneously focus on a point in space. In virtual reality, the responses arenʼt coupled together, but separated. “The way we look and interact is changed because we may be projecting onto the eyes something that looks far away, but in reality, it’s only a few centimeters from the eye,” behavioral neuroscientist Walter Greenleaf said in the report.
+
+These conditions are aggravated when testing games still in development. While the teams try to ensure that builds are hitting a stable frame‑ rate before involving QA, often opting for excluding some assets entirely in the early stages of a project, it can be challenging.
+
+“I remember a racing game I tested where the camera went haywire and I almost fell to the ground,” says Fox. In the office, there was always a supply of ginger and anti-nausea pills to help with motion sickness and in-game “accidents” like this. “When that happened, I would remove the headset, go ask my team lead for a Gravol, and then do desk work until nausea subsides and you feel fine enough to resume doing physical VR testing,” he adds.
+
+Eric Kozlowsky, former senior environment artist at Armature Studio, recalls a similar tradition when working on Resident Evil 4 VR. “I get motion sickness pretty easily in real life, let alone in VR, so working with in-development software was challenging,” he says. “I did get nauseous, but that was mitigated by limited time spent in the headset and using homeopathic remedies. So if I ever got motion sick, ginger candy would help a bit.”
+
+Even though testers usually spend the most time using headsets, the job leads them to find creative workarounds in their routines. Archie Crampton, lead QA technician at Universally Speaking and gingernut biscuit advocator, finds changing his height in-game from two to 15 feet tall, as hilarious as it is, helpful. In addition, he says most people in the studio test Beat Saber seated. As theyʼve gotten quite good at it, theyʼre able to complete levels with less movement than youʼd expect.
+
+Hopkins says there have been many random helpful items in the Owlchemy office. This includes Bob, a mannequin head attached to the top of a camera tripod. Instead of pushing a real person in a chair, the team would put the headset on Bob and rotate it around to get different shots of a scene. “You have to be open-minded to things like that if youʼre gonna figure out solutions,” Borland adds.
+
+Alongside sheer creativity, almost everyone I spoke to shares excitement about VRʼs future. Sure, new technologies also bring new processes – Owlchemy, in particular, found not everybody waves equally while testing hand-tracking – but also keep QA fresh.
+
+Next time you play a VR game with comfortable controls and a lack of visual glitches, you can thank the testers. After all, theyʼre the ones who crouched, waved, mixed, and climbed a skyscraper dozens of times to ensure the best result. “Towards the end of Cosmonious High, developers would come to me as an expert on the game cause I spent so much time in there,” Fly says. “It makes me feel really good that they recognize that QA is extremely important and knowledgeable.”
+
+This article originally appeared in Issue 360 of Game Informer
+

@@ -1,0 +1,35 @@
+
+  How Competitors Are Collaborating To Overcome The Challenges Of VR
+
+
+
+
+
+
+Whether you’re talking Facebook’s massive investment in Oculus or Sony’s huge interest in the tech, the stakes are high in 2016 for virtual reality. The Rift, Vive, and PlayStation VR are all slated to hit retail next year. During this type of blitz you would normally hear a bunch of quotes from executives about why their technology is better than their competitors and marketing campaigns built around differentiation. But with virtual reality, something different is happening. Instead of squaring off head-to-head like we’ve seen so many times with Sega vs. Nintendo and Sony vs. Microsoft, we’re instead seeing a sense of comradery from these rival camps. 
+So what’s driving this uncommon cooperation? We asked the minds driving virtual reality for Oculus and Sony.
+Gaining Acceptance
+The first time you strap on a virtual reality headset, your perception of what is possible with the technology changes. There’s something magical about your maiden virtual voyage that has the ability to dash so much skepticism while converting you to a true believer and – if the industry is lucky – an evangelist of the technology. 
+The biggest fear that many stakeholders in VR share is that the crucial first encounter will be ruined by a lackluster experience that was rushed to market before it was ready, thus tainting the mainstream opinion of the technology as a whole. “We could have shipped a consumer product of some kind by now,” Oculus founder Palmer Luckey says. “The reason we didn’t is because we knew it was critical for that first push that we couldn’t afford to ship something that didn’t live up to people’s expectations of what consumer VR could be.”
+That sense of mutually assured destruction among all of the major platform holders is the reason we haven’t seen any of them try and get a major jump on the competition like is sometimes seen in the console landscape. With how new the technology is, bad virtual reality from one company means bad publicity for all companies trying to enter the space.
+Another huge hurdle facing VR tech is getting people to understand what makes it such a compelling new platform. The problem is that the main selling point for the technology can’t be put on full display through a TV ad or an on-stage presentation. People need to experience VR to truly comprehend it, and that is something that VR companies are working together to solve. 
+Sony’s president of worldwide studios for Sony Computer Entertainment, Shuhei Yoshida, says that collaboration among the competing platform holders is critical to getting the technology right and ready for mainstream consumption. This includes talking and sharing with competitors, as well as giving demos to and having employees jump between companies. “We like what all three companies are doing…we are confident that if people try one of these, the chances that they will become fond of VR go up,” he says. “Every time one company does demos or participation events and gets new people to try, that’s a win for everyone.”
+Getting consumers to try VR and change skeptical opinions through experience is something that these stakeholders all need to work together on. According to Luckey, the competition between Oculus, HTC, and PlayStation in the VR space is secondary to that objective. “We all have this challenge of convincing the public that VR is worth wearing something on your face for,” Luckey says. “That is going to be a bigger challenge than getting people to buy our product over another product.”
+On the next page, we learn how these competitors are all working together to make VR great.
+
+Collaboration Through Competition
+While Oculus, HTC, and PlayStation are all going down separate paths, they are working together to make sure that the transition to virtual reality game development is as smooth as possible. The level of collaboration seen between these three companies is rare in an industry whose history is riddled with hostile “console wars” and cutthroat business tactics, but most of the influencers in the virtual reality industry are in agreement – this is necessary to get this tech as good as it needs to be.
+Together, the teams are helping each other solve the many problems game designers face with this new tech. According to Richard Marks, the director of PlayStation’s Magic Lab research division, a growing list of best practices for VR development has emerged. “There are also forums for the developers to share this stuff with,” he says. “The VR community is quite sharing right now.”
+Yoshida says this collaboration has been massively important to getting VR to where it is today. “We all knew how difficult it is to create the great virtual reality experiences – like the hardware, tracking, systems, inputs, framerate,” he says. “Of course, we are competitors in technical aspects. The engineering groups of our companies must be competing in a good way. We share the passion for VR. We want these things to become really popular among consumers so that creates a natural sense of mutual respect and collaboration.”
+Luckey echoes that sentiment of respect for his competition. “Shu is super cool. He’s awesome,” Luckey says. “He understands VR really deeply, and it’s really good that they’re lots of people out there like that that all seem to understand this. Most people in the VR industry really do understand what we’re going to need to do, and they understand that this is going to be a difficult road and we’re all going to be helping each other a lot with it.”
+Oculus head of worldwide studios Jason Rubin, who co-founded Naughty Dog in the ‘80s, says the environment feels like a throwback to the earlier years of the industry. “It’s an insane renaissance of game-making,” he says. “It reminds me of the early days of video games, when we weren’t really competing so much as all enjoying what we do and were pushing the art forward. We have plenty of time to compete later, but right now, let’s just all help each other out.”
+With this collaborative approach, the platforms are pushing forward into an unknown future. Though they have confidence that their products are strong and the potential of the technology is seemingly limitless, there is no guarantee that the market will embrace it. Still, they know that the fates of these companies will likely be shared in the early going. It’s for that reason that, for now at least, it’s more important to be a part of the VR industry than to be the face of the VR industry.
+Click on the banner below to enter our hub of exclusive content covering all things VR that throughout the month.
+
+Brian Shea
+Online Content Director
+Brian has written about video games for over a decade across multiple publications. When he's not writing or gaming, he's usually listening to music, watching UFC, or hopelessly rooting for a Baltimore or D.C. sports team. 
+
+Email
+Twitter
+

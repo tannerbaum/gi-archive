@@ -1,0 +1,68 @@
+
+  How Sonic Frontiers' Open Zone And Cyber Space Evolve The Franchise
+
+
+
+
+
+
+            If you were to distill the concept of Sonic Frontiers into an elevator pitch, it would likely involve the term "open-world" somewhere. However, while the game features many tenants of the open-world genre, Sonic Team is adamant about calling Frontiers an "open-zone" game instead. While on the surface that sounds like little more than a marketing ploy, after chatting with the developers, it makes more sense as you dig deeper into its meaning.
+
+Coming off 2017's Sonic Forces, a game that didn't fare well with critics or fans, the development team wanted to shake things up. Forces received criticism for its generic 3D level design, unfulfilling story, short length, and poor 2D gameplay compared to the then-newly released Sonic Mania. According to Sonic Frontiers director Morio Kishimoto (who also directed Forces), the team carried a lot of lessons from Sonic Forces and other previous 3D Sonic games into Frontiers.
+
+"I’ve been on the Sonic Team for 19 years now, and I do want to say that we have constantly learned from our successes and failures, not just the previously released Sonic Forces but on every Sonic title we have ever worked on," he says. "Now with 32 years of Sonic development experience with us, I am putting all my experiential learnings to practice in the development of this game. [...] Selectively only speaking about the learnings from Sonic Forces, I believe we learned that the method of designing stages with specific game mechanics (which all started with Sonic Unleashed) where we have shorter stages, pull back on Sonic’s speed a bit, and implement new actions for Sonic in the title is no longer going to satisfy the expectations of either our Sonic fans or those who like stage-clear action games."
+
+One of the responses to this lesson was to create big, open areas in which players spend hours exploring, solving puzzles, fighting bosses, and collecting items. Not only does this approach shake up the pacing of the traditional Sonic the Hedgehog formula, but it extends the playtime, another criticism Sonic Team creative officer Takashi Iizuka heard coming out of Forces. As such, Iizuka believes Sonic Frontiers is the longest mainline Sonic game to date. "Whenever we work on the concept for a new game, we always refer to the reaction to the previous games and user feedback, so there are a lot of lessons, but one of them would be playthrough time," Iizuka says. "The playthrough times ended up being short for the previous games, but due to the open zone and other factors there has been a substantial improvement this time."
+
+One of the primary challenges when starting development on the open-zone concept was making sure it felt true to the Sonic franchise. "When taking on a new challenge for a 3D Sonic game, I always go back to revisit Sonic's roots," Iizuka says. "With classic Sonic, you could enjoy high-speed experiences and route exploration just by moving to the right. That's the starting point for Sonic games, and when Sonic Adventure made the evolutionary jump to 3D, it was based on that same starting point. And for open-zone as well, we revisited the starting point and made an evolutionary jump from there to come up with a new play style that suits Sonic."
+
+Kishimoto can trace the inspirations of Sonic Frontiers' open-zone format as far back as Super Mario Bros. 3 with its hub world connecting multiple linear-style stages for you to clear. Since that 1988 release on Famicom, Kishimoto has enjoyed watching the evolution of games using the world map mechanics. While games like Sonic Adventure have previously used the playable world map idea, Sonic Team wanted to evolve that concept with Sonic Frontiers further. Now, players not only explore a big hub area with environmental puzzles and challenges, but those areas are massive and house several diverse challenges that surpass those of the traditional 3D action levels that began with the first Adventure game.
+
+The open-zone format allows the developers – and by extension, the players – to take advantage of the two most important elements of Sonic games, at least according to Iizuka. That's running through areas at high speeds and finding discoveries and surprises by traveling through that area in the way you want to. "In 2D Sonic, players headed to the right, and in 3D Sonic, players headed deeper into the screen," Iizuka says. "In the open-zone style, there are infinite directions, and the player can choose which way they want to go."
+
+Iizuka says the biggest challenge was breaking free of the gameplay molds of past games and making sure the world is fun to explore at high speeds. "We’ve been building high-speed action on a path for more than 20 years, so it wasn’t easy to get rid of it," Iizuka says. "For example, it’s like taking F1 racing and getting rid of the course to drive on a wide, flat plain. That wouldn’t be any fun, would it? So in the early stages of the project, we kept creating the island terrain where the game would be set over and over in search of the ideal open zone."
+
+In my past conversations with Iizuka, he lamented how the team would work hard to design environments in the linear Sonic stages, only to have players run through them in a couple of minutes or less – an unavoidable side effect of having a game based on speed. This became a sticking point in the early 2000s, as design became more intensive in the transition from 2D to 3D; sprite work giving way to fully realized polygonal design added a lot of time to the stage creation process, with players running through the environments just as quickly in many cases. During my hands-on time with Frontiers, the open-zone format seems to be a remedy for that previous problem, as one enormous environment plays host to dozens of destinations and objectives and hundreds of collectibles.
+
+My foray into Sonic Frontiers' open-zone concept was on Kronos Island, one of the Starfall Islands. Though this first island kicks off your adventure, Iizuka assures me we'll visit all the Starfall Islands before the Sonic Frontiers story comes to a close. Throughout the adventure, players experience various biomes and environments – which isn't uncommon in a Sonic game. However, these areas house a lot more content thanks to Frontiers' open-zone twist.
+
+Transitioning to this gameplay style is a massive undertaking but ensuring Sonic controls well in an open area is another thing entirely. We've seen him control poorly in games like Sonic the Hedgehog (2006), but the risk is amplified with Sonic Frontiers's approach to the hub world. Thankfully, I enjoyed my time dashing through the open zone of Kronos Island. Sonic has the right weight for speed and exploration, and he doesn't slide around like in previous games. Even the more methodical platforming sequences feel vastly improved over previous titles.
+
+During the initial gameplay reveal of Sonic Frontiers, many criticized the apparent emptiness of the open zone. It makes sense in the vacuum of those clips, but when you're running with the speed of Sonic, the spacing of enemies and obstacles makes sense. Games like The Legend of Zelda: Breath of the Wild and Elden Ring masterfully space out their encounters but feature a much denser world than Sonic Frontiers' early public footage. However, when you consider how much faster Sonic runs through the environment, the spacing works out; I found the time-to-encounter or time-to-discovery to be well-paced in my few hours with an early build.
+
+The main destination for many will be the Cyber Space stages. These linear action stages, which you access through marked portals in the open zone, offer experiences that veer much closer to the traditional 3D action stages of past Sonic titles. In fact, the Cyber Space stages are themed after levels from previous Sonic games like Sonic 1, Sonic 2, and more recent titles like Sonic Unleashed. While the appeal of stages like Green Hill Zone and Chemical Plant Zone seems timeless, fans have experienced them in several recent games, including Generations, Mania, and Forces. While games like Generations and Mania served as celebrations of Sonic's past, Iizuka's justification for having these zones and others from the past appears in Frontiers is that the Cyber Space levels pull from Sonic's memories.
+
+While the open zone areas are perhaps the biggest selling point of Frontiers, Sonic Team wanted to focus on the quality of these Cyber Space stages over the course of development. "When we started the project, as we were developing the title and even now as we are looking to release this title out to the world there was one reason we were doing it – to once again have Sonic stand amongst the other 'stage-clear' action games," Kishimoto says. "I am talking about games like the Super Mario, Donkey Kong, and Kirby franchises, that I personally loved – and Genesis-era Sonic the Hedgehog stood alongside those titles. This is, of course, not a simple thing to do but rather very difficult to actualize, but that is exactly the challenge that we, the Sonic Team, have taken up on this project."
+
+Since the traditional Cyber Space stages are seen as driving forces in the gameplay, players should expect to leave the open-zone area of the title to experience these levels. Still, Kishimoto teases other ways of advancing through the game if you prefer the open-zone areas. "The adoption of the open-zone game mechanic allowed us to evolve the format for stage-clear action games while at the same time allowing us to deliver a wide variety of gameplay," he says. "Including the traditional linear gameplay inside of the open-zone format is definitely a very important point, but it’s not the de facto playstyle. In order to progress through Sonic Frontiers you can choose to strategically play the traditional linear gameplay as one way of advancing, but it’s not absolutely necessary so depending on your play style the amount you want to engage in that gameplay is up to you."
+
+While the development team is seemingly downplaying the role of the open zone as little more than an interactive hub world, in my three-plus hours of hands-on time, the open zone of Kronos Island took most of my session. While in the world, I explored every nook and cranny I could, solved many puzzles, completed various challenges, sped through various obstacle courses, and gathered various collectibles. Of course, much was in service of progressing the main storyline, which often asked me to return to the Cyber Space stages, but those levels are quick-hit and fast-paced, more focused on getting through it efficiently than thoroughly combing the area.
+
+Cyber Space also curiously houses other characters. For instance, I progressed through multiple missions in the open zone involving freeing Amy from Cyber Space. Meanwhile, another pocket of Cyber Space has everyone's favorite cat, Big, hosting a fishing minigame letting you earn currency for his in-game shop. The secrets of Cyber Space only deepened the longer I played, but they all felt more in support of the big open zones during the three-plus hours I spent with the title.
+
+The more I played, the more I enjoyed the various gameplay loops of seeking out boss battles in the open zone, entering Cyber Space to complete action-packed stages, and returning to the open zone to claim my new Chaos Emerald. If you play Sonic Frontiers and enjoy the open-zone format, there's good news, as it could very well be the series' direction going forward. "To evolve the linear, stage-clearing 3D action that began with Sonic Adventure in 1998 and create a game that would be the cornerstone of future Sonic games – that was the goal when we started [Sonic Frontiers]," Iizuka says.
+
+With Sonic Team clearly hoping to change the formula and course of the Sonic franchise with its newest title, I'm excited to get more time with the game ahead of launch. Sonic Frontiers comes to PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, and PC later this year.
+
+      Products In This Article
+
+Sonic Frontiers
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC
+
+Release Date:
+
+November 8, 2022
+
+Purchase
+More Info
+
+Brian Shea
+Online Content Director
+Brian has written about video games for more than 15 years across multiple publications. Brian is also the host of All Things Nintendo, a weekly podcast focused on the news and games of Nintendo.
+
+Email
+Twitter
+

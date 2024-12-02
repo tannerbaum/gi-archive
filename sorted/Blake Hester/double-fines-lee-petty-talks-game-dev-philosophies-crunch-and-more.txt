@@ -1,0 +1,85 @@
+
+  Double Fine’s Lee Petty Talks Game Dev Philosophies, Crunch, And More
+
+
+
+
+
+
+            During our recent Psychonauts 2 cover story interviews, we had the chance to talk one-on-one with Double Fine artist Lee Petty. A game developer for more than 20 years now, Petty's career has taken him from triple-A studios like Crystal Dynamics all the way to, of course, the smaller teams of Double Fine. During his tenure at the latter, he's served as art director on Brütal Legend, lead the development of RAD and Stacking, and generally had a hand in the art and writing of many other games. 
+
+Our chat with Petty, however, reached far beyond his years at Double Fine, covering his thoughts on open-world game design, the value proposition of video games, and the game industry's issues with crunch. Petty had a lot to say about a lot of topics, all of which you can watch in the video above and/or read in the transcript below. 
+
+For more Psychonauts 2 coverage, make sure to check our cover story hub, see an exclusive look at one of the game's new powers, and read our interview with one of the mental health experts consulting on the game. 
+
+Game Informer: Were you doing games before you were at Double Fine? 
+
+Lee Petty: Yeah, yeah. I worked at a number of studios before Double Fine and also ran my own studio, or co-ran a studio for a couple years. Immediately before joining Double Fine, I'd worked at Crystal Dynamics for about five years, which was purchased twice while I was was there. So, yeah. It [wound] up being Square right at the end of my time there. Square Enix.
+
+GI: It seems like Double Fine's a pretty unique space to me. You go from, like, leading your own project to suddenly you're helping out somebody else on their project. Is that process hard? Or is it kind of nice to be like, "Oh, now I'm not in charge. That's actually kind of relaxing."
+
+LP: I mean, it's a bit of both. I think it's like anything else. I like always staying very hands-on. So even when you're a lead at Double Fine, you're pretty much still doing fulltime production work, as well as being a lead and a manager. So it's challenging to balance all that load correctly. But I enjoy it. I feel like the best leads I've worked with are people who still keep their hands dirty in the production all the time; they have the best understanding of what you're doing and can offer more poignant advice and guidance. So I strive to be like that. I also really enjoy lots of different things. I enjoy, you know, art and art direction, but I also really enjoy game design and writing and other things. And lighting is one of the things that I do a lot of on the games I work on. So you know, it kind of made sense for me to help out when they needed help on that. Ultimately, we're a small studio so people move around a lot. One of the advantages to sometimes having multiple projects is that they're in slightly different phases of development and then you get extra help at the beginning or end. Even though I didn't work a lot on them, I helped out a lot with Happy Action Theater and Costume Quest 2 and all these other games I have gone and spent some time on as well.
+
+GI: From your personal history within Double Fine, how you first got started directing projects, was it just that first Amnesia Fortnight or were you approached to direct projects? How did that whole thing work out?
+
+LP: Well, you know, on Brütal Legend, I was the director, and we had a very flat structure on the art team. We had a lead animator, and there [were] maybe 13 animators on that project. There was a lot of animators on that project. But I was the art director, and so basically every artist reported to me [laughs]. So it's like 22 direct reports, you know? And so I was doing a lot of high level direction and helping a lot [to] coordinate things. And so I think Tim, what he told me at the time is he wanted to see how I would do leading a project. And I had always been pitching him on the side on various ideas. I was interested in working on a project that was smaller in size, both in terms of the game and the team, that was kind of in that 12 to 14 person team member size, which is what Stacking was. And so I kind of was always pitching him ideas. And when Amnesia Fortnight came around, I kind of had a pitch ready for him, and lobbied to get that done. I just kind of went from there. 
+
+GI: You mentioned you wanted to work with teams around 12 to 14 people. Is that your preferred team size? Do you like smaller teams? What makes that kind of a group special?
+
+LP: I think what it does is it means that you have less management overhead. And inherently, everyone has a little bit more awareness of what's going on in the project, and a little more creative stake in everything going on. I think people still have primary roles, but on a team that size, everyone's gonna have to have a secondary role. And some people have tertiary roles or interests as well. And I like that. That becomes too challenging on a large project, I think, to do that entirely. I mean, obviously, we try to some extent to keep things flat here and collaborative, of course, but it's super challenging. Then you just have a whole team of producers who are documenting the collaboration and communicating the collaboration, as opposed to people just collaborating. So, I like that aspect. 
+
+And I wish in general games were smaller; I don't want to play a 40, 60, 80 hour game, generally speaking. Maybe you have room in your life for one or two of those, but I like – things that have an impact on me don't have to be huge. I play some games as service, as everyone else does, that are perpetual games, but I also like having an impactful four hour experience. And I do think that a lot of the tenants of game design – and maybe some things I don't care for about game design manipulating player behavior – are a result of long games [that] keep trying to keep people engaged as the rising cost of content [increases]. And then they're like, 'But we have to keep them up for 80 hours. So here's a grindy secondary missions that no one gives two shits about, but they're in the game.' 
+
+GI: Do you have any insight into why the industry leans towards making bigger games?
+
+LP: I think it's a really complex question and answer. I think there's a lot of factors that funnel into that over time. Once Nintendo resurrected the industry, they basically turned it into a children's toy, which basically turned reviews for 15 years into value propositions for parents buying their kid stuff for Christmas. When it's just being seen through that lens, it's all about value, and it's all about surfacing labor. I mean, probably half the world still thinks modern art modern art is a scam, and they look at something that's 100 years old and go, "But I could've done that." They don't really get it, right? So, a lot of it's about surfacing labor, like craft, and making people be like, "Yeah!" So I think part of it is that, that value proposition as a toy. And that's obviously changed a bit. Part of it was competing for shelf space, right? A lot of these things came from a history that isn't really there anymore. 
+
+Double Fine Productions/2 Player Productions
+Lee Petty
+
+But I think then what happened is the cost of development has skyrocketed, because the cost of creating content, since games are married to technological advance, generally speaking, has gone up, and if you adjust for inflation, the amount we're selling games for has gone down. So what do you do? You try and find ways to deal with that. So yeah, some people outsource, or most people do in some percentage. You get players to keep engaging and returning to the content so that you can sell them other things. I mean, there's a lot of these factors all piling in. 
+
+I do feel like a breath of fresh air happened when downloadable or digital content for games sort of, like, balanced things out a bit because smaller experiences became possible again. There were other price points other than a box retail game. And so if you sell something for $15 or $10, the expectations are naturally [adjusted]. Or at least they were [laughs]. Nowadays, people expect a triple-A game for $15, but there was a number of years there where people could kind of adjust that a bit. That was great. 
+
+I mean, there's just so many reasons for it, I think. Things get established in the industry and it kind of just changes players' expectations. Movies were never 20 hours long. They came out of a history of plays, and plays weren't 20 hours long. Other than, I guess, anything Wagner may have written. That's not really a play [laughs]. But I guess if you look at Netflix and the series they put on, people binge watch that a lot of times, these series, and that's 12 hours of content, it's not two hours. And so, I don't know how that's mixing things up for people either nowadays, in terms of what people expect even in that media. 
+
+GI: Over the last 10 years it feel's like, Double Fine's really pushed to combat crunch. Speaking from your perspective, what has that journey been like? And why do you feel that crunch is a hard thing to combat as a company? 
+
+L: Yeah. You know, I think crunch has been talked a lot about in the industry, just at large, for a while now. Obviously it's bad for everyone, but I also think the challenge in talking about it is just that crunch has no definition. Are you a company that defines crunch as someone's worked 42 hours this week? Or is it more endemic? Is it something that happens for three months in a row? Or is it something that people plan on? I do feel that when I worked at other companies – and I'm not going to name any names – I do feel like there were times where the culture and the fundamental planning for a game was built around making people work 60 to 80 hours a week for months on end, and that was built into the schedule. That was extremely prevalent in the industry. It still is. It's less prevalent and now it gets hidden and lied about in various ways. That's terrible. That's a terrible cost to a human being. I remember that my first five years in the industry, when I was at my fifth year in the industry, I remember looking around and – I don't know if it was a GDC survey or some survey I read and it showed level of experience people had in the industry. There was, like, a huge dropping off point where everyone almost quit the industry at five years, because everyone was just burnt out. And so there was almost no one in the industry who had five to 15 years of experience. It was like, everyone was either under five or over 15 because they had been around for a long time and they were probably in a higher-level position. Of course it didn't say why, it was a survey, and I was like, "Well, I know one of those contributing factors was [crunch]." 
+
+It's out of control. I think Double Fine, as I understand it, had a really bad time with it on Psychonauts. I didn't work on Psychonauts, so I can't speak to that in detail. Since that time, people have always been conscious about it in management and try to do a good job at it. It's not always possible to totally control it or guarantee it's always 40 hours no matter what. I think, you know, like everyone else, we're still figuring out that perfect balance. But Tim has – Tim and others – have made it a top priority. I see it even more now on Psychonauts 2 than I ever have before. And part of that is, you know, we've had a big focus on more diversity hiring over the last couple years – and that means diverse [across] all different spectrums, whether it be age, gender, race, what have you. And I think that means that people have a lot of different considerations at home. Part of respecting that and embracing that diversity is to make sure that you're allowing time for that. So I feel great about that movement, and I feel like there's always improvement that can be done. 
+
+I don't know what's going to happen in the industry in general, because I see it being talked a lot about at other companies. But I know a lot of people in the industry. Having worked in it for 25 years, I know a lot of what is being said isn't true. It's maybe technically true, but there are ways that it gets hidden, right? Maybe you only have 20 full time staff, but there's actually 1000 people that worked on it, and the other 980 people who aren't your full time staff all crunched. Right? There's all sorts of things that happen that I feel are disingenuous. But overall, I would say there's been an improvement in the industry in the last, I don't know, five, eight years? At least from where it was in the early aughts, for sure.  
+
+GI: I'm curious what you feel is Double Fine's great strength as a company? 
+
+L: I think – that's a great question. It's hard to have perspective on that, to some extent, having been there so long. I think in terms of a consumer facing thing, you know, there's internal for people who work there and maybe more outward facing. I think our greatest strength is also our biggest challenge from a consumer standpoint, which is we like to try a lot of different things. I do think we've worked in a lot of different genres on a lot of different types of games, and I do find that if you're a person who likes that, if you like maybe some of the core sensibilities that we have but like to play lots of different things, I think that's a really big strength. That can translate to be people internally get[ting] to try and grow a lot, as opposed to being locked in one genre or one role for their entire career. But that's also super challenging, because usually people who make top tier games in a given genre, it's like, their fifth time making that same exact game, and their engines and workflows and people are really hyper-tuned towards that. I think there's maybe a level of, like, we'll just call it mechanical precision you get from that that maybe we're never gonna hit head on. 
+
+But I was thinking about this question a lot when Microsoft purchased us. This is not anything official they've ever said to me, but I was thinking about, like, "How do we fit in with the Microsoft family in that regard?" And you know, with something like Game Pass, it's a platform, and there's a lot of different offerings there. You know, we're never gonna be, like, the Forza developer or the Halo developer, but I do think we can reliably produce different experiences – we've done it – on a frequent [basis] that are enjoyable and good and unusual. And so, it becomes something unique that can be put to that platform, that I think overall, when you look at the broad spectrum, you know you're going to get something a little different coming from us, and pretty consistently delivered at a quality level. So, I think that's probably our greatest strength, is that we can do that.  
+
+      Products In This Article
+
+Psychonauts 2
+
+Platform:
+
+PlayStation 4, Xbox One, PC
+
+Release Date:
+
+August 25, 2021
+
+Purchase
+More Info
+
+Blake Hester
+Senior Associate Editor
+Blake Hester writes about the people who make video games. Before joining Game Informer, he freelanced for outlets such as Polygon, Vice, USG, and Rolling Stone. 
+
+Email
+Twitter
+
+Alex Stadnik
+ & Ben Reeves
+contributed to this article.
+

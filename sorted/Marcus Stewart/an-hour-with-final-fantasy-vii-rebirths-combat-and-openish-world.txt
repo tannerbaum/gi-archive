@@ -1,0 +1,90 @@
+
+                                          Final Fantasy VII Rebirth
+                  
+
+
+  An Hour With Final Fantasy VII Rebirth's Combat And Open(ish) World
+
+
+
+
+Platform
+PlayStation 5
+
+Publisher
+Square Enix
+
+Developer
+Square Enix
+
+Release
+February 29, 2024
+
+            Final Fantasy VII Remake felt like the realization of an impossible dream when it launched in 2020. Not only did it feel willed into existence after years of fan requests, but it largely lived up to sky-high expectations based on its generally positive reception. Tack on a good story expansion with the Yuffie-focused Intermission, and the series is riding a wave of momentum into its second chapter, Rebirth. To learn how the sequel is shaping up, I visited Square Enix’s Los Angeles studio to play two slices of Final Fantasy VII Rebirth: a flashback sequence of the ill-fated Mt. Nibel mission and an open-world segment on the outskirts of Junon. 
+
+The Past Is Prologue
+
+The Past Is Prologue
+
+My first demo is a shorter, linear slice set years before Remake’s events. Cloud, still a member of SOLDIER, climbs Mt. Nibel guided by Tifa and accompanied by his mentor and future nemesis, Sephiroth. At this point, Sephiroth has not yet gone off the deep end, while this younger Cloud has an uncharacteristically chipper attitude. The group is making its way to a mako reactor at Nibel’s summit, with copious monster battles reaclimating me to combat. 
+
+Rebirth plays identically to Remake; its entertaining hybrid of stylish action and turn-based mechanics remains a thrilling and strategic treat with a new wrinkle: Synergy Skills. These attacks combine the might of two party members to unleash a flashy tag team assault, provided you have an ATB bar to spend. One of Cloud and Sephiroth’s Synergy Skills, for example, is called Dualblade Dance, and it plays out as a cinematic and flashy display of tandem swordplay as both warriors eviscerate a target. Some Synergy Skills are defensive; while playing the second demo, Aerith partners with Cloud or Barrett to use Bodyguard, which sees her partner act as a human shield while she attacks from a distance. 
+
+Synergy Skills encourage players to experiment with different party combinations. On that front, you can now create saved party lineups that you can instantly swap between in-game. Need to change your Cloud/Barrett/Aerith crew to Cloud/Red XIII/Tifa? It’s just a button press away, saving you trips to the menu. 
+
+Like the previous game, hitting the D-pad switches control of your party members. I do this often because playing as Sephiroth is a blast. The silver-haired swordsman is an almost overpowered juggernaut boasting flurries of lighting-quick, wide-reaching slash attacks, a teleporting dodge that warps him to and from targets, and his powerful Octaslash Limit Break. Landing hits also let me perform finishing moves such as Pierce and Sword Dance, and executing these moves fills the limit gauge. Hitting R1 enters Retaliation Stance, a move that lets him parry attacks by pressing Square at the right moment. 
+
+He’s so good that I neglected Cloud much during my second playthrough of this section, but that doesn’t mean the blond-haired hero is a pushover. He can still switch between the balanced approach of Operator Mode to the powerful, tank-like attacks of his Punisher Mode. Cutting down foes with his massive Buster Sword is a treat since I have access to several of his abilities, including Braver and Cross Slash. 
+
+Given how pivotal this flashback is to the overall story, this slice is more story-focused and closer in line with the corridor-like levels in Remake. Between climbing and scaling cliff walls with platformer-style hand holds, I’m largely just mowing down any monster in front of me while listening to Cloud and Sephiroth’s banter. The biggest change-up is an environmental puzzle in which I must activate an elevator by clearing mako gas from a small area by pushing and dragging a giant heavy air purifier. It’s not the most thrilling sequence. 
+
+Thankfully, a battle against the area’s boss, the multi-legged Materia Guardian, makes for a much more exciting affair. It’s an involved fight; at one point, it scales the ceiling, so I must target its limbs with magic to bring it back down to earth. The fight also weaves in some pretty stellar cinematic moments and the bits of playful exchanges between Cloud and Sephiroth that are as bizarre as they are enjoyable to witness. 
+
+Between standard attacks, stances/form changes, individual character abilities, magic, Limit Breaks, and now Synergy Skills, Rebirth presents an almost overwhelming amount of offensive options. I’m still figuring out whether it's better to use spend ATB meters on a Synergy Attack over, say, Cloud’s Cross Slash, as they all appear equally flashy and effective on the surface. Battles remain chaotic affairs of sensory overloading special effects that can make it tough to parse what's happening, but using the tactical mode to pause the action remains a helpful tool for carefully choosing commands while catching your breath. But if you enjoyed Remake's spin on over-the-top action, Rebirth ups the spectacle a couple of notches. 
+
+A New Old World
+
+A New Old World
+
+The next demo drops me into a coastal open-world section outside of the city of Junon – or technically Under Junon, the name of the peaceful fishing village located nearby. I have the full party of Cloud, Tifa, Aerith, Barrett, and the now-playable Red XIII. While walking works, I opt for hitting R1 to call a fleet of chocobos for us to ride. Red XIII semi-awkwardly mounted on his feathery steed is an unintentionally hilarious sight. Not only do chocobos expedite ground travel, but they can also cross certain bodies of water to reach treasure-laden islands. Additionally, they can sniff out and excavate buried treasure. When a question mark icon appears over their heads, it means goodies are buried nearby. Holding up on the D-pad commands the chocobo to sniff around while pressing R3 hones in to bring up a scent trail leading to the correct spot for your bird to start digging. 
+
+Though I can head straight for Under Junon, I opt to explore the beautifully detailed world. Like Remake, you can practically see the millions of dollars oozing out of every highly detailed destination and particle-effect heavy combat encounter. Rebirth is a gorgeous game, even if you opt for the lower-resolution, 60 fps Performance mode over the 4K visuals of Quality mode.  
+
+Throughout my romp, I stumble upon World Intel missions. Entering designated zones beckons a mysterious, A.I.-like entity named MAI to challenge me to defeat a particular enemy to gather data on it. Defeating these designated foes earns rewards such as gear and crafting materials, and fulfilling objectives such as winning fights within a time limit or pressuring/staggering the enemy sweetens the pot. I’m not sure what the story is behind these missions and the incentive for completing all of them in an area, and the explanation may have to wait until launch day. 
+
+Speaking of crafting, a new menu feature called the Item Transmuter lets you transform collected materials into helpful items such as various health potions, phoenix downs, and more. Doing so earns transmuter EXP, raising your general crafting proficiency, though I'm not yet sure of the benefits.   
+
+Baby chocobos also roam these lands, and you’ll want to follow these adorable critters when you spot them as they guide you to fallen Chocobo Stops. Raising these signs upright turns them into fast travel points and rewards golden plumes that can be exchanged at ranches for gear to outfit your chocobos. I found one such ranch and got to edit my chocobo’s color and clothing, such as various hats, breast plates, and leg wraps. Oh, and you can also pet the baby chocobos once the job is done, so be sure to do that.
+
+Battling monsters gives me a full taste of the party’s combat prowess, with the returning heroes feeling familiar with a few new twists. Aerith can now charge her Tempest skill to unleash a Familiar that helps her up on the battlefield. Tifa’s Unbridled Strength can enhance her Triangle ability up to three times while raising the number of attacks that can be chained together. Barrett’s Overcharge instantly fills a large amount of his ATB gauge, especially when used immediately after executing an attack or ability.
+
+Red XIII is fully playable for the first time in Rebirth, so I messed with him the most. He sports powerful claw swipes that can be charged to unleash a whirling slash attack. Guarding against offense fills his Vengeance Gauge, which can be spent to activate Vengeance mode. In this state, Red XIII gains increased attack power and dodge speed. 
+
+When I do arrive at Under Junon, the party is halted by Rhonda, the village’s tough-as-nails mayor and sheriff. Rhonda’s identification scanner immediately pulls up the party’s substantial bounties, but thankfully, the town is no friend of Shirna. “We know when to turn a blind eye,” she says, lowering the tension. Instead, Rhonda invites the group to rest at the nearby inn. The R&R will have to wait; through various shenanigans involving a dolphin and a certain braggadocious Wutai ninja I won’t spoil (it's weird), a sea monster called the Terror of the Deep suddenly attacks the village, prompting Cloud and Co. to intervene. 
+
+The resulting boss battle offers the biggest test of my skill. Not only can this beast dive under the docks to launch surprise attacks, but it can trap allies inside orbs of water, which you must attack in order to free them. Unleashing a barrage of individual abilities, Synergy Skills, and Limit Breaks eventually topple the beast in a lengthy battle. 
+
+While it’s tough to get a sense of the scope and narrative by playing two out-of-context sections, Final Fantasy VII Rebirth preserves the combat I loved in its predecessor and freshens it up with fun new mechanics and attacks. The open-world activities were decent diversions, and while I’m curious to see what else Square fills its worlds with, the main narrative will always be the biggest draw next to the action. And so far, Rebirth has the battle chops and the intrigue to have me counting the days until it shakes up the story further. 
+
+      Products In This Article
+
+Final Fantasy VII Rebirth
+
+Platform:
+
+PlayStation 5
+
+Release Date:
+
+February 29, 2024
+
+Purchase
+More Info
+
+Marcus Stewart
+Associate Editor
+Marcus is an avid gamer, giant wrestling nerd, and a connoisseur of 90's cartoons and obscure childhood references. The cat's out of the bagel now!
+
+Email
+Twitter
+

@@ -1,0 +1,116 @@
+
+  Diablo IV Druid Skills And Abilities
+
+
+
+
+
+
+            INTRO
+
+Druids are one with nature – and that nature is deadly. Over the course of a single combat encounter, they can rapidly shapeshift between bear, werewolf, and human forms. Using a mix of magic and brute strength they are an imposing force. During our recent cover story visit to Blizzard, we went hands-on with the game for two days. Here’s a quick overview of what we learned about the Druid class in that time.
+
+Blizzard’s Take
+
+“What’s nice about the druid is you get this interesting mix of melee and ranged, and you get this really cool visual when you’re switching between forms,” says lead animator Nick Chilano. “I think that, from a visual side, we’re excited about the fact that you cast cataclysm, you’re in druid form, you’re like boom and become a bear and then you’re a werewolf which is visually super exciting.”
+
+Skills
+
+Basic Attacks
+
+Basic Attacks
+
+Earthspike: Sunder the earth, impaling the first enemy hit. Each time you hit an enemy with Earthspike, your chance to deal a Crushing Blow to that target is increased.
+Shred: Shapeshift into a werewolf and shred an enemy. Has a chance to strike twice. (shown)
+Storm Strike: Electricity gathers around your weapon, dealing damage split between your targets and nearby enemies.
+Maul: Shapeshift into a werebear and maul an enemy, dealing damage and fortifying yourself.
+Wind Shear: Conjure a piercing blade of wind, dealing damage and increasing your movement speed by a few seconds.
+
+Secondary Attacks
+
+Spirit Attacks
+
+Pulverize: Shapeshift into a werebear and slam the ground, dealing massive damage to nearby enemies. (shown)
+Landslide: Crush enemies between pillars of earth. Has an additional chance to deal a Crushing Blow.
+Tornado: Conjure a vortex that moves outward and curves in a random direction, dealing damage for several seconds.
+
+Defensive
+
+Defensive
+
+Cyclone Armor: Powerful winds protect you, granting ranged damage reduction.
+Earthen Bulwark: Rocks surround you for a few seconds, making you Unstoppable and absorbing some damage. Upon expiration, the rocks shatter, dealing damage of the remaining shield amount to nearby enemies.
+Trample: Rush forward as a werebear, dealing damage and stunning enemies for a short time. (shown)
+Debilitating Roar: Shapeshift into a werebear and bellow with ferocity, reducing the attack speed of nearby enemies by a percent for a few seconds.
+Ravenous Bite: Shapeshift into a werewolf and tear at an enemy’s flesh, dealing damage and healing yourself.
+
+Wrath
+
+Wrath
+
+Hurricane: Form a hurricane around you that deals damage to nearby enemies over time.
+Boulder: Unearth a large rolling boulder that knocks back and crushes enemies dealing damage with each hit. Has an additional chance to deal a Crushing Blow. (shown)
+
+Companion
+
+Companion
+
+Wolves: Passive skill that summons wolf companions that bite enemies. The wolves follow you in battle, but you can actively direct the wolves to focus on specific enemies. (shown)
+Ravens: Passive skill where ravens fly above you and periodically attack your enemies. You can target an area to swarm with ravens. Enemies take damage and suffer Vulnerability for a few seconds.
+Vine Creeper: A passive skill that summons a vine creeper to periodically emerge from the ground and poison nearby enemies. Command your vines to strangle enemies in a target area, poisoning and stunning them for a time.  
+
+Ultimate
+
+Ultimate
+
+Cataclysm: A massive storm follows you for several seconds. Tornados knock back enemies, and lightning strikes wildly for massive damage. (shown)
+Grizzly Rage: Shapeshift into a werebear for a few seconds. You are granted new werebear skills and generate spirit faster. You are Unstoppable while in Grizzly Rage.
+Petrify: Petrify all nearby enemies, stunning them for a few seconds. Damage breaks this effect and deals an additional amount of damage.
+
+Talent Tree
+
+Talent Tree
+
+Abundance: Basic skills generate more spirit.
+Ancestral Fortitude: Increase your non-physical resistances.
+Call of the Wild: Your critical strike chance is increased against your wolves’ target. Raven passive attacks make enemies vulnerable.
+Earthbind: Earth skills have a chance to immobilize enemies for a few seconds.
+Earthen Might: Enemies hit by Earth skills take increased damage from Earth skills for a few seconds.
+Elemental Exposure: Targets hit by Spirit skills become Vulnerable for a percentage of damage dealt.
+Endless Tempest: Increase the duration of the Hurricane and Cataclysm.
+Eye of the Storm: Critical strikes with Storm skills increase the critical strike chance of non-Storm skills.
+Feral Spirit: Critical strike damage is increased for a time after using a shapeshift skill.
+Fury of Nature: Enemies hit by Earth and Storm skills have a chance to take increased critical strike damage.
+Heightened Senses: Damage reduction against nearby enemies is increased.
+Hunt the Weak: Critical strike chance is increased against poisoned enemies while shapeshifted.
+Iron Hide: While in werebear form, damage reduction is increased. This bonus persists for several seconds after leaving werebear form.
+Lupine Swiftness: While in werewolf form, movement speed is increased. This bonus persists for a few seconds after leaving werewolf form.
+Natural Balance: Earth and Storm skills that consume Spirit restore life.
+Natural Resonance: Earth and Storm skills deal increased damage.
+Overpower: A chance on hit to knock down slowed enemies.
+Predatory Instincts: Deal increased damage to nearby enemies
+Primal Resonance: Earth skills deal increased Crushing Blow damage.
+Perfect Storm: Strom skills deal increased damage to Vulnerable targets.
+Rabid Strikes: Your werewolf skills poison the target for a percentage of damage over a few seconds.
+Scent of Blood: Deal increased damage to crowd controlled enemies.
+Storm and Claw: While Hurricane or Cataclysm are active, shapeshifting skills deal additional damage as lightning.
+Undergrowth: Increase the duration of crowd control effects.
+Quickshift: After shapeshifting into a different form, your next skill deals increased damage.
+
+For more on Diablo IV, be sure to check out our online coverage hub, which includes deeper dives into the Barbarian and Sorceress classes.
+
+      Products In This Article
+
+Diablo IV
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC
+
+Release Date:
+
+June 6, 2023
+
+Purchase
+More Info
+

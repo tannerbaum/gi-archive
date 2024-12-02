@@ -1,0 +1,242 @@
+
+  Our Battleborn Hands-On Impressions
+
+
+
+
+
+
+We spent two days at Gearbox's studio learning
+what sets Battleborn apart from other multiplayer shooters, but you can't divine
+how fun a game really is until you play it for yourself. That's why we were
+thrilled when the developer handed us the controller and dropped us into the five-versus-five Incursion mode. Here are our early impressions, based
+on several hours of hands-on play.
+Incursion mode pits two five-player teams against each other
+in tense, tug-of-war multiplayer matches. The goal is to infiltrate and attack
+the opposing team's base. Four massive, A.I.-controlled spider mechs (two per
+team) stand in the way; players attack or defend them during the course of the
+match with the help of a steady stream of smaller autonomous minion droids. Read
+on for our impressions of the mode, as well as Battleborn's host of
+unique playable characters and the rapid leveling system that resets after
+every match.
+
+Character Diversity
+Jeff M: I'm
+really liking the new trend of shooters offering up a bunch of different
+playable characters that all have their own unique abilities, and Battleborn is
+taking that idea to the absurd. Gearbox says it's aiming to have 20 playable
+characters in the main game, and the nine we saw were all over the map in terms
+of design and abilities. Battleborn's Call of
+Duty-inspired grunt Oscar Mike played exactly how I expected him to as a shooter fan, but Thorn
+– the swift, elf-like archer – was much more agile and required more
+concentrated strikes. When we first heard that Gearbox was trying to create
+characters based on every style of first-person game and put them all into one
+competitive shooter, I was intrigued, but thought it might end up being a
+disaster. As soon as we started playing, however, it felt totally natural and
+fun. I don't think any FPS fans are going to have a problem finding characters that mesh with their play style.
+Tim: The problem
+with most competitive multiplayer games is that if you're not great at a
+specific gameplay mechanic out of the gate – like twitch-oriented first-person
+shooting – then you have to endure hours of repeated deaths at the hands of
+veteran players until your skills are passable. What I like about Battleborn is if you're struggling to take down enemies as one character, you have a ton of
+other heroes to choose from that play differently at a fundamental level. For
+instance, one day I might be better at lining up single shots than spraying
+targets continually, so the heavy damage of Thorn's bow works better for me. Or
+maybe I'm the type of player that prefers sneaking up and delivering swift
+melee damage before fleeing, so the sword-wielding Rath might be the way to go. Characters have their own learning curve and play style, which I think is
+going to help keep the match-to-match action feeling fresh.
+Ben H: I can't help but
+root for the underdog. When surveying the roster of potential characters to
+play in Battleborn, I was just scanning for what would be the least popular
+choice. I settled on Miko, the androgynous mushroom creature that plays more of
+a support role. Miko's primary attacks involve throwing blades that
+regenerate. Outside of the wildly different abilities, Gearbox does a nice job reminding you of the unique properties of the characters within a first-person perspective; one of the first things that stood out to me when playing as Miko
+is that its "skirt" flaps up in the camera's view a bit whenever you jump.  Miko's ultimate ability (which unlocks at level 7) has the
+character remove its mushroom cap and set it on the ground, creating an area of
+effect that can damage enemies or heal teammates. Miko doesn't have a lot of
+health, but can fully regenerate over time. The most terrifying moment was
+seeing Rath charging right at me with his swords swinging; all I could do was
+throw a toxic spore sac his way before running and praying for the support of a
+beefier teammate. I appreciated the oddball nature of Miko, but it probably isn't
+the easiest character for your first venture into Battleborn.
+After Miko, I was in the mood for some meat and potatoes
+FPS-action. Oscar Mike fit the bill perfectly. This space marine with a machine
+gun and grenades spits out action-movie one-liners like "Today is a good day to
+not die and stay alive." It was satisfying seeing my old rival Rath in a heated
+battle and
+lobbing in a devastating frag grenade from a safe distance. Another really
+satisfying character was also the most visually striking: Marquis, the
+aristocratic robot sniper. You can look down while running and see his gangly
+robotic legs flailing about and other players can see him struggling to keep
+his hat on his head. My favorite ability with Marquis is deploying a robotic
+owl that circles a small area and attacks enemies that stumble across its path. Battleborn's creative director Randy Varnell aptly compared this ability to the
+Vulture's spider mines in Starcraft. It was bittersweet to die on the
+battlefield, and then see my robotic owl enact sweet vengeance on my killer.
+Coming Up Next: We discuss Battleborn's Incursion mode, environments, and rapid leveling system...
+
+Incursion Mode And Environments
+Jeff M: We
+only got to check out Incursion mode, and two maps: Unearthed and Worksite. I
+was a little wary when Andy told us that Incursion mode is structured similar to a
+MOBA, but FPS fans have nothing to worry about. The matches we played felt
+similar to other team-based competitive shooters, with the added layer of
+A.I.-controlled minions. There was more of a tug-of-war feel as well, which I
+enjoyed; I got a real sense of the progress (or regress) my team was
+making, that went beyond just a score at the top of your HUD.
+I was also impressed
+by the size and complexity of the maps. We played Unearthed the most, which was
+set in a lush jungle. MOBA maps are described in terms of lanes, which make
+them sound boring, but Unearthed had plenty of paths, trees, and cliffs to navigate
+and hide behind. The maps also showcased how different the characters control;
+Thorn could effortlessly bound across ledges that other characters couldn't,
+and Worksite had a small bridge that Montana's massive frame couldn't even fit
+under, which was pretty amusing – when I wasn't playing as him, at least.
+Tim: I'm not a
+MOBA player, but Incursion mode makes me understand why so many players adore
+games like League of Legends and Dota 2. But unlike those games, where players
+click on measly minions until they die, shooting and slashing at Battleborn's
+NPC robots feels far more satisfying. Their armor dents and falls off as you
+take them out, which makes me feel like a badass even if I'm not battling
+other human players. I also really like the reliance you have to have on your
+mini-map to constantly track other players. I love marking enemies, calling
+their positions out to my teammates, and coordinating attacks to wipe out
+threats as they appear. Battleborn's slick first-person shooting makes me feel like
+my individual skill is of more use in these tug-of-war battles, rather than
+clicking around an overhead map.
+Ben H: I noticed some
+people commenting that they're not crazy about the art style in the game, and
+maybe that's just a byproduct of only seeing the trailer, but I think that the
+in-game art works well. The maps were extremely colorful, and Gearbox even
+mentioned that they were going to be toning down some of the bloom effects that
+were really on display in the jungle map called Unearthed. It's not difficult
+to look around and get a good sense of where you're needed next, and there's
+also a mini-map to help point you in the right direction. You spawn all the way
+back in your base when you die, but there are warps that you can use to get you
+back into the battlezone quickly. I'm curious to see what else the team has in
+store for maps, and whether some will be more open.
+
+Leveling Up
+Jeff M: I
+play a lot of first-person shooters, but I'm not devoted enough to a particular
+series to compete with its best players. By the time I get around to playing
+the newest Battlefield or Call of Duty, most hardcore fans have already maxed
+out their ranks and unlocked the best perks and weapons. Battleborn's leveling
+system offers an appealing alternative; everyone starts on an even playing
+field since levels reset after each match. This also means that you level up
+much more rapidly than in most games, which I found extremely satisfying.
+Each level gives you
+two upgrade options to choose between, which Gearbox says is to speed up the
+leveling process. I still found myself spending an exorbitant amount of time
+mulling over my choices in the middle of battle, and eventually just started
+levelling up four or five times after I died and was waiting to respawn. I was
+impressed by the sense of progression; I always felt much more powerful by the
+end of a match, and I'm eager to see what alternate builds of the same
+characters would play like. It seems like the leveling system will encourage
+that kind of experimentation, at least until players find builds they really
+like.
+Tim: Battleborn's
+Helix leveling system is a clever way to let players gain new skills on the fly
+during battle. Holding up on the d-pad and pulling the left or right trigger
+unlocks a new ability then lets you get back into the fray immediately. The
+Helix is organized for speedy use, too, so I generally knew which side a more
+defensive or offensive ability might be. I also like how much my chosen leveling path
+changed how I play. When I was playing the lumbering, Gatling-gun wielding
+Montana, I could've invested freeze rounds and slowing the overheating of the gun. Instead, I went with flame rounds that do burn
+damage at the cost of faster gun malfunctions. As a result, I would often burst
+on to the scene and finish off an enemy with incendiary rounds, then disappear as
+fast as the hulking man could run.
+Ben H: While choosing
+your skill with each level was relatively quick, I grew to accept that the best
+time to read through augmentation descriptions was while respawning.
+Fortunately (or unfortunately), I had a lot of time to read through my
+options. The skills for Miko were options for things like a faster rate of fire
+or the ability to gain movement speed while your health was being drained.
+Oscar Mike could acquire a scope for his rifle or a red dot sight. The menu
+takes the shape of a double helix and I'm sure you can fly through it and hit
+the left or right trigger fairly easily once you have the options memorized.
+Gearbox also mentioned the ability to customize your Helix tree of skills by
+progressing and unlocking things over time, which sounds intriguing.
+Coming Up Next: We discuss what A.I.-controlled characters bring to the battlefield, and our lingering questions about the game...
+
+How NPCs Affect Matches
+Jeff M: Having a
+bunch of non-player characters on the battlefield gives Incursion matches an
+interesting twist and always ensures you have something to do during matches. I
+enjoyed being able to take out big groups of enemy minions when not hunting
+down (or more often being killed by) other human players. Even though they may
+seem superfluous, your little robot buddies actually make a big difference when
+fighting the opposing team's spider mechs, which are also A.I.-controlled. The
+spider mechs are super deadly and require a team effort to take down, but your
+robot minions can quickly deplete their shields. I usually gravitate towards
+co-op games, and Battleborn's PvE elements made me feel like I was much more
+useful to my team than most PvP games do.
+Tim: I already
+mentioned how much I enjoyed slashing the little robotic minions, but the huge
+spider mechs present a far greater challenge. Individual players can be lone
+wolves during matches and succeed to some degree, but these huge, patrolling
+arachnids punish uncooperative teams with swift death. Destroying enemy
+minions allows your own robot helpers to blast the big spider bot with laser
+beams that drain its shields. Then it's time for the bulk of your team to gather
+around the vulnerable NPC gatekeeper and lay waste. I love the sense of
+camaraderie and accomplishment that comes with watching one of these huge pests
+finally explode.
+Ben H: In the first
+couple of matches that we played, I frequently made the mistake of charging
+into action on my own, bypassing all allies and enemy minions, and just
+charging right for the other human players. Running alongside a pack of minions
+on your team can be a lifesaver, especially when you're trying to take down an
+enemy spider mech. It's not much, but I like that the minions are explained in
+the game's lore as creations from the war profiteer faction, the Last Light
+Consortium. Also, when you eventually play this game, don't forget to farm the
+enemy minions. I was consistently the lowest level player on my team and it
+didn't feel great.
+
+Closing Thoughts
+Jeff M: I had a
+lot of fun during our hands-on time with Battleborn, and am already eager to
+play more. Trying to balance so many unique characters still seems crazy, but
+is a lot more intriguing to me than just running around as another clone
+soldier who has the same abilities as everyone else. I really want to see what
+other modes Gearbox is working on, as well as what the co-op campaign entails –
+Battleborn has an intriguing story premise, be we still don't know how it's
+going to be delivered in an effective way. Ultimately, however, the gameplay foundation
+is solid, which is what matters most. I have a feeling Gearbox and 2K will be
+teasing us with new character and mode reveals all the way up until release,
+and I'm totally okay with that.
+Tim: Incursion
+mode delivers an immediately engaging multiplayer experience. Not only did I
+quickly understand my role on the battlefield which each character, I also felt
+like I was using my years of experience from first-person shooters in an
+exciting new way. While Incursion mode is a lot of fun, I'm still itching to
+know how much the other modes stray from the MOBA influence and how substantial
+the co-op campaign is. I'm hoping Gearbox delivers a narrative-driven
+experience that less competitive-minded players can sink their teeth into.
+Mostly, I'm excited to dive into the toy box of playable characters Gearbox is
+making for the game and figuring out which ones suit me best.
+Ben H: Battleborn really
+grew on me. In the beginning, the amount of player-generated chaos on screen was
+overwhelming. Once I got a handle on each character's abilities, however, it
+was pretty easy to read situations. I'm definitely looking forward to seeing
+the game in action with the full cast of characters in play; we were choosing
+from a pool of six heroes and often encountered our evil twin on the other
+team.
+The core of the Incursion mode that we played is teamwork. This
+game will be at its most fun when you're screaming at your friends about the
+insanity on the screen. In the several hours that we played, neither team
+managed to destroy the opposing base. This was probably a result of poor team
+communication, and the matches would end and tally a winner after the 30-minute
+time limit. I think Battleborn will be a fun game to follow the development of.
+If Gearbox keeps to its plan with the ambitious amount of characters it wants
+to include in the game, following the roll-out of roster updates should be
+really entertaining in a Smash Bros.-esque way. In one of our video interviews,
+design director John Mulkey even hints that there might be some kind of deadly
+penguin character on the way – have we emphasized that this game is
+funny? The announcement trailer doesn't really hit on the game's humor, but even
+in the early stage we played, the character banter during matches is really
+well done. We'll have a video interview with lead writer Aaron Linde later this
+month, so stay tuned for that.
+Check back next
+week for a more in-depth look at nine of Battleborn's playable characters, and
+for more hands-on impressions of the game. To see our entire month of bonus
+coverage as it rolls out, click on the banner below to enter our Battleborn hub.
+

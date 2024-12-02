@@ -1,0 +1,55 @@
+
+  Update: Dark Souls PC Servers To Remain Offline Until After The Launch Of Elden Ring
+
+
+
+
+
+
+            Update, 2/9/22:
+
+From Software has revealed that the online servers for its Dark Souls suite of games on PC will remain offline until the launch of Elden Ring. 
+
+Last month, From Software revealed that a PC exploit had been discovered in its suite of Dark Souls games that could give control of your PC over to someone else. That obviously presents a whole host of problems and From Software responded by taking the PC Dark Souls games – so Dark Souls 1, Dark Souls 2, and Dark Souls 3 – offline. Now, you could still play the game solo, but the online components were taken offline and From Software has revealed that their servers will remain offline until after the release of Elden Ring later this month. 
+
+"Bandai Namco Entertainment and From Software are aware of the technical difficulties players have experienced with the Dark Souls suite of games on PC," a message from the official Dark Souls Twitter account reads. "We want to thank the entire Dark Souls community and the players who have reached out to us directly to voice their concerns and offer solutions. Thanks to you, we have identified the cause and are working on fixing the issue. In addition, we have extended the investigation to Elden Ring  – our upcoming title launching on February 25th – and have made sure the necessary security measures are in place for this title on all target platforms.
+
+"Due to the time required to set up proper testing environments, online services for the Dark Souls series on PC will not resume until after the release of Elden Ring. We will continue to do everything we can to bring back these services as soon as possible. We will make an announcement as soon as the schedule is determined for resuming online services. Please stay tuned to the Dark Souls social media channels for updates. Once again, please allow us to share our thanks to you, our passionate community." 
+
+The original story continues below...
+
+Original story, 1/24/22:
+
+Dark Souls 3 might not have garnered the same popularity totals as its two predecessors or the GOTY spin-off(s) that followed. Nevertheless, it showcases the same level of epic storytelling and mechanical depth and polish that FromSoftware is widely known for. Unfortunately, a dangerous exploit is making the rounds, leading to players losing complete control of their PCs. As of right now, the Dark Souls 3 servers are offline as the dev team works to maintain multiplayer security. 
+
+PvP servers for Dark Souls 3, Dark Souls 2, and Dark Souls: Remastered have been temporarily deactivated to allow the team to investigate recent reports of an issue with online services.
+Servers for Dark Souls: PtDE will join them shortly.
+
+We apologize for this inconvenience.
+— Dark Souls (@DarkSoulsGame) January 23, 2022
+
+According to NME, yesterday (January 23), the official Dark Souls Twitter account posted an announcement (see above) detailing the troubling situation and what actions are being taken to quell the issue. The Tweet reads as follows:
+
+"PvP servers for Dark Souls 3, Dark Souls 2, and Dark Souls: Remastered have been temporarily deactivated to allow the team to investigate recent reports of an issue with online services. Servers for Dark Souls: PtDE will join them shortly. We apologize for this inconvenience."
+
+A follow-up Tweet mentions that this problem is entirely absent from PvP console servers, so Xbox and PlayStation owners have nothing to worry about and were spared the shutdown. NME would go on to state that the exploit, otherwise known as the Remote Code Execution (RCE) hack, allows attackers to "execute arbitrary code on a remote device, meaning they can take control of a player’s PC." It appears as if only a tiny percentage of players know how to employ the hack, so the likelihood of being affected is relatively low. However, PC players are still at risk every time they engage with Dark Souls 3's multiplayer components, so the decision to deactivate PvP seems appropriate.  
+
+Have you come across the RCE hack in your own playthrough(s)? Is Dark Souls 3 your favorite entry in the franchise? Sound off with your experiences/opinions below. 
+
+[Source: NME]
+
+      Products In This Article
+
+Dark Souls III
+
+Platform:
+
+PlayStation 4, Xbox One, PC
+
+Release Date:
+
+April 12, 2016
+
+Purchase
+More Info
+

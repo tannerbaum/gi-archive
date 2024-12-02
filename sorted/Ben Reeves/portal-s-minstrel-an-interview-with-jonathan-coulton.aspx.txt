@@ -1,0 +1,56 @@
+
+  Portal’s Minstrels: An Interview With The Men Behind The Music
+
+
+
+
+
+
+Those who played the original Portal to completion were pleasantly 
+surprised to hear GLaDOS break into song for the closing credits. The 
+good news is that Jonathan Coulton – the musician behind Portal’s 
+anthem, “Still Alive” – will be returning for the second game. The even 
+better news is that fans can expect more than one song from the nerd 
+bard this time around. We sat down to talk with Coulton and Valve writer
+ Erik Wolpaw about how they came up with the idea of putting a musical 
+number at the end of the game, the song’s extremely short incubation 
+period, and what fans can expect for Portal 2. 
+
+To start, can we go into how you got involved with Valve?
+
+Jonathan Coulton
+
+Erik Wolpaw
+
+Coulton: At the time I first hooked up with Valve, I was really just beginning my career as a touring musician. I had recently quit my day job and started writing music full time. I had this online project where I was putting out a song every Friday for a year, and I began to notice that Seattle was one of my first really big audiences; to my surprise, I was able to draw pretty big crowds from Seattle. So, I was playing there once and a couple people from Valve came up and introduced themselves and asked me if I'd ever like to write music for a game, and it sort of went from there.
+Were you familiar with Valve before you started working with them?
+Coulton: Oh sure, yeah. I played Half-Life. I was a big fan. So when they first approached me I was thrilled that it was them instead of any number of other people. I was a particular fan of Valve. 
+It’s kind of crazy how “Still Alive” took off. People are singing the song in their high school choir on YouTube, and it ended up as Rock Band DLC – were you surprised when it took off like that?
+Coulton: It was great. I think we were all a little taken aback by how well received the song was. When we first approached the idea, it seemed a little weird and a little off the wall, like one of those things you put in a game that's awesome only to you. And then when I was done with the song I was pretty happy with it, and I think Erik was pretty happy with it. But when I saw how it was actually incorporated in the game – when I actually watched the ending – I was blown away. It seemed like such a good finish to a game.
+So what was that collaboration process like? Erik, you’ve said that you had this idea for a musical ending to the game. Did you help Jonathan come up with the lyrics?
+Wolpaw: Well, the lyrics are all Jonathan. I think, if I remember right, Jonathan came into the office, and we talked for a little bit, and we got him an early build of the game to play around with. Then I think I sent him a bullet point list of concepts in the game. Not puzzle concepts, but stuff about the cake and all that. It all happened within a period of a couple of weeks. Jonathan is on the east coast, and for a rock star, he gets up pretty early. Or maybe you were just still up with cocaine all over your nose.
+Coulton: (Laughs) That’s right. I was still up from the night before.
+Wopaw: So anyway, I'd call him in the morning, and we would just talk for a little while. At some point, we got to the point where you were comfortable with the game, and you went off to write. Then a few weeks later you dropped the song on us.
+Coulton: The amazing thing to me was that you had such a voluminous backstory for the game. You had actually written out an enormous amount of data about the character and the history of GLaDOS. A lot of stuff that just didn't appear in the game, but I guess it was for you to sort of set the stage to write the pieces that would appear in the game. So that was incredibly helpful while writing the song. I remember talking in the morning about the various ideas about where we were going to go with this, and how GLaDOS was going to be feeling at the end of the game. To me, that was a really important thing that I wanted to capture in the song. I wanted to capture the kind of headspace she was going to be in at the end of the game. It's her song. It's a very personal song for GLaDOS.
+Did you notice a spike in popularity immediately after Portal came out?
+Coulton: No, it didn't make any difference (laughs). Of course – I noticed an enormous spike in popularity. It was one of those things. I live and die by the niche, basically. I write all these geeky songs. It’s Internet people who keep me afloat for the most part. But then, suddenly there was this Portal thing, and it was a global phenomenon, and it reached all sorts of people that I wouldn't have otherwise reached. There is a definite spike in popularity. And, I think that of all the games out there, Portal is so friendly to non-gamers. People in my family that don't play games at all really enjoyed playing it. I think that's another reason it had such a big effect on me. It reached people outside of my standard circle of fans.
+Portal 2 is still in development, but what has the song writing process been like this time around compared to the first game?
+Wolpaw: We’re still early on. We don’t do the songs too early in the creative process, because you want to see how the game eventually shapes up, so we are just starting that process. We talked to Jonathan, and it’s nice because he’s coming on a lot earlier in the process than he did before.
+
+You’ve mentioned that there will be more ways for people to connect with the music in Portal 2. Can you elaborate on that? 
+Wolpaw: I’m going to do a long-winded way of saying, “No.” I can't talk more about that, but I can talk around it. Starting now: For the first people that played it, it was kind of surprising that there was a song at the end of Portal. It was sort of unexpected that a song was there. So, while I'm 99% sure that we will end in a song again because it’s a classic and a fun thing to do, it won't be a surprise. You can't recapture the surprise and to the extent that we can, we’ve spent a lot of time thinking about where we can put songs in the game that are interesting and surprising. So if we tell you where it is, all that work we do making it surprising is just down the toilet. We don't want to ruin the surprise. There's gameplay attached to the music, but it’s not a rhythm game. We’re talking about a formal insertion of the music into the game that is surprising in a way that the first game was. So I think I can say this: Jonathan will be making more than one song for the game.
+How far out from release was the game when you guys started working on the song?
+Wolpaw: It was the summer before the [October 9th] release date. But even after we brought Jonathan through the office, it was still a while before the bulk of the work was done. From the time we brought you on and started talking about what we wanted to do to when we actually had Ellen do the song was, what? Six weeks?
+Coulton: Yeah, it was pretty quick. I don't remember it all now. It's pretty hazy, but it was quick enough that I was nervous about it.
+Wolpaw: At that point we had the song, so we could start wiring it up into the game, which took a long time because it's something I did, which is actually one of the things John and I first started talking about – how we were both programmers. He is probably pretty good at it, but I'm terrible.
+Coulton: No, I'm terrible too.
+Wolpaw: Okay, both of us are terrible at it, but can kind of do it.
+Jonathan, you’ve done some work for Popular Science, right?
+Coulton: I haven't done anything for them in a long time. For a while though, I was the contributing troubadour on their masthead, and I would write music for them. I did a podcast for them and a few other things. I was one of the few contributing troubadours to a national magazine.
+With that kind of history, what made you decide to go into music?
+Coulton: Music is really the career I’d intended, and my jobs as a techie person were kind of a mistake. I had always intended to become a musician, and that kind of got delayed. I had moved to New York and panicked and got a job right away, so I was sort of a late bloomer on the music front.
+What kind of music inspires you?
+Coulton: You know, I'm an old person, and I get this question all the time. I don't know what the kids are listening to these days, but it's kind of embarrassing. But to tell you the truth, I just bought The Beatles box in mono, and I've been working through that in a very sensitive listening kind of way. I'm a huge pop nerd. I really like The Beatles’ stuff and other vocally stuff. And because I'm an old person, I listen to a lot of old music. The louder stuff scares me a little bit. I'll be honest.
+Are you playing any games right now?
+Coulton: It's funny, but a lot of my console gaming has been replaced by iPhone games. I have two kids here at home, and it's hard to find time to sit down and play a game where a lot of people explode and blood goes everywhere. I mean, I like those games, but you can't really do it when there's a four-year-old sitting next to you. And on top of that, I find that children take a lot of care and attention, so I find myself gaming sort of in-between things. So while I'm making the grilled cheese sandwich for the kids, I'll pull up a little finger physics on the iPhone. But I am looking forward to BioShock 2. I haven't played that yet and I hope to. And, of course, I play all the Valve games constantly.
+

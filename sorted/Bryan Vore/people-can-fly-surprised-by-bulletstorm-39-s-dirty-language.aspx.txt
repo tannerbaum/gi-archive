@@ -1,0 +1,13 @@
+
+  People Can Fly Surprised By Bulletstorm's Dirty Language
+
+
+
+
+
+
+Bulletstorm developer People Can Fly is based in Poland so English isn't anyone's first language. It wasn't until late in the dev cycle that they realized the extent of the profanity.
+This comes from a postmortem on the game from the October issue of Game Developer Magazine. Sister site Gamasutra offers the following excerpt:
+"Do you know any swear word in a foreign language? German, French, Polish? When you say it out loud, no biggie, right? Not a problem to use it during a family dinner, I assume?"That is how all the f-bombs sounded to us. Being Polish, all the strong language in Bulletstorm was just exotic and fun to us. We did not feel its power. In other words, Epic thought this is what we wanted and respected our creative vision, while we had no idea this vision was a bit more than we really wanted."It was only at the end of the development, when I read the Polish translation of the game, that I realized how dirty we were. I swear a lot. A LOT. And yet still I ...kind of blushed."
+If you need a refresher on Bulletstorm's language, YouTube's got plenty of NSFW examples that we probably shouldn't post here.
+

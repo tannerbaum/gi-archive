@@ -1,0 +1,218 @@
+
+  Making Mario: A Look Back At The First 30 Years
+
+
+
+
+
+
+            Thirty years ago, a small team based in Kyoto, Japan, came together to create a new kind of action game. Drawing inspiration from prior projects, that team released Super Mario Bros. in 1985 – a title that would go on to help console gaming step back from the brink of ruin. Since then, Mario’s influence has spread far beyond the games in which he appears. He helped turn Nintendo into an industry leader, and became a cultural icon. Super Mario Bros. started a revolution, and in the process, became one of the most recognizable franchises in the world.
+
+This article originally appeared in the November 2015 issue of Game Informer. We're re-sharing this story today as a part of Super Mario's 35th anniversary celebration.
+
+Humble Origins
+
+Humble Origins
+
+In the early 1980s, the video game industry’s push into the home-console market was at a pivotal stage. Turmoil permeated gaming as the North American industry crashed in 1983. Industry-wide sales dropped as low as $100 million in 1985 (down from over $3 billion just three years before), sending many developers and publishers to their demise. Despite this downturn in the industry, Nintendo was able to survive while many of its competitors faltered thanks to the success of its 1983 game console, the Famicom. With the console releasing in Japan at the start of the North American crash, Nintendo was able to navigate through the storm that took down so many of its competitors.
+
+That’s not to say that Nintendo was unaffected by the crash. Negotiations with Atari to help bring the Famicom to the United States as the “Nintendo Enhanced Video System” fell apart as Atari took a massive financial hit in the crash, and Nintendo was forced to attempt the jump to the West alone. When the company tried to release it in the U.S., toy stores (the primary sellers of video games at the time) had all but written off the medium as a fad that had ended, and were resistant to stocking games. To overcome this, Nintendo rebranded its video game console as an “entertainment system,” and the NES was born. 
+
+Thanks to some bold risks by the business side of Nintendo, the NES was set to be sold in North America in 1985, but it still needed killer software to make sure it was the hit that could justify those risks. That justification came in the form of Super Mario Bros., a game developed by a team led by Shigeru Miyamoto and Takashi Tezuka. Revolutionary from its conceptualization, Super Mario Bros. took the ideas found in the 1983 arcade game Mario Bros. and pushed them forward in unprecedented ways. 
+
+While Mario Bros. featured small characters on a single, dark screen, Mario’s next adventure was much more ambitious. “The idea for Super Mario Bros. was born at a meeting where I presented my desire to create a bigger hero who runs around in a setting with beautiful graphics,” Tezuka said in a 2015 Nintendo video promoting Super Mario Maker. “We discussed whether this will appeal to the current market and brainstormed new ideas.” 
+
+One of those new ideas was to have the level scroll as Mario moved through the environment. “It used to be normal for Famicom games to have stages that didn’t scroll,” Miyamoto said in the promotional video. “There was side-scrolling for some shooting games, but not for any other. We wanted to create a game where large characters are animated in land, sea, and sky settings.”
+
+The team hammered out the concepts and began creating the levels that would go on to define the side-scrolling platformer genre.
+
+“At the time, we didn’t really use computerized tools,” Tezuka said in that video. “Instead, we hand-drew the stages and inputted data based on those drawings. For example, we drew the layout of the stage on graph paper…and then we handed it over to the programmer, who inputted it after converting it to numerical data. We didn’t see the finished course until the next day or so. We took this process very seriously. Because programmers put a lot of time inserting this data manually, we couldn’t slack off or experiment too much with the program.”
+
+Since the process of inputting the data was so labor intensive, Miyamoto says that the programmers would often scold the team if they made too many edits. Given these limitations, planning ahead was a crucial part of the creation process. “We wrote out what kinds of stages we wanted to create on a giant whiteboard, then we created a layout by pasting notes on the board like what the background should be or what would appear,” he said in the promo video.
+
+Though it would eventually go on to change video games as they were known at the time, Tezuka tells us that he couldn’t accurately assess the magnitude of what the team had accomplished thanks to his lack of experience. The team was proud of the finished product, but they had no clue that Super Mario Bros. would go on to spark the beginning of the home console revolution.
+
+Slowly, the team began hearing positive feedback. “Not long after its release, I did have a bit of an impression that people were enjoying Super Mario Bros.,” Tezuka says. “There wasn’t any place like the internet for people to exchange information, but I could hear feedback from my friends. I didn’t think we did anything groundbreaking, but I definitely felt happy to hear that feedback.”
+
+Once the game hit U.S. store shelves, however, there was no doubt about its success. Serving as the system’s pack-in game, Super Mario Bros. propelled the timidly selling Nintendo Entertainment System to the must-have “toy” of the 1986 holiday season and set the stage for the game’s sequel to be a massive hit.
+
+What Makes Mario Special? 
+
+Mario has proven to be the most enduring video game character ever, but what makes him so special for so many gamers? According to longtime series director and producer Takashi Tezuka, Nintendo’s emphasis on keeping a consistent experience over the decades is very important. “It’s up to gamers to decide whether something like Mario is special to them, but if that’s the case, one reason I can think of is how much importance we placed on the ‘play feel’ of the games,” he says. “Our basic way of thinking about the action gameplay in Mario hasn’t changed; instead, we’ve thought of ways to harness the hardware of the time to add to that experience. We’ve been lucky to receive consistent support for that kind of gameplay, and that might be why Mario’s become such a beloved character.”
+The Doki Doki Decision
+
+The Doki Doki Decision
+
+Super Mario Bros. inspired a direct sequel in Japan just a year later. The Japanese version of Super Mario Bros. 2 used many of the same assets and ideas from the original, but that version didn’t make it to the United States. Instead, Nintendo released a modified version of a different game – one from the Famicom Disk System, a Japan-only accessory that allowed the original Famicom to play games off floppy disks instead of cartridges. The game, Yume Kōjō: Doki Doki Panic, was rebranded with Mario, Luigi, Toad, and Princess Toadstool as playable characters.
+
+“Doki Doki Panic was created in tandem with an exposition that only ever took place in Japan [Ed. Note – The expo was called Yume Kōjō '87], but the game was really unique and packed with all kinds of fun things,” Tezuka says. “We weren’t able to release the original Disk System Super Mario Bros. 2 outside of Japan, but I think the idea of putting Mario in Doki Doki Panic and remaking it into Mario 2 overseas so people around the world could enjoy it was a really good one.”
+
+Though it was drastically different than the Japanese version, the North American audience embraced Super Mario Bros. 2 when it launched in 1988. The NES sold out across the country yet again, and parents found themselves waiting in long lines trying to grab an NES for their children during the holiday season. A reworked and cleaned-up version of the Japanese Super Mario Bros. 2 eventually released in the United States as The Lost Levels as a part of the Super Mario All-Stars package for the Super Nintendo Entertainment System in 1993.
+
+Despite the United States’ Super Mario Bros. 2 not being the original sequel his team developed, Miyamoto speaks very highly of it in discussing his favorite games in the series. In a 2012 interview with IGN, he said that while he has a lot of memories related to the first Super Mario Bros., he might actually favor the U.S. sequel. “Perhaps as a player, I might go for what was, at least in Japan, we referred to it as Super Mario USA, which was a game that just had a very different sort of feel. I think we had such a loose approach to it, we really came up with something interesting."
+
+Crafting His Greatest Adventure
+
+Crafting Mario's Greatest Adventure Yet
+
+The same year that Super Mario Bros. 2 hit North American stores, a new game, Super Mario Bros. 3, released in Japan. That game, which released in the United States in 1990, included many of the trademark elements from the original Super Mario Bros., but expanded on the formula in myriad ways. Mario could still grab a super mushroom to grow large and a fire flower to gain the ability to blast fireballs at enemies, but those power-ups were joined by a host of new ones. Obtaining the super leaf power-up gave Mario a raccoon tail with the ability to attack enemies and soar into the sky, a frog suit enabled him to swim more effortlessly, a hammer suit gave Mario the power to throw hammers like the menacing Hammer Bros. enemies, and the tanooki suit bestowed all the powers of the raccoon tail plus the ability to turn into an invulnerable statue.
+
+Super Mario Bros. 3 also introduced an overworld map for level selection, a feature that is still common in Mario titles. With that came the ability to dictate what paths you took as you played through the adventure to save Princess Toadstool from Bowser and the newly introduced Koopalings.
+
+“Super Mario Bros. 3 was all about us challenging ourselves to create a completely different play experience from previous Mario games, but it certainly wasn’t an easy development process,” Tezuka tells us. “After a long period of trial and error, we wound up settling on a game that retained what made the previous games good and added a lot of new elements to it. It was a completely different way of gauging gameplay from what we do today.”
+
+Super Mario Bros. 3 gave Nintendo yet another hit, with this latest adventure becoming the best-selling non-bundled game in the history of the NES. Nintendo’s franchise was more massive than ever. From fans getting their first glimpse of Super Mario 3 on the big screen in the 1989 film The Wizard to an animated television adaptation of the game, Mario had transcended being simply the star of a great video game franchise; the princess-saving plumber was now a household name.
+
+Designing Mario
+
+Mario is one of the most recognizable faces across any entertainment medium, but his early design was influenced by the technical limitations of the NES in displaying small details. According to Nintendo’s Takashi Tezuka, series creator Shigeru Miyamoto had the idea of designing Mario with a big nose and a mustache to give him more distinct traits. “He thought that’d be the easiest way to create a recognizably human character given the limits in color palettes and resolution in the early days of video games,” Tezuka says. “If it wasn’t for that idea, I doubt the character would still be around today.”
+A Brave New World
+
+A Brave New World
+
+As the Super NES launched, Mario Mania was at a fever pitch. Comic books, plush toys, T-shirts, and a slew of other merchandise flooded the stores that had felt apprehensive about stocking the original NES game just a few years earlier. After the runaway success of the NES, the Super NES looked like a surefire winner in the U.S. market. However, Nintendo took nothing for granted and bundled the fledgling console with the game that is, for many, Mario’s greatest adventure.
+
+Rather than completely shaking up the formula of the last game, Super Mario World continued to evolve and refine the recipe from Super Mario Bros. 3. Gone was the plethora of power-ups seen in its predecessor, with the list pared down to just the super mushroom, fire flower, and a new feather that slapped a cape on Mario’s back and let him fly in a much more refined manner than in Mario 3. Mario could also take to the sky using the P-Balloon, which puffed him up with air and allowed him to reach previously inaccessible areas.
+
+Super Mario World also introduced players to Yoshi, the now-beloved green dinosaur that Mario rides. Using Yoshi’s abilities, Mario could attack and interact with enemies in new ways. With his long tongue, Yoshi could eat Bowser’s minions and even hold different colored Koopa Troopa shells in his mouth to absorb temporary new powers. In addition, Yoshi gave Mario the power to absorb an extra hit, causing the green dino to straddle the line between a support character and a power-up.
+
+Super Mario World maintained the overworld map system introduced by Mario 3, but this time, players could save their progress, allowing them more time to explore the game’s many secrets. This encouraged players to scour each level to find hidden exits and unlock secret passageways to new stages, adding new depth to an already proven formula.
+
+Super Mario World also featured smoother animations, brighter colors, and higher fidelity music, but to truly show off the added power of the Super NES, Miyamoto and Tezuka added new elements to wow players. “As we build up the series, the almost obsessive idea arises that if we don't add new elements, fans of the previous games won’t be satisfied,” Miyamoto said in a 2010 Iwata Asks. “That’s why Tezuka-san, in developing the Super Mario Bros. series from Super Mario Bros. 3 to Super Mario World, started making things like minigames such as roulette. At that time, roulette was the best way to show the Super Famicom’s high functionality.”
+
+For Super Mario World, the level-design process also evolved from the previous way of doing things. “Up to Super Mario Bros. 3, we drew all of the levels on graph paper, and then starting with Super Mario World, it was a combination of graph paper plus some editing tools on the PC that we had,” Miyamoto told Time in a 2015 interview.
+
+For Miyamoto, Super Mario World holds a special place in his heart. “Super Mario World is something that included of course all the action you saw in Super Mario Bros. but it also had the map features, so it also had that element of players having to think about where they were going and what they were going to do next,” he said in a 2010 interview with USA Today’s Game Hunters. “I also think that it is a game that developed a large number of staff people who became producers and directors.”
+
+Super Mario World’s acclaim could not have come at a more important time for Nintendo, as it was no longer the only player in town when it came to the home-console market. Sega, with its attitude-infused Sonic the Hedgehog franchise and marketing lingo that used phrases like “blast processing,” was beginning to encroach on Nintendo’s turf. The Genesis was more popular than its predecessor, Sega’s Master System. If Nintendo hadn’t produced a strong follow-up to the NES, the home-console market could have been Sega’s for the taking. With the success of the Super NES, however, Nintendo solidified itself as the leader of the market.
+
+As the team began looking at what directions to take the series following the success of Super Mario World, they decided to capitalize on the popularity of the new character Yoshi. Yoshi had become such a beloved inclusion in the Super Mario series that he would receive his own spin-off series, which Nintendo experimented with in its follow-up to Super Mario World. With 1995’s Super Mario World 2: Yoshi’s Island, the series’ formula was drastically shaken up once more. No longer was Mario the main protagonist. Instead, players controlled Yoshi as he watched over a baby version of Mario in an effort to rescue Baby Luigi from Baby Bowser. 
+
+Yoshi’s Island did more than serve as a starting point for Yoshi’s spin-off series, however. The follow-up to Super Mario World hinted that Nintendo was interested in further exploring what it meant to be a Super Mario game. With much more powerful technology on the horizon, Nintendo was on the precipice of redefining Mario as a character and changing the series forever.
+
+Head In The Clouds
+
+The team behind the original Super Mario Bros. wanted to feature Mario traveling through land, sea, and sky settings, but there was some initial disagreement about how that would be accomplished. Assistant director of the game Takashi Tezuka originally presented an idea where Mario would float around in a cloud and shoot at coins, but director Shigeru Miyamoto rejected this idea as too technically complicated. With Super Mario Maker, players can now attempt to replicate that experience in the original Super Mario Bros. aesthetic by having Mario hijack the cloud of a fallen Lakitu and giving him a fire flower.
+The Leap Forward
+
+The Leap Forward
+
+As the Nintendo 64 launched in 1996, a groundbreaking new experience released with it. Not satisfied with simply further refining the side-scrolling platformer mechanics of Mario, Nintendo pushed forward to deliver yet another revolutionary game.
+
+The result was Super Mario 64, a title that changed the core pillars of the series. Doing away with the traditional 2D plane, Super Mario 64 offered players their first glimpse of the beloved character as a 3D render. Mario no longer appeared as a sprite – he felt more alive as players could view and interact with him from all angles.
+
+Nintendo also hit the nail on the head with its first attempt to bring its flagship franchise to 3D gameplay, something so many other developers – including Nintendo’s old rival Sega – struggled with. Simple tasks, such as navigating Mario through Princess Peach’s castle, or jumping through easy stage sequences were pure fun. Using the Nintendo 64’s four C-buttons, Nintendo also demonstrated the earliest example of a well-implemented user-controllable camera system, which still serves as the foundation for many modern 3D action games’ camera controls.
+
+Tezuka credits Super Mario 64’s superb design and gameplay to Nintendo’s design philosophy. “That game featured a huge number of firsts for us, including our production process, but finding new ideas one after the other to solve the problems we ran into was a lot of fun,” he says. “I think it was really great how ideas from the software-development side, like how the guided 3D stick on the controller is designed, were brought into hardware development as well. In a way, I think it shows how Super Mario 64 was the kind of game only Nintendo, developing both hardware and software, could have pulled off.”
+
+In addition, Mario now had a voice, provided by Charles Martinet (who still voices the character today). With that, he developed a more defined personality than he had in previous entries. While Super Mario 64 began revealing more about Mario as a character, Tezuka says that Nintendo tends to avoid making any definitive statements about his traits. “We want him to retain a level of freedom, so we try to avoid giving him a fixed backstory derived from the reasons he appears in all the games he does,” he says. “I also think that the personality of a video game character isn’t really complete until the player actually takes control of that character.”
+
+Mario's 3D Lineage
+
+Mario's 3D Lineage
+
+Super Mario 64 was only Mario’s first push into the 3D space, but it set a template for gameplay that Nintendo would iterate on and improve over the next two decades. With 2002’s Super Mario Sunshine on GameCube, Mario controlled largely the same way he did in Super Mario 64. Despite that, the game was far from a direct successor to his N64 hit.
+
+Using the F.L.U.D.D. water pack, Mario cleans up Isle Delfino after a case of mistaken identity. This means much of the gameplay borrows from third-person shooting mechanics in addition to the 3D platforming laid out in Super Mario 64. Because of this, Super Mario Sunshine is a divisive entry among players. Strapping a powerful water gun on Mario was too big of a departure from the core mechanics for some fans. Fans of Super Mario 64 wished for a more conventional Mario experience, a wish that would not be answered by Nintendo on the GameCube.
+
+Though Super Mario Sunshine was the only core entry for the series released on GameCube, Nintendo had big plans for its next system, the Wii. The Wii uses motion controls as its primary control scheme, but Nintendo opted to minimize their usage in the core Mario games that appeared on the console.
+
+Following the divisiveness of Super Mario Sunshine, Nintendo needed another universally loved entry to win back fans that weren’t as hot on the GameCube title. That entry came in the form of Super Mario Galaxy, a game that took Mario to outer space and brought with it some of the greatest level design in the series.
+
+The concept of Super Mario Galaxy spawned from a 2000 tech demo for the GameCube called “Mario 128.” Upon creating that demo, Super Mario Galaxy director Yoshiaki Koizumi tried to think of a way to turn it into an actual game, but he always thought it would be close to impossible due to technical limitations. “In Mario 128, the platform was built in the shape of a flying saucer, but in order to change the platform into a spherical shape where Mario could freely roam around, it would require a high level of technical expertise,” he said in a 2007 Iwata Asks. “I also felt that the motivation of the team members had to be very high in order to overcome this obstacle.”
+
+Around that time, Nintendo’s late president Satoru Iwata was also taking an interest in that concept. “Incidentally, I had heard about the spherical platforms from Miyamoto-san more than five years ago, though at the time, I didn’t quite understand why having spherical platforms would be so ground-breaking,” he said in that same Iwata Asks. “However, as Mario Galaxy began to take shape, I finally started to understand.”
+
+The Mario Galaxy games continued refining the excellent gameplay feel of controlling Mario in a 3D space, but with more inventive design that used novel mechanics like gravitational pull to the advantage of both the level design and gameplay. While minimizing the use of motion controls, what implementation it did have was meaningful, reserving the unconventional control scheme for moves like Mario’s spin attack or his new ability to sling star bits at enemies to stun them. Despite all of these new elements, the Galaxy series was unafraid to tip its cap to games of the past, often paying homage to them through musical cues or design elements.
+
+According to Miyamoto, the success of the Galaxy series is thanks in large part to the team’s design of Super Mario 64. “3D Mario games, started with Super Mario 64, always had a miniature landscape the player could move around within freely,” Miyamoto said in a 2010 Iwata Asks. “They were structured so you gradually came to understand the landscape. Stars were placed around here and there, and players could tell just by looking which ones would be easy to get and which ones would be difficult.”
+
+The finished product of Super Mario Galaxy achieved such universal acclaim that it became the first 3D Super Mario game to receive a direct sequel in 2010’s Super Mario Galaxy 2. The follow-up brought Yoshi into the mix and introduced a few new power-ups, but again, the level design was the primary focus; it stands out as one of the best designed 3D platformers of all time.
+
+Yoshi’s Island’s Place In The Series
+
+Because of the emphatic departures from the series’ mainstay features, many fans do not consider Yoshi’s Island to be a true follow-up to Super Mario World, with some even denying it a place in the Super Mario lineage. The creators of the series are less divided on this matter, however. “I consider it as part of the Mario series,” director of the game Takashi Tezuka told us. “When that game debuted, I wanted people to understand that Yoshi was part of the Mario world, and that be conveyed whether through title or gameplay. To me, it’s part of the Mario series, but today’s Yoshi games? They’ve changed from those origins, so I think it’s okay to think of Yoshi living in in his own universe. You can think of it separately from Mario’s world.” Series creator Shigeru Miyamoto agrees with Tezuka. “When we first made Yoshi’s Island, we considered it part of the Mario series,” Miyamoto explained to us in 2012. “After that, the Yoshi series continued on its own. As developers, do we consider it to be part of the core Mario series? The answer is yes.”
+Another New Dimension
+
+Another New Dimension
+
+Shortly after Super Mario Galaxy 2, Nintendo released Super Mario 3D Land on the 3DS. The 2011 game combined retro elements, such as the super leaf and tanooki suit from Super Mario Bros. 3, as well as the overworld map. 
+
+This self-referential game design is more than just Nintendo trying to cash in on nostalgia. During a 2011 Iwata Asks, director Koichi Hayashida explained his design philosophy for Super Mario 3D Land. “I analyzed Miyamoto-san’s way of making games and tried to make Super Mario 3D Land the way he made 2D games,” he said. “I showed everyone the minimum volume, started with what looked possible to make, and then added on.”
+
+The game was a success, selling over 10 million copies worldwide. In addition, the game inspired the next 3D console game, 2013’s Super Mario 3D World. Though Super Mario 3D World contained many of the elements used in Super Mario 3D Land, Nintendo went bigger with its design, crafting more challenging stages and introducing true cooperative play into the 3D setting for the first time.
+
+Super Mario 3D Land and Super Mario 3D World also signaled a shift in design philosophy. With the inclusion of increasingly inventive and formidable power-ups, the team shifted its design philosophy to be less worried about giving players too much power in the name of preserving difficulty. The only thing that mattered to the team was that it was fun for players to use.
+
+“If you really attempt trying to balance everything out in the name of competition, you start adjusting parameters-editing capabilities by raising this while lowering that. But then, even if the character types are different, you have to make adjustments so their overall abilities are equal,” Miyamoto said in a 2013 Iwata Asks. “We simply thought about how fun we could make it without any conflicting elements, and about how much we could pack in.”
+
+Super Mario 3D World is also considered a success. Even though the Wii U didn’t have the same player base as the more popular 3DS, the game still sold over 4 million units across the globe.
+
+Mobile Mario
+
+Though Mario will always be best known for his home-console releases, he has also appeared on each of Nintendo’s handheld devices. His 1989 debut on the Game Boy, Super Mario Land, was a considerably smaller adventure than either Super Mario Bros. or Super Mario Bros. 2, but it acted as the first opportunity for players to bring Mario’s never-ending adventures on the road.
+
+In 1992, Super Mario Land 2: 6 Golden Coins released on Game Boy, bringing a more traditional Super Mario experience to handhelds. In addition to using the overworld map stage select seen in Super Mario Bros. 3 and Super Mario World, Super Mario Land 2 also introduced Wario as an antagonist. Wario proved popular and became the main character in the next handheld game, 1994’s Super Mario Land 3: Wario Land.
+
+Following the Game Boy’s discontinuance, several of the console Super Mario games received ports on the Game Boy Advance, but fans did not receive a new, original handheld entry in the core series until 2006’s New Super Mario Bros. on the DS.
+
+The DS received an updated port of Super Mario 64 at launch in 2004, but the first original 3D Mario to appear on handhelds was Super Mario 3D Land in 2011. The game used the glasses-free 3D feature of the 3DS to allow the player to solve puzzles related to depth of vision, while bringing strong level design and several nods to Mario games of the past like Super Mario Bros. 3.
+
+The 3DS also received New Super Mario Bros. 2 the following year. The title vastly improved upon the graphics of the original DS title and implemented a fun side mission of collecting 1 million coins over the course of multiple playthroughs.
+
+Going forward, it doesn’t appear likely that Nintendo will shift focus away from its popular dedicated handheld gaming devices, but with the announcement of Nintendo properties coming to iOS and Android devices, the future of Mario’s adventures on the go is very much up in the air.
+A Return To 2D Glory
+
+A Return To 2D Glory
+
+At the same time that Mario was exploring exciting 3D worlds, Nintendo was looking to bring the character back to the 2D plane for the first time since 1995’s Super Mario World 2: Yoshi’s Island. 2006’s New Super Mario Bros. delivered a nostalgic 2D side-scrolling adventure on the DS with new graphics and abilities.
+
+“[Tezuka-san] felt that 2D would be necessary since the gameplay of Mario in 2D was well understood by a large number of people,” Super Mario Maker director Yosuke Oshino tells us. “He thought it best to go back to basics and make a side-scrolling Mario that fit modern times. Since we want a lot of people to play Mario, we wanted to add to the variation available as much as possible, so I think going back to the roots like this is a net plus for the series.”
+
+“At that time, Mario had advanced to 3D and we would discuss the fact that there were now two different strands to the Mario series: There was the Mario that had developed in step with consoles as they had become more advanced, and there was also the basic Mario that anyone could play,” Miyamoto said in a 2009 Iwata Asks. “When I talked about this with Tezuka-san, he said: ‘Right, if we make another one, it should be a side-scrolling Mario.’”
+
+The return to 2D proved to be a hit with fans, and New Super Mario Bros. spawned direct sequels on Wii, 3DS, and Wii U. Though the games were largely seen as a return to the original style of the Super Mario series, Nintendo had given players a new way to enjoy the side-scrolling design. 
+
+New Super Mario Bros. Wii and New Super Mario Bros. U implemented simultaneous cooperative play, an extremely popular new way to experience the classic 2D gameplay. Players no longer needed to wait their turn to get a crack at conquering a level, and the feature let players speed through stages together, or impede each other’s progress in entertaining ways.
+
+With the return to Mario’s 2D roots, Nintendo released Super Mario Maker, a game that offers players the tools to easily design levels for Super Mario Bros., Super Mario Bros. 3, Super Mario World, and New Super Mario Bros. U. 
+
+Tezuka told us that the inspiration for Super Mario Maker came from Mario Paint on the SNES and the Wii U GamePad. “While I had a Mario Paint kind of gameplay experience in my head, at the same time we have an internal tools team who is working in creating an editing application for creating side-scrolling courses for our developers, so they were prototyping some different versions, and I saw that.”
+
+Super Mario Maker released in September to favorable reviews and high praise from fans. Though it’s just a passing glimpse of what it takes to design within the constructs of four different Super Mario games, it’s enough to give players the opportunity to find themselves in the same mindsets that Miyamoto and Tezuka had when designing the original Super Mario Bros. over three decades ago.
+
+Game Informer’s Favorite Mario Games
+
+Though Mario has appeared in well over 200 games since his debut in 1981’s Donkey Kong, the core series has seen fewer than 20 entries in its first 30 years. Since none of these core games are bad, ranking them can seem like an impossible task, but we compiled a list of our editors’ personal favorites.
+
+Super Mario World (SNES, 1991)
+Super Mario Bros. 3 (NES, 1990)
+Super Mario Galaxy (Wii, 2007)
+Super Mario Bros. (NES, 1985)
+Super Mario 64 (Nintendo 64, 1996)
+Super Mario Galaxy 2 (Wii, 2010)
+Super Mario Bros. 2 (NES, 1988)
+New Super Mario Bros. (DS, 2006)
+Super Mario World 2: Yoshi’s Island (SNES, 1995)
+New Super Mario Bros. Wii (Wii, 2009)
+Super Mario Sunshine (GameCube, 2002)
+Super Mario 3D World (Wii U, 2013)
+Super Mario Land 2: 6 Golden Coins (Game Boy, 1992)
+Super Mario 3D Land (2011, 3DS)
+Super Mario Land (Game Boy, 1989)
+Super Mario Bros. 2: The Lost Levels (SNES, 1993)
+New Super Mario Bros. U (Wii U, 2012)
+
+And 30 More!
+
+Over the last 30 years, the Super Mario franchise has taken many different forms, but the fundamental quality of putting the fun first has remained the same. Tezuka thinks that is the key to keeping Mario relevant over the next 30 years. “I think that, no matter what, it comes down to whether we can create fun gameplay experiences for Mario to appear in,” he says. “To achieve that, we need to provide technology and services to match the times, working in all kinds of new ideas into the gameplay. I think it’s important that we remain flexible as developers.”
+
+What made the original Super Mario Bros. so special was that just about anyone could play. That same quality endures in today’s Super Mario games, and remains the key to what makes the series so special. As long as it maintains its wide accessibility and near universal appeal, it’s not farfetched to think that Mario and his friends could be just as popular 30 years from now as they were 30 years ago.
+
+Brian Shea
+Online Content Director
+Brian has written about video games for more than 15 years across multiple publications. Brian is also the host of All Things Nintendo, a weekly podcast focused on the news and games of Nintendo.
+
+Email
+Twitter
+

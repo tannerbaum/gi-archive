@@ -1,0 +1,49 @@
+
+  What Does The PS5 Bring To Kena: Bridge Of Spirits?
+
+
+
+
+
+
+A version of this article appears in Game Informer Magazine issue 329.
+
+Kena: Bridge of Spirits debuted during Sony’s PlayStation 5 event, so it was only fitting that we got to see it running on the upcoming console. That’s not the only way players can experience the game, which is also coming out on PlayStation 4 and PC via the Epic Games Store, but we were excited to see what the next-gen hardware brings to the table. As it turns out, the answer is fairly interesting.
+
+First up, there’s the matter of load times. Sony has touted the speed of the PS5’s solid-state drive, and how it virtually eliminates long loads. In practice, we watched as Kena was launched from the PlayStation 5 system menu. It took about two seconds. That’s not resuming a suspended game, but launching the game fresh. 
+
+“They have a whole thing set up where you can do transition and it’s very nice, but frankly it doesn’t have time to play the animation. It just loads the game so fast,” says Josh Grier, chief operating officer at Ember Lab. 
+
+The game wasn’t originally designed with the PS5’s hardware specs in mind, but the additional horsepower has allowed Ember Lab to do more within the boundaries it initially established. 
+
+“It’s been really nice,” says chief creative officer Mike Grier. “We’ve been on development on PS4 for most of the project, and squeezing it and getting the performance that we wanted out of it was a nightmare. But having done all that, when we went to PS5 it was nice, because we had a good baseline and then we could just add to it and take advantage of the extra juice.”
+
+Some of the changes seem fairly substantial. We didn’t see a side-by-side comparison on the game running on PS5 and PS4, but Mike says the forest is more lush and dense in the PS5 version. He says that combat is one of the game’s foundational elements, and ensuring that it performed well on the older hardware took priority over the amount of foliage players would see in the environments. 
+
+Another thing that will probably be apparent is the number of Rot that players will see in the world. There are 100 of the tiny creatures to discover in the world, and PlayStation 5 players can potentially see all of them scampering around onscreen simultaneously. On PlayStation 4, you can still find all of the Rot, but they won’t all be represented visually. Mike says that even with the game’s aggressive level-of-detail scaling on the creatures, the performance suffered too much on PS4 with the whole crew onscreen, so they had to make concessions. Their functionality is the same on both versions, but the visual differences are there.
+
+The PlayStation 5’s controller is another significant upgrade. “The triggers on the DualSense controller have resistance on them, so we’re utilizing that for the heavy attacks, but also for the bow,” Mike says. “You draw it, and the way it sounds and the resistance feels like a bow tightening up.” 
+
+“The triggers are a part of it, but when you get the haptics in the hands, it really brings it all together,” Josh adds. “Obviously, you feel the tension in your trigger finger, but when you’ve got the bow drawn and you add the Rot into it, we can dynamically say, ‘OK, this right palm feels the Rot jumping into it.’ And then when we use the Rot cloud, as the cloud shifts from left to right on the screen, you can feel it transitioning from left to right in your hand, as well.”
+
+Designer Liz Fiacco says she was particularly excited about that haptic feedback, which provides a greater degree of feedback to players than the traditional rumble. She says that when she worked at Naughty Dog, the team there used a tool to create rumble on the fly using DualShock inputs. On PlayStation 5, haptic feedback is controlled using an audio wave, which gives creators much more freedom on how it’s implemented. “We’re a small team, and there’s only so much experimentation we can do with it, but we’ve gotten some cool stuff in already,” she says.
+
+Since the team is building the game for PlayStation 4 and PlayStation 5, there’s a fair bit of switching around between older and newer hardware. Unsurprisingly, there’s a pretty clear winner, at least according to Josh. “Once you go here, it’s kind of hard to go back,” he says, pointing to the PS5 controller in his hand. “I like the DualShock controller, don’t get me wrong, but I want to play with this guy.”
+
+If you’re still on the fence about making the next-gen transition, or aren’t able to get one at launch, that doesn’t mean you shouldn’t check out Kena on PS4. To sweeten the deal, Ember Lab has announced that players who pick up the game on PS4 can get a free PS5 upgrade when they decide to upgrade to the next console generation.
+
+      Products In This Article
+
+Kena: Bridge of Spirits
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC
+
+Release Date:
+
+September 21, 2021 (PlayStation 5, PlayStation 4, PC), August 15, 2024 (Xbox Series X/S, Xbox One)
+
+Purchase
+More Info
+

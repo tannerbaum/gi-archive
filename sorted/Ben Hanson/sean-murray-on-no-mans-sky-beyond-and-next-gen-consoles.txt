@@ -1,0 +1,107 @@
+
+  Sean Murray On No Man's Sky Beyond And Next-Gen Consoles
+
+
+
+
+
+
+            Last month Hello Games announced it's releasing another free expansion to No Man's Sky called No Man's Sky Beyond, adding No Man's Sky Online, VR support for PC and PS4, and a mysterious third feature. While at GDC 2019, we got a chance to play No Man's Sky in VR and interview Hello Games' managing director Sean Murray about the team's commitment to building on the base game and much more.
+
+Game Informer: So how challenging is it to keep adding this content to No Man’s Sky? I can’t imagine how you’re still building on the old tech and expanding No Man’s Sky like that. It’s mind-blowing.
+
+Sean Murray: Yeah, it’s a challenging thing, but it’s a fun thing for us.
+
+And what about just expanding the online aspect of the game, and to get… how many players rolling into the game now?
+
+At the moment we’re playing with four players. As in No Man’s Sky Next, that’s the size of team that people generally had. We’re expanding the game with No Man’s Sky Online, but we haven’t said numbers and things like that. But we want it to be a much more expanded online experience
+
+Are we talking more than 20 players?
+
+We’ve been through a thing where we’ve learned very much not to say things until we’re absolutely sure of what we’re doing.
+
+“We’ve been through a thing” is a very interesting way of putting it.
+
+[Laughs]
+
+Sorry, this video is not available
+
+Above: Watch our impressions of playing No Man's Sky in VR at GDC 2019.
+
+What about just tech-wise, what is the team still uncovering? How are you still able to increase the player count?
+
+For No Man’s Sky, it’s always been a really technically challenging game… We’re really lucky in that the tech is ours, the engine is ours, and we have all of that knowledge. A lot of what we’re able to do in terms of adapting production quality and adapting assets and things like that is because it’s based on that procedural tech. It’s not baked in, in terms of art. There’s a lot of things that we can do to change the game or scale the game. So if you look at it technically, and you look at the release version of No Man’s Sky and you look at it now, there’s so much graphically that has changed. Very few games do that. There’s a lot of games as service, but there’s not a lot of games that really change how they look.
+
+Just in general, zooming out a little bit, why are you so interested in expanding this game and sticking with it? It seems like with the last big update, the community was like “Alright, we’re officially good.” Hands shaken. Are you doing it for yourself or are you doing it for the community?
+
+It’s interesting, right? We have always continued to update the game because lots of people were playing it and lots of people were enjoying it, right? When we released, the average playtime was about 25 hours across multiple millions of people. Most AAA games would be very jealous of that time spent… But we could also see that people were frustrated because they wanted to enjoy it more, and they wanted more features. If you bought Next, which is the big update we released last year, you’ll see people generally played about on average 45 hours. About 30 percent of people are playing for over 100 hours. 
+
+And it’s just as simple as that financially you’re doing okay and you just want to keep supporting that community?
+
+Let’s take Next for example. I’d love to sit here and say we’re doing it all completely altruistically. But the reality is that if nobody was playing the game we wouldn’t be pouring so much into it. We couldn’t, it wouldn’t make sense. But we weren’t expecting it to be quite this successful. No Man’s Sky Next last year sold the kind of numbers that a AAA game would be very happy with at launch. And that’s two years out from release.
+
+And you’re not waking up in a cold sweat thinking, “I’m never going to make another game. It’ll be No Man’s Sky for the rest of my life!”
+
+[Laughs] Well, we’ve started on something new internally. But we’re obviously still pouring a lot of love into No Man’s Sky… But yeah, I’m excited about other ideas too. We’re making a smaller game with The Last Campfire. There’s more to the studio than No Man’s Sky but it’s a big part of who we are. Who knows if we’ll ever have a game that’s as successful or played by as many people or for as many hours or whatever. But whilst people are excited about it, then we’re not going to be unhappy about that.
+
+But as a studio, I think after Next, we were genuinely saying, “I don’t think we have another big update like that in us.” And then about a month or two after the release of Next, we let people experiment with a few things. "You guys can experiment, time is less scheduled. Let’s just do some smaller things and those things can spin out into updates of their own." Before we knew it, we sat down in January of this year and one group of people had VR looking good. One group of people had No Man’s Sky Online looking really impressive. And one group of people had something else on the go. We were like, “Oh, there’s still loads we can do in this game.” That’s the thing about No Man’s Sky, it’s this big bucket that you can put so many different things into.
+
+We initially planned to release those as separate updates and they would be nicely paced throughout the year. It’s kind of annoying we’re not doing that because that would be nice for the community to have these little drops, but that was the [original] plan. But we started to see that they were quite interlinked. So we were like, “Okay, let’s combine them because if we don’t combine them then this doesn’t fit with that and this doesn’t fit with that. Let’s make them into one bigger thing." 
+
+How big is the team at this point?
+
+With No Man’s Sky, when we were developing until launch, average team size was about 6. Which was very small. We were about 15 when we launched. So when you guys came over [for the cover story] we would have been about 12 or something like that. The dev team now for this, and The Last Campfire, and other stuff that we’re doing is about 25. So we’re still a really small team. But we’ve got lots more helping other areas outside of dev that we always should have had. Like a much bigger QA team and that kind of stuff that helps us bring updates up to a really high standard. There’s a bit more structure around the team, but the dev team itself is still really small.
+
+Above: The Hello Games team during our cover story trip in November of 2014.
+
+When you were on The Game Informer Show podcast, you mentioned that you were still in love with procedural generation and that you were interested in making an RPG centered around one world. Is that still something you’re interested in? Working with procedural generation on a smaller scale?
+
+Well, I think we… this is a really hard thing to talk about because it feels like I’m… I don’t want to talk excitedly about something that doesn’t exist. But I will say that when we were making No Man’s Sky, we got glimpses of what the tech could do. And what it could be in the future. We had various constraints that were in place at the time of development, around just the team size, and date that we had to hit, and stuff like that. But we got glimpses of what was left on the table. We’re definitely really excited as a team by where that could go. Even though we’ve changed No Man’s Sky a lot, there’s certain constraints that are just built in there. So few games update in these major ways where they add multiplayer or VR or whatever, and somebody’s got like a 3,000-hour save of No Man’s Sky and they expect to load that up and for everything to still work for them? So there’s certain constraints around that.
+
+So starting fresh with the tech…
+
+There are things you could do, yeah. That’s too exciting for us.
+
+Thoughts on the next generation? Hopes, fears, do you care? What do you think about the landscape moving into the next generation?
+
+So… I.. I… obviously watched the Stadia stuff and it was really interesting. I know… things…
+
+Exciting things?
+
+… that I can’t talk about. Let’s take Stadia as an example. What I think would be really interesting would be to hear about gaming experiences that couldn’t have been before. It’s cool to hear 10 teraflops, right? It’s exciting. I think a vast majority of people don’t know what that actually means. Having cooler particle effects is great, having 4K or 8k is great, having better anti-aliasing is all cool, but I think all of us would be interested to know what experience I could have that I couldn’t have before.
+
+Are you interested in porting No Man’s Sky to Google Stadia?
+
+I don’t know. Like I said, I think where Stadia becomes interesting is where we will all stop talking about latency, or whether it can run on a Chromecast, or whether I care about having to buy a console or subscription models or whatever it is, is where they show me an experience that I couldn’t have elsewhere. Because, personally, like a lot of gamers, I’m fine buying a console. I already have a console, I know I’m going to buy the next ones. You know, obviously I remember being a kid and having to save up for those things and I get that it would be nice to have that hurdle removed. But what’s exciting for all of us in games is that moment when you see next-gen and you’re like, “F---, I didn’t think that could exist.” I've always wanted that. So I think that’ll be very interesting. I think there will be that kind of thing coming.
+
+Because you know it’s coming.
+
+[Laughs] No. I think it’s inevitable. Like when we were shown next-gen last time, there was this initial moment of, “We have seen all this before but it’s just in a higher resolution” then suddenly it’s like, “Wow, I haven’t seen this thing!” 
+
+You’ve gotten much more comfortable in interviews since the cover story trip. What’s happened to you, dude? You really sold out.
+
+[Laughs] Oh God. I don’t feel more comfortable. 
+
+Have you ever gone back and watched that old rapid-fire interview we did? Thank you, by the way, for getting this entire ball rolling for us. 
+
+The team has watched it a bunch of times and thinks it’s really funny. 
+
+Do you regret doing that?
+
+So… there are many things I regret. I don’t regret playing bongos with Jeff Cork. Of all the things I regret, that isn’t one of them.
+
+      Products In This Article
+
+No Man's Sky
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation VR2, PlayStation 4, Xbox One, Switch, PC
+
+Release Date:
+
+August 9, 2016 (PlayStation 4, PC), July 24, 2018 (Xbox One), November 10, 2020 (Xbox Series X/S), November 12, 2020 (PlayStation 5), October 7, 2022 (Switch), February 22, 2023 (PlayStation VR2)
+
+Purchase
+More Info
+

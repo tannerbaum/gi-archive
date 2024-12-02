@@ -1,0 +1,24 @@
+
+  Why The Elder Scrolls Online Isn't Using HeroEngine
+
+
+
+
+
+
+Elder Scrolls Online developer Zenimax Online Studios licensed MMO middleware HeroEngine, which is also used in Star Wars: The Old Republic, shortly after the studio's 2007 founding. After we announced the game with our June cover story, a vocal set of fans wasted no time in making their concerns about ESO's use of the technology known. Across the Internet, fans voiced worries that The Elder Scrolls Online would be "just another MMO," putting an Elder Scrolls skin on a World of Warcraft design. We asked game director Matt Firor to clarify what his studio uses HeroEngine for and why the developer licensed it. The answers may not be what you expect.
+Zenimax Online also provided a brand new screenshot of the Argonian homeland of Black Marsh, shown above. Click the pic for the full version.
+You licensed HeroEngine a long time ago. What role did the Hero Engine play in the development of ESO?
+We started ZeniMax Online from scratch, with no employees and no technology. We had to build everything ourselves. It takes a long time to write game engines, especially MMO engines, which are inherently more complicated than typical single-player ones. So, we decided to license the HeroEngine to give us a headstart. It was a useful tool for us to use to prototype areas and game design concepts, and it provided us the ability to get art into the game that was visible, so we could work on the game’s art style. Our plan is for ESO to be a world class MMO, with the most advanced social features found in any MMO to date – so while we were prototyping the game on HeroEngine, we were simultaneously developing our own client, server, and messaging layer that were specifically designed with ESO in mind. Think of HeroEngine as a whiteboard for us – a great tool to get some ideas in the game and start looking at them while the production engine was in development. 
+What were your project’s needs that drove your decisions as to which pieces of tech to use?
+When you’re creating something this big and complex, writing your own engine makes debugging and new feature creation far easier. Also, our plan is to have ESO run on just about any PC or Mac – laptops included – that have been bought in the last five years. Of course the better your computer’s graphics capability, the better the game looks, but we want to be sure that just about anyone can play the game and have a great time exploring Tamriel. Because of this, we needed to write our engine to be versatile enough to add or cut back on graphical features based on the user’s hardware. To do this, we had to write our own renderer with our own shaders.
+Fans have expressed concerns about tech and tools limiting or defining the kind of content you can create, not wanting “just another MMO.” How do you respond to that?
+In general, a game’s engine doesn’t really define what kind of content, or even what type of game, you can make. The real factor in stability, graphical awesomeness, and other features is the ability of the programmers and designers that you have working on the game – and the ones here at ZeniMax Online are some of the best in the world. They are what it’s going to make ESO stable, beautiful, and fun – not the engine.
+Can your tech do anything that you think is important that gamers haven’t seen in any current MMOs?
+We’re not talking about some of our advanced features yet, which will definitely distance ESO from the competition, especially some of the social features we’re building into our server.
+What advantages do you get from doing things on the tech side the way that you are now?
+When you control the technical platform that you are developing on – by writing it yourself – you get to make all the decisions, and ensure that all features are developed with your game in mind. This makes things tighter and more stable.
+How does all this add up in your mind to make ESO a better game in the end?
+There are no compromises with the technology that we’re using – everything in the game’s engine was written for this game, with no extraneous code, features, or tools.
+Be sure to click the banner below to visit our Elder Scrolls Online hub, where you can find exclusive video interviews with the team and more.
+

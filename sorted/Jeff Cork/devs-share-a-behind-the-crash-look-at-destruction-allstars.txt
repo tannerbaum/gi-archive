@@ -1,0 +1,53 @@
+
+  Devs Share A Behind-The Crash Look At Destruction AllStars
+
+
+
+
+
+
+            Destruction AllStars crashed into public consciousness last June during Sony’s PlayStation 5 event. At the time of its bombastic reveal, the car-combat title was set for a retail release around the then-upcoming console’s launch. In October, Sony pumped the brakes, announcing that the title was getting delayed to February 2. To mitigate the sting, the company said the game would be available at no extra charge for PlayStation Plus subscribers. Hours from its worldwide launch, we spoke with Destruction AllStars’ senior producer and director to learn about its old-school roots, on-foot action, and how it’s treating cars like guns.
+
+When we spoke, the game was slowly coming to life on the other side of the globe. Players in New Zealand were the first to be able to check out the game, which has been an interesting experience for Colin Berry, director at Lucid Games. “This is the first time I’ve launched a game and now there’s somebody playing it live on Twitch,” he says. “Which is cool and exciting, but I’ve described it as being a bit unnerving.” 
+
+Berry has been developing games for decades, working on the Wipeout series, Sonic & All-Stars Racing Transformed, and more. He says Geometry Wars 3 was the last game he’s worked on that most people have heard of, adding, “It was only maybe five or six years ago, but the world was a different place back then.” He says the launch of the PlayStation Portable game Wipeout Pure went well, for example, but that it essentially occurred in a vacuum. “I never actually got to see anyone playing it outside of E3. Because once it’s out, you don’t see people play your game. Only now you do, and that’s new to me. You’re more connected to the people who are playing your game.”
+
+The Shift To PlayStation Plus
+
+If things go according to plan, there are going to be a lot of people playing Destruction AllStars. Its competitive nature was the impetus for the move away from a full-priced retail game to a PlayStation Plus release. “The reason for that was quite simply, online multiplayer games need an audience,” says John McLaughlin, senior producer at Sony. “And to give the game the best audience possible was to put it into PlayStation Plus. PlayStation Plus decisions are made way in advance, so the earliest we could come out was February.” It’s a move that helped give titles like Rocket League and Fall Guys an early boost, and Sony is hoping for a similar effect with Destruction AllStars.
+
+The delay gave the developers time to ensure that its online tech was up to snuff. “There’s a difference between launching when there’s no consoles out there and having a very small audience and then coming a few months later when you have potentially millions of players on,” McLaughlin says. “We spent a lot of time on the back end, working hard and making sure that everything goes as smoothly as it possibly can.”
+
+Car Combat Comeback
+
+Back in the PlayStation 1 era, car-combat games were fairly common. In fact, the original demo disc for the console featured playable demos for Destruction Derby and Twisted Metal. “There used to be a lot of these games of this type, and then they just kind of seemed to dry up,” Berry says. “It’s similar not just with the car arena-combat games, but even with action-arcade racing games like the PlayStation 2, PlayStation 3 era of Burnout and Split/Second and Blur and those.”
+
+Arcade racers still come out from time to time, but players who just want to smash cars together until they explode have fewer options. And as Berry points out, those games don’t stop being fun just because they’re not being made much anymore. 
+
+“I can remember early on in our project – I won’t name-check the guy because he wouldn’t be happy – but we have a concept artist who joined us fresh out of school, a really good guy, a really talented guy,” Berry says. “He must be 21, 22 now, so he was 18 back when we first sort of started the project. One of the references for one of the things that we were looking at, I mentioned Burnout, and he was like, ‘I’ve ever played Burnout.’ I was like, ‘What? It came out blah blah blah this year,’ and he was like, ‘Yeah, I was four.’ Right. That explains that.” Berry says that exchange made him appreciate that his team would be bringing a genre to players who may not have had a chance to experience the satisfaction of crashing virtual cars together.
+
+The twist with Destruction AllStars is that you don’t lose when your car is wrecked. Instead, your character can continue on foot – which is about as dangerous as it sounds. “In this game, even though it’s car combat and it’s about smashing into each other and the cars are a really heavy focus, the way we sort of think about it, for our mentality, is you are the character and the cars are your weapons,” Berry says. “They’re disposable. You’re supposed to wreck them and cause damage. You’re supposed to get wrecked. In years gone by, it’s always been that thing of, ‘Oh, if I get wrecked I’ve lost.’ Or that’s game over. But it’s not. You get wrecked, and you come flying out of the car in an explosion of metal and wheels and bits of car, and your character comes out and lands on the floor and bang. They go, and they’re off.”
+
+Wear And Tear
+
+Destruction is, obviously, a huge part of the game. As cars degrade and take damage, they begin to perform more poorly. As it turns out, finding the balance for that aspect of the driving was a little tricky. “It’s mostly cosmetic, and this was something that we deliberately tuned because we could have gone either way,” Berry says. “Because you can get out of the car at any point, it became a question early on, ‘If we gimp your handling as soon as you get impacted, you’re just going to get out of that car and go and get another one.’ And that means we end up with an arena littered with abandoned cars that are of no use to anybody, and it means that we’d probably get less spectacular wrecks because you take a bit of damage, lose a wheel, and then get out because the car feels really, really gimped.
+
+“On the flipside, if we never reflect the damage in the handling and in the car’s performance, that’s not going to feel completely right, either, because it’s going to feel like a little disconnect. We tailor it so that as the car has taken quite extreme damage and it’s on its last legs, say its last 25-percent of health, you can start to feel it pull to one side if it’s taken damage to one side or lost a wheel. And you start to feel the bite on the accelerator on the adaptive triggers and also the brake, they start to rattle and you can feel that your car has taken damage. It’s going a little bit slower, but not massively slower. It was a conscious choice of wanting to reflect damage in the vehicle performance but we don’t want to do it to a level where it becomes too much and the players just leave the car behind.”
+
+Destruction AllStars is available February 2 on PlayStation 5 via PlayStation Plus.
+
+      Products In This Article
+
+Destruction AllStars
+
+Platform:
+
+PlayStation 5
+
+Release Date:
+
+February 2, 2021
+
+Purchase
+More Info
+

@@ -1,0 +1,74 @@
+
+  A Deep Dive On Sonic Frontiers Combat And Boss Battles
+
+
+
+
+
+
+            Sega's speedy blue hedgehog has been smashing Badniks since his first encounter with a Motobug in Green Hill Zone, but combat has always played second fiddle to the speed and platforming of the franchise. While certain games like Shadow the Hedgehog, Sonic the Hedgehog (2006), Sonic and the Black Knight, and Sonic Forces have experimented with new combat mechanics for the games' protagonists to use, Sonic Frontiers looks to evolve that gameplay component in unprecedented ways.
+
+When Sonic Team set out to create Sonic Frontiers, it wanted to give players more freedom with which to operate. It did this by introducing a new open-zone concept, where players are able to run through and explore various biomes without a predefined path to guide their gameplay. That shift from largely linear stages to a large open zone represents perhaps the biggest shift in how this new Sonic the Hedgehog game plays out, but as I traversed Kronos Island during my three-plus hours of hands-on time, the combat held a much larger role than I expected.
+
+"Sonic games have a long history as stage-clear action games and because of that, there hasn't been a huge focus on battle and combat in Sonic's history," director Morio Kishimoto says. "But for this title, we are implementing a core battle structure to the game as it was imperative in creating a fun new open-zone game system"
+
+Shortly after I set off running through the open zone, I encounter a small group of basic enemies. Using Sonic's trademark homing attack, I can get close and bounce between enemies. This feels in line with past Sonic games, but once you're in close, you can keep pressing that button to unload a melee combo on your target. These early enemies don't require much thought, but as I approach my first destination – an in-world boss labeled "formidable enemy" – I see that combat in Sonic Frontiers is not going to be about mindlessly bouncing from enemy to enemy.
+
+"In previous Sonic games, combat was kind of like an accent that gave the high-speed action a sense of rhythm," Sonic Team creative officer Takashi Iizuka says. "This time, we're adding a greater sense of tension and tactics to the combat. All of the enemies have been designed based on tactics."
+
+I witness the fruits of this change in design philosophy immediately upon arriving at my destination. Waiting for me at the waypoint I set is a Ninja, an imposing robotic creature with blades for arms. I rush at the Ninja as I did with the first group of enemies, but that proves to be a foolish tactic. I speed towards it and lock on with a homing attack to get close. Unfortunately, I only have time for a few melee attacks before the Ninja loads up and slashes at Sonic with its sharp, bladed arms. Sonic goes flying (along with the rings I collected) and the Ninja continues its warpath. As it dances around in the distance, I start piecing together its attack pattern. The Ninja is quick, but Sonic is still quicker.
+
+After the Ninja finishes a spinning move where it brandishes its blades in a deadly fashion, I take my opening to attack. I home in on the boss and unload the combo I tried before, chipping away at the creature's decent-sized health bar. I repeat this process a couple more times, keeping my distance and closing in to deal my damage before the Ninja collapses and erupts in a bright purple blast. Bosses leave behind Portal Gears, which help you access the linear-style Cyber Space levels scattered throughout the open zones. Sometimes, they also open new areas; this Ninja in particular gave me access to a new, large portion of the Kronos Island map.
+
+Shortly after my encounter with the Ninja, I earn enough skill points to unlock Cyloop, one of Sonic's multiple new abilities found in Frontiers' skill tree. Cyloop, which is depicted in both the reveal trailer and the cover of our magazine, creates a glowing trail behind the Blue Blur that creates different effects when drawn into a completed circle. Performing it in the middle of the field spawns a group of rings, while I later use it to extinguish several torches simultaneously to solve a puzzle. However, the biggest utility for Cyloop appears to be in combat. By drawing a circle around a group of enemies, I create area-of-effect damage; it doesn't deal devastating damage by any stretch of the imagination, but it helps with crowd control. 
+
+As you gather more skill points, you can explore further down the skill tree. I spot abilities like Sonic Boom (shoot projectile blades mid-combo), Wild Crash (run towards enemies with a zig-zag pattern to avoid their attacks), and Accel Rush (increased power when you max out your combo meter), in addition to hidden skills that unlock as you play through the campaign. "Starting out with Sonic at full power would make the combat simple and repetitive, so we made it so the player gradually unlocks Sonic's abilities through the skill tree," Iizuka says.
+
+"There are many games out there with their own unique combat systems, but for this title, we wanted to focus on what a Sonic style of fighting would be, what sort of enemies should exist, what skills Sonic would have to defeat them, and so forth," Kishimoto says. "We are not making a Sonic game where the combat and fighting is the core fun element, rather we want to present a game that has a fun combat that suits Sonic's character – that's the fundamental idea."
+
+Sonic can unlock those various abilities as he progresses through the game, but for now, I just have Cyloop. Thankfully, that ability comes very much in handy with the next boss I encounter: Tower. In the distance, a tall creature comprised of several stacked segments touches down in the field. I speed towards it, using the shoulder buttons to dodge the incoming projectiles. Once I reach it, use my homing attack to get close and rattle off another combo. Each section I destroy makes it that much shorter, giving me flashbacks to the Egg Rocket boss from Sonic the Hedgehog 3's Launch Base Zone. The homing attack/melee combo is effective, but the ring that spins around the Tower slides up and down to play defense if I'm in close for too long. Thankfully, melee attacks aren't the only way to knock the Tower down a notch; by drawing a Cyloop circle around the base, I can also destroy the boss' segments.
+
+Not long after I knock out a few pieces of the Tower, it goes mobile. I chase after it and it continues attacking. I catch up to it and deliver another attack, shrinking it down yet again. The systematic way in which I chip away at the Tower is satisfying, and watching it crumble piece by piece makes for an enjoyable sight. I repeat the process one last time and finally polish off the boss. 
+
+My encounter with the Tower showed that the bosses in Sonic Frontiers are set to break the mold of the franchise's boss battles to this point. "In recent Sonic games, the boss battles were more like minigames that would grant access to the next world when cleared, so it was more of just an accent point to the main game experience," Kishimoto says. "For Sonic Frontiers, we are breaking out of the 'minigame boss battle' mentality and creating boss battle experiences that would make for an amazing climax inside of the new open-zone format. This may also be something new that has never been done before for this genre of game, but I think the Sonic movie may serve as a good hint for [one of the] battles."
+
+Perhaps the boss Kishimoto was referring to is Asura, a beast the size of a building. Asura slams its arm into the ground by Sonic, but I dodge it. While its limb is grounded, I run up the arm towards the top, dodging obstacles along the way. Once I reach the top, I target a nearby spire with a homing attack and melee combo. After destroying the first of its three spires, Asura violently shakes, throwing Sonic back to the ground. The massive boss again pounds its arm into the ground and I repeat the process two more times. Each successive ascent is more difficult than the last thanks to additional obstacles as the battle escalates; the final spire's climb took me a few attempts, but I eventually persevered, made it to the top, and toppled the skyscraper of a boss.
+
+The gameplay loop of tracking down bosses, entering Cyber Space stages, and retrieving Chaos Emeralds emerges with a strong presence in the early hours of Sonic Frontiers. Following the third Cyber Space stage I played, I'm treated to a couple of cutscenes. The first one stars Dr. Eggman trying to figure out how to escape Cyber Space, while the second has Sonic in his own predicament. An enormous creature known as a Titan looms over the Blue Blur. A mysterious childlike character appears to Sonic and warns him not to attack the Titan because he's not strong enough. Sonic ignores the warning and goes full speed at the monster. With seemingly no effort, the Titan sends Sonic soaring in the opposite direction. Sonic realizes he's going to need the Chaos Emeralds to possibly stand a chance against something so powerful. I don't get to actually fight the Titan in my demo, but this cutscene certainly appears to set the stage for a battle later on in the game.
+
+Following the cutscene, I roam Kronos Island for a long while, encountering several more basic enemies along the way. While these are more complex enemies than the first enemies that spawned by me at the start of my demo, they fall well short of how involved the Ninja, Tower, and Asura battles were. One enemy type I stumble upon is a spherical creature with blob-like armor. I have to be strategic with my combos, as it also possesses an electric current that it activates if I stick around too long. To beat it, I have to get in, perform a quick combo to chip away at its armor, then wait until its electricity stops flowing; if it hits me or I'm too slow with the follow-up attacks, it regenerates its armor. 
+
+Another enemy I find is a heavily-armored creature that seems completely impenetrable, but that initial assumption proves false, as a simple Cyloop circle around it opens it up for attack. Finally, I encountered a wheel-like enemy that doesn't appear to be much of a threat until Sonic either gets too close to it or defeats it. If either of those scenarios happens, it fixates on Sonic and follows him at high speeds until it self-destructs.
+
+En route to my next boss, I'm given a brief tutorial about how to parry, further expanding Sonic's arsenal. I also stumble upon another Ninja; the first one was a struggle, but I breeze through this sophomore encounter with relative ease. I attribute most of this to the fact that I was still getting my bearings with the controls in the first encounter, but the parry undoubtedly helps as well. If I time the parry just right with the Ninja's incoming attack, Sonic counters and unleashes a huge combo that takes down a good portion of the Ninja's health bar. Following that, all that's left to do is clean up the small amount of health it has left before it's time to go challenge the last boss I find in my hands-on time with the game.
+
+Before my time with Sonic Frontiers comes to a close, I spot one more thing I want to do before I hand over the controller. "There are enemies large enough to spot from a distance," Iizuka says." In this game, there's no set order to go in to progress. The player can head for whatever they find interesting, and taking that on will move the game forward."
+
+The creature I notice soaring over the landscape is called a Flyer. True to its name, it glides over the world like a dragon with a ribbon-like tail. I follow it on foot and wait for it to get low enough to the ground that I can jump onto its tail. The tail turns into a treadmill of sorts, with the Flyer shooting projectiles down its runway as I dodge as I make my way closer to its head. Once I avoid enough lasers and reach the front, I land a homing attack and the Flyer becomes stationary and the battle becomes a traditional arena-style encounter.
+
+The Flyer gave me a run for my money, but it was one of my favorite moments from my time with Sonic Frontiers. Each of the different enemy and boss types I encountered demonstrated Sonic Team's desire to deliver unique combat encounters that play to Sonic's newly enhanced abilities. If the encounters (particularly the ones with bosses) continue to evolve and build on top of what I played during my three-plus hours with the game, this might be the part I'm most excited about as we begin to approach the release window for Sonic Frontiers.
+
+Sonic Frontiers is scheduled to arrive on PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, and PC this holiday season.
+
+      Products In This Article
+
+Sonic Frontiers
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC
+
+Release Date:
+
+November 8, 2022
+
+Purchase
+More Info
+
+Brian Shea
+Online Content Director
+Brian has written about video games for more than 15 years across multiple publications. Brian is also the host of All Things Nintendo, a weekly podcast focused on the news and games of Nintendo.
+
+Email
+Twitter
+

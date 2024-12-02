@@ -1,0 +1,33 @@
+
+  The Enemies & AI Of Transformers: Fall Of Cybertron
+
+
+
+
+
+
+While the AI systems in Transformers: War for Cybertron were completely functional, developer High Moon felt like it needed to rethink its enemy design for the follow-up Fall of Cybertron. The studio’s AI solution has affected every facet of the game, including the fundamental design of its enemies. 
+At any given moment in the game, a player might be undertaking any multitude of diverse actions; players read their enemy’s actions for clues about what they might do next, access their weapon load out, reload their weapons, scan the geometry for cover, weapons and threats, then ultimately commit to a decision. All of this can happen in a matter of seconds, meaning every moment of gameplay contains a nearly infinite number of variables. Since any player can approach any situation in any number of ways, a game’s AI has to be flexible enough to respond to every imaginable situation. This is only one of the challenges behind designing video game AI.
+High Moon feels like it has some added AI complexities to deal with in Fall of Cybertron. “AI systems generally work by assessing the situation and then reacting,” says game director Matt Tieger. “Which is fine if your character is moving at a baseline speed, or even if you are at a run. In most games you can’t get that far from your initial position, before your enemies have decided what to do.” However, in Transformers, players can transform and fly half a mile away in the time that it takes most enemies to process and commit to an action. This means Transformers’ AI systems need to be extra speedy. “Our guys sometimes have to do some radical things in the background to compensate for this problem,” says Tieger.
+High Moon has improved the responsiveness of all of its enemies for Fall of Cybertron, but that’s only one of the key changes to the AI. In order to communicate how its enemies react to the world, High Moon has implemented some overt animation and sound effects that help distinguish each character. Whenever possible, enemies in Transformers: Fall of Cybertron undergo physical transformation changes that will cue players into enemy behavior and weaknesses. 
+In Fall of Cybertron, Autobots and Decepticons have a variety of specialty AI classes. The Autobots have a class called the Titan (seen above). “This guy is a big dude,” says Tieger. “He’s a big hulking mass and he has minions that help him, but he’s unique to the Autobots.” 
+The Decepticons have a variety of different AI classes as well. Discover the best way to take down each enemy in the following analysis of three Decepticon specialty classes.
+Decepticon Leaper
+Leapers are hulking brutes that can be difficult to take down from the front
+Game AI often shapes a game’s environment. For example, the Leaper jumps around a lot, therefore levels that feature him need to be wide and open
+Leapers don’t go into a full transformation, but they do shift into a wedge shape as they jump into the air. This air attack is one of the Leapers’ more powerful moves. Players will have to dodge this move and attack from behind in order to defeat these monstrosities 
+[On the next page: learn how the Guardian and the Wall Crawler function under fire] 
+
+Decepticon Guardian
+The Guardian perfectly displays High Moon’s emphasis on enemies that transform based on their behavior. The Guardian’s base mode is their patrol form (pictured on the far left here)
+When a player is spotted, they transform into battle mode, which is a heavy attack setting
+Enemy AI often influences a character’s design. For example, the Guardian’s battle mode is big and bulky, which represents how tough a challenge the Guardian will be in combat
+If a player hides from the Guardian’s battle mode, the Guardian will shift into investigate mode and begin scanning the environment for signs of their prey
+Decepticon Wall Crawler
+The Wall Crawlers are sniper enemies that have two forms. While in flight mode it quickly flies around the environment looking for a perch
+Once a Crawler finds a suitable sniping position, it transforms into its spider leg form, which allows it to crawl up walls and attach to ceilings
+Crawlers attack in hordes. In this shot you can see a group of enemies crawling the walls in the background
+Crawlers will not attack while in flight, so their unique transformation sound signals players that it is time to crawl out of cover and find a better firing position. This is a good example of how High Moon’s visual and auditory cues aid players in combat
+High Moon hopes that these AI changes will make the game more entertaining. “For me there is a deeper layer to a game’s AI,” says Tieger. “Do I understand what my enemies are thinking? Because if I understand what he is thinking then I can manipulate what he is thinking, defeat him, and that makes me feel smart. If the AI makes you feel like you flanked them, because you understood what they were going to do, that’s fun. That’s why we play games.”
+If our early look at the game is any indication, High Moon is on track to create more intelligent, challenging, and entertaining enemies. Transformers have never seemed craftier.
+

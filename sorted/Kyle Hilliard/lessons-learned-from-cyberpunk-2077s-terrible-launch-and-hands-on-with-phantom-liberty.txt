@@ -1,0 +1,143 @@
+
+  Lessons Learned From Cyberpunk 2077's Terrible Launch And Hands-On With Phantom Liberty
+
+
+
+
+
+
+            This feature originally appeared in issue 359 of Game Informer magazine
+
+The 2020 launch of Cyberpunk 2077 was terrible. Anticipation reached a point that no reasonable game could meet. Cyberpunk could have potentially grappled with those lofty expectations, but the major problem was its technical proficiency – or lack thereof. Despite the game getting good reviews (a product of press only being given PC copies) for most players, the game crashed frequently or was riddled with bugs. The PlayStation 4 version was pulled from shelves and taken offline. The content of the game – the story, the characters, the mechanics – was barely discussed in the face of players struggling even to explore the neon-soaked streets of Night City. It was a disaster, and fingers were pointed in many directions at developer/publisher CD Projekt toward myriad culprits. Management pushed the game out too early, the developers were working on an ultimately impossible task, or maybe marketing just raised expectations unfairly.
+
+In truth, there is no one singular issue that sank the public’s first interaction with Cyberpunk 2077. And since then, CD Projekt has been working hard to push the game in the right direction. Cyberpunk has received numerous updates addressing bugs and improving mechanics. Studio Trigger’s anime adaptation, Cyberpunk: Edge‑ runners, inspired players to engage with the setting and lore of the world at a level they simply couldn’t at launch. CD Projekt has been fixing its massive first-person shooter, open-world RPG for the last three years, but Phantom Liberty is the biggest update the game has received yet. It represents an opportunity for many to give Cyberpunk 2077 another shot, bring in new players, and see if it can finally live up to the impossible expectations. Quest director Paweł Sasko and art directors Jakub Knapik and Paweł Mielniczuk know this and are eager for players to see what the team has been hard at work on.
+
+Knowledge Gained
+
+Knowledge Gained
+
+After Cyberpunk’s launch, the team looked hard at the game and its internal development processes. Releasing a video game in the state that Cyberpunk 2077 was in is not a mistake it ever wanted to repeat.
+
+“The list of things we learned after the release is massive, and we will not be able to go through all that,” Mielniczuk says. Internally, CD Projekt upended its game development processes, which was expectedly a difficult thing to do. “It wasn’t easy transforming the entire company,” Mielniczuk says. “Reinventing the way we’re making games took us a lot of time.”
+
+Working on the expansion and updates, though, is generally easier. Cyberpunk 2077 and its engine were developed simultaneously, which Mielniczuk says was like trying to build an airplane’s engine while it is flying.
+
+The reception for Cyberpunk at launch was disheartening and took a toll on the team. “We were dead,” Knapik says and I ask him what he means by that. “We were coping with the situation,” Knapik says. “We were dead inside,” Mielniczuk clarifies. Morale was low.
+CD Projekt decided on a few directions. Some people would work on the next-gen update and other various updates, others would focus on the Phantom Liberty expansion, and then there was the process of restructuring and improving morale. Measured happiness became a metric for success, alongside factors like making sure deadlines and milestones were hit on time.
+
+It also helped that with the release of the game, the process of developing the game became much smoother. The plane’s engine was finally complete (if still in need of continued maintenance), so it was easier to focus on the creative side of development. The original game, for example, could not be played in full until about 80-90% of the development was complete, Mielniczuk says. In contrast, a playable beginning-to-end version of Phantom Liberty was available after about a month of active development.
+
+“We are so much more in sync nowadays,” Sasko says. Previously, CD Projekt took a waterfall approach to development. The game was planned out in full early, and then development started. “Simplifying, it’s an approach when one person works after another,” Sasko says. Now, the team has switched to an agile approach to development. “Really, it took us many months, if not maybe a year after the launch, to really get it to the point we actually knew what we were doing.” With agile development, work is done more in tandem. Teams overlap more, and changes are made early as needed. “It’s more like we work together to ship that thing, and the patches that you have seen already are a product of that,” Sasko says. And that change did not just affect Cyberpunk 2077 development. Everyone made the pivot. “It affected, of course, the Polaris Project, the new Witcher. It affected Project Hadar. It affected other departments that are not primarily dev teams, but they’re working with us, like, for instance, PR, [communications], and marketing.”
+It’s the kind of shift that seems widespread but also the kind of change that players can’t see. The proof of improvement will be in the product, so it was time to check out the expansion with Sasko as my guide.
+
+Back To Night City
+
+Back To Night City
+
+My play session began – as it does for any post-release addition to any video game – by reacquainting with the controls. The most difficult part of revisiting a game years after your original play session, and without a tutorial, is remembering how everything works. I was not able to take my personal character into this demo. I missed my female version of protagonist V, who exclusively drove the Akira-inspired Yaiba Kusanagi CT-3X and only wore red to get her outfit as close to Akira protagonist Kaneda’s as she could. But thankfully, the V in my demo session felt and sounded the same. My V is a character who likes to hack enemies from a distance and is also nimble on her feet. For Phantom Liberty, I chose a build that lacked the emphasis on hacking but retained maneuverability.
+The demo begins with a call from Songbird, a New United States intelligence analyst. Songbird knows about your situation and the ticking time bomb in your head. She doesn’t detail how or why she wants to help you (or how she knows) but implies she can save your life if you help her. The conversation makes it clear Phantom Liberty is integrated into the main narrative of Cyberpunk 2077. It is not a separate story or one that takes place after the game’s conclusion. With that understanding, however, if you are a new player who wants to hang out with Idris Elba’s character, Solomon Reed, you can skip directly to the expansion content. If you are a returning player who wants to start fresh, that’s an option, too. And if you plan to load up your Yaiba Kusanagi CT-3X riding, red leather jack-wearing V, Phantom Liberty also accounts for you.
+
+“There are some players that basically finished the game a long time ago, forgot about it, and uninstalled it, sadly,” Sasko says. “We took care of that player too.” You can, of course, replay the game if you want, but there is another option. “You can pick ‘skip forward’ and what will happen is it will sort of simulate the state of your save game.”
+
+Songbird is aboard Space Force One alongside New United States president Rosalind Myers when she calls you. A mysterious hacker has changed their destination and they are headed for a crash land in Dogtown, a new area of Night City you couldn’t explore in the main game. Dogtown is low on both resources and authority. If Night City was inspired by anime like Ghost in the Shell and Akira, Dogtown is inspired by the apocalyptic Escape from New York – or at least the opening mission is. It’s a dangerous place for anyone to be, much less a person at the highest level of political power. “The president’s life, her safety – that’s your top priority,” Songbird tells you.
+
+Old Haunts/New Place
+
+Old Haunts/New Place
+
+The demo officially begins with V entering Dogtown’s Black Market. At first glance, it feels familiar. Explicit, suggestive ads are plastered on every monetizable surface, and entirely too many people are milling about. A woman near a weapon store is trying to attract everyone’s attention in front of a bipedal mech. I inspect the store, and the man behind the counter’s face is heavily modified. He doesn’t have a jaw and speaks with an electronic voice.
+
+Browsing the shop’s options, I see the U.I. has been adjusted to help you compare weapons and make it easier to determine if there are any worth purchasing compared to the ones you already own. A new Tier system also defines the general level of every weapon. “This shop actually allows you as a player to buy iconic weapons that we have missed in the story,” Sasko says. This is a nice option considering you can lock yourself out of acquiring certain weapons in the main game depending on how you play. Additionally, Sasko notes that every weapon in the game has been rebalanced. “That’s a lot of work,” Sasko laughs.
+
+Before diving into Phantom Liberty’s story proper, Sasko suggests I meet the local Ripperdoc to see what changes have been made to upgrading your body. Many of the same options exist, like changing out elements of your frontal cortex, arms, skeleton, and more, but they’re all laid out in a more understandable way. Hovering over the pieces of Cyberware shows all kinds of new effects and options. There are also new meters.
+
+The yellow meter on the left is a capacity system that visualizes how much Cyberware your body can use. There are also new, unlockable perks associated with it. One of the currently locked perks is called Edgerunner, an overt reference to the anime of the same name. “If you have the Edgerunner perk, you can actually push your body to the limit,” Sasko says. In the anime, characters would experience Cyberpsychosis if they over-upgraded their bodies and pushed themselves too far. “We are not going as far as introducing the full Cyberpsychosis, but what we are doing is introducing a system where you as a player need to basically choose between the risk and the reward when you can feel overpowered.”
+
+On the right side of the screen is a new blue armor meter. “We have moved all of the armor from clothing to Cyberware,” Sasko says. This is a significant change because it means you can now wear whatever you want and retain the armor stats you’ve earned. No longer will you have to contend with the low armor stats of a red leather jacket you insist on wearing to play out your Akira video game fantasy at the expense of lower stats. Sasko says the change was also made in an effort to make the player feel more like a true Cyberpunk. In the player headcanon, changing your body to absorb more bullet fire rather than changing your pants is just more in line with the game’s fantasy.
+
+Lore Optional
+
+Lore Optional
+
+I don’t collect any new upgrades right now. The president needs saving, after all. Songbird has some of the same communication abilities as Johnny Silverhand, who is fully present in the expansion with an upgraded character model and all-new dialogue from Keanu Reeves. Sasko says the story will offer more insight into Johnny’s past, which is something I do experience in a small way over the course of my playtime.
+
+Songbird appears in the environment, visible only to me like Silverhand, and directs me to get up high. Dogtown is a large subsection of Night City, but its most impressive landmark is a converted sports stadium I must climb. As I make my way up, I get a fantastic view of the Badlands in the distance, Dogtown, and the dilapidated stadium residents have turned into a home. “[The stadium] was being built during the fourth corporate war, but then the war started, and a lot of financiers backed out, so it was left half done and broken,” Sasko says, speaking faster and faster as he makes his way through the sentence. “Lore is cool, but we have lots of things to play.”
+Sasko’s quick lore explanation encapsulates what Cyberpunk is and how players interact with it. The lore is dense and available if you want to read into it, but you can also rush past all that and play it as a shooter, a stealth game, a driving game, or a conversation game.
+
+Lords Of Dogtown
+
+Lords Of Dogtown
+
+I don’t take in the view for long before Space Force One crashes in the distance, and Songbird fizzles out of my view. She is on the ship, so it makes sense that she would suddenly disappear. Partly because I am still re-learning the controls and partly because Cyberpunk allows for player agency in how they approach scenarios, I sneak my way to the wreckage using new upgraded melee and stealth combat abilities, including blocking with a sword to deflect bullets. Enemies are crawling over the wreckage, and at this stage, I’m not sure why. Some might be scavengers responding to the chaos, but there are plenty of uniformed enemies, too. There are also robots and drones defending the missing president, and I lean on them to distract my opponents while I get on board the downed ship.
+Songbird is on the comms with me when I finally find President Myers, a tough woman who, understandably, attacks me the moment I open a door to find her. An explosion knocks us both out, and I am fast-forwarded to a section a little later in the expansion where Myers and I have found safety in an abandoned apartment in Dogtown. The plan is to wait there for Songbird. President Myers finds new clothes to change into to avoid recognition while I look for how to turn on the power. It’s here that Silverhand steps in to share his thoughts about the situation. True to his nature, Silverhand doesn’t trust the president (he doesn’t do well with authority) and has a bad feeling about the whole situation. He also makes a great point about Songbird offering a surely too-good-to-be-true cure-all for your brain bomb. “Got this hot, itchy feelin’ in my groin – like someone’s not ‘fessed up to somethin’,” Silverhand says, undoubtedly quoting his song lyrics.
+
+After the fiery crash and shoot-out, this section is a moment of reprieve. Myers, now dressed in an “I heart NC” baseball cap and surprisingly stylish clothes for some rags she found in an abandoned hideout, turns on the radio, and we get a taste of Phantom Liberty’s political intrigue. The news covers the crash and Myers’ unknown whereabouts when it moves to audio from Kurt Hansen, the self-proclaimed leader of Dogtown, who is holding a press conference. He claims the crash is an attack on him personally, that he is being framed, and that the whole event is a farce to send forces into Dogtown. I suggest contacting Washington to let them know Myers is alive, but she brushes that option off. She doesn’t trust anybody and doesn’t know if a friend or foe will pick up the call.
+The following day, after no sign of Songbird, Myers brings up plan B: assistance from sleeper agent Solomon Reed, the character performed by Idris Elba. Myers gives me some instructions and a special coin I can use to prove my legitimacy to Reed and asks me to take an oath to make me an official special agent. Unseen by Myers, Silverhand is looking over our conversation with overt skepticism. I refuse to take the oath, mainly because I don’t want Silverhand to think I am a narc. Silverhand commends me for not taking the oath, and I feel cool because Silverhand thinks I’m cool. He teases that he used to be a “corpo jarhead,” which I am certain will be explored more in conversation with Silverhand during the expansion.
+
+I enter the open world and track Reed down, but before I do, I call in a vehicle to try out car combat and the new police system.
+
+Twisted Metal
+
+Twisted Metal
+
+From the beginning of the demo, Sasko has been eager to show me the changes made to car combat and police. It’s one of the elements of Cyberpunk that has been most retooled and will be added alongside the expansion. My Outlaw GTS that I call for is a sleek car with visible guns mounted in the front fender. As I am driving around Dogtown for the first time, I press a key to switch over to the car combat. Two red lasers extend out the front of the vehicle to show my aiming trajectory, and I open fire on some nearby cars, which raises my heat level quickly. Armored vehicles show up, as well as motorcycles and standard police vehicles. Sasko goads me to cause as much chaos as possible before my car catches fire. I get out and run away to watch it explode in the distance and call in the Shion “Samum”, which looks like a vehicle Mad Max would drive. It is heavily armored and features front-facing guns like my previous car and rocket launchers that lock on to nearby enemies.
+
+I eventually build up to five stars when an on-screen alert reads, “Triangulating position.” I triggered a MaxTac (Maximum Force Tactical Division) response, and when they find me, they hack my vehicle. I no longer have control and must get out and fight on foot. A MaxTac dropship appears, and a collection of four enemies with bladed arms pounce on me at impossible speeds, killing me almost instantly. “You went full Cyberpsycho,” Sasko says with a laugh. “We have five separate archetypes of MaxTac, and the way it works is that every time when they arrive, it basically picks one of the archetypes and throws them against you.” Netrunners might hack you, or bladed enemies might speed after you, which is what happened to me. I didn’t get a chance to experiment with it, but you can also use new quick hacks against other cars while driving to make vehicles chasing you blow up or stop them in their tracks.
+The vehicle combat was a chaotic highlight of my time in the expansion, and it’s thankfully an update that every player will get to experience regardless of whether or not they buy the expansion.
+
+Seeking Solomon
+
+Seeking Solomon
+
+After having my car combat fun, it’s time to return to the mission, which involves entering a restaurant to find a landline telephone. In a world where phone calls appear in your brain, a landline is a relic of the distant past. V has no idea how to use it. Silverhand appears and mockingly holds his thumb and pinky finger to his ear and mouth to show her how.
+
+Idris Elba’s unmistakable voice shows up on the line and hesitantly offers to meet you at the nearby basketball court to make sure you’re legitimate. Once at the court, Elba’s Solomon Reed appears behind me… or at least I think he does. Reed commands me to look forward while holding a gun against my ribs as he checks the coin I received from Myers. This is not a cutscene, however, and I do have control. I try to turn my head in the middle of his conversation to look at him, and he cuts himself off to say, “Nope, nuh-uh,” and turns my head forward. It’s a fun moment you could miss if you passively let the conversation play out.
+
+Reed commands me to meet him at a nearby vehicle in three minutes, and after the tense introduction, I am surprised at how much he softens at the second location. He starts by apologizing for the precautions, seems genuinely worried about Myers, and takes a call from the manager at his bouncer job about getting his shift covered. It all makes Reed an unpredictable but immediately interesting and sympathetic character. It doesn’t hurt that he looks and sounds like Idris Elba.
+
+We return to Myers and get in a few shoot-outs along the way. Unlike Silverhand, Reed is helpful in a gunfight and takes out enemies on the way to Myers. He even encourages nearby residents who witnessed the battles to seek safety and shelter. When we finally get to Myers, Reed loses his cool for a moment and seems unsure what to say before stammering a somewhat awkward, “Uh, sorry, Rosalind. Are you all right?”
+
+I chat with Reed and Myers about Songbird’s questionable fate before we all agree to move forward. Myers is trying to stay alive, Reed wants to help Songbird, and I am trying to find a cure for my Silverhand bomb. And that’s where the demo ends.
+
+Reducing The Noise
+
+Reducing the noise
+
+Cyberpunk 2077, by design, is a very noisy world. The way art directors Jakub Knapik and Paweł Mielniczuk use that term is almost chaos. Color is everywhere. Architectural designs are varied and strange. Crowds are large and full of interesting-looking people. But from a simplified video game perspective, it isn’t ideal. “It looks great in a single screenshot, but it could be painful or problematic to read depth and to read space when you play the game,” Knapik says.
+
+Early in Phantom Liberty’s design process, the team carefully and brutally analyzed what worked and what didn’t to take those lessons to Dogtown. “We went through every single aspect of grouping colors, grouping shapes, building the depth, layering – solving the noise,” Knapik says.
+
+“Characters were not visible in the environment,” Mielniczuk says, which sometimes created problems when you are in the middle of a gunfight, for example.
+
+As a result, Dogtown, aided in part by the story allowing for a section of the city to be less reliant on electricity and lights, is generally easier to read. The team wanted it to still be busy but not noisy.
+
+“The geometry comes from details, not colors,” Mielniczuk says. I only spent a few hours in Dogtown, but it does feel different and brighter than Night City. “[Dogtown] doesn't feel alien – it just feels different,” Knapik says, and I agree.
+
+A New Start
+
+A New Start
+
+Cyberpunk is in an odd position that manages to be both enviable and unenviable. The budget and resources are on full display every moment. The game looks better than ever and touts Hollywood talent to perform and sell its story. But nearly everyone had a bad first impression in 2020. Even those who didn’t play the game at launch know about its negative reception. It has been fighting an uphill battle with small victories for three years. Phantom Liberty is its biggest opportunity to reset perception, inspire old players to try again, and encourage new players to test the waters. My time with Phantom Liberty and conversations with the team members working hard on its release inspire confidence. I am eager to have an excuse to revisit Cyberpunk 2077. I want to see where Phantom Liberty’s story goes, I want to learn more about Solomon Reed, and I want to see how long I can survive against MaxTac when they are throwing everything they have at me.
+
+      Products In This Article
+
+Cyberpunk 2077: Phantom Liberty
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PC
+
+Release Date:
+
+September 26, 2023
+
+Purchase
+More Info
+
+Kyle Hilliard
+Magazine Content Director
+Kyle plays entirely too much Picross. He once wrote a whole book about The Legend of Zelda.
+
+Email
+Twitter
+

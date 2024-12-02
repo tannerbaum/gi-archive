@@ -1,0 +1,60 @@
+
+  How Chrono Trigger’s Composer Yasunori Mitsuda Came To Work On Sea Of Stars
+
+
+
+
+
+
+            Yasunori Mitsuda has worked on dozens of games since the mid-90s, but he is best known for his work on Chrono Trigger. The story of how he came to work on the game is surprisingly straightforward. "[Sea of Stars creative director Thierry Boulanger] was like, ‘We have a contact that is in touch with all these people. And he just kind of reached out, and [Mitsuda] liked what he saw. And so he's like, 'Yeah, I would, I would love to be a part of this’,” Sea of Stars lead composer Eric W. Brown says. “There’s no words to describe this. Like, it’s… we literally got the guy.” Mitsuda committed to creating about 10 tracks for the game, and the process has been smooth.
+
+ You're missing out!Normally this is where something cool would show.  Your browser is blocking third-party cookies so we're unable to display this content.Try clearing your browser cache, disabling ad blockers, and verifying that cookies are allowed: Verify cookie preferences
+
+“We would just kind of say, 'Here's the stuff we're looking for,' and he and I sat down, and we discussed that we definitely want a town theme from him, we definitely want a battle theme, a boss theme – we kind of went through all the stuff that we for sure wanted to get,” Brown says. “The whole story has been planned out for a while, and then we're just sort of fleshing out all the beats. So we had a high-level view of all the music that we would need.” There were some discussions of going bigger and having orchestration for some tracks, but it was decided to keep things retro and consistent with the throwback intention of the game.
+
+Boulanger was similarly starstruck by Mitsuda and his involvement and described an early interaction where he asked the team through a translator if they wanted him to channel his style of composition from Chrono Trigger. “It’s the one time in this career that we got to answer an e-mail with just, ‘Yes!’,” Boulanger says.
+
+We had the chance to speak with Mitsuda over e-mail about making music for Sea of Stars. You can find the discussion below.
+
+Game Informer: In a recent video, you shared details about your involvement with Sea of Stars and said the music is specifically for a Super Nintendo sound. What does that mean, and how does that work?
+
+Yasunori Mitsuda: On the Super Nintendo Entertainment System (SNES), sampled tones were configured within the system’s limited memory and played back in 8-voice polyphony. Additionally, although very cheap by today’s standards, the “echo” effect can also be considered as a characteristic of SNES-style sound. While keeping a taste of the feel of that time but also using modern technology, I tried creating the music for Sea of Stars as if it were coming from a slightly upgraded SNES. Usually, synthesizer audio can be used as is, but this time I deliberately resampled the audio in 32 kHz and applied an effect with the same settings as the SNES “echo”. The sound is more gorgeous than that of the past, but I think you’ll somehow be able to feel that SNES feeling.
+
+Were you eager to revisit your Super Nintendo musical roots?
+
+It felt incredibly nostalgic. I worked while thinking about how I took the trouble in the past to use these kinds of techniques, which are no longer necessary these days. The joy of putting together music one sound at a time is one of those things that is usually only experienced with the game consoles of that time.
+
+How would you personally describe Sea of Stars?
+
+That’s a difficult question. If I described the game in a single word, I think I would choose “fantasy”. There is the nostalgia of the pixel art and other elements, but for this game I would go with “fantasy”.
+
+What is the step-by-step process for making a Yasunori Mitsuda composition? Where do you start, and what’s the final step?
+
+From a long time ago, my composition process hasn’t changed at all. I try to fully understand the game’s world and atmosphere, reread the scenario many times over, and imagine the kind of music that it needs. When necessary, I make a relationship chart of the characters. While doing so, the music that the game is asking for starts naturally coming to mind.
+
+ You're missing out!Normally this is where something cool would show.  Your browser is blocking third-party cookies so we're unable to display this content.Try clearing your browser cache, disabling ad blockers, and verifying that cookies are allowed: Verify cookie preferences
+
+For an even deeper dive on Sea of Stars' soundtrack, head here. for Sea of Stars is coming to PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switc, and PC on August 29. For a lot more on the game, you can check out the most recent issue of Game Informer magazine.
+
+      Products In This Article
+
+Sea of Stars
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC
+
+Release Date:
+
+August 29, 2023
+
+Purchase
+More Info
+
+Kyle Hilliard
+Magazine Content Director
+Kyle plays entirely too much Picross. He once wrote a whole book about The Legend of Zelda.
+
+Email
+Twitter
+

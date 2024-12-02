@@ -1,0 +1,113 @@
+
+                                          Lunar Lander: Beyond
+                  
+
+
+  Developers Talk Expanding A Classic Game's Universe
+
+
+
+
+Platform
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC
+
+Publisher
+Atari
+
+Developer
+Dreams Uncorporated
+
+Release
+April 23, 2024
+
+Rating
+Everyone 10+
+
+            Last July, Atari announced the latest revival of one of its many classic titles. Lunar Lander: Beyond takes the 1979 Lunar Lander and expands on it in myriad ways, including new visuals, new simulation and exploration mechanics, and a much more involved story. To accomplish this task, Atari tapped Colombian developer Dreams Uncorporated, the studio behind the stunningly gorgeous 2021 throwback RPG Cris Tales, to develop this reimagined classic. 
+
+This new version of Lunar Lander incorporates the studio's penchant for creating beautiful hand-drawn visuals, both in its gameplay and cinematics, as you can see in a new trailer released by Atari. In Lunar Lander: Beyond, players can explore 5 different celestial bodies across 30 missions, with various character and ship customization options, procedurally generated characters, and unique attributes.
+
+Check out the trailer below, then read our Q&A with game director Alvaro Martinez and executive producer Jeff Cardenas from Dreams Uncorporated beneath the embedded video!
+
+How did this partnership between Dreams Uncorporated and Atari come into existence? Was Lunar Lander the first game that was planned to be worked on together?Jeff Cardenas: After releasing Cris Tales, we started talking with Atari, who were fans of the game, and asked how we would approach one of their IPs. Our business development team had heard about the Atari Recharged series, and we’re really big fans of their classic games. It was a great match. We were thinking of different IPs, but during the conversations, we decided Lunar Lander would be an interesting one to work on, adding the narrative and unique gameplay elements we really love. We’ve continued talking about other IPs we’d like to work on. Hopefully, we can see more titles in the future.
+
+When expanding so drastically on a classic game that had very little in the way of story, what does that process look like?
+Alvaro Martinez: I’d say that since the original game didn’t have too much of a story, just the general theme of landing on the moon, the process was actually easier. It’s like painting on an almost blank canvas: little guidelines here and there, but with a high degree of freedom overall.
+
+We first focused on the original game and concept; how did it make us feel? Tension was the answer. Okay, so how do we turn this feeling into a story?
+
+We imagined we could start with some tension right from the get-go: What would happen if we lost Earth? How could humanity survive in such a scenario? The need for exploration, for finding hope in the midst of a high degree of agency would be set, and with exploration under these extreme conditions, we would get the experience we were looking for.
+
+Okay, but how hard would explorations on these potential new homes be? Extremely high and low temperatures, lack of oxygen, different gravities – when we imagined how life would be in these conditions, it was clear the story would need to be set in a dystopian future. A dystopia inspired by classic novels, TV series, and movies from the late '70s and '80s. For instance, Blade Runner, Alien, Cosmos – Lunar Lander: Beyond’s universe had just been born!
+
+Finally, we had to periodically synchronize the story with the gameplay so we could be sure it was backed up by lore. As the gameplay and level design evolved, the story did so as well. We tried our best to make them complement each other.
+
+How did the team work with Atari to ensure the remake and its universe-building are consistent with the spirit of Lunar Lander?
+AM: During the development process, we discussed a lot of ideas with the Atari team about what kind of universe we’d like for the game. With some key gameplay constraints in mind, like having multiple planets (not just the Moon like in the original) and multiple landers, we – Dreams – were given ample creative freedom to "fill in the gaps" while complying with those constraints. For instance, how would the in-game universe justify the need for multiple landers? Why land on other planets and not just on the Moon? Why do lander pilots risk their lives in such a dangerous job? The answers to these and other questions were the seeds from which the game universe emerged.
+
+But we could also say it was an earned trust; we started trying to convey the experience we wanted in gameplay form, starting with just one ship and one landing. How would we make that interesting? New but also familiar? We actually came up with the stabilizer mechanic that allowed us to play with more risk and challenge the player in several situations while giving it a fair shot of recovering in brutal situations. The Atari team seemed to like it! And it has been a constant conversation to find those right moments since.
+
+How did the studio leverage its prior experience to create the end product here?
+AM: Cris Tales was a very unique, challenging, and very good learning experience. From engineering to production to game design. Our studio’s goal is about trying new game ideas and about creating new experiences, but it is also about conscious self-evaluation and constant self-improvement. We tried our best to stick to these principles.
+
+But we’re about telling stories and about making interesting experiences, so we put a lot of focus on that and made sure it was part of the vision we proposed for the new version of the game. We really wanted to hone in our abilities with the technology we had created for the conversations, for the art production, and in general, see how we could tell a story based on feelings, not just for an IP we created, but also for ideas we can get to work on and take further. This is something the team really enjoys.
+
+The original Lunar Lander is such a simple concept but carries with it so much challenge. How are you keeping that spirit alive in this new version of the game?
+AM: There were many answers to this, but to begin with, the way the lander works and flies, and when we had that, we started thinking about other ways to fly. Heavily inspired by the arcade games of old, we created different types of landers, each one with its own features and controls, so that while some of them closely resemble the original lander (therefore challenging in a "classical" way), others are quite different (which can be more forgiving in some ways but more challenging in others), allowing the player to experiment and find different types of enjoyment with the same level.
+
+We also created different difficulty settings: from easy, where there is little penalty when you crash, to a more challenging one, where we included permadeath for some of the pilots you've been improving, having an actual loss when you die.
+
+But the most important thing we did in order to keep the spirit of the original was to focus on the idea of tension and stressful landings, just as the classic did, but in a new way. This is why we added a stress system featuring status ailments such as insanity to keep that "tension" feeling the original version has.
+
+For instance, instead of just having a "stress" bar, we also added hallucinations. This feature serves two purposes: It increases the challenge by confusing the player, and it gives the player a glimpse of what a pilot would feel under those circumstances, therefore increasing immersion.
+
+Another thing we did was to reflect on how life was when Lunar Lander was released. I grew up in the 80s, so I have vivid memories of those times: arcades, electronic music, synths, supercars, super helicopters, robots, my 2600 (sadly gone), my old DOS computer, which needed a floppy disk to boot. That's why, direction-wise, one of my goals was to make those fans who played the original remember the '80s. Lunar Lander Beyond should make them feel nostalgic both for the original game and the era surrounding it.
+
+Because of this, several aspects of the game were inspired by the '80s: the UI, inspired by those "futuristic" screens of how we imagined the future, to the music, which was inspired by electronic music from movies like Blade Runner, Tron, Alien, and such.
+
+What considerations must be made when remaking a classic title that you don't have to worry about when developing an all-original title?AM: The most important consideration is: how do we keep the spirit of the original and at the same time, make the new game stand on its own?  More specifically, what aspects are we free to remake or reimagine, and what others do we have to keep intact from the classic?
+
+In order to answer these questions, the first thing we did was analyze the original game and its intended audience back then. Why was it designed (aside from the obvious technological limitations) the way it was? What feelings do people have when playing it? What would the designers have changed if they had the technology we have today for developing games? 
+
+So, after careful analysis, we realized that what the designers of the original wanted was a challenging game that resembled the actual landing process. This not only means challenge but also tension, stress, precision, and tight controls. These are what we’d call the core principles, or spirit, of the game. These are the principles we’d need to stick to.
+
+But to identify and follow the spirit of the original game is just half of the process. The new game needs an identity of its own, it'd be just a clone of the original otherwise. How can we go from Lunar Lander to Lunar Lander Beyond?  It was at this point that we asked ourselves: How can we still deliver stress, tension, and challenge but in a different way? We’ve mentioned several answers so far, but another great one would be the pilots, the human factor behind the landing process, an element the original game didn’t take into account.
+
+ And this brought a lot of possibilities! Bringing the pilot into the equation allowed us to introduce more elements around the core, classic gameplay.  For instance, one of those new elements is Lunar Lander: Beyond’s stress system: how the psychological status of the pilot affects the core gameplay and the perception the player has of the game world. This stress can also affect how you plan your next missions since some of the stress accumulated stays with the pilot, but they might be your best pilot! So there’s also strategy and risk even before the missions.
+
+Obviously, players' expectations of game content have evolved in the nearly 45 years since Lunar Lander came out. How do you design for players who are fans of the original while still appealing to the new generations of players who have either been born or discovered games since the original arrived?AM: We believe great gameplay is timeless, so starting from a simple yet strong base is a good start. Of course, we wanted to exponentially grow everything around it, so you could say the objective was to create a more modern game while retaining the same feelings it originated from.
+
+To do this, what we did was to build new gameplay elements around the "classic" experience. For example, we didn't just add more landers (each one providing a different landing feeling) but also a simple way for the player to customize their gameplay experience: Let’s talk about traits and abilities.
+
+Traits are a consequence of taking into account the pilot as part of the "lander simulation." You, as the player, are given a set of pilots and must choose which one will perform the mission, depending on which traits each one has and their current psychological condition (stress level). These traits greatly influence the core simulation. For example, a pilot with a Fuel Saver trait will significantly decrease fuel consumption. Another example would be a pilot with the "Fast and Furious" trait, which makes acceleration and top speed considerably higher. Traits are randomly assigned to each pilot when they join the roster and every time they level up.
+
+Abilities, on the other hand, are not randomly given to the player, but they have to be "discovered" within the levels, promoting exploration. Each lander can be equipped with up to three abilities. Of course, they also greatly affect the landing experience in different ways, like the Warp ability, which allows the lander to teleport.
+
+So, while the core gameplay is based on the original, there are plenty of customization options built around it. The combination of traits, abilities, and landers results in a lot of different strategies/playing styles. A cautious player would choose a slow, heavy armored lander driven by a pilot with defensive traits (for example, Fuel Saver) and defensive abilities (like Shield). On the other hand, a player who loves speed would choose the fastest lander, piloted by a pilot with the Fast And Furious trait and with the Turbo Boost equipped. And everything in between.
+
+We also introduced planets, each one with its own environmental hazards, hallucinations, and other penalties caused by high stress levels, and even a boss!
+
+Lunar Lander: Beyond is set to arrive on PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC, and the Atari VCS in early 2024. For more on Atari's recent efforts, check out our review of Atari 50: The Anniversary Celebration or listen to our episode of All Things Nintendo with Atari CEO Wade Rosen.
+
+      Products In This Article
+
+Lunar Lander: Beyond
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC
+
+Release Date:
+
+April 23, 2024
+
+Purchase
+More Info
+
+Brian Shea
+Online Content Director
+Brian has written about video games for more than 15 years across multiple publications. Brian is also the host of All Things Nintendo, a weekly podcast focused on the news and games of Nintendo.
+
+Email
+Twitter
+
