@@ -3,6 +3,8 @@ Around the time Gameinformer was shut down without warning, I ran a scrape of Th
 ## To Former GI Staff 
 You will find in the `/sorted` folder a folder with your name on it that contains all the articles I have with your byline. These are the text only versions, heavily manipulated from the HTML files I had that were filled with tracking code, Wayback's inserted code, and other nonsense. 
 
+_Becuase you guys were doing some funky stuff in there with newlines and tabs, some of the spacing may be weird in the files. I tried to cut back on most of that 😆_
+
 If there appears to be content missing in that txt file, then maybe my bulk operations on all the files didn't work for the contents of that article. If so – or if you just want to try to simulate what the article would have looked like – the full downloaded file can be found under this Github branch: https://github.com/tannerbaum/gi-archive/tree/sorted-full. They take forever to open which is why I wanted to cut these down to just the text content for you. If there is enough demand for it I can see if I can get a version of these pages that loads faster. Or maybe someone else can (see next section)
 
 Thank you for all of the work you did over the years. 
