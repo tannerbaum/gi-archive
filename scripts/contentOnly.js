@@ -22,12 +22,13 @@ const contentOnly = async () => {
       $("style").remove();
 
       let content = $(".ds-main").text();
-      //  Some crazy \n\t\t\t\t\n sequences are in there
-      content = content.replace(/\n(\n|\t)+/g, "");
       content = content.replace(/\t+/g, "");
 
       // Trying to reduce large newline sequences
       content = content.replace(/\n(\s*\n)+/g, "\n\n");
+
+      //  Some crazy \n\t\t\t\t\n sequences are in there
+      //   content = content.replace(/\n(\n|\t)+/g, "\n");
 
       // replace file with title, subtitle, and content as a .txt file
       fs.writeFile(

@@ -1,0 +1,55 @@
+
+  Microsoft And Xbox Win Case Against FTC To Acquire Activision Blizzard
+
+
+
+
+
+
+            After five days of testimony last month, California Judge Jacqueline Scott Corley has denied the Federal Trade Commission's request for a preliminary injunction in its case to block Microsoft and Xbox from acquiring Activision Blizzard. 
+
+The FTC sought a preliminary injunction in an effort to have the court order Microsoft to cease its attempt at acquiring the Call of Duty maker for a colossal $69 billion. Now that the FTC's request has been denied by the Court, the regulator has until the end of July 14 to appeal the decision, as reported by The Verge. With this ruling, Microsoft can now close its acquisition of Activision Blizzard before its July 18 deadline, although it still has to figure out how it's going to handle the decision from The Competition and Markets Authority in the U.K. to block the purchase over cloud gaming concerns. 
+
+Microsoft can theoretically close before July 18 without including the U.K. in its market, or it can attempt to negotiate a deal with the CMA to quell the regulator's concerns, as noted by The Verge. However, that seems unlikely, as Microsoft has a hearing on July 28 to appeal the regulator's decision. Outside of the U.K., the European Commission approved the proposed acquisition in May. 
+
+Here's what the Judge has to say in their opinion denying the preliminary injunction today: 
+
+"In December 2022, the FTC initiated an administrative action to block Microsoft's proposed acquisition of Activision – publisher of the first-person shooter video-game franchise Call of Duty, among other popular video games. The gist of the FTC's complaint is that Call of Duty is so popular, and such an important supply for any video game platform, that the combined firm is probably going to foreclose it from its rivals for its own economic benefit to consumers' detriment. Discovery in the administrative action has closed, and trial before an FTC judge is scheduled to commend on August 2, 2023. 
+
+Four weeks ago, the FTC filed this action to preliminary enjoin the merge pending completion of the FTC administrative action. Because the merger has a July 18 termination date, expedited proceedings were commenced. After considering the parties' voluminous pre-and-post hearing writing submissions, and having held a five-day evidentiary hearing, the court DENIES the motion for preliminary injunction. The FTC has not shown it is likely to succeed on its assertion the combined firm will probably pull Call of Duty from Sony PlayStation, or that its ownership of Activision content will substantially lessen competition in the video game library subscription and cloud gaming markets."
+
+Following the release of the Judge's decision, Microsoft vice chair and president Brad Smith released the following statement on Twitter: 
+
+"We're grateful to the Court in San Francisco for this quick and thorough decision and hope other jurisdictions will continue working towards a timely resolution. As we've demonstrated, consistently throughout this process, we are committed to working creatively and collaboratively to address regulatory concerns."
+
+Xbox head Phil Spencer the following on Twitter today regarding the ruling: 
+
+"We're grateful to the court for swiftly deciding in our favor. The evidence showed the Activision Blizzard deal is good for the industry and the FTC's claims about console switching, multi-game subscription services, and cloud don't reflect the realities of the gaming market. Since we first announced this deal, our commitment to bringing more games to more people on more devices has only grown. We've signed multiple agreements to make Activision Blizzard's games, Xbox first party games and Game Pass all available to more players than they are today.
+
+We know that players around the world have been watching this case closely and I'm proud of our efforts to expand player access and choice throughout this journey." 
+
+Activision Blizzard CEO Bobby Kotick said the following in a statement obtained by The Verge:
+
+"Our merger will benefit consumers and workers. It will enable competition rather than allow entrenched market leaders to continue to dominate our rapidly growing industry." 
+
+Game Informer reached out to Activision Blizzard for a statement from either the company or Kotick regarding today's ruling and will update the story if comment or a statement is received. It has also reached out to the FTC for comment regarding today's ruling and will update the story if comment is received. 
+
+The Verge received the following from FTC spokesperson Douglas Farrar: 
+
+"We are disappointed in this outcome given the clear threat this merge poses to open competition in cloud gaming, subscription services, and consoles. In the coming days, we'll be announcing our next step to continue our fight to preserve competition and protect consumers." 
+
+Following today's ruling, Microsoft announced it will pause its appeal efforts against the CMA so that the two parties can negotiate a potential agreement regarding the proposed Activision Blizzard acquisition that satisfies both. 
+
+For more about Microsoft's ongoing efforts to acquire Activision Blizzard, read about how Spencer said it's been a learning experience back in June and then read about how Microsoft said in December that the FTC violates the constitution by trying to block the acquisition (although it did walk that claim back later). 
+
+During the five days of testimony that happened last month for this case, we learned that Bethesda's Indiana Jones game will be exclusive to Xbox and PC and that Microsoft had, at one point, considered acquiring Sega, Bungie, IO Interactive, and more to bolster the Xbox audience. 
+
+Do you agree with the Judge's ruling? Let us know in the comments below!
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

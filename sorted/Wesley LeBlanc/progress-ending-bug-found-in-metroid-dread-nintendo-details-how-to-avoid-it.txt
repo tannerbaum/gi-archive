@@ -1,0 +1,53 @@
+
+  Progress-Ending Bug Found In Metroid Dread, Nintendo Details How To Avoid It
+
+
+
+
+
+
+            Nintendo has issued a warning about a bug currently present in Metroid Dread that prevents players from progressing further. 
+
+This bug can be especially annoying because it can occur near the final sections of Metroid Dread. Nintendo says a fix for the bug will be released by the end of October, so it seems it will be no more sometime within the next 16 days. 
+
+However, that means that Metroid Dread players might still run into in between now and then. Fortunately, Nintendo has detailed how to avoid it, or get rid of it if it’s already encountered. You’ll know you’ve hit the bug if you receive a message that says, “The software was closed because an error occurred” followed promptly by the game forcibly closing. 
+
+This bug only occurs under a specific sequence of events, though, according to Nintendo. 
+
+“Near the end of the game, if the player destroys a door while a map marker for that specific door is displayed on the map, the game will forcibly close and [the message above will appear on-screen],” Nintendo’s PSA about the bug reads. 
+
+Sounds pretty devastating, right? It could be, especially if you’re gunning for the end, but fortunately, Nintendo has detailed exactly how to get around it or avoid it altogether. 
+
+Here’s what you need to do if you encounter the bug, or have already begun the sequence of events that will lead to encountering the bug: 
+
+Restart the game and, before playing through this sequence, remove the door icon map marker to prevent this error from occurring.
+Once the October 2021 software update is available, be sure to update Metroid Dread to avoid encountering this bug. 
+
+For more about Metroid Dread, be sure to check out our thoughts on it in Game Informer’s Metroid Dread review and then find out where it sits on Game Informer’s Top 10 metroidvanias to play right now list after that. 
+
+Have you encountered this bug? Let us know in the comments below!
+
+            .
+
+Wesley LeBlanc
+Associate Editor
+Wesley has been writing about games professionally for years. When he's not writing about games, he's playing them (hopefully). He desperately wants a PS5 patch for Bloodborne, too, and refuses to give up hope that one's on the way.
+
+Email
+Twitter
+
+      Products In This Article
+
+Metroid Dread
+
+Platform:
+
+Switch
+
+Release Date:
+
+October 8, 2021
+
+Purchase
+More Info
+

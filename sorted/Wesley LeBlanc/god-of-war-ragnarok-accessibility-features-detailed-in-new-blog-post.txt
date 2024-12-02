@@ -1,0 +1,89 @@
+
+  God Of War: Ragnarok Accessibility Features Detailed In New Blog Post
+
+
+
+
+
+
+            Santa Monica Studio lead UX designer Mila Pavlin has detailed God of War: Ragnarok’s accessibility features in a new PlayStation Blog post to celebrate Global Accessibility Awareness Day. 
+
+The blog post highlights a selection of the upcoming games’ 60-plus accessibility options designed to suit players’ needs ranging from subtitle and caption improvements to text and icon size, and more. Accessibility features in any game are an important part of ensuring that everyone can enjoy an experience, and it’s nice to see SMS highlight these options in a dedicated blog post. 
+
+Sorry, this video is not available
+
+“Not only have we redesigned our UI to allow for more flexibility and readability, but we have also rebuilt controller remapping from the ground up and added more customization to our combat and interaction systems,” Pavlin writes in the blog post. “We have retained all of our accessibility features from 2018’s God of War and expanded upon them to include more than 60 ways to adjust gameplay to best suit your style and needs.” 
+
+Here’s a breakdown of the accessibility features highlighted in Pavlin’s blog post: 
+
+There are four returning accessibility features from the PC version of God of War coming to Ragnarok: 
+
+Sprint Auto Sprint: this allows you to not only press the stick forward once to auto sprint but set the duration for how long it lasts too.
+Persistent Dot (Always On Reticle): this keeps a reticle on-screen at all times for those that need it or for those that need an additional focus point to reduce motion sickness. 
+Aim Style: this allows players to choose to use either hold or toggle on/off the aim stance. 
+Block Style: You can choose to either hold or toggle on/off the shield stance. 
+The following are accessibility features new to Ragnarok:
+
+Subtitle and Caption Improvements
+
+Subtitle and Caption Size: SMS has increased its minimum text size and added new scaling options, including an extra-large text size. The game will also have a larger text area to match TV and movie subtitle standards. 
+Subtitle and Caption Colors: Players can adjust the colors of speaker names, subtitle body text, and captions individually now. There will be seven colors to choose from. 
+Speaker Names: Like in God of War, you can show or hide speaker names and you can set this size independent from the UI text size. 
+Captions: SMS has added several new ways to understand in-game sounds, Pavlin writes. The studio has added captions to both cinematics and gameplay “to provide a rich understanding of the soundscape of the world.” Players can also enable captions for critical gameplay information to assist with puzzles and narrative understanding. 
+Subtitle and Caption Background Blur: SMS has included options to allow for blurring the background behind subtitles and captions to make them easier to read. 
+Subtitle Background: Like in God of War, there will be options to darken the background behind subtitles for better readability on snow. High contrast backing includes multiple opacity settings, too. 
+Direction Indicator: Critical gameplay sounds will now have an optional direction indicator which shows the direction a sound is coming from. Plus, to assist with puzzles that have sound cues, this indicator will help you orient towards the source of an important sound, Pavlin writes. 
+Text and Icon Size
+
+“The highly requested feature from God of War (2018) is back and better than ever,” Pavlin writes. “You asked for a comfortable reading experience when playing from a couch, so we listened. With a fully re-engineered and responsive UI, and a larger minimum text size that can scale significantly, reading on-screen text is easier than ever.”
+
+Here’s a look at SMS’ default and XX-Large game wide UI text scaling for reference (the first image is the default):
+
+And here are two examples of in-game icon scaling – the first image shows the smallest icon and the second image shows the largest: 
+
+Controller Remapping
+
+“We have rebuilt our controller remapping system to allow you to customize your button configurations in God of War: Ragnarok,” Pavlin writes. “There will be a wide range of preset layouts, as well as custom controller remapping support. Individual buttons can be swapped and, for select complex actions, you can choose alternate configurations from a preset list. We offer multiple ways for you to customize your experience for certain actions that require more than one button, including Touch Pad Shortcuts for things like Spartan Rage, Navigation Assist, and Quick Turn.” 
+
+High Contrast Mode
+
+Pavlin says Ragnarok’s new high contrast color mode allows players to apply a color to in-game objects like targets, enemies, and other characters, in addition to item types. When this is active, the color will be applied to the object or character to make them more visible contrasted against the background. You can optionally desaturate the background, too, to further increase this effect. 
+
+High Contrat Activation Customization: You can select off, on, or always on for gameplay only (this will exclude cinematics). High contrast mode can be set to toggle on and off from a swipe for easy access. This mode will automatically disable when in a settings menu or character menu, Pavlin writes. 
+High Contrast Color Customization: You can select a color palette that fits your playstyle and adjust individual colors for characters, enemies, and items, too. 
+High Contrast Background Customization: You can individually select mid-tone or darkened background contrast levels. 
+
+Additional Accessibility Features
+
+Navigation Assist: This camera navigation system is new to Ragnarok and it allows players to orient the view towards the current objective on the compass. When not in combat, you can press the Navigation Assist button to orient your view toward the next story goal. 
+Travel Assistance: You can now automate gap jumping, vaulting, mantling, and other various traversal features to a specific direction you press. 
+Assistance+: This setting adds interaction-based moves like climbs, crawls, and squeeze-through. 
+Audio Clues: Pavlin says SMS has “linked a sound cue to each of the on-screen "interact" prompts so that when using this feature, you can hear when an interact icon is nearby, as well as when the button prompt becomes active.” These cues extend to unblockable attack rings, targeting aim cues, and weapon swap cues, too, and the volume of individual cues can be adjusted independently of one another. 
+“We are committed to improving accessibility and customization for everyone,” Pavlin writes. “We can’t wait to tell you details about our other categories of accessibility features like combat/aim assists, puzzle/minigame assists, HUD adjustments, camera tuning, auto pick up, and much more. We are so thankful for all the support from our accessibility consultants and the greater accessibility community for sharing their thoughts to make God of War: Ragnarok the most accessible God of War ever. We can’t wait to share more with you as we get closer to launch.” 
+
+While waiting to learn more, read about how Amazon is reportedly developing a live-action God of War series, and then read about how God of War: Ragnarok’s delay may have been due to an actor’s surgery. Check out this amazing vintage God of War comic book cover created by a former Rockstar Games illustrator after that. 
+
+What are you most excited about in Ragnarok? Let us know in the comments below!
+
+      Products In This Article
+
+God of War Ragnarök
+
+Platform:
+
+PlayStation 5, PlayStation 4
+
+Release Date:
+
+November 9, 2022
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

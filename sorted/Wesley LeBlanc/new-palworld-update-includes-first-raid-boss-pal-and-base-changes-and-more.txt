@@ -1,0 +1,102 @@
+
+  New Palworld Update Includes First Raid Boss, Pal And Base Changes, And More
+
+
+
+
+
+
+            Developer Pocketpair has released a new Palworld update that introduces the game's first raid boss, makes changes to pals, U.I., and bases, and more. Dubbed v0.2.0.6, the Steam version of this update for PC players is already live; the Xbox version will be released when it's ready, according to Pocketpair. 
+
+As for what to expect, today's update is one of Palworld's biggest. But chief among the additions is the game's first raid boss, a heavily anticipated aspect of the survival game's endgame. Let's break it all down: 
+
+Raid Boss
+
+The first Palworld raid boss is now live
+You can summon raid boss pals by using slabs at new Summoning Altars
+These pals are extremely powerful and cannot be captured. 
+Pal eggs can drop after defeating raid boss pals. 
+There is an "extreme" version of the first raid boss that Pocketpair says "is incredibly powerful and difficult to defeat." 
+Other New Content
+
+New "Training Manual" items have been added. These manuals allow you to give experience points to Pals.
+New item "Ancient Technical Manual" has been added. This manual gives you ancient technology points and can be randomly found inside dungeon chests.
+New "Recovery Meds" items have been added. Using these meds will slowly recover your HP over time.
+New item "Homeward Thundercloud" has been added. When used, this item will instantly move you to your nearest base.
+New item "Ability Glasses" has been added. When equipped, you can see Pal's stats.
+New stat boosting items have been added: "Power Fruit, Life Fruit, Stout Fruit". These items will boost Pal's stats when used.
+Added a new passive "Mercy Hit". Pals with this passive cannot reduce enemy HP below 1 when attacking.
+New item "Ring of Mercy" has been added. When wearing this ring, you cannot reduce enemy HP below 1 when attacking.
+New armour "Multiclimate Undershirt" has been added. Protect yourself against both the heat and the cold with just one slot!
+New building "Electric Egg Incubator" has been added. This incubator consumes electricity to automatically adjust the temperature to the optimum temperature for each egg.
+New building "Ore Mining Site" has been added. This mining site allows you to produce ores from the comfort of your base!
+Pals
+
+Kelpsea can now produce Pal Fluids at the ranch
+Dumud can now produce High-Quality Pal Oil at the ranch
+You can now reduce the weight of metal ore while riding Surfent Terra
+Increased the amount of ore dropped while riding Astegon
+You can now raise Pal's rank to the maximum with a single synthesis using the Pal Essence Condenser (Condensation progress is now accumulated in the individual Pal)
+Negative Pal status will now be resolved after spending some time in the Pal Box
+UI
+
+While aiming a sphere, it will now display how many of the target Pal has already been captured
+You can now check the cooldowns on partner skills for all your Pals on the main screen
+Equipment and item stats are now visible on the technology screen, even if you have not unlocked them first
+The tutorial has been improved and renamed to "Journey"
+You can now show/hide the "Journey" in the game options
+Damage number display size can be changed in the game options. (In Raid Boss battles, the damage numbers tend to overlap a lot and it may be difficult to see, so we recommend adjusting the size)
+Player
+
+Items dropped by players after death on a dedicated server can now be picked up by anyone after 24 hours of real-time have passed
+Added a new "sleeping" player emote (edited)
+Bases
+
+You can now allow/disallow certain work for base Pals at the Monitoring Stand
+Chest filters have been added. Select item types to allow or disallow inside chests
+Crafted items are now transported from crafting facilities. Selecting "allow transport" when crafting will result in Pals transporting those items to chests when finished
+You can now edit your character's appearance at any time by using the "Antique Dresser"
+Building and building piece placement rules have been relaxed (you can now connect stairs facing upward; roof pieces can now directly connect to foundations; triangular walls can now be connected to stairs)
+You can now force a Pal to work and cancel their break by picking them up and throwing them towards a facility (Pals recover their SAN while taking a break, so be careful!)
+Fixed assignments remain fixed, even after bad events occur. Previously, some assignments would change due to certain conditions, but now they will remain fixed unless the Pal is placed inside the Pal Box
+Balance Adjustments
+
+Minimum heat and cold resistance have been added to various armour. You will no longer need to take off your heat-resistance armour when it is cold at night in the starting areas!
+Reduce the button press time in the egg incubator
+Change the pattern for Jormuntide Ignis to something more unique
+Added legendary blueprints for some firearms (Dropped from specific enemies)
+Corrected the selling price of diamonds
+In single-player, it is no longer possible to select the initial spawn point for multiplayer
+Blocked the back of the starting area with rocks to prevent players from getting lost or stuck
+The increased attack power multiplier of partner skills that increase the player's attack power while riding has been uniformly reduced from 2.0 to 1.2
+Eggs now have a small chance to produce Alpha Pals
+Flying and floating Pals are now immune to falling damage
+Shop price adjustments
+Elsewhere in today's update, Pocketpair has listed a handful of bugs it fixed alongside other changes like improved Pal models and textures, and more. For the full breakdown of those changes, head here. 
+
+For more about the game, head to Game Informer's Palworld tag to watch trailers, gameplay, and read in-depth features. 
+
+Are you still playing Palworld? Let us know what you think of it in the comments below!
+
+      Products In This Article
+
+Palworld
+
+Platform:
+
+Xbox Series X/S, Xbox One, PC
+
+Release Date:
+
+TBA
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

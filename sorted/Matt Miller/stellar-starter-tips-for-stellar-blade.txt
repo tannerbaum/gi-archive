@@ -1,0 +1,134 @@
+
+  Stellar Starter Tips For Stellar Blade
+
+
+
+
+
+
+            Stellar Blade is heading into full release, and you can dive into the action-heavy sci-fi adventure for yourself. You can read our full review for more details about how it turned out, or read our interview with the game's creative director to learn more about how the game came together.
+
+Developer Shift Up does a good job of gradually introducing new core systems as you move through the lengthy adventure, but as we played ahead of public launch, our team discovered several things the game doesn’t tell you that can lead to a more enjoyable journey.
+
+Turn On Auto Loot
+
+While the developer made many smart decisions in creating Stellar Blade, we’re a little confused why the default choice for gathering dropped loot requires pressing and holding one of the shoulder buttons.
+
+As soon as you start the game, pause and go to Settings > Gameplay and adjust the Auto Loot option to “On,” which is not the default. Eve will begin to pick up items and currency automatically without the need for your input – as long as you get close enough to the items on the ground, they’ll go into your inventory.
+
+Set Hair Length
+
+In that same menu we just pointed you toward (Settings > Gameplay) you’ll find another option to adjust Ponytail Length.
+
+This is primarily a cosmetic choice for how you like the main character to look, but we mention it here for functional reasons. Depending on your playstyle, extraneous visual “noise” onscreen can be distracting, especially in a tense encounter.
+
+Eve’s extremely long ponytail shows off some cool physics, but if it’s preventing you from having a clear view of enemy actions, consider changing the ponytail length to “Short”
+
+Ambush When You Can
+
+Even standard wandering Naytiba enemies in Stellar Blade can lead to some tough and even game-ending battles. Take every advantage you can, including prioritizing an early unlock of the Ambush ability (findable in the Attack section of the Skill Tree).
+
+Ambush lets you backstab enemies if you can get close enough before they turn around and see you. It’s generally an instakill, so it’s a good choice for eliminating the most powerful foe in a group before facing off against the less dangerous ones.
+
+Rush To Open
+
+Similar to the Ambush option above, it’s smart to unlock and use the Rush skill early on and use it to open fights where Ambush isn’t an option. This skill lets you close with an enemy instantly, and you can get some hits in before they have a chance to fight back.
+
+It’s also an essential skill in more protracted combats, including bosses. After dodging or running out of the way of a dangerous attack, Rush lets you get back into the fray right away.
+
+Guard First, Then Strike Back
+
+More than many action games, guarding is an essential skill that you should practice from the very start. Excessive offensive play without guarding is a recipe for failure.
+
+Your guard/shield will diminish with hits taken, but it’s an excellent way to confront the early moments of a fight, when you’re still feeling out an enemy. And while perfect parries and dodges are great, you may need a few strikes to recognize an enemy’s attack patterns, and guarding is the best way to weather those moments, with the exception of unblockable attacks.
+
+Improve Perfect Dodge And Parry
+
+There’s no more surefire way to succeed in Stellar Blade than getting good at Perfect Dodge and Perfect Parry. It’s absolutely core to the combat system, and success with those skills opens up additional options and abilities.
+
+Of course, the most important thing you can do here is observe and improve your timing in nailing these abilities. Much of that is about memorizing the different colored flashes and knowing which color corresponds to the need to dodge or parry. The training modules inside the Skills menu can help a lot with that practice. To find those, go to the Skill Tree Survival section, and tap Square while hovering over the Perfect Dodge or Perfect Parry ability. Seriously, there are no better skills to master.
+
+But you can also hedge your bets. There are additional abilities in the skill tree and equipment in the game that make it easier to nail those tight windows for perfect dodges and parries. If you’re having trouble consistently hitting that timing, these are excellent skills and equipment items to focus on.
+
+Scan, scan, scan
+
+A tap of the central touchpad on your DualSense controller will send out a pulse scan of your surrounding area. It’s an easy thing to forget about as you run around slicing through enemies.
+
+That would be a mistake. Making a point to scan frequently is a smart move. It reveals enemy locations that may be hiding. And it also shows critical interactable items and individuals, including dead bodies that can sometimes hold precious upgrades, like max health improvements.
+
+It costs nothing to tap that scan, so get in the habit of doing it in each new area you arrive in.
+
+Keep up with your sidequests
+
+If you plan to try and mainline the golden path of Stellar Blade, feel free to ignore this tip. But for the rest of the players, you may be wondering what to prioritize in your extracurricular activities.
+
+Sidequests provided by actual individuals in the game world are almost always a good bet. They provide more and better experience and rewards than just roaming around taking out monsters. Those character-provided sidequests also tend to be more interesting than the less personal assignments you can pick up from bulletin boards.
+
+And, while we don’t want to spoil anything, it’s safe to say that the latter hours of the game turn out differently depending on certain sidequests you might have chosen to complete. Talking with and completing those character-connected side quests is a great place to put your time if you want to expand your time in the world of Stellar Blade.
+
+Pick up the phone!
+
+It goes without saying that you should enter and use supply camps when you find them in order to rest and get your health and supplies back. But early on, you might not realize that you should also be trying to activate all the payphone locations that you encounter.
+
+Phones activate a new fast travel point; you want as many of those as possible.
+
+Even if you don’t initially plan to do a lot of fast traveling, later missions sometimes send you back to explore areas you’ve already visited, and having a more comprehensive selection of fast travel points gets you back to the action and the quest completions faster.
+
+Unlock Beta and Burst Wisely
+
+As you play through Stellar Blade, you’ll gradually unlock access to the Beta and Burst skills. Each skill tree adds new abilities that you can bring to bear in a fight by holding down L1 or R1 along with one of the face buttons. These are usually high-powered attacks; you should integrate them into your combat flow.
+
+But even knowing that, it’s easy to cast too broad a net and weaken yourself by playing with too many different skills. That’s especially true in the midgame, while there’s still much to unlock.
+
+In both the Beta and Burst skill trees, consider unlocking and completing the upgrades for one (or maybe two) of these skills before moving on to the others. Remember, both Beta and Burst skills pull from their own respective meters, so if you use one of the abilities, it will deplete that meter, preventing you from doing another deployment. It’s rare that you’ll be able to spam out multiple abilities that tap into the same meter. As such, it’s best to focus on individual skills that shore up weakpoints in your combat repertoire.
+
+For instance, Shield Breaker is the bottom skill (L1+X) on the Beta Skill Tree, and as the name implies, it does a great job of breaking enemy shields. If you’re struggling with the early phases of boss fights when your foe often still has a high shield, this is a great choice. And rather than diversifying into other skills, we recommend unlocking the upgrades to Shieldbreaker before focusing on other skills. Alternately, Triplet (L1+Square) is a solid and consistent damage dealer and a great choice if you’re just looking to bring down standard enemies quickly.
+
+Take the time to look through the full suite of Beta and Burst skills, and consider which individual abilities would be the biggest help to your playstyle, then focus on those.
+
+Follow the Green Dot
+
+As you get started in Stellar Blade, you may encounter many individuals you feel you need to talk to. If that’s your thing, go for it. But if you’d like to focus on the individuals that actually have something to offer, look for the green dot next to an individual; these are actual quest-givers or other meaningful conversations.
+
+Take the Hint
+
+Occasionally, you’re going to encounter panels that demand that you enter a code sequence of symbols. Generally speaking, you need to find a different location that provides that code before you can input it.
+
+Don’t bother trying to jot down the symbols. Instead, when you return to the appropriate unlockable panel, tap the “Hint” button to see the code. It’s not cheating. It’s simply showing you the code you already found elsewhere in the game, which matches this particular panel. If the “Hint” option is grayed out, you just don’t have the code yet.
+
+Experiment With Story Mode
+
+We always advise that the best difficulty setting is the one that leads to the most fun for you as a player.
+
+With that said, Stellar Blade features a tight and rewarding combat system – if you can enjoy the challenge of some tough combat, the default Normal Difficulty is the way to go. It has some hard fights, but with patience, you’ll succeed.
+
+With that said, there’s nothing to say you can’t experiment with Story Mode, and doing so can help you prepare for winning a hard fight in Normal (or the eventual Hard mode, which unlocks after you beat the game).
+
+In Story Mode, combat prompts pop up and time slows down in critical moments of battle, letting you learn exactly what buttons to press when that vicious boss descends on you.
+
+If you’re committed to beating the boss on Normal, but you’re having a hard time, consider bumping the difficulty down to Story Mode to learn the ropes of the fight. Then, before you defeat the boss, switch back to Normal mode, which will reset you to your most recent save point. You can then go into the fight armed with a clear understanding of what buttons to press to react to each attack – but you’ll still have to nail the timing to win.
+
+Good luck in your adventures with Eve across the post-apocalyptic wastelands of Stellar Blade!
+
+      Products In This Article
+
+Stellar Blade
+
+Platform:
+
+PlayStation 5
+
+Release Date:
+
+April 26, 2024
+
+Purchase
+More Info
+
+Matt Miller
+Editor-in-Chief
+Matt Miller has been with Game Informer since 2004. He has a special interest in the evolution of game design, the tabletop hobby, and the crafting of interactive narrative. 
+
+Email
+Twitter
+

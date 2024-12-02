@@ -1,0 +1,47 @@
+
+  Why Mass Effect Legendary Edition Is A Remaster (Not A Remake)
+
+
+
+
+
+
+            There’s been much excitement surrounding Mass Effect Legendary Edition, so much so we even put it on the cover of our most recent issue. BioWare’s remaster of the famed Commander Shepard trilogy is coming out May 14, and while fans have certainly pined for this remaster, one question that keeps coming up is: Why not a remake? It’s a valid question, especially since many series, like Resident Evil and Final Fantasy, have instead opted to remake beloved games to appeal more to modern audiences. However, BioWare didn’t feel like that was the right approach for the trilogy at this point in time. In fact, making it a remaster in the true sense was one thing the team agreed upon early on, before they even really got going.
+
+BioWare started talking about finding a way to preserve Commander Shepard’s story shortly after it finished Mass Effect: Andromeda. Every year, a small team investigated what it would take – figuring out logistics and determining exactly what avenue would be best for it. The team always leaned more toward a remaster as they envisioned this undertaking. However, once they finally got everything greenlit, the team also wanted to approach it with what project director Mac Walters calls “fresh thinking.” This led them to ponder once again what it would take to create a remake or make large-scale changes, leading them down the path of considering upgrading engines. 
+
+“We didn't want to get stuck in the way we had thought about it originally,” Walters explains. “And so we did open sort of the Pandora's box of, ‘What if this was a remake?’ We actually sat down with a team from Epic and talked to them about Unreal 4 and said, ‘What would it take if we were going to upgrade this and work on it?’ What we quickly realized was that, aside from the complexity, the cost, and all of those things, [the trilogy] really would have lost the essence of what it was.” 
+
+Walters used the example of Kismet, the Unreal 3’s visual scripting language, not being able to carry over as a dealbreaker. “There's no way to take that scripting and just automatically have it work in the Unreal 4 engine, so that means you’re rescripting scenes, combats, the way levels work, the way our U.I.s work, all of that would have to be redone. Inherently, it would lose just the essence of what Mass Effect was. Not to mention, just the way it renders and everything else as well. And so ultimately, we decided that Unreal Engine 3 was probably going to be the best version to keep it feeling like what it was, but also [provide] an opportunity to uplift it as well.”
+
+ You're missing out!Normally this is where something cool would show.  Your browser is blocking third-party cookies so we're unable to display this content.Try clearing your browser cache, disabling ad blockers, and verifying that cookies are allowed: Verify cookie preferences
+
+BioWare wanted to retain what made Shepard’s story special, providing a nostalgic experience that wouldn’t deviate from players’ fond memories of the series. “For a remake, I do feel like we would have found ourselves chasing our tails to find the magic,” Walters says. “If we had just said, ‘We're leveling everything and we're just going to try to recreate that from scratch…’ you can't. It was about the people, it was about so much of the intangibles – not just the tech – and everything else that brought that together. It was a beloved franchise, highly rated. I don’t think you mess with that.”
+
+After toying with different ways to approach bringing back the trilogy, it was a fairly quick consensus that a remaster was the way to go. It was important to have something that stayed true to what made people fall in love with the series, and BioWare didn’t want to make any big changes to the core content that might jeopardize that. 
+
+“This is a beloved franchise,” Walters says. “If you look at the way fans talk about Shepard, they say, ‘My Shepard,’ right? They're very possessive about Shepard in a really good, really strong way. And, of course, that doesn't just mean the character Shepard – that means that Shepard’s story. It's all the choices that are made along the way. And so, very early on, we realized, ‘Look, if the choices and the plot points, if we're gonna say that those are what everyone loves, holds on to, and wants to call it their own in the sense of their memory of this, [a remake] is off the table. We're not changing any of those things. That really pushed us more in the [direction] of just a proper remaster, where it's like, ‘I love this game and I want to experience it all again, but I’d really love to play it on my current and future hardware, and I'd like to see it brought up to today's standards.'” 
+
+Character and environment director Kevin Meek, who has spent the last five years at BioWare working on games such as Anthem, came onto the project as a fan of the trilogy and said it was a difficult process of getting the balance right. “It was like a Ship of Theseus type thing of, ‘How far can you change this before it's not the same as it was?’” Meek asks. “In a remake, you start off with some line in the sand, like ‘this is not the same ship that it used to be.’ Whereas in a remaster, it's the same toolset, the same level, the same characters, just polished up. That's where I get that nostalgia factor, and I would have definitely lost a lot of that if we'd gone the other way.”
+
+That’s not to say the improvements for the remaster are just in the visuals. BioWare spent time taking into account fan feedback to refine as much as possible. This means improvements to the Mako, faster load times in those pesky elevators, transforming barren levels into more striking locales, and having a unified control scheme and HUD throughout the trilogy. And that’s only some of the additions and enhancements. 
+
+However, it goes without saying, Mass Effect Legendary Edition isn’t going to fundamentally change or redefine how you experience Shepard’s story, and that’s okay. As a longtime fan, Meek said it best: “For me, it’s that sense of nostalgia. I still vividly remember the feeling ... I still even get it sometimes now when opening the Presidium in Mass Effect 1 in Unreal 3 and flying around, like that is the Presidium from Mass Effect 1 that I played and loved back in the day. And if I remade that, even using the same assets largely and the same base, it's not the same Presidium.”
+
+Want more on Mass Effect Legendary Edition? Check out our coverage hub below and keep checking back as we’ll have more coverage throughout the month.
+
+      Products In This Article
+
+Mass Effect Legendary Edition
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC
+
+Release Date:
+
+May 14, 2021
+
+Purchase
+More Info
+

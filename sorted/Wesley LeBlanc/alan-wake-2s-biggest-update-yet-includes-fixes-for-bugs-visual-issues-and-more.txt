@@ -1,0 +1,115 @@
+
+  Alan Wake 2's Biggest Update Yet Includes Fixes For Bugs, Visual Issues, And More
+
+
+
+
+
+
+            Remedy Entertainment released Alan Wake 2 last month, and it's resonated with both fans and critics alike as a longtime sequel and a new game from the creators of Control – you can read Game Informer's Alan Wake 2 review here. The studio has released two updates so far, but today's Alan Wake 2 update is easily the biggest yet and includes bug fixes, visual issue remedies, and more. 
+
+Update 1.000.008 on PS5, 1.0.0.8 on Xbox Series X/S, and 1.0.8 on PC brings over 200 individual improvements and fixes to the game, including improved audio for live-action sequences, graphical issue fixes, Performance mode improvements, improved lighting, and various mission-specific fixes, like one that fixes a bug where Saga could get stuck in the environment in one of her first chapters. 
+
+Here are the full Alan Wake 2 Update 1.0.8 release notes: 
+
+Global
+
+Various localization fixes, such as improved subtitle timings for all languages
+Improved localized audio for live-action cinematics
+Various audio-related improvements and additional polish
+Improved lip sync in some instances
+Fixed various graphical issues in the environments
+Fixed various minor issues in cinematics
+Minor improvements to image aliasing in Performance mode and Xbox Series S
+Improved lighting
+Fixed lighting bugs in multiple locations
+Various UI-related fixes and additional polish
+Various gameplay fixes and improvements
+Minor gameplay finetuning
+Improved auto-aim for specific circumstances
+Fixed rare player character animation issues
+Fixed various issues in the Case Board
+Fixed various map issues
+Several conversations failing to trigger and thus blocking progress later have been fixed
+Fixed Rose’s dialogue choices, sometimes not being selectable, blocking progress
+Fixed a rare issue with Saga’s lines not playing when going to the Sheriff’s Station, blocking progress
+Resolved a potential problem in the player getting stuck in a Case Board Tutorial
+Fixed exploration rewards for Lighthouse 
+
+Mission Specific
+
+INVITATION:
+
+Fixed a bug where Saga could get stuck in the environment (“Crazy forest”)
+
+CASEY:
+
+Fixed potential issue with players able to get stuck when falling from ladders
+Fixed potential issues with Dark Presence (it remains a threat)
+Fixed a rare crash
+
+ZANE’S FILM:
+
+Fixed a bug where Alan could fall through the environment
+
+SCRATCH:
+
+Fixed a bug where Saga could fall through the world
+Fixed a bug in where a gate could get locked after reloading a save game, causing the player to get blocked from progressing
+Fixed an issue where, in rare circumstances, the player could end up outside of the game world when opening the map
+Fixed an issue where, in rare cases, the Lighthouse key could not be picked up
+
+WE SING:
+
+Fixed a bug where Alan could get stuck in the environment
+
+ROOM 665:
+
+Fixed an issue that caused the Oceanview Hotel Lobby Echo not to align correctly (this one was really annoying; we apologize)
+
+MASKS:
+
+Fixed an issue where if the player performed specific tasks in an unpredictable order, the mission progress could get blocked
+
+DEERFEST:
+
+Fixed an issue (much to Rose’s chagrin) with physics-related props that could block the player in and halt progress
+
+COME HOME:
+
+Fixed an issue where the player, in rare instances, could not exit the radio, TV, or manuscript interact modules. 
+
+PC Specific
+
+Fixed a bug that could cause graphics settings to reset when launching the game
+Improvements to PC Window handling logic
+Fixed mouse cursor sometimes not appearing in menus
+
+And that's everything in today's Alan Wake 2 update. 
+
+For more, read Game Informer's Alan Wake 2 review and then check out this update where Remedy discusses its development progress on Control 2 and its Max Payne remakes. After that, read this feature about the characters to remember before starting Alan Wake 2, and then check out what the best graphics modes are in the game. 
+
+Does this update fix any issues you have with Alan Wake 2? Let us know in the comments below!
+
+      Products In This Article
+
+Alan Wake 2
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PC
+
+Release Date:
+
+October 27, 2023
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

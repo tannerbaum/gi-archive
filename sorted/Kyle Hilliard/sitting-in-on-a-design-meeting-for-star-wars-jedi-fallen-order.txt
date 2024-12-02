@@ -1,0 +1,64 @@
+
+  Sitting In On A Design Meeting For Star Wars Jedi: Fallen Order
+
+
+
+
+
+
+While visiting Respawn to learn more about Star Wars Jedi: Fallen Order for this month’s cover story, we had a unique opportunity to do something I personally had never done despite having visited various game studios for assorted features and cover stories during my seven or so years with Game Informer.
+
+Alongside our filming, interview, and hands-on opportunities, Respawn also invited us to sit in on a design meeting for one area in Star Wars Jedi: Fallen Order. We can’t describe in detail what the level looked like, its enemies, or what the planet was called (they wouldn’t tell us anyway, despite us lobbing guesses at them), but we can say that it was a much darker, potentially creepier location than what we have seen from the game so far.
+
+Andrew Reiner, Leo Vader, and I sat in the meeting interjecting as little as possible while the team discussed what was working with the level, what they wanted to change, and how they predicted players would react to the level’s layout and enemy encounters. It offered interesting insight into Respawn’s game design process, so Leo Vader and I decided to talk about the meeting and what we took away from it.
+
+Kyle Hilliard: When putting our schedule together for the Fallen Order cover trip, I honestly wasn’t sure what to expect from getting to sit in on a design meeting. I assumed we would be interviewing Respawn folks who would potentially be part of a meeting like this, so I was surprised when a team of six or so designers came into the meeting room, made their introductions, but then got down to business by loading up a build of the level they were there to discuss and playing through it.
+
+The way the meeting worked, Jeff Magers, lead level designer on the game, played through the level pausing periodically to discuss specific locations or enemies, talk about why things had been placed in certain places by the other designers in the room, and take suggestions about how things could be tweaked or changed. Sometimes they were small changes, but other times the suggestions were larger.
+
+Lead level designer Jeff Magers (right) and lead combat designer Jason De Heras prepare for the meeting
+
+Leo Vader: The way they explained it is they basically have placeholder fights as the game is designed, and now that they’re late enough in the process that the enemy cast is fully fleshed out, they’re going through each encounter in the game and tuning them to flow better and provide the right amount of challenge. It was fascinating to watch them collaborate on something like this, with little problems of the player being led the wrong way, or an enemy’s abilities being unclear, and everyone in the room volleying suggestions to fix it. As an outsider it seemed like a really fun, cooperative part of the process.
+
+Kyle: It’s not a secret that video games are difficult to make. I have no illusions about the amount of work that goes into any video game, but watching them discuss even just a little one to two minute walk from one area to the next really helped put into focus how much every instance in a game like this has been poured over. Something as simple as the angle of a door opening and the player’s line of sight as they walk toward the exit was discussed at length. There was one instance where Cal was walking up to a group of enemies and Magers activated a debug mode to place Cal in a nearby, but normally inaccessible area and suggested they build in a new path wrapping out to that new position, just to make sure the players have a very specific angle on how to approach that group. And then the discussion shifted into not only how the angle would change the look of the approach, but also how it would change the player’s decisions in terms of how they decide to initiate the fight. It was just a fascinating discussion.
+
+This is Kashyyyk, which is a different area than the one we saw during the design meeting
+
+Leo: Right, and I thought it was cool they had some dev tools accessible on the controller so Magers didn’t even have to reach for the keyboard to debug it while playing. My favorite moment was when Cal got suddenly got ambushed by a large group of enemies and the team all laughed, having not seen it before. One programmer raised his hand and took credit for sneaking it in there. I’m really excited to play that part of the game when it releases and see what they changed or improved.
+
+Kyle: I also appreciated how critical they were of their own work. From our perspective, the level looked great and was nearly complete except for a few white boxes which were there as stand-in assets, but they would point to certain things and laugh as a group and joke that things looked like s***, or say, “We can’t ship this.”
+
+There was one moment where Magers walked by some static foliage that would have been very easy to ignore and swung the lightsaber at it and commiserated that it wasn’t coming apart and they all agreed that, yeah, it would great to slice it part with a lightsaber and then they made plans to change it out.
+
+I also learned the term “squeeze-through,” which identifies something we have both done in a million games, but I never had a word for. It’s where the character squeezes through a small gap to, presumably, mask a load time while the camera zooms in close. I love that I have an official, developer-sanctioned term with which to refer to those instances now. I learned a lot that day.
+
+Leo: I agree, I wrote down the term “janky” as a refrain they would agree on when something wasn’t working quite right. One other thing I’d like to mention is in the middle of the meeting my stomach made a really loud gassy gurgling noise, one of the loudest in my life. Then Magers said, “What was that?” and my heart stopped for a moment. Then he turned the camera and saw two people fighting and said, “Oh,” so apparently that’s what he was talking about.
+
+Kyle: They also complained a lot about the y-axis being inverted when they first started playing, which is something I had done when I was playing the build a few minutes prior. I don’t think they figured out it was my fault, though, so we both basically got away with murder. We really secretly caused a lot of problems at that meeting. Why did they let us sit in on it?
+
+Leo: I hope no one reading this snitches about what we’ve done.
+
+For a whole lot more on Star Wars Jedi: Fallen Order, you can read the full cover story here, and click the banner below for all of our features and videos throughout the month.
+
+      Products In This Article
+
+Star Wars Jedi: Fallen Order
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Stadia, PC
+
+Release Date:
+
+November 15, 2019 (PlayStation 4, Xbox One, Stadia, PC), June 11, 2021 (PlayStation 5, Xbox Series X/S)
+
+Purchase
+More Info
+
+Kyle Hilliard
+Magazine Content Director
+Kyle plays entirely too much Picross. He once wrote a whole book about The Legend of Zelda.
+
+Email
+Twitter
+

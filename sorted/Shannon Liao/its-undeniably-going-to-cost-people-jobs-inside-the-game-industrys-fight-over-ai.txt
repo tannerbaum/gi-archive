@@ -1,0 +1,93 @@
+
+  "It’s Undeniably Going To Cost People Jobs:" Inside The Game Industry's Fight Over A.I.
+
+
+
+
+
+
+            I’ve been speaking to ChatGPT for months.
+
+It swears up and down that it doesn’t have feelings. It’s not a person. But it can write me a short story in the style of Disco Elysium and F. Scott Fitzgerald about becoming a person and landing on Earth – if I give it the right prompts.
+
+So how much do we have to fear about A.I. taking over? The debate about generative A.I. and its capabilities and downsides has exploded this year, being the topic du jour at the annual Game Developers Conference in San Francisco, California, consuming the minds of executives, developers, and artists alike. Generative A.I. can make art and iterate on a line of dialogue faster than humans can. But humans are wary of using these tools and the toll they could take on jobs and copyrights around art and writing.
+
+Valerie Ranum (via OpenAI)
+An example of generative A.I. art made using ChatGPT and DALL·E 3
+
+It’s still early days for many of these companies to turn out games that heavily rely on generative A.I. But many executives are clear that they’re certainly thinking about it, even as serious copyright issues arise over how A.I. gets its data. 
+
+“It’s difficult for us to comment on generative A.I. except to the point that we are very interested to see how creators are using this technology,” says Sony AI’s chief operating officer, Michael Spranger, in an interview with Game Informer. “There’s a discussion around this technology potentially impacting people. Some of the issues around [copy] rights are very important to us.”
+
+Some gaming executives say they can see A.I. cutting down on laborious and menial tasks. The former head of Halo Infinite, Chris Lee, tells me that “game developers have never been able to keep up with the demands of our audiences.”
+
+In April, Blizzard’s chief design officer, Allen Adham, told employees that an internal tool called Blizzard Diffusion, the company’s version of Stable Diffusion, could be a “major evolution in how we build and manage our games.” When reached for comment, Blizzard public relations says the situation likely has not changed since.
+
+Stable Diffusion
+
+Generative A.I., which powers tools like ChatGPT and Midjourney, uses computing power to find patterns in images and texts. In other words, it continuously iterates on what already exists, drawing on art and text from human creators, often without permission. This diminutive way of looking at art has some developers worried A.I. will spit out games that bore players, who can tell when art is being reused and are used to being vocal.
+
+In April, Electronic Arts told the Wall Street Journal that it was considering using generative A.I. in almost all of its games to draw up game levels, replacing the need to manually sketch them out by hand.
+
+Microsoft has shared that it could use A.I. to find bugs in games, a job formerly mostly delegated to humans.
+
+Ubisoft built a tool called Ghostwriter, which uses A.I. to write lines of dialogue for non-playable characters to help fill open worlds with chatter.
+
+“Creating believable large open worlds is a daunting task,” says Yves Jacquier, executive director of Ubisoft La Forge, the research and development team responsible for Ghostwriter, in a May interview.
+
+Jacquier says that Ghostwriter was a request from writers who faced the difficult task of filling games with more than 100,000 lines of dialogue. He compared Ghostwriter to using procedural generation – commonly used to automatically produce content in games – to create millions of slightly different trees to give a player the simulation of a forest.
+
+Jacquier says players want to feel each character and situation in a world is unique, so A.I. can help add variations.
+
+He adds that “A.I. needs to assist the creator, not the creation, and as such, cannot be a substitute to the original creation” and that Ghostwriter needed writers to use it; otherwise, it wouldn’t work.
+
+An A.I. start-up, Didimo, says that it gives developers a way to automatically create three-dimensional characters in the style of a game without a delay. CEO Verónica Orvalho says, “We’re helping game studios, from executive producers to artists, better manage costs.” Soleil Game Studios, which makes fighting games like Naruto and Samurai Jack, has already used Didimo to make hundreds of non-playable characters. Didimo has new clients that it has yet to announce.
+
+Another company, Inworld AI, raised over $100 million in funding from investors, including Microsoft, venture capital, and Stanford University. Inworld helps developers create non-playable characters.
+
+“Last year, when we’ve been talking to clients, we were trying to convince them that they need to have smart NPCs within their games because they would improve retention, engagement, playtime,” Ilya Gelfenbeyn, CEO of Inworld and a former Google executive, says. “End of last year, they all started to play with ChatGPT and basically faced all the challenges that we’ve been solving in the last two years, so this year, it’s much easier to talk to all of them. They’re prepared; they know what they’re looking for.”
+
+Gelfenbeyn says he could not talk about the majority of his clients because the large triple-A companies were “extremely secretive, especially with their new titles.”
+
+Scenario.gg, which raised $6 million in seed funding in January, turns text prompts into images, pulling from a Stable Diffusion database, which developers can place in games. Some smaller companies have been working with Scenario. Stable Diffusion uses a dataset of nearly 6 billion images scraped from the web, which contains several copyrighted creations.
+
+Scenario co-founder and CEO Emmanuel de Maistre says that generative A.I. in video games is “a very competitive field.”
+
+“There is definitely a challenge to be ahead of everyone and have the most money to hire the biggest team and deliver the most comprehensive product,” he says. “We’re still refining, improving, updating the systems. We should not expect the system to be perfect, anyway. This is going to take years until we have something, a system that’s much more efficient, safer, truthful, and so on.”
+
+Scenario.gg
+
+De Maistre says he monitors the evolving copyright situation as judges review lawsuits. If they ruled that people training their data set and writing text prompts was sufficient human input, “we might see the first AI-based copyrighted artwork.”
+
+While game companies are thinking about using these tools, they’re also wary of giving up the copyrights to their intellectual property by entering their information into tools like ChatGPT and Midjourney. In February, Getty Images sued Stable Diffusion, accusing it of scraping 12 million images from its photo database. Last year, three artists sued multiple generative A.I. platforms in an ongoing class action lawsuit.
+
+“Right now, for myself and many other game developers, generative A.I. is a no-go for our games,” says Jes Negrón, founder of RETCON Games. “The technology itself is exciting, but the way content is sourced for the datasets is, frankly, unethical. In a world where we’re required to trade our labor for money to survive, I don’t see how anyone can justify thousands of writers, artists, musicians, and other creatives not being compensated for use of their work in these A.I. models – and all without their consent.”
+
+“It’s undeniably going to cost people jobs,” says Dennis Fong, co-founder and CEO of GGWP, a platform that uses A.I. to help moderate toxicity in games. He envisions that once a team comes up with the core gameplay for a project, they can feed it to the A.I., which can generate how the game looks and feels, its narrative, universe, and more.
+
+Fong gave the example of Amazon’s New World, which he and his friends played until they hit max level. He says he felt the game ran out of content and that it took years to make quests and dungeons and “all this stuff to keep me engaged with the game.”
+
+GGWP
+
+“So if you think about generative A.I. and what it could do, maybe this is no longer an issue if you can actually have A.I. generate new classes, new stories, new characters, new zones. That’s stuff that A.I. has already proven to be really good at,” Fong says. “Is that good for games? At the end of the day, it’s good for games.”
+
+Some industry analysts say that artificial intelligence may not necessarily make games richer.
+
+“The avalanche of vanilla content that is about to hit the market will deliver little more than an occasional flash in the pan,” says Joost van Dreunen, a lecturer on the business of games at the NYU Stern School of Business. “It will be a studio’s ability to cultivate a sustainable community around a novel title that will be the differentiator.”’
+
+Van Dreunen adds that A.I. will likely generate mediocre or average-quality content.
+
+“Most folks are simply interested in turning the word ‘A.I.’ into funny money so they can make some nonsense with stolen data and then move along to the next grift. This is why I will never be rich,” says Brandon Sheffield, director of indie game studio Necrosoft Games.
+
+Sheffield notes that many large language models train on data without asking for the consent of those who created and represent that data.
+
+For instance, ChatGPT admitted to me that it has sourced my articles from the Washington Post, CNN, and The Verge in the past, but it cannot remember my exact name and cannot credit me.
+
+Other developers share Sheffield’s perspective and have tried to avoid working with companies that market themselves as A.I. game studios. A similar skepticism has arisen around the Web3 and non-fungible tokens (NFT) space, which crashed last year, leading some companies to collapse.
+
+“I’m also skeptical because of how a lot of the same companies that were talking about NFTs and Crypto last year are talking about generative A.I. today. It doesn’t breed confidence to see the grifters as the earliest adopters,” Sheffield says.
+
+Polish video game designer Adrian Chmielarz agrees. “I’m not particularly sure it’s as useful as people think it is or would be,” he says. “A.I. NPCs, quests generated by A.I., etc. – it all sounds great, but is this really what people want? Will they enjoy a conversation or a quest the same way as when they know these were hand-crafted by a human? I have my doubts.”
+
+The A.I. movement is already well underway, with companies developing this technology. In the coming weeks, months, and years, A.I.’s impact on labor, video games, and us will become increasingly apparent. 
+

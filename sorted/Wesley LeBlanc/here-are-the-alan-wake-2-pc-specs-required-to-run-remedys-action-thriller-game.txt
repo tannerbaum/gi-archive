@@ -1,0 +1,122 @@
+
+  Here Are The Alan Wake 2 PC Specs Required To Run Remedy's Action Thriller Game
+
+
+
+
+
+
+            Alan Wake 2 is almost here – originally due out on October 17, developer Remedy Entertainment delayed it earlier this year to its new release date of October 27. With less than a week to go, the studio has released the PC specs required to run Alan Wake 2 and it looks like you're going to need a beefy system to play it. 
+
+Here are the PC specifications for Alan Wake 2
+
+Below, we'll break down the requirements for both ray-tracing modes and non-ray tracing. 
+
+Minimum – Low graphics preset, 1080p/30FPS:
+
+GPU: GeForce RTX 2060/Radeon RX 6600
+VRAM: 6 GB
+DLSS/FSR2: Quality
+CPU: Intel i5-7600K or AMD equivalent
+RAM: 16 GB
+OS: Windows 10/11, 64-bit
+Storage: 90 GB SSD
+
+Recommended – Medium graphics preset, 1440p/30FPS:
+
+GPU: GeForce RTX 3060/Radeon RX 6600 XT
+VRAM: 8 GB
+DLSS/FSR2: Balanced
+CPU: Ryzen 7 3700X or Intel equivalent
+RAM: 16 GB
+OS: Windows 10/11, 64-bit
+Storage: 90 GB SSD
+
+Recommended – Medium preset, 1080p/60FPS:
+
+GPU: GeForce RT 3070/Radeon RX 6700 XT
+VRAM: 8 GB
+DLSS/FSR2: Performance
+CPU: Rozen 7 3700X or Intel equivalent
+RAM: 16 GB
+OS: Windows 10/11, 64-bit
+Storage: 90 GB SSD
+
+Ultra – High preset, 2160p/60FPS
+
+GPU: GeForce RTX 4070/Radeon RX 7800 XT
+VRAM: 12 GB
+DLSS/FSR2: Performance
+CPU: Ryzen 7 3700X or Intel equivalent
+RAM: 16 GB
+OS: Windows 10/11, 64-bit
+Storage: 90 GB SSD
+
+Below are the ray-tracing requirements for Alan Wake 2 on PC:
+
+Ray-tracing Low – 1080p/30FPS:
+
+GPU: GeForce RTX 3070/Radeon RX 6800 XT
+VRAM: 8 GB
+DLSS/FSR2: Quality
+CPU: Ryzen 7 3700X or Intel equivalent
+RAM: 16 GB
+OS: Windows 10/11, 64-bit
+Storage: 90 GB SSD
+
+Ray-tracing Medium with Path Tracing on – 1080p/60FPS
+
+GPU: GeForce RTX 4070
+VRAM: 12 GB
+DLSS/FSR2: Quality
+CPU: Ryzen 7 3700X or Intel equivalent
+RAM: 16 GB
+OS: Windows 10/11, 64-bit
+Storage:  90 GB SSD
+
+Ray-tracing High with Path Tracing On – 2160p/60FPS
+
+GPU: GeForce RTX 4080
+VRAM: 16 GB
+DLSS/FSR2: Performance
+CPU: Ryzen 7 3700X or Intel equivalent
+RAM: 16 GB
+OS: Windows 10/11, 64-bit
+Storage: 90 GB SSD
+
+Hey PC gamers! Here you have a full list of PC system requirements for Alan Wake 2.
+🔦 #alanwake pic.twitter.com/7whRbJoVK5
+— Alan Wake 2 (@alanwake) October 20, 2023
+
+As you can see, even the minimum PC specifications require a somewhat powerful GPU like the GeForce RXT 2060, and that and the associated specs only get you 1080p/30FPS in-game. For a 4K/60 FPS experience, you're going to need one of the most powerful GPUs on the market, doubly so for ray-tracing. Notably, no matter where your PC falls in the specification lineup, Alan Wake 2 requires an SSD for storage. 
+
+On the console side of things, both the PlayStation 5 and Xbox Series X will have a 4K mode at 30FPS and a Performance mode that pushes the game to 60FPS. The performance mode will not be available on Xbox Series S, however. 
+
+Alan Wake 2 hits PlayStation 5, Xbox Series X/S, and PC on October 27. 
+
+For more about Alan Wake 2, check out this New Gameplay Today for some Alan Wake gameplay and then watch this NGT for some Saga Anderson gameplay. After that, read our hands-on Alan Wake 2 impressions and then read our hands-on preview of Saga's side of the story so far. 
+
+Are you picking up Alan Wake 2 next week? Let us know in the comments below!
+
+      Products In This Article
+
+Alan Wake 2
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PC
+
+Release Date:
+
+October 27, 2023
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

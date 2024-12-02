@@ -1,0 +1,83 @@
+
+                                          Frostpunk
+                  				 Review
+
+
+  A Frigid, Unrelenting Survival Success
+
+
+
+
+Reviewed on PC
+
+Also on
+PlayStation 4, Xbox One
+
+Publisher
+11 Bit Studios
+
+Developer
+11 Bit Studios
+
+Release
+April 24, 2018
+
+Rating
+Mature
+
+I rule a city in crisis. The next ice age is coming, and people will die as the blizzard worsens. With supplies diminishing and hope fading, discontent sets in and people are talking about my ouster. Backed into a corner, I name myself the supreme ruler, a semi-religious deity whose word is bond. Those who rebel must publicly repent. I feel dirty about this decision, but I’m convinced that if we silence dissent, most of us will do what’s necessary to get through this. But what if it doesn’t work? Maybe they would have been better off banishing me to the frigid nothingness surrounding our base. 
+
+Horrible decisions like this are a regular occurrence in Frostpunk, the callous, intriguing, and addictive simulation from the studio behind This War of Mine. In this thematic follow-up, players assume command of one of the last human caravans in an alternate history nineteenth century. With civilization all but dead, your small group of stranded survivors huddles around a solitary generator on a barren ice sheet. You must will this solitary outpost forward in the face of unrelenting cold weather, dwindling natural resources, and an unsettled populace looking for hope wherever they can find it. The job isn’t easy, but it’s also unforgettable.
+
+You may walk into this situation with firmly held ideals about human rights, but the avalanche of dire circumstances that occur during your reign tests those beliefs. When faced with injuries that threaten to halt your resource gathering, do you forcibly amputate limbs so you have enough able bodies to gather coal to heat homes through the next freeze? Or do you take the humane path and create an invalid ward that puts yet another stress on productivity that may endanger the entire outpost? Do you provide daycare for children, or put them to work given your shorthanded situation? The immediate benefits of instituting draconian laws like these make them tough to pass up when your society is on the brink of extinction, but that doesn’t make them any easier to swallow when you’re the one issuing the decree. Giving players these moments of doubt and regret is Frostpunk’s biggest triumph. The cascade of stressful, tense situations isn’t fun, but I was consumed by each decision –whether it made me feel like a benevolent ruler or a rudderless reactionary.
+
+Providing food, shelter, and enough heat to stave off a frosty death is the main goal of the campaign, and the sim gives you several easy-to-understand tools to do it. The city-building options are largely comprised of basic infrastructure like infirmaries, housing, and gathering posts. Researching new technology allows you to improve productivity and even automate some operations. But surviving these inhospitable conditions takes more than a smart building plan; unanticipated dilemmas often throw your best-laid plans to the wayside. 
+
+Frostpunk is a min-maxer’s nightmare. Manpower is always stretched thin, so efficiencies are rarely optimized. You have to accept that. The art of survival comes down to thinking two or three moves ahead. When a deep freeze is on the horizon, you may need to shift priorities beforehand to making sure your generator has enough reach (and coal) to keep your vital operations heated, often at the expense of your other necessities. If a refugee group is headed your direction, making sure you have enough housing and food when they arrive can save you a future headache of having overflowing medical tents.
+
+The real leadership struggle comes when multiple needs arise at the same time and compete for your limited manpower. I often felt overwhelmed, but rather than feeling like the attrition was forced by a sadistic game studio, I second-guessed my own decisions that led to the unfavorable position. Trying to devise a plan for surviving a giant storm that threatened to cease any food gathering options and blow out my overworked heat generator literally kept me up one night. How would I gather enough food rations to outlast the bitter cold? Could I realistically keep discontent from rising when making tough calls during this impossible situation, or was I doomed to be killed like so many other rulers who overstepped the bounds of what is socially acceptable? That’s when I decided to drug my populace with the opiate of the masses. I felt hypocritical doing it, but at least I created the hope necessary to power through a storm that killed half the settlement. Therein lies the beauty of Frostpunk; the crisis management has your mind reeling with potential problems and solutions so you hardly notice the people behind the curtain placing you in these unforgiving predicaments. The freedom Frostpunk gives you to dig your own grave (or those of your fellow refugees) is problematic, and that’s the point. 
+
+ Video Player is loading.Play VideoPlayMuteCurrent Time /Duration Loaded: 0%Stream Type LIVESeek to live, currently behind liveLIVERemaining Time - 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions settings, opens captions settings dialogcaptions off, selectedQuality LevelsAudio TrackFullscreenThis is a modal window.
+      The Playback API request failed for an unknown reason
+        Error Code: VIDEO_CLOUD_ERR_UNKNOWN
+        Technical details
+        : Unknown catalog request error.
+
+      Session ID: 2023-07-03:5652bc158204a2a8882ea28 Player Element ID: vjs_video_3
+          OK
+        Close Modal DialogBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.This is a modal window.Close Modal DialogThis is a modal window. This modal can be closed by pressing the Escape key or activating the close button.PlayMuteCurrent Time /Duration Loaded: 0%Stream Type LIVESeek to live, currently playing liveLIVERemaining Time - 1xPlayback RatePicture-in-PictureFullscreen
+
+The design only falters when a story beat takes away some of that freedom and forces players to choose between two law paths that could lead to totalitarianism or a religious zealotry. You can go down the path of a police state, with propaganda centers and prisons at your disposal, or institute an easily exploitable national religion to instill a sense of hope. You’re never obligated to implement any of the more overreaching laws, but sometimes they are the only way out of a dire situation. I appreciate forcing players to make tough decisions, but the game does that anyway without strong-arming players down ideological paths. Outcomes are potentially more interesting when more diverse governing tools are provided.
+
+Given the do-or-die nature of every action you take in Frostpunk, getting players up to speed quickly is paramount. While developer 11 Bit largely succeeds in its onboarding, poorly explaining the dynamic of how certain buildings interact with one another caused a few early failures from which it was impossible to recover, such as learning I needed to pair gather outposts with coal thumpers to maximize their output. Restarting missions provides a few variable outcomes in certain interactions with your populace and while scouting the larger world, but the campaign largely follows the same beats. Injecting more variety into the story could have eased the repetition; right now, the only motivation for replaying is to do better or try new ideological approaches.
+
+In addition to the main story campaign, Frostpunk includes two other scenarios, one to preserve the last seed banks on the planet by optimizing automation, and another to provide refuge for settlers and protect them from their former overlords. Both test your leadership in new ways, and though they are much shorter than the campaign, they are worthwhile. 11 Bit Studios promises more scenarios in the coming months. 
+
+Rarely does an interactive experience keep me awake at night wrestling with big decisions. Frostpunk did this on multiple occasions and made me feel squeamish when forcing edicts upon society instead of building consensus. Extraordinary circumstances call for desperate measures, and all I can do is ask for forgiveness from those trampled by my headstrong approach.
+
+8.75
+
+About Game Informer's review system
+
+ConceptTake control of the last bastion of humanity and try to survive the onset of a new ice age
+GraphicsZooming in on your frostbitten settlement reveals a surprising amount of detail, and the barren aesthetic matches the dismal outlook
+SoundAs you lament your latest impossible predicament, the soundtrack plays the world’s smallest violin concerto
+PlayabilityThe systems are clear enough, but some of the early tutorials could have done a better job of articulating how some buildings work in concert with each other 
+EntertainmentDon’t come to Frostpunk if you want sunshine, unicorns, and happy outcomes. This is a bleak game about making difficult decisions to survive inhospitable conditions
+ReplayModerate
+
+      Products In This Article
+
+Frostpunk
+
+Platform:
+
+PlayStation 4, Xbox One, PC
+
+Release Date:
+
+April 24, 2018 (PC), October 11, 2019 (PlayStation 4, Xbox One)
+
+Purchase
+More Info
+

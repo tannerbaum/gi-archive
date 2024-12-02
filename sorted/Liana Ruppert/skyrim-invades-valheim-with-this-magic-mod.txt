@@ -1,0 +1,56 @@
+
+  Skyrim Invades Valheim With This Magic Mod 
+
+
+
+
+
+
+            You've probably noticed by now that Valheim players love to integrate Skyrim into their playthroughs. More than that, we love to cover it. We've previously shared impressive Whiterun and Dragonreach recreations but what about actual Elder Scrolls mechanics? While these are two very different games, one Valheim mod brings Skyrim's magic into the mix. 
+
+The mod in question is called Skyheim (appropriate) and brings Skyrim's magic into the mix in a balanced way. "Skyheim is a magic mod aimed at providing balanced progression and a reason to go back and slay bosses," says the mod's creator on Nexus. Each boss drops a crafting ingredient that can be used to craft and upgrade runes that will allow you to cast a variety of spells both beneficial and destructive. Along with boss drops you'll also require some items that can be found in dungeons, giving you incentive to seek them out as well."
+
+Nexus Mods
+
+In addition to the spells added, the Skyheim mod also adds mana as a usable resource and an appropriate cooldown system to go with it. Not only is this mod just awesome by itself because of the magical additions, it also provides an awesome reason to go back in and re-challenge some of those Valheim bosses. Each boss drops ingredients needed to both craft and upgrade runes. Doing so will up that magical arsenal to rain down chaos for Vikings in this survival adventure. 
+
+A few things you need to know about this mod before diving in: 
+
+You'll need to install the zip file into your BepInEx/plugins directory, found here
+Once installed, you're going to want to start crafting in order to get the magical ball rolling 
+
+Kill bosses to get the basic ingredients needed to craft, just like in the base game
+Some higher-tier ingredients will require dungeon runs
+
+Once you've got a good chuck of ingredients needed, craft the rune and place it on your Attack button 
+
+This is the left-click button in the game's default settings
+
+Craft, rinse, and repeat and then go pwn some stupid Greylings by spellcasting their annoying faces in. That's right, I said it.
+
+You can check out the mod right here for those interested in adding a little magic into their Valheim game time. Happy casting!
+
+            .
+
+Liana Ruppert
+Associate Editor 
+With an arguably unhealthy obsession with Dragon Age and Mass Effect, Liana is wildly passionate about all things in the gaming community. From shooters, to RPGs, if it's out - she's playing it. She's also likely to die from hoarding gaming collectibles.
+
+Email
+Twitter
+
+      Products In This Article
+
+Valheim
+
+Platform:
+
+PC
+
+Release Date:
+
+2021
+
+Purchase
+More Info
+

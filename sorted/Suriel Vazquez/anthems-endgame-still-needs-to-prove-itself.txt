@@ -1,0 +1,85 @@
+
+  Anthem's Endgame Still Needs To Prove Itself
+
+
+
+
+
+
+            Between an alpha period, press coverage (including our own cover story), and last week’s tumultuous VIP demo, most people have a good idea of what Anthem feels and plays like in its early hours. But with BioWare angling the game as a shooter/RPG with a long tail, we’re still missing one crucial piece of the puzzle: the endgame. This aspect of ongoing games like Anthem is the hardest to assess initially, since it only becomes clear after dozens of hours.
+
+We recently had the chance to play a lot of Anthem at a press event, including one endgame-oriented session. For this, we were provided a fully leveled character and set out searching for high-quality guns, components, and abilities. While we can’t say for sure how Anthem holds up when it comes to keeping players engaged after launch, my time with the game (as well as my conversation with executive producer Mark Darrah) shed some light on what Anthem’s endgame might be like when it releases later this month. Here are my four major takeaways.
+
+Endgame missions aren’t too different from earlier ones
+
+Anthem’s endgame, as you might have guessed, involves completing repeat missions and other activities for better rewards. I played a trio of missions with a fully-leveled storm javelin. The first was The Tyrant Mine stronghold that was part of last weekend’s VIP demo, so I won’t delve into that mission here. The other two were the Threat Assessment legendary contract and The Temple of Scar stronghold. Combined, they show how Anthem’s late-game content is similar to what we’ve played before, albeit with some minor twists.
+
+Threat Assessment felt immediately familiar, as my team and I flew from one combat arena to the other following an objective marker. Defeating enemies spawning from portals, recovering fragments scattered around the map – if you’ve played the demo, you know what you’re getting into. The encounters were fun (in part because I could mess around with a decked-out storm), but don’t expect anything wildly different from your early hours doing contracts. 
+
+The Temple of Scar, however, was a much more satisfying stronghold than The Tyrant Mine. The Temple of Scar’s arenas felt more intricate than anything I'd played of Anthem. The encounters took place in large, vertical areas with imposing towers, nooks, and hallways intermingling, which meant I was able to consistently use flight to prioritize targets mid-combat rather than as a way to simply travel from fight to fight. 
+
+The boss of this stronghold, a quadruped Scar war machine called Scelos, was protected by an impenetrable shield maintained by three separate contraptions at the edges of the arena. In order to break the shield, my team had to weave behind the contraptions' rotating propellers and shoot the glowing weak point on the machine’s stem. Once those were destroyed, we had a brief window to deal damage. Each time we had to open him up, the weak point would become more thoroughly protected. It was a fairly standard boss encounter overall, but it was the best time I’ve had playing Anthem yet.
+
+One nagging feeling I had during this session was that everything looked familiar, even if the areas I was visiting were technically new. Anthem’s lush jungle biome is a gorgeous locale, to be sure, but I was hoping for more environmental variety at this later phase of the game. Maybe not a fire or ice level, but something that gave me a sense that Anthem's world is a planet as opposed to a single ecosystem.
+
+I’m not sure if this particular biome is everything we’ll see of Anthem, or if BioWare is holding off on showing off other distinct locales. But competitors like Destiny and Warframe are well-known for their arresting locales as much as their gear loops and gameplay, so I’m hoping Anthem can deliver more visual diversity.
+
+The endgame is where classes really shine
+
+Fully leveled javelins have many more tools to work with than their low-level counterparts, even if the basic gameplay is similar. While my storm’s three key abilities (a ranged explosion that needs to be aimed, a beam or blast of some sort, and a support ability) didn’t fundamentally change, I was able to play around with different versions of these attacks, altering their elements and properties to create a different build.
+
+In the VIP demo, for example, the storm’s explosion could be used to cast lightning or fire, while its beam attack fired a barrage of ice crystals. After a little tinkering, I was able to transform the explosion into an ice blast that instantly froze enemies, making for some easy follow-up combos. The ice barrage, meanwhile, became a fireball I could charge up by holding down the ability button. Although these changes were relatively minor, they altered my approach to combat just enough to feel robust.
+
+And looking at the number of options I had, it’s clear that each javelin has the potential for many different builds – enough that it might not be outlandish to have multiple people run the same class for a stronghold. This variety also makes it easier to adapt your build to your teammates as you coordinate around specific combos.
+
+As for how adaptable players will be when it comes to switching javelins, BioWare doesn’t want your choice of javelin to be completely fluid, but not static, either. While executive producer Mark Darrah hopes players will have a primary, go-to class, he doesn’t want players to feel like switching classes for a high-level encounter is out of the question. “We do want to encourage you to at least keep a toe in on the other on the other suits,” he says. “We’ll give you challenges around that. Just encourage you to keep [switching], because there will be things where you may want to be a Colossus, even though it’s not your first choice, you want to know enough that you can switch out to the Colossus in order to play.”
+
+The loot may need some work
+
+The demo I played was meant to lay out how Anthem's endgame works, from the loops you engage in to the loot that drops from them. Unfortunately, if my experience is indicative of what we can expect from Anthem's loot at launch, that carrot at the end of the stick that loot provides might need some work.
+
+During my run at The Temple of Scar, I got my first masterwork drop, the highest rarity of item in Anthem. It made the kind of distinct, exciting noise you might expect from a coveted drop in a loot-based game, but I wasn’t able to see what it was until after I’d completed the stronghold. I ended up getting a masterwork elemental empowerment for my Storm that offered some pretty powerful stat increases. It... kind of bummed me out, to be honest. 
+
+While I don’t doubt this particular piece of gear is strong, it lacked a certain panache I’ve come to associate with rare gear in video games. When I think of some of the gear I’ve chased after, it usually has some sort of flashy look (which, admittedly, components in Anthem can’t display) or interesting mechanic that requires you to adapt your strategy. Maybe it offers an enticing, unique bonus beyond stat boosts. I’m reminded of The Monkey King’s Garb set in Diablo III, or any number of exotic guns or armor pieces in Destiny that alter the way you play your class in small-but-meaningful ways, and this piece of gear doesn't do that.
+
+It also highlighted how interchangeable many parts of Anthem’s weaponry feel. While class abilities are a great way to make your character feel unique, I didn’t get that sense from the guns I wielded. Although there are several different types of guns in Anthem, I didn’t feel a unique kick or cadence to individual heavy pistols or marksman rifles, even in the endgame. This made gunplay feel like a perfunctory part of the experience – something to do while the fun class and melee abilities were on cooldown. Stat buffs are nice, but I want new tools to play around with, or guns that feel cool to use.
+
+In that way (and because I didn’t receive a masterwork weapon), I’m hoping what I experienced in my demo wasn’t representative of the final game, and Darrah assures me endgame gear will look and feel distinct, both visually and statistically. “We want legendary gear to to be impressive, but also a lot of it is about having you know very specific characteristics, like this gun, when you get a headshot, makes your missile launcher do extra cold damage for the next 15 seconds,” he says. “That kind of proc is really where the power comes in, but then we definitely also anchor with visuals and the like. You get to show off your awesome gear, too.”
+
+Hopefully, that'll be the case, and the gear I'm running loops for proves to be worth the effort.
+
+Anthem’s loops seem light and freeform
+
+Although you’ll be chasing certain guns, abilities, and cosmetic items as you spend time completing stronghold and contracts, what kinds of activities you want to pursue in Anthem’s endgame depends on what you want to get out of your time. If you need materials to craft a certain item, exploring Anthem’s world in freeplay is the way to do it. If you want to get stronger, contracts are the way to go, and strongholds are where you’re likely to get better gear.
+
+Layered on top of those activities are the usual daily, weekly, and monthly challenges common in MMOs and online shooters, here encouraging you to pull off ability combos, use different weapons, and more, which provide incentives for switching out gear or classes.
+
+No matter what you’re doing, however, you won’t be forced to grind a single kind of activity or mission to get a particular gun. “It’s really about efficiency as opposed to saying, ‘I want this specific gun, which means I should do this specific stronghold with this specific group of people,’” Darrah says. “We aren’t doing that.” 
+
+However, there are rare guns, abilities, and cosmetic gear to chase, and those are tied to certain kinds of activities – just not individual missions, contracts, or strongholds. You won’t be locked into looping the same mission over and over to get them. That could all change post-launch, however, as BioWare looks at the what the community wants and adapts in turn. “As people settle into the elder game I can see us providing more of that anchored, specific drop, but we aren’t doing that right now,” Darrah says.
+
+Wrap-up
+
+My time with Anthem’s endgame gave me a better idea of what to expect once I’ve reached the end of its initial offerings, but I’m not sure I have the full picture just yet when it comes to its endgame. With a number of crucial aspects of a satisfying loot experience (like masterwork weapons) still up in the air even after my demo, it’s hard to say how compelled I’ll be to jump into Anthem over the long haul post-release.
+
+Anthem is a different kind of game for BioWare, one that deviates from the studio’s established roots in many ways, and Darrah wants to make that clear to everyone. “I wanted to make sure that no one could accuse us of trying to trick them into buying a game that was different than what they were used to,” he says. If that decision means once-passionate fans end up walking away this time around, “that’s unfortunate, but at least we’re not tricking them out of their $60.”
+
+In that sense, my demo did what it set out to do. Despite some major lingering questions, I think I know what kind of game Anthem will be now. I just hope the missing pieces come together the way I’d like them to.
+
+For more on Anthem, check out our recent New Gameplay Today of the game, an interview with lead producer Mike Gamble about how the game might evolve after launch, and a tips guide for getting into this weekend’s demo.
+
+      Products In This Article
+
+Anthem
+
+Platform:
+
+PlayStation 4, Xbox One, PC
+
+Release Date:
+
+February 22, 2019
+
+Purchase
+More Info
+

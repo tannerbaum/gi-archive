@@ -1,0 +1,365 @@
+
+  MultiVersus Season 1 Patch Notes: Every Character Nerf, Buff, And More
+
+
+
+
+
+
+            MultiVersus finally launched into 1.0 on Aug. 15 after weeks of beta testing, and now, after a brief delay, Season 1 is upon us. 
+
+Set to launch sometime today, Season 1 will feature a healthy dose of content for the free-to-play stage fighter, although exactly what remains unknown. However, we do know that Morty from Rick and Morty will join the roster next week on Aug. 23. Beyond that, the studio says that new modes and content will be added to the game throughout the duration of Season 1. 
+
+In the meantime, ahead of today’s Season 1 update, the team has released the Season 1 patch notes, and you can check them out in full below: 
+
+General
+
+Morty will be arriving on 08/23! He will be our first Plumbus-wielding character!
+The patch will come in two parts. The first will be on August 15 and the second will be coming shortly afterwards (hopefully in the next few days). So not every change, but most will be in the August 15 patch.
+
+New Free Character Rotation (8/15 - 8/30)
+
+Arya
+Batman
+LeBron
+Steven
+
+Meta Systems
+
+Free Rotation Characters now have an icon in character select to identify them
+Battle Pass XP match rewards increased to 10 for wins and 5 for losses, up from 5 for wins and 3 for losses.
+Disabled class based Battle Pass missions other than for Tanks
+
+Developer Note: Since players might not have access to fighters in specific classes other than Tank (thanks to Wonder Woman), we felt like relying on rerolls was not a reliable enough method to work around those missions.
+
+Lowered the requirements for a number of seasonal missions:
+
+Ringout a player from the top of the map 50 times (previously 75)
+Ringout a player from the side of the map 50 times (previously 75)
+Ringout a player from the bottom of the map 50 times (previously 75)
+Get 50 assists (previously 125)
+
+General Perks
+
+Clear The Air - Increased consistency on perk effect.
+
+We are aware of inconsistencies in this perk’s interaction with Velma’s speech bubbles and Batman’s Batarang. We will address these interactions in a future patch.
+
+Make it Rain, Dog! - Projectile speed is now properly applied to thrown items.
+Painted Target - Fixed an issue where projectiles weren’t applying bonus damage
+Retaliation Ready - Reduced unstacked gray health from 3 HP for 3 seconds to 1 HP for 3 seconds
+
+Reduced stacked gray health from 4 HP for 3 seconds to 2 HP for 3 seconds
+
+School Me Once… - Increased consistency on projectile block spawn. Notable - getting hit by Jerry will now spawn a projectile block buff
+Slippery When Feint - Fixed an issue where evade distance was not increased on hit cancels
+Snowball Effect - Fixed an issue where projectiles weren’t applying bonus damage
+Static Electricity - Increased consistency on projectile electric damage application. Notable - thrown items will now apply electricity
+
+Gameplay Systems:
+
+Ice Debuff - Movement speed slow at 1 stack reduced from 20% to 15%
+
+Slow now scales linearly with each stack of Ice Debuff
+Removed a bug where fighters affected by Ice Debuff took additional knockback
+
+Ability Cooldowns - fixed a bug where cooldowns would not trigger properly if used near an ally Jake
+
+Gameplay Modes:
+
+FFA - Fixed a bug where pop up text would display the incorrect point value.
+
+UI:
+
+Announcer Pack - You can now preview a character's announcer pack before deciding to unlock it.
+
+Tutorials:
+
+Various Bug Fixes -
+
+Fix for tutorials causing stage hazards to toggle off in other game modes.
+Down spike tutorial has been fixed so that it requires an actual spike rather than any aerial attack.
+The Reindog tether step of the intro tutorial no longer counts if you pull your ally in after they have been rung out.
+Fix for Shaggy falling off the map during the aerial combat tutorial demo.
+Added a wall to the second step of the KBI tutorial.
+
+Glossary and Terms:
+
+New Terms
+
+Added Wall Fatigue to the glossary.
+Added the terms Block, Hazard, and Wipe to the glossary and updated move lists accordingly.
+
+Characters
+
+Legend:
+
++ = Buff
+
+- = Nerf
+
+~ = Change
+
+Note: Attacks callouts reference default controls.
+
+Arya
+
+The goal of these changes was to make Arya’s combos be more consistent and successful at lower skill levels.
+
++ Air/Ground Up Special - Hitting a fighter will now more accurately launch them at an angle to allow follow-ups for Arya
++ Air Up Attack - The first hit will now more accurately combo into the second hit.
++ Neutral Air Attack - Now has earlier branching on hit.
++ Ground Side Attack - Arya will retain velocity on first hit of side attack.
++ Ground Down Attack - Now has slightly earlier dodge branching
+~ Air/Ground Neutral Special - Fixed a bug where Arya would not copy over capsule hitboxes on her normal neutral attacks when stealing a fighter's face.
+
+Set Arya's hurtbox to match her victim's hurtbox while she is disguised as them.
+Fixed a bug where Arya's top UI would be offset incorrectly when she steals a face.
+Fixed bug where Arya's disguise attack hitbox could get disconnected.
+Fixed bug where Arya's original hitboxes would be useable during disguise attacks.
+Fixed bug where the hitboxes from Arya's disguise would stay active during her normal attacks.
+
+Batman
+
+~ Air/Ground Side Special - Fixed bug where Batman would overshoot his grapple destination if the fighter he was grappling to dodged.
+
+Increased the overshooting distance when grappling to an ally.
+Fixed Batman grapple failing at short distances under high latency
+
+- Ground Side Attack - First hit added 3 frames of whiff recovery.
+- Air/Ground Neutral Attack (coming in patch 2): Batarang pick up will now return 9.45s of it’s cooldown down from 11.55s. This change helps create a window from when the batarang is used for the opponent to react. With perks like Coffeezilla causing this cooldown to be even shorter, we felt this change was necessary to create counterplay against the batarang.
+
+Bugs Bunny
+
+Bugs Bunny is a bit too safe in everything he does. We’ve given him some additional whiff punish windows to help address this.
+
+~ Air Up Special - Fixed an exploit where Bugs could spawn two rockets.
+~ Air Side Special - Fixed an exploit where Bugs could spawn two rockets.
+- Air/Ground Neutral Special - Fixed an exploit where Bugs could spawn multiple safes without triggering his cooldown.
+
+- Safe HP reduced from 16 to 14.
+
+~ Air Down Special - Bugs' previous tunnels will now disappear when creating new tunnels.
+- Air Up Attack
+
+Added 4 frames of whiff recovery.
+
+- Air Side Attack - Increased whiff recovery by 5 frames.
+- Air Neutral Attack - Increased whiff recovery by 5 frames.
+- Ground Down Attack - Pie max lifetime set to 8 seconds, from infinite.
+
+- Pie no longer applies a slow
+
+Finn
+
+Fighting against Finn felt too difficult as Finn felt a bit too safe and could throw out attacks without much fear of a punish due to how quickly he recovered. Hurt/Hit box foundational updates are coming soon, but will not be in this patch.
+
+- Passive - Attacks affected by Attack Decay no longer spawn coins
+
+Finn now spawns with 100 gold instead of 200
+
++ Air Down Special - Fixed an issue where the gem required 200 gold to spawn, but only cost 100 to spawn. Gem now requires and costs 100
+- Air Side Special - Added additional whiff recovery.
+- Ground/Air Up Special - Reduced the strength of the vacuum effect on the backpack
+
+Weaker hits of the backpack will no longer “overwrite” stronger knockbacks from other attacks
+Whiffing with all hits will still drop a coin
+Added whiff recovery.
+Hitboxes should better match the attack (not perfect until our planned hurt/hit box system overhaul)
+
+- Air Side Attack - Reduced active frames to diminish Finn’s ability to hit fighters behind him
+- Ground Down Attack - The distance Finn covers with this attack now scales with how charged the attack is.
+- Ground Side Attack - Increased whiff recovery for the first hit.
++ On The House perk - Fixed an issue where Finn still spent gold on gems spawned by the perk
+
+Slightly reduced the launch speed of gems spawned by the perk – this should fix issues that arose when this perk was combined with the “Make it Rain, Dog!” perk
+
+Garnet
+
++ Air/Ground Neutral Special - Song activation starts earlier on frame 12 instead of frame 30.
+~ Air/Ground Down Special - Fixed bug where Garnet would be stopped by Iron Giant's collision when she moves with her down special.
++ Air Neutral Attack - Slightly higher base knockback
+
+Harley
+
+~Stuffie Bat - Harley bomb vfx shrunk to better match the explosion radius
++ Weight - Increased from 42 to 44.
+
+Iron Giant
+
+~ VFX - Global fighter VFX now better matches Iron Giant’s size without making the screen too busy. Notable adjustments include Projectile Block buff, Speed Boost buff, and Steven Bubble debuff
+- Air/Ground Down Special - Fixed an issue where VFX trails would persist and fill up the screen
+
+Can no longer use cannonball attack when out of air specials
+Knockback angle changed to send fighters more horizontally and away from Iron Giant.
+Fixed issues that allowed for infinitely bouncing on enemies near the ground
+
+- Air/Ground Neutral Special - Gray Health from activation reduced from 2 + #bolts HP for 5 seconds to #bolts HP for 3 seconds
+
+Gray Health from ally overlap reduced from 5 HP for 5 seconds to 3 HP for 3 seconds
+
+~ Ground Forward Special - Iron Giant grabs are correctly blocked by incompatible states.
+- Air Up Attack - Can no longer hit the same target multiple times
+- Air Neutral Attack - Final hit knockback angle changed to send fighters more horizontally and away from Iron Giant
+
+Increased knockback scaling
+
+- Ground Up Attack - Gray Health from scrap reduced from 3 HP for 5 seconds to 2 HP for 3 seconds
+
+Allies that consume scrap will overwrite any existing gray health they have from consuming scrap
+
+~ Ground Forward Attack - Fixed attack decay not triggering for all parts of forward attack combo
+- Ground Down Attack - Gray health from art reduced from 10 HP for 10 seconds to 6 HP for 3 seconds
+
+Jake
+
+- Air Down Attack - Removed instant cancel out of the attack to prevent skateboard infinites
+
+No longer bounces off allies
+
+- Ground Up Attack - Additional whiff recovery; Slightly later charge cancel window to make it a bit more committal
+
+LeBron
+
+~ Air/Ground Side Special - LeBron’s solo dunk no longer spawns a shockwave on the ground.
+
+The alley-oop teleport version of LeBron’s dunk spawns a shockwave and will launch fighters into the shockwave. The shockwave will launch fighters into a final hit that applies Weakened debuff.
+Solo dunk knockback and hitbox size increased
+Fixed a bug where LeBron could dunk himself into the sky
+
+~ Ground/Air Down Special (No Ball) - Adjusted to prevent ball spam
++ Air Side Attack - Branches earlier on hit; fix for hitbox hitting behind him too much
++ Air Neutral Attack - Branches earlier on hit to increase combo potential.
+
+Fix for ball neutral air branching into no ball neutral air.
+
++ Ground Side Attack/ Ground Down Attack - Removed shared attack decay from side attack and down attack
++ Ground Side Attack - 3 hit combo hits more consistently.
+~ Ground Neutral Attack - Fixed angle of attack.
+~ Basketball - Fixed some team color issues that would occur when reflecting LeBron basketball.
+
+Fixed an issue where LeBron could be stuck attacking without his ball while visually holding his ball
+
+~ Hot Hands perk - When an ally catches a no-look pass while the Hot Hands perk is equipped, the basketball pass buff will emit flames to let allies know they will throw an ignited basketball
+
+Reindog
+
++ Air Up Special - Removed hitpause on ally that threw Reindog when Reindog connects in ball form
+- Air/Ground Neutral Special - Increased cooldown from 13s to 14s
++ Air Up Attack - Hitbox size increased
+
+Shaggy
+
+Shaggy’s Side Special felt a little too unpunishable, so we’ve added a bit of Whiff Recovery.
+
+- Rage Air Side Special - Recovery increased by two frames; now better matches rage ground side special
+
+Addressed an issue where Shaggy could perform two rage specials
+
++ Rage Ground Down Special - Shaggy’s shockwave will launch fighters into a final hit that applies Weakened debuff.
+- Ground/Air Side Special - Added 4 additional frames of whiff recovery
+
+Steven
+
+- Ground Down Special - Watermelon Steven ability cooldown now begins when Watermelon Steven is rung out.
+
+Fixed a bug where Watermelon Steven could spawn inside ceilings and be stuck.
+
+~ Air Neutral Attack - No longer will animation hitch.
+~ VO/SFX - Fixed an issue where Steven's intro VO lines failed to play.
+~ Taunt - Fixed an issue where Steven could only perform his up taunt.
+
+Superman
+
+- Ground Neutral Attack - Added additional whiff recovery.
+- Ground Up Attack - Added additional whiff recovery.
+- Ground Down Special - Added additional whiff recovery.
+
+Taz
+
+This is the start of our tornado changes for Taz. We will be continuing to monitor the tornado with extra scrutiny in case additional changes are needed.
+
+Chicken Debuff -
+
+Fixed a bug where transformed fighters could receive buffs that would not appear visually when they returned to their normal form
+- Reduced chicken duration from 10 seconds to 8
++ Increased the size of the chicken
+
++ Air/Ground Down Special - Adjusted projectile movement direction of Taz spit projectiles to be more forward and less of a lob.
+
++ When Taz spits a projectile back at a fighter, the projectile will maintain its original speed.
+
++ Air/Ground Neutral Special - If Taz eats a projectile that can't be spit back out, he will refresh a count of his apple core ability.
+
+Increased size of hit collision for Taz eating projectiles on his neutral special. Also made it possible to eat projectiles a few frames earlier.
+Taz deals 1 stack of Weakened debuff everytime he chews an enemy.
+Fixed a bug that allowed for ground movement after eating an enemy fighter
+
+- Air/Ground Up Special - Damage reduced from 10 to 9 and base knockback reduced from 1500 to 1350
+
+Fixed a bug where enemy fighters could become invulnerable to the fight cloud after dodging it.
+
+~ Air/Ground Side Special - Now a cooldown move with a 7-second cooldown. While the cooldown is active, side special is a weaker version of the tornado.
+
+Full power tornado has a 1.5 second duration and receives an additional 1 second duration after passing an ally.
+On cooldown tornado has a 0.25 second duration and does not gain additional duration by passing an ally.
+
++ Ground Up Attack - Now a two-hit attack. The early hit combos into the sandwich clap
+
+Tom And Jerry
+
++ Tom And Jerry - Dynamite now applies projectile perk effects.
+~ Air Normal Attacks - Fixed a bug that would prevent Tom and Jerry from using normal attacks when Air Special limit had been reached.
+- Air Up Special - Fixed an issue where Jerry would continue to have active hit frames when falling from the rocket
+
+Velma
+
+- Air Side Special - Reduced move distance.
+
+The distance this traveled before gave Velma additional recovery that wasn’t intended.
+
+- Air Up Special - Reduced Weaken stacks from 3 to 2.
+
+- Will no longer chain into Air Down Attack as easily to prevent easy application of damage.
+
+- Ground Side Special - Reduced gray health from 12 HP for 4 seconds to 6 HP for 3 seconds
+- Air Down Attack - Increased Recovery
+- Air Side Attack - Added whiff recovery
+- Ground/Air Neutral Attack - Fixed issues when word bubbles would go through Bugs’ Tunnels.
+
+Reduced ammo count from 4 to 3
+Reduced ammo return from 11 to 10
+
+- Weight - Decreased weight from 63 to 60.
+- Knowledge Is Power perk - Reduced gray health from 7 HP for 5 seconds to 3 HP for 3 seconds
+
+Wonder Woman
+
++ Ground/Air Neutral Special - Lowered cooldown from 13s to 12s
++ Ground Side Special - Projectile Shield comes out earlier to allow her to better react to incoming projectiles.
+~ Air Up Attack - Hurtbox should now better match the animation.
++ Weight - Increased weight from 65 to 76
+~ Shield of Athena Signature Perk - Adjusted scale of projectile shield for Shield of Athena signature perk to cover an edge case where projectiles would pass above it during a dodge.
+
+      Products In This Article
+
+MultiVersus
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC
+
+Release Date:
+
+May 28, 2024
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

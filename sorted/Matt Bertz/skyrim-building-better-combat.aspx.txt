@@ -1,0 +1,189 @@
+
+  Skyrim: Building Better Combat
+
+
+
+
+
+
+In game development, the visual improvements, non-player character AI
+ tweaks, and new storytelling philosophies are all for naught if the 
+base activity the player performs the most frequently is uninteresting 
+or unrefined. In the case of an action role-playing game like The Elder 
+Scrolls V: Skyrim, those activities are swinging swords, shooting 
+arrows, or casting spells at the myriad bloodthirsty enemies rushing 
+toward you in foreboding dungeons of Tamriel. Aware of the combat 
+shortcomings and exploits players used in Oblivion, the developers at 
+Bethesda Studios went back to the drawing board to forge a new direction
+ for Skyrim. 
+“We wanted to make it more tactile in your hands,” game director Todd
+ Howard says. “I think if you look at our previous stuff I sometimes 
+equate it to fighting with chopsticks – you sit there and swing them in 
+front of yourself.” 
+Bethesda’s solution is a new two-handed combat system that allows 
+players to equip any weapon or spell to either one of their character’s 
+free hands. This flexible platform opens up countless play styles – dual
+ wielding, two-handed weapons, the classic sword and shield combo, 
+ranged weapons, or even equipping two different spells. Switching 
+between loadouts on the fly is made easier thanks to a new 
+quick-select menu that allows you to “bookmark” all of your favorite 
+spells, shouts, and weapons for easy access.
+Taking Up The Blade
+Repetition can be a game developer's worst enemy. As players move 
+through the world slashing at enemies thousands of times, the gravity of
+ the action dissipates to the point where it becomes as thoughtless an 
+exercise as flipping a light switch. With Skyrim's combat system, 
+Bethesda wants to restore the visceral nature of hand-to-hand combat. 
+The first step? Changing the pace of the close quarters battles.
+In the early stages of development, Bethesda watched fighting videos 
+to study how people react during melee battles. The team found that most
+ encounters featured more jostling and staggering than was present in 
+past Elder Scrolls titles. Using the Havok Behavior animation system, 
+the team is more accurately mimicking the imbalance prevalent in melee 
+combat by adding staggering affects and camera shake. Don't expect 
+button-mashing marathons where the attacker with a bigger life pool wins
+ the war of attrition. If you're not careful on defense you may get 
+knocked around, losing your balance and leaving yourself exposed for a 
+damaging blow that can turn the tide of the battle. Knowing when to 
+block, when to strike, and when to stand your ground is key to 
+prevailing in combat. 
+“There's a brutality to [the combat] both in the flavor of the world,
+ and one of you is going to die,” Howard explains. “I think you get very
+ used the idea that enemies are all there for you to mow through, but it
+ doesn't seem like someone's life is going to end. We're trying to get 
+that across.”
+Nothing drives this brutality home more than the introduction of 
+special kill animations. Depending on your weapon, the enemy, and the 
+fight conditions, your hero may execute a devastating finishing move 
+that extinguishes enemies with a stylistic flourish. “You end up doing 
+it a lot in the game, and there has to be an energy and a joy to it,” 
+Howard says.
+As with Oblivion, players have several options for melee combat. Your
+ warrior can equip swords, shields, maces, axes, or two-handed weapons. 
+Specializing in a particular weapon is the best way to go, as it gives 
+you the opportunity to improve your attacking skills with special perks.
+ For instance, the sword perk increases your chances of landing a 
+critical strike, the axe perk punishes enemies with residual bleeding 
+damage after each blow, and the mace perk ignores armor on your enemies 
+to land more powerful strikes.
+A good offense must be accompanied by a good defense. To make 
+defending a less passive activity, Bethesda has switched to a timing 
+based blocking system that requires players to actively raise their 
+shields to take the brunt of the attack. If you hold down the block 
+button, your character will attempt to execute a bash move. If you catch
+ a bandit off guard with the bash while he's attacking, it knocks him 
+back and exposes him to a counter or power attack. Players can block and
+ bash with two-handed weapons as well, but it isn't as effective as the 
+shield. Warriors who prefer the sword-and-shield approach can increase 
+their defensive capabilities with shield perks that give them elemental 
+protection from spells.
+Bethesda also smartly changed the pace at which characters backpedal,
+ which removes the strike-and-flee tactic frequently employed in 
+Oblivion. In Skyrim you can't bob and weave like a medieval Muhammad Ali
+ as you could in Oblivion. Players can still dodge attacks from slower 
+enemies like frost trolls, but don’t expect to backpedal out of harms 
+way against charging enemies. If you want to flee, you must turn your 
+back to the enemy and hit the sprint button, leaving you exposed to an 
+attack as you high tail it to safety. 
+
+Conjuring Better Spell Casting
+Keeping in line with the philosophy of making the combat more 
+tactile, Bethesda took inspiration for its spell casting from an 
+unlikely source in Irrational Games' BioShock. Fighting his way through 
+the city of Rapture, Howard was impressed with how Ken Levine's team 
+visualized the power of the plasmids in your hands. They're adopting a 
+similar approach for Skyrim.
+“Before when we had magic, it never felt to us like you were actually
+ doing it,” Howard admits. “It was a separate button, it flew out of 
+your fist, and you could have a shield in your hand or a two 
+handed-weapon – you could do it with anything.”
+In Oblivion spells were cast with a face button, which allowed you to
+ equip traditional weapons for melee combat and deftly cast spells 
+between swings. By forcing players to equip a spell with one of their 
+hands, players must make more of a commitment to learning the arcane 
+arts. The ability to equip two different spells on your left and right 
+hand raises the question – can you combine more than one spell? “We're 
+not talking about that,” Howard says with a smile. “We're not sure. We'd
+ like to; it'd be awesome.”
+Even if you can't combine spells, magicka students will have no 
+shortage of options, with over 85 spells divided into five schools of 
+magic – destruction, restoration, illusion, alteration, and conjuration.
+ Longtime Elder Scrolls fans may notice that the school of mysticism is 
+absent. That's an intentional move on Bethesda's part. “It always felt 
+like the magical school of mysticism – isn't that redundant?” Howard 
+says. The spells formerly housed under the domain of mysticism have been
+ moved to other schools of magic. 
+One of the more alluring changes to the spellcasting in Skyrim is how
+ you can employ spells in different ways. For instance, you could blast 
+enemies with a flame ball from afar, hold the button down to wield the 
+spell like a flame thrower, place a rune on the ground to create an 
+environmental trap that spontaneously combusts when an enemy steps on 
+it, or equip the spell with both hands to deliver high damage fireball 
+attacks that drain your magicka reserves quickly. The shock and frost 
+spells give players an equal amount of flexibility.
+The Havok Behavior technology gives the spells more visual flair than
+ we've seen in past Elder Scrolls games as well. If you cast a frost 
+spell, you'll see the effects on the enemy's skin. If you're wielding 
+the flame spell like a flame thrower, the environment will catch fire 
+for a short while and burn anything that comes into contact with it.
+More so than in Oblivion, Skyrim’s new magic system also gives 
+players legitimate benefits to using one attacking spell over the other.
+ Fire deals the highest amount of damage, lighting drains the enemy’s 
+magicka, and frost drains stamina and slows down enemies physically. 
+This gives players more incentive to use particular spells against 
+specific enemies. Why shoot fireballs at a wizard when you can 
+simultaneously drain his heath and magicka with a shock spell? “There’s a
+ gaminess to it that we didn’t really have before,” Howard says. 
+If you come face to face with another wizard, you’ll want to keep an 
+attacking spell in one hand and improve your defense by equipping a ward
+ spell in the other. Suddenly, magic duels become much more interesting,
+ as you must attack at the opportune time, use the ward as a shield when
+ your opponent is casting spells your way, and manage your magicka level
+ by consuming potions. 
+
+Dealing Damage From The Shadows
+Magicians and warriors aren’t the only play styles enjoying the 
+benefit of combat enhancements. If you prefer to do your killing from 
+afar with a bow and arrow or assassinating enemies from the shadows, 
+Bethesda has some improvements in store for you as well.
+Ranged weapons could be effective in Oblivion once you improved your 
+skill level, but you had to pierce enemies with several arrows to take 
+them down. After playing an Oblivion mod that turned the bow and arrow 
+into a formidable weapon capable of one-hit kills, Bethesda decided to 
+adopt that approach. It now takes a lot longer to get off a shot, but 
+the arrows are much more powerful than before.
+As in Oblivion, you can zoom to aim, and the longer you keep the bow 
+drawn the more powerful your shot will be. Unlike Oblivion, the arrows 
+now violently impact enemies with a satisfying thud. To keep players 
+from coasting through the world plucking enemies from afar, Bethesda has
+ significantly altered the arrow economy to make them a valuable but 
+limited option. You won't be rolling into combat stacked with 50 Daedric
+ arrows anymore. Though you don't have much defense when using the bow 
+and arrow, if an enemy gets too close for comfort you can still execute a
+ bash move, which knocks your foe off balance and gives you time to 
+create distance between you and your target.
+Stealth basically works the same as it did in Oblivion, but Bethesda 
+has slightly altered what happens once enemies detect your presence. Now
+ when NPCs think they see or heard something, they go into an alert 
+state. Characters with a higher sneak skill will have more time to duck 
+back around the corner or find sanctuary in the shadows. This new system
+ eliminates the sudden attacks that sometimes caught players off guard 
+in Oblivion. 
+Once you successfully sneak up behind an unsuspecting victim, you can
+ unleash a deadly blow with the dagger, an almost useless weapon in 
+previous Elder Scrolls games that is receiving a major boost in Skyrim. 
+“Now when you sneak up behind guys, the dagger does something like 10x 
+damage,” Howard says. “I don’t know if we’re going to keep that, but you
+ feel like you should be killing the guy if you’ve gotten that close and
+ you have a dagger.”
+Though the dagger is still considered a one-handed weapon skill, the perks for the weapon are housed under the stealth banner.The Dragonborn Prophecy Fulfilled
+As the Dragonborn, players can wield the dangerous dragon shouts 
+during battle as well. The shouts may have magical properties, like the 
+ability to slow time or call a dragon to your aid, but they are 
+different than magic in that every character can employ them regardless 
+of their spell casting skills. If you want to learn more about this 
+supplemental power, read our in-depth discussion here.
+Binding all of these improvement together into a cohesive system, 
+Bethesda's reinvigorated Elder Scrolls combat looks to be taking a large
+ step forward.
+

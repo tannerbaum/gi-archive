@@ -1,0 +1,122 @@
+
+  How To Build A New Final Fantasy: An Interview With Creative Business Unit III
+
+
+
+
+
+
+            Final Fantasy is one of the longest-running franchises in all of gaming. From its humble 1987 Final Fantasy I beginnings to this year’s upcoming tentpole release, Final Fantasy XVI, the series has, in some way, shape, or form, remained prominent for decades. Part of its success likely comes from how easy it is to get into any new mainline game, which is to say every new entry stands alone (save for the few direct sequels). Final Fantasy II isn’t a direct sequel to Final Fantasy I, just like Final Fantasy VII isn’t one to Final Fantasy VI. 
+
+Terms, mechanics, and sometimes even names might be familiar – there are mainstays like chocobos, magic, Cids, and more – but each new entry features its own cast of characters, world, story, and lore. It’s part of what makes Final Fantasy such a fascinating franchise to cover and be a fan of. It’s constantly changing, and as a result, so is our definition of a Final Fantasy. For me, it’s become a “you know it when you see it” franchise, and that remains true with FFXVI. Despite a new protagonist, a new world, a new combat system, and more, when I see familiar mainstays, I know it’s still Final Fantasy.
+
+A Game Of Thrones And Crystals
+
+I spoke to some of the lead developers behind Final Fantasy XVI to discuss what goes into creating a new title, where the team starts, and more to learn how these games are made. Unsurprisingly, it begins with the world. 
+
+“Right around the start of the game’s development, back when we’re in that early period, is right about when [Season 4 of Game Of Thrones] was airing,” FFXVI producer Naoki Yoshida tells me within the Tokyo, Japan, office of Square Enix. “We had seen it grow into this television show that was loved around the world, not just by older generations but the younger generation as well. So we bought the Blu-Ray box of Seasons 1, 2, 3, and 4, and made everyone on the team watch it basically to get across to developers that this is what’s trending in the world, this is what people are enjoying, and that this is the type of fantasy that people like.”
+
+But Yoshida says the team took great caution to keep FFXVI from feeling like a carbon copy of Game of Thrones, and after playing and viewing the game for roughly five hours, while its inspirations are clear, it is its own thing. Plus, with everything else going on in the game – specifically the Eikon vs. Eikon combat – the team drew on other sources of inspiration like Attack on Titan, Neon Genesis Evangelion, Godzilla, Ultraman, and more. 
+
+Final Fantasy XVI Producer Naoki Yoshida
+
+While laying the inspirational groundwork, Yoshida worked with a core group of development leads to further lay out what FFXVI would be. This included director Hiroshi Takai, creative director Kazutoyo Maehiro, and art director Hiroshi Minagawa, and each had crucial roles in creating what would become FFXVI’s Valisthea. 
+
+“Back when I was first approached by the producer and asked to be the creative director and write the scenario for Final Fantasy XVI, I told him I wanted to take the game to something that took place in those medieval times and have that high fantasy feel,” Maehiro says. “Because, basically for me, Final Fantasy has always been about that high fantasy…exploring those types of worlds and those ancient civilizations.” 
+
+With that in mind, Maehiro started creating the world map, which today is a beautifully rendered 3D tilt-shifted map in-game. He did this to decide where to put mountains, seas, rivers, and other features, thinking even more minutely about things like which way the wind is blowing and how it might affect this or that. These decisions inform the climate, the climate informs the village, town, and city makeup, and that makeup informs the types of civilizations that call this place home. 
+
+Medieval Origins
+
+Final Fantasy XVI Creative Director Kazutoyo Maehiro
+
+From here, Maehiro indulges in history to create more of Valisthea. If a nation relies on its proximity to water to thrive, Maehiro scours history for real-world examples of nations and societies that do the same to inform his writing. Doing this helps Maehiro realize that not every nation in Valisthea should be a kingdom, and more variety between how these nations work is needed. 
+
+“When you look back at a lot of [medieval history], you would have a lot of kingdoms,” he tells me. “While we wanted to have kingdoms as well, when we knew we were going to settle on five named nations in Valisthea, having them all be kingdoms meant everything was going to be the same; you’d always have a king making the decisions and everything trickling down from there. 
+
+“And when telling the story, that becomes really one-sided. We wanted something that gave the story a little more depth to make it more interesting for players and for us writing it as well. We started out thinking we wanted to do something different for each one, maybe having one be a democracy and another being a kingdom so that we can write from the perspectives of those different governments.” 
+
+The Iron Kingdom of Valisthea
+
+Establishing how these nations are governed helps Maehiro and the team write the types of lives people within each place live, too. 
+
+Valisthea’s Visuals
+
+While Maehiro created Valisthea’s map, determining how its intermingled nations might work in the same region, Minagawa worked with Takai and Yoshida on the game’s visual style. 
+
+“When I joined the team and spoke with Takai-san about the overall look of the game, we had that broad stroke [that] we wanted to have something that’s going to have that Game of Thrones feel, that kind of pure standard high fantasy that you’d see in that type of program and visual medium,” Minagawa says. “We also had the character artist, Kazuya Takahashi, that designed all the characters, and he had not only designed the characters but had taken the time to draw art for some of the areas as well.” 
+
+Final Fantasy XVI Art Director Hiroshi Minagawa
+
+Minagawa says Takahashi’s environmental art was bright, transparent, and beautiful, but given the game’s mature tone (and mature rating, too, a first for the mainline series), the team had to rework it to fit the larger narrative. That vibrant art still exists within FFXVI, but it’s easy to see how what was conceived as a gorgeous and thriving landscape might be decimated in-game (that tends to happen when Eikons clash). 
+
+In terms of art, Minagawa says the team aimed for something between illustration and reality without being “necessarily photo-realistic.” 
+
+“We wanted more emphasis on that original art that we had from Takahashi and figured out a way to base it off this great art and make it real, but not make it photo-real, and find that perfect place in between.” 
+
+In terms of inspiration, Minagawa cites northern England and its unique rock formations that, to him, define dark fantasy. He also cites Iceland’s barren rocky landscapes, Slovenia, the Middle East, and Africa, especially in relation to Valisthea’s Dhalmekian Republic, and even other parts of Final Fantasy, like Final Fantasy XII’s Dalmasca.
+
+Bringing The Action
+
+While Yoshida, Minagawa, and Maehiro tinkered with the world and visual style of Valisthea, Takai worked with the team to solve the issue of combat. 
+
+“The first things that we decided on were one, that we weren’t going to make an open world game, and two, that we weren’t going to go turn-based and that we were going to go full real-time action, and once we had that, the third thing was completing the scenario and knowing what type of story we wanted to tell,” Takai tells me. “Once we had those three decided, we decided to add people and start bringing them onto the team.” 
+
+Final Fantasy XVI Director Hiroshi Takai
+
+Intending to create satisfying real-time combat, the teams got to work. But about two years in, Takai and Yoshida realized the team needed someone to hone in the combat and make it shine. And that’s when Ryota Suzuki, a former combat designer for Devil May Cry 4 and 5 and Marvel vs. Capcom 2, joined the team.
+
+“When I joined the team, they were still very early in creating the combat,” Suzuki says. “It was pretty much at the point where the basic controls had been implemented, so pressing square, you get sword, pressing triangle, you get magic, doing them together, you get combos, and that was pretty much it. It had finally just started working around the time I joined. 
+
+“At that time, the things you see in the current build you played – things such as Eikonic feats and Eikonic abilities – none of these existed yet. And any of the complex interactions did not exist either. Basically, you hit an enemy and their HP goes down, and that was about it.” 
+
+Final Fantasy XVI Combat Director Ryota Suzuki
+
+More obvious things, like FFXVI’s Eikon vs. Eikon combat, guided the team in further developing the action but so did the game’s scenario. 
+
+“Because we knew that Clive isn’t just a swordsman – through the story, Clive progresses and meets these different dominants and absorbs their energies, and we knew this from the story, so we wanted to figure out a way to bring this into the battle system,” Suzuki says. “From there, we brought in the feats and the abilities and that foundation of the system that we have.” 
+
+Suzuki says the team simply aimed to create fun action that feels like a natural fit for Final Fantasy. And after playing the game multiple times across various previews, I can attest to that. It’s quite different and arguably the most fast-paced combat the series has ever seen, but it works and, more importantly, feels great. 
+
+The Sound Of Valisthea
+
+Final Fantasy XVI Composer Masayoshi Soken
+
+The final piece of this simplified puzzle is arguably one of the most important: the score. Music in Final Fantasy has remained one of the highlights of any new game. There are familiar melodies in typical tracks like the Prelude and Victory Fanfare, but each composer on a game has the chance to add their mark to the series’ history. I spoke with FFXVI composer Masayoshi Soken, who has composed FFXIV’s score with CBUIII, in his recording studio about his first steps into a new game. From the outside looking in, his job within the game’s development sounds more stressful than most. 
+
+“Because our work is based on what is created by the development team, we’re working right up to the end,” Soken tells me. “We’re the last ones to usually finish and so were working right up to master and yes, the game has been mastered, but after mastering up and going gold, there’s still a lot of things left for the sound team to do.”
+
+He says post-gold work mainly consists of creating and remixing his FFXVI score for trailers and other forms of publicity leading up to the game’s launch. As for the work before that, Soken says it began with the idea from Yoshida, Maehiro, and Takai that the score should have a “very grand classical feel” and feel “very, very serious and direct.” He also says that compared to other composers, he suspects he does things quite differently when it comes to writing a score: he plays the game first. 
+
+He likes to play through a scenario or scene before scoring it to understand what that feels like from a gameplay perspective so that he can formulate the type of music to match it. While he prefers this process, Soken says it adds stress to his work.
+
+“This style of composing, this style of work, can be a two-edged sword,” Soken tells me. “[It] means even though the team will know very early on what type of scene they want to make, it’s still not done yet. They have to make it, which means I can’t start working on a song until they have completed their work, but a lot of times, a lot of their work isn’t completed until right at the end of the development phase, which means all my work comes right at the end.
+
+“I have to make all these hundreds of songs in only a matter of months, and that can be very difficult.” 
+
+I only spoke to this handful of developers behind FFXVI, and I can imagine that everyone on the team, in their own way, is just as busy. Speaking with these leads further emphasized how much goes into creating a game. It’s years of work, and it’s clear nothing is more helpful than a solid base to start with. If what I’ve played of FFXVI for this cover story is any indication, that core foundation has led to developing something uniquely familiar for the Final Fantasy franchise. Hopefully, we’re just a few weeks away from finding out if that’s indeed the case. 
+
+For more, be sure to check out Game Informer’s exclusive FFXVI coverage hub by clicking the banner below.
+
+      Products In This Article
+
+Final Fantasy XVI
+
+Platform:
+
+PlayStation 5, PC
+
+Release Date:
+
+June 22, 2023 (PlayStation 5), TBA (PC)
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

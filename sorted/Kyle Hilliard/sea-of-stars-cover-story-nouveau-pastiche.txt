@@ -1,0 +1,189 @@
+
+  Sea of Stars Cover Story - Nouveau Pastiche
+
+
+
+
+
+
+Platform
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC
+
+Publisher
+Sabotage
+
+Developer
+Sabotage
+
+Release
+August 29, 2023
+
+Rating
+Everyone 10+
+
+            Introduction
+
+When The Messenger was released in 2018, Thierry Boulanger went into its launch with reasonable expectations. He was proud of the game he and the team at Sabotage had made, but he was prepared to consider it a success even if it didn’t sell well. “If 100 People bought it, I would have been like, ‘Oh my God, we hit three digits. So, for sure, there’s at least one person I don’t know that bought it,’” Boulanger says. The Messenger sold far more than 100 copies and even took home The Game Awards’ Best Debut Indie award alongside many other accolades. With its unique approach to platforming and a fun story twist that allowed it to exist as both an NES and SNES throwback, The Messenger was a hit and quickly allowed Boulanger and Sabotage to pursue its dream project: A large-scale RPG unabashedly inspired by 16-bit greats like Chrono Trigger, Super Mario RPG, and many more. “It’s been seven years, and it’s still kind of a dream,” Boulanger says.
+
+Looking To The Sea Of Stars
+
+Looking To The Sea Of Stars
+
+Even before development officially concluded on The Messenger, Sabotage was already thinking about Sea of Stars. Internally, it was seen as the big reward for the potential success of The Messenger – a game the studio still cares about deeply. “There’s more to be told about [The Messenger] – that specific arc. Maybe one day. But it was really like, ‘If this works, then we get to make an RPG together,’” Boulanger says. Making an RPG is a tall order. Production is longer, and there are far more moving parts, but Boulanger wanted to take the time The Messenger’s success afforded and make the game he had been pondering since he was a child.
+
+“The games we make are all born of a fantasy world I’ve had in my mind since elementary school,” Boulanger says. Both The Messenger and Sea of Stars exist in that world he’s been formulating and growing over time, but they take place many years apart. The Messenger takes place on top of a mountain in a post-apocalyptic chapter of the universe, at a point when a gigantic flood has shrouded most of the world in water.
+
+Sea of Stars takes place thousands of years before that flood, when landmasses were more plentiful. The adventure takes place on an Archipelago, with each island named after a curse or peculiarity that affects it. You make your way between these islands as you solve problems and propel the story forward; eventually, you will even have your own boat. “Think of Mass Effect, for example. You can go into character view, talk to your crew, get reminders on what to do next – you know, things like that,” Boulanger says, while also citing games like Lufia and Chrono Cross as examples he and the team looked toward when considering the layout of the world.
+
+“One of those islands,” Boulanger says matter-of-factly, “Would be the one from The Messenger.” But beyond that, he is not ready to share more about what connects the two games either thematically or narratively, save for one final cryptic tease. The Messenger surprised players by beginning as an NES-inspired linear platformer before suddenly changing into a 16-bit, more open, Metroid-inspired platformer. “[Sea of Stars] does have a thing that happens at some point that you don’t expect, while you were hopefully already perfectly happy with your hearty slice of what you already played,” Boulanger says without expanding.
+
+Introducing Valere And Zale
+
+Introducing Valere And Zale
+
+Before Sea of Stars begins properly, a mysterious character named The Archivist, seated in a messy library called the Great Archives, welcomes the player. The Archivist describes themselves as an immortal versed in the ways of alchemy. They have been cataloging the events of countless timelines over thousands of years to assemble the correct one and believe they have made a mistake. The Archivist says, “Should the Mists of Times allow a slight alteration, I believe the ray of hope that was once offered may yet bloom.”
+
+Before beginning the story, players are instructed to pick their protagonist. Valere is a blue-haired woman blessed with the power of the moon, while Zale is a red-haired man who controls the power of the sun. “The main thing is – it was always a dual protagonists story in my mind, for decades, before we actually got down to making it,” Boulanger says.
+
+When making your selection, there is text on-screen explaining that it ultimately does not matter who you pick, and you can change at any time. The trajectory of the story is not affected by this first decision. You don’t even see the design of the characters right away. “Even on the first screen of the game, you see the starry sky that says there’s two protagonists,” Boulanger says, “And then you get the moon and sun icons that appear for which one you want to pick. We don’t even show the characters yet. We want you to pick between sun and moon first, and then even that order is randomized.”
+
+At this point the world is still generally a mystery, thought it’s clear you’ve entered a fantasy setting where magic exists and the population is under the protection of Solstice Warriors – which is the role you fill. After picking your character, you are introduced to them later in life as they prepare to go off on their first official Solstice Warriors adventure before jumping back in time to see them as children and meet their friend, Garl. The trio gets into trouble exploring where they shouldn’t have, which leads to Garl losing an eye against a slug creature with a unicorn horn.
+
+Despite his injury, Garl maintains his impressive optimism and is heartbroken when Valere and Zale’s teacher, Headmaster Moraine, takes this troublemaking as a sign that it is time for the two to begin their training. This decision means years of separation from Garl. “It’s hard to explain how I feel about this guy,” Boulanger says of Garl, with his grand knowledge of the full journey. As a player who has only spent a few hours with Garl, he seems like an absolute sweetheart who will support Valere and Zale no matter what. “He’s the ultimate golden retriever. He’s just this endlessly wholesome character presence,” Boulanger says. “He’s the support character. He’s the best friend of the two main protagonists, and he’s always kind of doing a thing you shouldn’t do. And then he apologizes, but everyone just laughs and it’s always okay.” He’s also a great cook.
+
+Despite separating from their friend, Valere and Zale begin training with the help of the prior generation of Solstice Warriors, Erlina and Brugraves.
+
+Years pass by in a flash as you participate in combat and magic tutorials, watch the two grow older (and change character models), eavesdrop on Erlina and Brugraves as they privately wish Valere and Zale had the opportunity to live normal lives, and learn about Sea of Stars’ ultimate threat: Dwellers born of the The Fleshmancer that, if left unchecked, will transform into World Eaters. Headmaster Moraine obsessively tracks these Dwellers and trains Solstice Warriors to fight them during eclipses, which is the only time these villainous creatures expose their weaknesses. It is the duty of the Solstice Warriors to combat these Dwellers and Valere and Zale understand and embrace their role. All of this is in service of showing the player the ropes, exposing the mechanics of the world, and setting you up to finally, truly begin your adventure.
+
+Story At Your Discretion
+
+Meeting The Archivist is a strange way to kick off the story, and it’s even stranger when you consider The Archivist and the Great Archives are all products of lore established outside of Sea of Stars. On the Sea of Stars Kickstarter page (which raised $1.6 million), you can read about The Archivist’s journey from talented alchemist, to immortal being, to student of forbidden alchemy that led to the creation of The Flashmancer, to timeline destroyer, to eventual obsessive librarian who is trying to repair all they have broken. It’s all important storytelling for those who want to be absorbed into Sea of Stars’ world, but it’s also intentionally optional, which extends to all facets of the game’s storytelling.
+
+“I know that some people, they just care more about the lore and the world building and some don’t. And so you don’t want to force people to sit through exposure if they just want to, to move on, right?” Boulanger says. This is an early example of story that you can bypass, or track down on your own later, but there are more in-game examples throughout. Teaks is an archeologist character you meet early who does not join your party in the typical way. Rather, she appears whenever you rest and will offer to tell you stories about the world. Some are just meant to color the land with more history, others are directly related to important quests, but the player can engage with them at their leisure. Maybe you don’t want to hear Teaks’ story about the mysterious Vespertine ship until you meet the pirate crew that desperately wants to capture the ghost ship and use it for their own gain. Maybe you don’t need any of those details and you just want to soak in the atmosphere and engage in combat. That choice is up to the player.
+
+The Adventure Begins
+
+The Adventure Begins
+
+After years of training, your first task is fully accepting the role of Solstice Warrior with the permission of Elder Mist, a magical floating head made of clouds. Making your way through Elder Mist’s trials also showcases Sea of Stars’ puzzle-solving and impressive maneuverability. For all the praise lavished on the games that inspired Sea of Stars, it is fair to define them as linear and straightforward. They prioritize story and combat over the act of getting from point A to B, which is why I was so surprised how much Valere and Zale can climb and leap across the environment. Sea of Stars is not a platformer, but Valere and Zale can easily climb ledges, jump over gaps, and even fall from high heights to platforms below that house hidden chests or ingredients for cooking.
+
+“That was one of the three pillars that we’re going to work with for the game,” Boulanger says, “That level of traversal, where you’re completely free from the grid.” The layout of any location will still look familiar to anyone who has played a 16-bit RPG with an isometric view, but the options for movement are much more diverse. Boulanger also wanted to make sure you could jump on roofs, which he considers a game changer. “You’ve probably noticed the swimming is just in and out directly, too. There’s no entry point or exit point. We wanted everything to be seamless, breaking free of the grid as much as possible.”
+
+After flipping switches to solve puzzles and fighting enemies in the clouds, Elder Mist finally decides we are ready to take him on as the final boss of the training dungeon. After defeating him, he reveals a new visually significant power. In specific locations, the Solstice Warriors can change the time of day in an impressive display that affects every aspect of the environment. The lighting in the sky changes as day transitions to night, and shadows move at different angles and lengths. It’s a beautiful and stark reminder that even though Sea of Stars is meant to look like a Super Nintendo game, it plays with modern visual technology to deploy tricks that would have never been possible on the hardware.
+
+I want to know more about how they pulled off this incredible feat. How much of the game is secretly made of 3D models? How does the, as Boulanger has referred to it a few times in our discussion, dynamic lighting engine work? But much like our conversation about the story implications of The Messenger in Sea of Stars, he is suddenly tight-lipped. “At the moment, we’re letting the magic just be there because a lot of people are asking how we did it,” Boulanger says. He promises Sabotage will share more details about how it works in the future, but for now, it remains an intriguing mystery.
+
+I don’t know how it works, and its most eye-catching implementation is the changing from day to night, but the system is apparent in every aspect of the game. Sea of Stars is a 2D game, but certain magical attacks explode with light and send shadows across the landscape, and walking past flickering lamps will cast jumpy shadows from your character as you walk by. The dynamic lighting engine manages to be subtle in quiet moments, but explosively apparent in others. It is an impressive element that sets it apart from comparable games.
+
+Making Meals
+
+Alongside collecting typical RPG items like money, improved weapons and armor, and key items, the environment is also full of ingredients that can be turned into food at any campfire. You find recipes as you explore, and cooking is as simple as holding down a button on a recipe (as long as you have the ingredients). This mechanic is not unique to Sea of Stars – plenty of games do this – but the art accompanying each recipe sets the cooking experience apart. For example, if you want to make a roast beef sandwich to restore 60 HP in battle, you see a few pieces of art as the recipe comes together. One shows the meat being prepared, another shows the bread being baked, while another shows vegetables being chopped before displaying the final product. The art is fantastic and a worthy reward for tracking down ingredients and recipes.
+
+Into The Unknown
+
+Into The Unknown
+
+Defeating the Elder Mist and acquiring the ability to change the time of day gives Valere and Zale the tools they need to start their Solstice Warrior mission. The two also finally reunite with their friend Garl who has been doing his own training in their absence and has become an accomplished cook. The Elder Mist, surprisingly, encourages Garl to join the two despite his lack of magic and says to himself maybe he can bring “it” back, but sends them on their way before offering any additional context.
+
+At the behest of their teacher, Headmaster Mor- aine, the two must travel to a Dweller on Wraith Island who will soon be exposed by an eclipse making them vulnerable to attack. The journey’s first step involves meeting what appears to be a gigantic, sleeping stone golem. With the Elder Mist’s direction, the golem suddenly comes to life, scoops up your party in a bowl and flings you off into the distance. The transportation method is both thrilling and terrifying, and perhaps most importantly, it just looks cool.
+
+Bruno Moraes is Sea of Stars’ lead animator, and the golem creature was one of the first moments where he recognized he was working on something special and ambitious. Moraes has a history of working in pixel art on smaller characters, and was initially intimidated when meeting the golem. “I remember looking at it and being like, ‘I’m not sure I can do this. I’m not sure anyone can’,” Moraes says. “These characters are so big, it would sometimes crash our editing software, because it’s not meant to deal with such big characters. But we found a way around, and I think it’s looking real nice.”
+
+While still reeling from the interaction with the golem and its powerful arm, the trio lands in the distance unscathed and immediately meets an even larger creature, The Sleeper. “It’s such a big character,” Moraes says. “It was very intimidating to work on.” The Sleeper is a gigantic, dragon-like snake that is wrapped around an entire mountain – the mountain to which the golem threw you. On the world map, you can see it snoring in restful slumber, but you quickly learn that the music created by the wind ripping through the mountain’s tunnels, which keeps The Sleeper at rest, is in danger thanks to an outcast from the nearby village of mole people named Malkomud. It’s Garl who immediately suggests the crew pause their current journey to help The Sleeper maintain its namesake.
+
+Making Music With Chrono Trigger’s Composer
+
+The majority of Sea of Stars’ soundtrack is in the hands of the talented Eric W. Brown, who also composed the soundtrack for The Messenger, but Sea of Stars has a secret weapon with the participation of Yasunori Mitsuda. Mitsuda has worked on dozens of games since the mid-’90s, but he is best known for his work on Chrono Trigger. Sabotage managed to get in touch with Mitsuda, who was impressed with Sea of Stars and decided to compose about 10 tracks for the game. “There’s no words to describe this. Like, it’s … we literally got the guy,” Brown says of the partnership.
+
+Boulanger, similarly starstruck by Mitsuda, described an early interaction with him where he asked the team through a translator if they wanted him to channel his style of composition from Chrono Trigger. “It’s the one time in this career that we got to answer an e-mail with just, ‘Yes!’,” Boulanger says.
+
+And Mitsuda was happy to do it. Speaking with Mitsuda over e-mail, he wrote, “It felt incredibly nostalgic. I worked while thinking about how I took the trouble in the past to use these kinds of techniques, which are no longer necessary these days. The joy of putting together music one sound at a time is one of those things that is usually only experienced with the game consoles of that time.” For his Sea of Stars composition, Mitsuda tried to emulate the SNES’s “echo” sound as he describes it, and even jumped through technical hoops to make it sound of a different era. “While keeping a taste of the feel of that time, but also using modern technology, I tried creating the music for Sea of Stars as if it were coming from a slightly upgraded SNES. Usually, synthesizer audio can be used as is, but this time I deliberately resampled the audio in 32 kHz and applied an effect with the same settings as the SNES ‘echo’. The sound is more gorgeous than that of the past, but I think you’ll somehow be able to feel that SNES feeling.”
+
+Despite the technological advancements of musical composition over the years, Mitsuda says his writing process actually hasn’t changed much. “I try to fully understand the game’s world and atmosphere, reread the scenario many times over and imagine the kind of music that it needs,” Mitsuda writes, “When necessary, I make a relationship chart of the characters. While doing so, the music that the game is asking for starts naturally coming to mind.”
+
+Fighting With Celestial Power
+
+Fighting With Celestial Power
+
+Tracking down Malkomud involves entering the mountain and fully engaging with Sea of Stars’ combat system. Monsters must be defeated and blocks must be moved using the recently discovered Mistral Bracelet. Valere and Zale are able to shoot blasts of wind from their fingertips with this bracelet.
+
+Battles are not random in Sea of Stars. Occasionally, characters may surprise you by jumping from the shadows, but the player initiates the vast majority of engagements. You see the enemy, you approach them, the fight begins. Much like Sea of Stars’ main inspiration, Chrono Trigger, you do not enter a separate combat screen. Battles begin precisely where you’re standing.
+
+“The main thing for me with combat was, obviously, for it to be active, right? Never stale,” Boulanger says. From the beginning, he was insistent that numbers always remain small to make them more manageable, and to make sure players don’t lean on single, powerful attacks for every encounter. Boulanger didn’t want players, “just casting Meteor all the time while chugging Ether.”
+
+Every character has magic or special attacks in the case of characters who do not use magic. Normal attacks regenerate your magic and special ability meter, so you are encouraged to use those abilities in combat. Executing a standard attack almost feels like a waste if you’re not using it to regenerate your special meter, which is by design. “If you keep wanting to use the same thing, it’s just not going to be an option anymore,” Boulanger says “It’s going to kind of force you to try something else.”
+
+Boulanger wants the player never to be stuck in a loop and uses cover shooter mechanics as a point of comparison. If you’re hiding behind a wall and get too comfortable, a grenade will likely appear at some point and force you out of hiding. Even if it doesn’t make narrative sense or is a little transparent in its mechanical intention, it serves an important purpose. “It forces you to move and that gives you a new angle on combat and then everything feels fresh,” Boulanger says.
+
+Another way the game does this is a series of images or Locks, as Boulanger calls them, that appear over enemy heads. They show the sequence of attacks necessary from the player to prevent the enemy from making a big, difficult-to-avoid attack. Instead of just hitting that annoying ant enemy with a series of regular attacks until it dies, for example, you will want to hit it with a few moon attacks and some sun attacks because if you don’t, it will call in two more ants to join the fight.
+
+The Locks system is also a way of encouraging you to use every character. Eventually, your party will consist of six fighters, but only three can ever fight in a battle at a time. You will have your favorites, but sometimes the Locks can only be broken by that one character you don’t often use. There is no turn penalty for calling in a different character in the middle of a fight. “There’s going to be a time where the best option is to use the character that you’ve never used,” Boulanger says, “And then maybe that character grows on you, because now this guy felt powerful to use and you got to see that special move that you haven’t tried yet.”
+
+Hitting enemies with standard attacks also releases a collection of boosts that can be picked up and used by any fighter. Pulling the right trigger on anyone’s turn pulls these boosts toward the character and augments their abilities to make them a little stronger. You can leave them on the battlefield and save them up or use them to help you tackle Locks as needed. You can also build up a combo over the course of a battle to use cooperative abilities.
+
+Timed button presses are the final and most important element of combat, both offensively and defensively. Boulanger is very straightforward about what game inspired its implementation in Sea of Stars: Super Mario RPG. “I’ll just say it’s really the timing of the hits, the timing of the blocks – how that makes turn-based combat just constantly engaging. The fact that it makes you pay attention,” Boulanger says.
+
+The combat features even more depth than what is outlined here. Elements like enemy placement are also a factor, and you can limit damage received with well-timed defensive button pressing. The important part, though, during my time with the game is I found it consistently captivating without getting overly complicated.
+
+Rockie The Lizard
+
+Rockie The Lizard
+
+After a series of fights and puzzle-solving, we finally track down Malkomud and fight him and his gigantic pet lizard, Rockie. Rockie is one of my favorite enemies I’ve encountered, as his design and animation are both a display of power and puppy-like excitement. He eats my party members and spits them out for damage.
+
+Moraes is similarly a fan of Rockie and explains the process of taking him from concept to in-game enemy. “I usually start with the head and then focus on other parts of the design like facial features and everything,” Moraes says.
+
+They also have to do size tests to make sure the design fits against the main cast. From there, the character has a list of animations that must be completed from different angles. Taking those animations and integrating them into the game takes time. “A few weeks later, you see it integrated in game and with VFX and sound effects, too, and it feels like it came to life,” Moraes says. “That is something that I never tire of. I’m not used to that feeling.”
+
+It turns out Malkomud is basically a kid with magic powers who has been ostracized by the people of his village, who don’t understand his abilities. Garl, the sympathetic labrador he is, calms Malkomud and convinces him he has friends in us even if he doesn’t in his village. Malkomud doesn’t join the party, but I suspect we will meet him and Rockie again.
+
+The Pirate’s Life
+
+The Pirate’s Life
+
+With The Sleeper’s rest officially undisturbed, Valere, Zale, and Garl make their way to the town of Brisk to charter passage to Wraith Island where the Dweller rests. A group of pirates needing adventurers to help them track down a valuable haunted coin challenge the party to an arm-wrestling competition and promises them passage as long as they help them first.
+
+From there, an ever-complicating series of events takes place at an impressive pace. After losing the arm-wrestling competition thanks to a questionable magical shirt that makes the wearer strong, Valere, Zale, and Garl make their way to an abandoned wizard’s lab to fight a ghost-like entity made of fabric. With the coin acquired, the pirates take them to Wraith Island on their rundown raft, where they all convene at an inn called The First Stage of Grief to wait for the eclipse.
+
+Being the heroes they are, however, they can’t sit tight while the Dweller hypnotizes victims to enter the haunted woods. This dilemma sets off a whole other series of escapades. Valere, Zale, and Garl encounter zombies from the colonial ages, a soul stone, a mysterious ninja, a ferryman to the dead, and a new item that expands the already impressive overworld navigation. They swim through a flooded cemetery where giant rib cages of expired animals lie just visible under the muck of the surface – and all of that happens before Headmaster Moraine, Erlina, and Brugraves finally show up to assist with the Dweller.
+
+So much happens that leads to many unique encounters, enemies, and puzzles, and that’s exactly how Boulanger wants it to be. Boulanger wants the player always to be singularly focused on what they’re doing and hopes that it does not feel random and references one of the games that did it best. “In Chrono Trigger, if I took the controller from your hands and asked, ‘What are you doing right now and why?’ You’ll say something like, ‘Well, there’s this evil wizard in the Middle Ages, and this frog has a broken sword that I need to fix, but the stone to fix it stopped existing, so I went back in time to prehistory, and now we have the rock, but they stole our key to get back into the time gates and now we’re fighting reptile humanoids who want to take over because we need the key back!” Boulanger says.
+
+It’s a lot to take in, but done well, you always know what you’re doing and why, and that’s the hope for Sea of Stars. “When a game tells the story, well, you feel those arcs.”
+
+Want to Play Right Now?
+
+Sabotage afforded us the opportunity to play through the game’s opening eight hours. We saw a huge portion of the game and even experienced story moments we have chosen not to detail to avoid spoiling the story. If you want to experience a small portion of what we were able to play, a truncated, playable game demo is available now. It will allow you to experiment with the combat, see the impressive dynamic lighting engine in action, meet the main cast and the pirates mentioned in the story, and take on at least one major boss. Sabotage has hinted it also hid some bonuses in the demo for thorough players.
+
+Out To Sea
+
+Out To Sea
+
+I ultimately spent about eight hours with Sea of Stars from the beginning to meeting what I presume to be the first Dweller. Without going into detail, I will say it was there the game truly felt like it was beginning. The actual plot machinations emerge during that fight, and one of the most positive things I can say is I am upset I am not able to keep playing. I had the privilege of taking an extended look at the game’s early hours, but now I am stuck waiting months to play more and see what happens next.
+
+Sea of Stars is not the only game to look at the era of 16-bit RPGs for inspiration, but it is the most fun I’ve had with the genre in many years. And that’s what Boulanger and the team at Sabotage want from Sea of Stars players. They want them to be nostalgic for a beloved era of RPGs, but with a contemporary style and gameplay that makes it as fun as a modern game can be. “None of what we have would run on a Super NES, right?” Boulanger says. “We want it to be as good as our memory of those games.”
+
+This article originally appeared in Issue 354 of Game Informer. For more on how classic RPGs like Chrono Trigger inspired Sea of Stars, head here.
+
+      Products In This Article
+
+Sea of Stars
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC
+
+Release Date:
+
+August 29, 2023
+
+Purchase
+More Info
+
+Kyle Hilliard
+Magazine Content Director
+Kyle plays entirely too much Picross. He once wrote a whole book about The Legend of Zelda.
+
+Email
+Twitter
+

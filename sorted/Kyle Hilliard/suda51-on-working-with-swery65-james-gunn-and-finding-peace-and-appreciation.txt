@@ -1,0 +1,133 @@
+
+  Suda51 On Working With Swery65, James Gunn, And Finding Peace And Appreciation For Shadows Of The Damned
+
+
+
+
+
+
+            Goichi "Suda51" Suda is arguably the most consistently unique game designer in the industry. He created Killer7, the No More Heroes series, worked with James Gunn (before he directed Guardians of the Galaxy or was put in charge of DC films) on Lollipop Chainsaw, and lots more. In preparation for his role as the keynote speaker at MomoCon this year, we caught up with him over e-mail to discuss his next game, Hotel Barcelona (a collaboration with Deadly Premonition creator Hidetaka "Swery65" Suehiro), remastering his 2011 game Shadows of the Damned, Batman, and more.
+
+Hotel Barcelona
+
+Game Informer: Hotel Barcelona is inspired by horror films. Are there specific films you cite as references?
+
+Goichi "Suda51" Suda: There are a lot of them. Swery of White Owls is the main creator, so you should probably ask him this question, as I don't want to spoil anything. It's mostly based on Swery’s own personal tastes – however, I do have a good amount of input in it as well – so I'd suggest continuing this interview with Swery himself. I'll be looking forward to reading it!
+
+How do you and Swery split the work on a game like Hotel Barcelona? Do you collaborate on a script, or do you each handle specific characters? Does one of you handle gameplay, the other story?
+
+At first, Swery was like, "Let's write the whole thing up character by character," but now I'm extremely busy with Grasshopper projects so I've been leaving most of it up to him. We both came up with a lot of ideas, but Swery has been doing most of the work; I do provide some input sometimes, but Swery and White Owls are handling the actual development.
+
+What are your favorite time loops in fiction?
+
+One would be the German show Dark on Netflix. Also, Flower, Sun & Rain is time loop-based, too; that time loop was actually based on an X-Files episode called "Monday" (Season 6/Episode 14) that was really interesting. That was where the idea from Flower, Sun & Rain FSR came from.
+
+Shadows of the Damned: Hella Remastered
+
+Has the Shadows of the Damned: Hella Remastered tempted you to make changes that are closer to what you wanted it to be?
+
+No; this game feels like our own child – it's something we created, and we love it for what it is. For the remastered version, content-wise, we simply added a New Game+ feature and new costumes we weren't able to include before. We'd always wanted to do a proper, loyal remaster for SotD. It originally stemmed from Kurayami (which ran in Edge Magazine in the UK), which is something else that I'd actually like to make a game out of at some point. But Damned is Damned, and Kurayami is something else altogether now.
+Damned actually came from the sixth draft of Kurayami. If possible, I'd like to do something with all the first through five drafts, respectively, which are all very different.
+
+The fourth draft ended up becoming Black Knight Sword, and Kurayami Dance was I believe the third or fifth draft, I think.
+
+You were publicly unhappy with Shadows of the Damned at launch. How do you feel about it in 2024?
+
+A lot of things happened at the time, but I look back on the whole experience pretty fondly now. While we were making the original, we definitely had a lot of friction with EA – we argued about a lot of aspects and ideas for the game, and both we and EA made a lot of compromises, but those experiences are what brought about Garcia, Paula, Fleming, and their whole story, so I love the end result as a Grasshopper game in general and as our own personal creation as well. I had some great experiences with Mikami making the game; we got called out to Los Angeles by [publisher] EA this one time, and there were like ten people in this hotel suite sitting at this big table. When we walked in, it kinda freaked us out. We got really bitched out, getting asked things like, "Just what the hell are you trying to make?!" That kind of experience is rare – especially in the video game industry – and I feel like if this was the underworld or something I probably would’ve gotten whacked in that room (laughs). So many of the experiences we had back then were super interesting and are really fond and valuable memories now.
+
+Now that I think about it, I believe that hotel thing happened at the Marriott in Los Angeles. Like I said, there were like ten people from EA – some of their top dudes – all lined up, and we had no idea what was going on. We were simply told, "Come to this meeting." No context or anything, so we were shocked when we got there. It's actually sort of an awesome memory now. It wasn't exactly scary, since being the video game industry and all, I knew we weren't actually going to get killed or anything, but we were definitely surprised.
+
+Anyway, I'm really proud of what we made, and I cherish all the memories I have of those times.
+
+What is the most underrated Suda 51 game?
+
+There would be two: Samurai Champloo: Sidetracked & Blood+ One Night Kiss. Blood+ wasn't released outside of Japan, but Samurai Champloo was released in Japan and North America. They're both really great games, and the stories were totally different from their respective original versions. Also, these two games basically spawned the No More Heroes.
+
+If you get the opportunity, be sure to try Samurai Champloo. Blood+ is only available in Japanese, but if you can, please give that one a try, too. I consider Samurai Champloo, Blood+, and No More Heroes to be my "Big 3 Sword Action Games." Without the first two, I'm not sure that No More Heroes would have ever been made.
+
+What are some of your recent favorite video games that you didn't work on?
+
+I've downloaded a ton of games recently, but I have the bad habit of not actually getting around to playing them [laughs]. I started Helldivers 2 recently, and I'm still deciding on whether or not to really get full-on into it. I've also been digging Alan Wake 2, which I haven't cleared yet but would like to sometime soon.
+
+What are some of your recent favorite movies and TV shows?
+
+TV: 3 Body Problem (both the Tencent version and the Netflix version); movie: The Iron Claw.
+
+You and Swery65 use similar names. You both strive to make unique games. Does it bother you when people confuse the two of you? Or is it flattering?
+
+I'm really good friends with Swery, so it doesn't bother me at all. I mean, they're totally different numbers anyway, so I really don't get annoyed or anything when people get them mixed up.
+
+Hidetaka "Swery65" Suehiro's Deadly Premonition
+
+What surprised you about working with Swery?
+
+It's well-known that Swery is the director and CEO of White Owls, but he's also a really good producer, and he also does project management-related stuff, as well. He's generally thought of as mainly a game creator, but he's actually really proficient in all kinds of game development areas; he writes scenarios, he handles things like product management, etc. I think he has this image of just drinking lots of beer and messing around a lot, but he's actually a super serious, hard worker and a really great producer – and although Swery himself may not want me to say stuff out loud [laughs], he's really quite professional, which I've seen firsthand throughout his career, and I want people to know this.
+
+What do you think he would say is surprising about working with you?
+
+Probably the fact that although we promised we'd both write up the scenarios for Hotel Barcelona, I ended up not doing it and left it up to him [laughs].
+
+Are there other developers you would like to collaborate with in the future?
+
+I spoke with Akihiro Hino, CEO of Level-5 a little while back, and I'd really like to collaborate with him on something. The difference between the two of us is like night and day, so I think it would be really interesting to see what we could come up with.
+
+Lollipop Chainsaw
+
+Would you consider making a licensed DC video game with James Gunn?
+
+I haven't spoken with him much recently apart from a few greetings or DMs on Twitter here and there, but I think I would totally be down with doing another game with him if the opportunity presented itself. I love Batman, so if it was going to be a DC game, then I’d really like to try doing something with the Black & White series. Also, James is really good at always making sure to get back to me quickly whenever I message him, which I really appreciate, but I know that he's obviously extremely busy, so I try not to bother him too much.
+
+When will Killer7 get the remake/remaster treatment?
+
+Unfortunately we don’t own the IP for Killer7 – Capcom does – so I don't really have any say in that.
+
+      Products In This Article
+
+Shadows of the Damned: Hella Remastered
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC
+
+Release Date:
+
+2024
+
+Purchase
+More Info
+
+Killer7
+
+Platform:
+
+PlayStation 2, GameCube, PC
+
+Release Date:
+
+July 7, 2005 (PlayStation 2, GameCube), November 15, 2018 (PC)
+
+Purchase
+More Info
+
+Hotel Barcelona
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PC
+
+Release Date:
+
+2024
+
+Purchase
+More Info
+
+    expand for more
+
+Kyle Hilliard
+Magazine Content Director
+Kyle plays entirely too much Picross. He once wrote a whole book about The Legend of Zelda.
+
+Email
+Twitter
+

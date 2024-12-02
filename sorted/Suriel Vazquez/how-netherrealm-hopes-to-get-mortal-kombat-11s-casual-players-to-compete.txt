@@ -1,0 +1,63 @@
+
+  How NetherRealm Hopes To Get Mortal Kombat 11's Casual Players To Compete
+
+
+
+
+
+
+            Fighting games can be tough to get into. Most are multiplayer-focused affairs, which can be a deal-breakers for many single-player fans. Even among multiplayer offerings, they require a degree of dedication to memorize combos, time to brush up on things like frame data and mix-ups that can be intimidating at first. Not everyone is interested in diving into training mode for hours just to make a game “fun” outside of casual button mashing, but NetherRealm Studios has long been doing its best to turn those casual players into competitors. 
+
+As the team behind one of the most popular fighting-game series around, NetherRealm is well-aware of the impediments some players have to getting into them. "We know there's a barrier where, anything that's competitive is automatically a barrier for some people,” says lead designer John Edwards. “And fighting games in particular are kind of daunting, because they seem so scary, and mechanically difficult to get into, and there's all these terms that are thrown around. It just seems super-daunting just even thinking approaching trying to learn how to play a fighting game.”
+
+While they can seem intimidating at first, designer Derek Kirtzic is confident that once players decide to dive into them, they’re likely to find learning fighting games easier than they think. “Anybody can be really good at fighting games,” he says. “The secret to fighting games is, it's a lot slower than you actually think it is,” he says. “A lot of people think, ‘The faster I press buttons, the more that's going to happen.’ But actually it's taking the time and just [inputting combos like] 1-1-2, 1-2-3, 1-2-1 back-forward-1.”
+
+“People don't play the piano like this,” Derek says, jutting his fingers up and down on the table rapidly, “They do it very slow. It's very similar to fighting games.”
+
+As developers, it’s NetherRealm’s job teach players how its games work, but the shift in mindset has to come from the player. “It's up to the player to break out of that thought of 'The faster I press buttons, the more things that are going to happen.'”
+
+To that end, Kirtzic tells me Mortal Kombat 11’s will run players through the basics, letting players know all the tools at their disposal, offer a few tips on how to use all of its attacks and techniques, then let players loose to play the game however they want. NetherRealm wants players to have a decent grasp of the game before they get there, however.
+
+While the extensiveness of tutorials in fighting games can vary, lead designer John Edwards says the effect of tutorials on their own is often overestimated. “Having good tutorials definitely helps, but I don't think that helps to the degree that a lot of people think it does,” he tells me.
+
+While much of the appeal of fighting games comes from learning to play them, many people just want to have fun as quickly as possible, and simply don’t want to spend an hour or two doing what can often feel like homework, according to designer Derek Kirtzic. “We cannot force players to do a tutorial,” he says. “[In our games] we always go ‘Hey, you've never played this game before, would you like to play a tutorial?’ And most people are like, ‘Nah dog, let me just go straight to story mode!’” Edwards and Kirtzic aren't alone on this front; Tekken producer Katsuhiro Harada also pointed to a lack of player interest which is why Bandai Namco opted to only include a barebones tutorial in Tekken 7. 
+
+“And we're not going to sit there and stalk the player and be like, ‘We noticed you haven't done training still!’” Kirtzic says. “It's up to the player what time they're going to invest in it.”
+
+Instead, Edwards points to the other ways NetherRealm gets players to invest in fighting games: By giving them lots of content that just happens to involve playing and improving at the game itself. By playing through the story mode, players get an early feel for how fighting works, and then, according to Edwards, slowly learn some of the instincts the genre requires by playing single-player modes, such as Mortal Kombat 11’s Towers of Time, which has players tackle single-player objectives, tough bosses, unlock items, and invest in creating their own rendition of their favorite character using the game’s custom variation system. 
+
+This creates an attachment to fighting games that doesn’t rely solely on being able to play them well. “And then once you've kind of got them hooked on fighting games in general, it's much easier to transition them into the more competitive scene," says Edwards.
+
+That transition is easier said than done, however, as there is a major difference between enjoying a fighting game by beating up computer opponents and playing online against other learned players. Edwards acknowledges the transition can be tough. “You're going to be playing against people who may have been playing for their entire lives,” he says. But it’s a transition NetherRealm is keen on making, since learning to play satisfying matches against other players is the best way to keep players hooked.
+
+Over the years, NetherRealm has experimented with different ways to do this, and many of the incentives for players to play against others are back in Mortal Kombat 11. Once again, Kirtiz says the team is hoping to keep players engaged online by being more up-front about how their opponent is matched against them. In casual matches (as shown in the recent online beta), both players can see their opponent’s win-loss record, as well as their chances to win a particular match. If a player sees they have an edge, or that they’re at least evenly-matched, they might be more inclined to play. This isn't too different from most games that match players against each other, but the way NetherRealm surfaces this data more readily makes the expectations the game has of your more clear.
+
+On the other hand, NetherRealm wants players to challenge themselves and improve, so that on the occasion they come across a lopsided matchup they may choose to decline, but may just as likely face their opponent knowing they probably won’t win, but could stand to learn a thing or two from their opponent. “Hopefully it gets to an extent that the casual player will see progress in their online skill,” Kirtzic says. “We want to make sure that when we match more casual players up, that they're actually seeing that ‘Yeah, actually I can beat these guys, and I'm getting better and better, and I'm seeing my rank is getting higher,’ and things like that. We want to give positive encouragement to the players that are usually kind of standoffish when it comes to a ranked system.” 
+
+Another way to keep players coming back to multiplayer is to offer them something besides a higher matchmaking rank for playing. Edwards wants to incentivize casual players by letting them earn koins to unlock stuff in the Krypt, and level up their profile through experience. It also means introducing time-limited modes that use some of Mortal Kombat’s wacky combat modifiers (Kirtzic points to the classic “Juggle Kombat” as an example) that offer exclusive rewards for participating in them.
+
+"Having those fun modes takes down the competitive shield that players have," Kirtzic says. "You're more willing to play characters that you may not necessarily play, and play less strategically than you normally would – especially the casual players. The casual player is like, 'Oh dude, I've been playing this modifier in the Towers of Time, I totally know what to do against this totem while I'm fighting this dude, right?'"
+
+Edwards sees this slope, of getting single-player fans to slowly dip their toes into Mortal Kombat's competitive side, as key to breaking down the misconception that fighting games are a difficult genre to get into. “The more we can kind of incentivize the non-competitive guys into playing competitive for whatever reason, the more they're going to learn naturally, and the more they're going to realize that it's not super-scary,” he tells me. “It just has a little bit more of a difficult of a barrier of entry because there's so many moving parts, as opposed to like a first-person shooter, where they're kind of ultimately all boiled down to kind of the same mechanic [of shooting].”
+
+“It's always a goal for us to try and take the casual player to that next level, so that everybody can enjoy the game that we're offering,” Kirtzic says.
+
+Of course, NetherRealm knows some players will never be the kind of player who sticks with fighting games for the long haul, and would prefer to treat them the way they do most other kinds of games – more as entertainment than hobby. “Some people just don't want to put all this time into practicing good enough that you can beat the average person online,” studio creative director Ed Boon tells me. “They just want to have fun on the couch next to their friends playing story mode, and they're happy.”
+
+For more on Mortal Kombat 11, check out our recent dive into the game’s story mode, a match between NetherRealm’s two best players, and more by clicking on the hub below.
+
+      Products In This Article
+
+Mortal Kombat 11
+
+Platform:
+
+PlayStation 4, Xbox One, Switch, Stadia, PC
+
+Release Date:
+
+April 23, 2019
+
+Purchase
+More Info
+

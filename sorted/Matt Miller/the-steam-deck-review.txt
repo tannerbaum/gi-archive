@@ -1,0 +1,45 @@
+
+  The Steam Deck Review
+
+
+
+
+
+
+            Valve’s long-awaited Steam Deck is finally here, offering up a portable gaming solution with broad appeal. The nature of that appeal is quite different depending on your perspective. Some primarily console-focused gamers may find a low-cost entry into at least part of the PC gaming experience. For more dedicated PC players, it provides a chance to take what may already be an extensive Steam library on the go – albeit with only specific titles optimized right now. Either way, the Steam Deck is an impressive first step into a promising future of portable PC play – with some significant issues holding it back from greatness.
+
+The Steam Deck is big. At nearly a foot in width and weighing in at about 1.5 pounds, it’s a bit surprising the first time you pick it up – even knowing ahead of time about its bulk. However, the advantages of that heft are immediately apparent, with spacious controls, a myriad of inputs, and most importantly, an impressive 7-inch display.
+
+The LCD screen is touch-sensitive, primarily for navigating the user interface, and the 1280x800 visuals are more than enough to make games like Deathloop and Horizon Zero Dawn pop. And while most will likely plug in a headset or connect a compatible Bluetooth option, I was pleasantly surprised by the onboard stereo speakers, which offer crisp percussive sound, even at limited volume.
+
+While heavy, the unit feels good in the hand, with a pleasing round curve beneath the palms that is more like a PlayStation controller than the flat Switch handholds against which it’s most likely to be compared. The thumbsticks are snappy and textured, though even larger hands will feel their placement is a bit too high for a completely relaxing at-rest position. That’s due to the location of the two touchpads just below. Those feature a satisfying haptic response I enjoyed. The touchpad is functional for the games that need it in play, but I had trouble getting anywhere near the precision I’d expect from an actual mouse.
+
+The custom version of Steam runs admirably, whether navigating the store or chatting with your friends. I especially appreciated the quick access button functionality, which let me adjust brightness and audio settings and get performance overlay options that helped tweak my tech settings on the fly.
+
+Valve has been improving performance and firmware right up to release, so the device is likely to continue to change in the weeks ahead. Nonetheless, compatibility at launch isn’t guaranteed. Many Steam games run well with little compromise, but others have notable caveats, from display problems to tiny in-game text. Even so, it’s remarkable to see games like God of War and Dark Souls III running smoothly. In testing across dozens of games, many ran quite well, and with settings you’d expect in a proper mid-range rig.
+
+Battery life is a significant problem. Uncapping the framerate, turning up brightness or volume, or otherwise taxing the system moves it into the space of fewer than two hours of playtime. You can boost it significantly if you turn settings down. At PC game install sizes, you should also expect to fill up the hard drive pretty quick, even if you opted for one of the two larger-size SKUs. Thankfully, I had good luck running games off a micro-SD card for a ton of extra storage. I’m also a bit bummed about the absence of an ethernet port for quicker download speeds, but a sold-separately USB-C hub fixes that.
+
+Like any gaming PC, the Steam Deck is a complex beast, and many features will likely change in the coming months. But as Valve’s foray into the handheld market, it offers access to a wealth of portable games on the go that you’ll never get on a mobile phone or even on your Switch. And for many, that should be reason enough to overlook any failings, even if it’s never going to fit in your back pocket.
+
+B-
+
+The Verdict
+The Steam Deck is an impressive piece of tech, offering solid gaming performance for a growing library of Steam titles, with an impressive display and user experience. Punishingly low battery life, minor ergonomic issues, and dicey compatibility with many Steam games give pause, but Valve’s experiment transports many games into the portable realm with laudable success.
+
+Release
+February 25
+
+Price
+$399 (64 GB), $529 (256 GB), $649 (512 GB)
+
+More Information
+steamdeck.com
+
+Matt Miller
+Editor-in-Chief
+Matt Miller has been with Game Informer since 2004. He has a special interest in the evolution of game design, the tabletop hobby, and the crafting of interactive narrative. 
+
+Email
+Twitter
+

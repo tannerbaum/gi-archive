@@ -1,0 +1,41 @@
+
+  How Xbox Is Exploring Accessibility Efforts Previously Ignored, Including Epilepsy 
+
+
+
+
+
+
+            Xbox, and Microsoft on a larger scale, continues to pioneer accessibility in the gaming space with peripherals like the Xbox Adaptive Controller, internal philosophy shifts, and continued advocacy by listening to the voices of the community impacted the most itself. That being said, there is still so much more work to be done, a fact that Microsoft recognizes and continues to keep in mind as we dive into a new generation of gaming.
+
+We recently sat down to speak with Brannon Zahand, Microsoft's senior gaming accessibility program manager, to learn more about the areas previously ignored in the gaming space regarding accessibility. 
+
+"We’re always exploring new ways where we can innovate in the accessibility space, whether it’s hardware, games, the platform itself or our services," he tells Game Informer. "While we don’t have anything new to announce, personally, I think advances in machine learning and AI will inform how we all think about gaming and game platforms. I can see a future where games adapt to the individual user based on their abilities and preferences to ensure a challenging but enjoyable experience. For me, this is what accessibility is all about: making games more inclusive and accessible for everyone, based on their individual wants and needs."
+
+He also adds that Microsoft is constantly in talks with the community regarding any areas needing improvement, or areas overlooked altogether. 
+
+One aspect I wanted to talk about personally was epilepsy. I have never experienced a seizure before in my life until I joined the military. When I came back from my second deployment following an injury that impacted my brain, seizures became my new norm. There was even a time during my phaseout into the medical retirement that I was having several seizures a week, sometimes even daily. Suddenly, previous gaming favorites were completely off-limits and movies? Were almost stressful, depending on the effects.
+
+While there is a warning label on games now about titles potentially having epileptic triggers, that doesn't actually do anything to allow an adventure to be accessible for those with that particular brand of issue. Some developers have done small tweaks that make a world of difference (like Activision with its Call of Duty franchise, swapping out the colors of the hack effect from being red and white to a more muted grey to avoid a trigger), but this level of accessibility is very much still in its infancy. 
+
+When asked what Xbox was doing to help epileptics beyond just slapping on a warning label, Zahand says "Epilepsy was actually one of my first experiences with the disability community. When I was in fourth grade, a coach of mine had a seizure on the court while we were playing which caused a significant injury when he fell. I think many people simply don’t understand how impactful and dangerous a seizure can be. So it’s a topic my team and I bring up regularly when working with publishers and developers."
+
+He adds, "We also have developed the Xbox Accessibility Guidelines (or “XAGs”), which are a set of best practices we defined in partnership with members of the Gaming & Disability Community and with other industry experts. We share these with developers, which they can use for design ideation as well as validating the accessibility of their games. We have one XAG dedicated to photosensitivity which suggests avoiding certain display patterns and the use of industry standard tests to help ensure products are as safe as possible.
+
+"As for working with people with disabilities, the Xbox User Research Team has been doing a fantastic job of helping us bring more and more of the disability community in to provide us with feedback on our products. That includes individuals on the neurodiversity spectrum. And we have other mechanisms in place as well, such as Inclusive Design Sprints and a Gaming Accessibility Boot Camp, where our studios have the opportunity to sit down face-to-face with our community and take their feedback."
+
+There's more work to be done, and the industry itself has a lot of areas that it is still avoiding. "The industry can always do more and there’s a lot of work to be done – it’s a journey and this is just the beginning, for all of us," he says. "I’ve been working on video game accessibility since 2006 and I’m so proud of how far the team at Xbox has come over the years, but we still have a long way to go to build the inclusive platforms, services, and titles I know we can. What’s so exciting is that our partners and our competitors seem to be realizing the need for this work as well and it gives us the opportunity to collaborate and compete to drive innovation and value for all of the customers, including those with disabilities."
+
+The road to making gaming for everyone is a long one, and one that is nowhere near its end, but efforts like the ones being made by Microsoft are important and will hopefully continue to influence other companies to invest in this interest as well. 
+
+      Products In This Article
+
+Xbox Series X
+
+Release Date:
+
+November 10, 2020
+
+Purchase
+More Info
+

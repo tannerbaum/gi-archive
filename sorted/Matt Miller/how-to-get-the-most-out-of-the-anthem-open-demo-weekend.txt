@@ -1,0 +1,87 @@
+
+  How To Get The Most Out Of The Anthem Open Demo Weekend
+
+
+
+
+
+
+            Anthem’s VIP demo last weekend faced some struggles. While most players who had pre-ordered were eventually able to get in and explore some of the game, significant technical and networking problems plagued the weekend. The issues were so rampant BioWare was forced to make an announcement and offer some in-game gifts (once the real game launches) for participating players. Despite the problems, the beta revealed a game with a lot of potential.
+
+Hopefully, this next, more public beta weekend goes better and players have a smoother experience. If you’re planning to hop in, we’ve compiled some recommendations from our team about their experience in-game to help ensure you have a good time, and that you have a good chance to decide whether Anthem is the right game for you when it launches in full on February 22.
+
+Watch Your Times
+
+Several players we know had hoped to dive into the VIP demo, and simply missed their chance because they didn’t know about the timing.
+
+Barring changes announced by BioWare, the open public demo opens on Friday, February 1 at 9:00 a.m. Pacific time. More importantly, the demo closes on February 3 at 6:00 p.m. Pacific time. That means that if you’re in North America, you shouldn’t plan to get in a bunch of extra playtime on Sunday evening.
+
+Set Aside Some Space
+
+Don't plan on playing, and miss your chance because your hard drive is full, or because you need to spend all Friday downloading.
+
+The demo is of significant size (26 GB on consoles and around 44 GB on PC), so unless you have a blazing fast connection, you should plan to pre-load the demo, which is already available to download on PS4, Xbox One, and PC. 
+
+Play With Others
+
+Perhaps the full game offers more substantial solo content, but the demo is definitely geared toward multiplayer cooperative activities.
+
+Your best bet is to hop in with people you know. It’s an open demo weekend, so talk to your buddies tonight and get them to download the build. Up to four players can fly around together, and you’ll have a lot more fun if you’re chatting with people you know as you play.
+
+Public matchmaking works as well, if you don’t mind playing with strangers.
+
+Choose The Right Javelin
+
+BioWare ran into some problems last weekend, with some players reporting that they weren’t able to unlock their second javelin (the game’s equivalent of classes). In response, the developers announced that VIP demo players would have access to all of the javelins in the upcoming open demo.
+
+Barring additional changes, it’s likely that new non-VIP players won’t have the same flexibility, so selecting the right suit should help you have a better time.
+
+All players start at level 10 in the demo, and they begin with the Ranger javelin. You may wish to just stick it out and continue playing with this class all the way through to level cap (15 in the demo), as it’s a fun, all-around balanced suit. With that said, you unlock a second javelin at level 12, and you can pick between the Colossus, the Storm, and the Interceptor.
+
+As you might expect, the Colossus is the slow-moving and hard-hitting tank of the group, with equippable heavy weapons like flamethrowers, rockets, and mortars, not to mention a battle cry that can taunt enemies into attacking you. The Storm was a personal favorite of several of our editors during the VIP demo. Hovering in the air for long periods and unleashing elemental blasts (which often combo with other players attacks) but with lighter armor makes this javelin the proverbial “glass cannon” of the group. Snag this one if you like playing mages in MMOs. I personally got a big kick out of the Interceptor, the most agile and fast moving of the javelins. This high-risk/high-reward playstyle demands that you get up close to your enemies, where your melee abilities and close range attacks can inflict high damage, but then dash away before you get wrecked.
+
+Check Out Customization
+
+One of Anthem’s coolest features is on display in the demo – character customization. That customization comes in the form of both gameplay variety and appearance.
+
+To get a glimpse of how javelin gameplay can change even within the bounds of your own class, spend some time tweaking your loadouts. Your best bet here is to wait until you’ve played a couple of missions and unlocked some new gear. Then, in the Forge (most easily reachable from the main menu from which you launch missions) you can create multiple separate loadouts of weapons and ability line-ups. Experiment to figure out a playstyle you like.
+
+BioWare has also made sure players can get a glimpse of how flexible appearance customization can be in the game. In the Forge, tab to the right to begin tweaking the way your Iron Man-esque suit looks. The demo includes some currency that lets you purchase some new looks, so try some things out. In the demo, all cosmetic items cost the same modest amount, so you can have some fun here, even if the options on offer are nowhere near as varied as the final game allows. Of special note, be aware that when customizing your color/paint job, each body section allows for both a material change (say, from dark metal to chrome) as well as color. Use the d-pad left and right to select whether you want to tweak materials or colors.
+
+Try Out Freeplay
+
+Anyone playing the demo will find their way to the available missions and the single stronghold, which is a bit like a strike in Destiny or a dungeon in World of Warcraft in terms of size and complexity. After you’re done with those, you can continue to hop in and level up by doing those same missions again, and even boosting the difficulty for a chance at rarer loot.
+
+However, you should also take some time to explore Freeplay. From the mission launch screen, you can eschew individual missions and instead just go and explore the world in Freeplay. Here you can uncover secrets, like hidden reward chests, as well as spawning events. Perhaps most importantly, Freeplay allows you to explore one of Anthem’s most impressive features – its large and highly vertical playspaces. Without clear objectives, you can pause to admire the awesome environmental art, as well as get a better feel for the way your javelin runs and flies.
+
+Explore the Cortex
+
+While many players will prefer to keep their focus on the action, we’d be remiss to not point out the wealth of info and lore available to peruse in the cortex, Anthem’s in-game encyclopedia.
+
+Accessible from the pause menu, players can learn all about the game world of Anthem, its history, and locations. For many fans of the studio’s games, the opportunity to dig into a new worldbuilding palette from the storytelling experts at BioWare is one of the most anticipated aspects of Anthem’s release. If you count yourself as that type of enthusiast, there’s a lot to learn in the Cortex that will enrich your appreciation for the unusual setting being presented in the game.
+
+Worst Case? Reconnect
+
+Anthem has a lot of neat features on display in the demo, but there’s no doubt that the game fell short last weekend in terms of pure functionality. We hope that at least some of those issues are resolved in this weekend’s demo, but it’s a fair bet that the developers are still trying to hammer out the kinks.
+
+With that in mind, be aware that a few major problems were prevalent last weekend, and may crop back up. Connecting to the game in the first place turned out to be a major issue, and your best bet is to just keep tapping the accept button when an error pops up onscreen so you can continue to attempt to connect to the servers.
+
+Once in-game, various circumstances may bring up an effectively infinite loading screen. If you see your load bar moving very slowly, and then eventually pausing at about the 95 percent point, you should just close the whole Anthem application and start over. On the bright side, in this instance, the game will sometimes recognize that you were in the middle of an expedition and allow you to reconnect to that mission.
+
+We saw a few other technical problems crop up in our personal playtests of the demo, including sound dropping out entirely, loading into an inaccessible area where our javelin was floating miles above the ground, and several instances where enemy groups would instantly despawn shortly after we engaged them in combat. That sort of thing will be a much bigger deal if still present in the final release later in February. For now, just know that demos represent unfinished games, and you may run into some of the same issues this weekend, or others.
+
+When in doubt, turn off the game, and reload.
+
+Anthem is one of the most anticipated games on the way in the coming months, and even this demo offers nowhere near the complete picture. Nonetheless, if you are a fan of looter shooters, or you’re a Destiny, The Division, or MMO player looking for something new to try, this upcoming open demo is a good chance to see if Anthem might fit the bill. Have fun!
+
+For more on Anthem, check out all of the features from when the game was on our cover by clicking the banner below.
+
+            .
+
+Matt Miller
+Senior Previews Editor
+Matt Miller has been with Game Informer since 2004. He has a special interest in the evolution of game design, the tabletop hobby, and the crafting of interactive narrative. 
+
+Email
+Twitter
+

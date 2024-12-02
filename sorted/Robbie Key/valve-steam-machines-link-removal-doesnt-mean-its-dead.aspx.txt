@@ -1,0 +1,17 @@
+
+  Valve: Steam Machines Link Removal Doesn't Mean It's Dead
+
+
+
+
+
+
+After Valve recently removed links to Steam Machines from the site's main navigation bar, speculation began circulating about the end of the PC alternative. However, Valve has clarified Steam Machines are not dead.
+The removal was part of a "routine cleanup of the Steam Store navigation," Valve coder Pierre-Loup Griffais says in a community post. The decision was based on low user traffic clicking on the link. "While it's true Steam Machines aren't exactly flying off the shelves, our reasons for striving towards a competitive and open gaming platform haven't significantly changed." You can still take a gander at Steam Machines here.
+Griffais also says Valve's experience in dealing with Steam Machines has helped them learn about making Linux a more appealing operating system for gamers. "We've taken a lot of feedback and have been heads-down on addressing the shortcomings we observed. We think an important part of that effort is our ongoing investment in making Vulkan a competitive and well-supported graphics API, as well as making sure it has first-class support on Linux platforms ... we're continuing to invest significant resources in supporting the Vulkan ecosystem, tooling and driver efforts."
+[Source: Steam]
+
+Our TakeIt's no secret people for the most part prefer to build their own PC's as a cheaper alternative to buying a pre-built unit, but at least Valve is taking the sales and low interest in stride.
+
+            .
+

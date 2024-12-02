@@ -1,0 +1,45 @@
+
+  Gala Games Announces $100 Million Blockchain Fund Alongside New Play-To-Earn Games From Peter Molyneux, Will Wright, And More
+
+
+
+
+
+
+            Gala Games announced over the weekend during its Galaverse event that it has launched a $100 million blockchain gaming fund with C2 Ventures. 
+
+Gala Games is an NFT-focused gaming startup led by Zynga co-founder Eric Schiermeyer, and it’s teaming up with C2 Ventures, a new crypto investment firm, to invest in game developers interested in developing new titles and expansions around blockchain technology. This includes NFTs, play-to-earn games, and more. 
+
+“The joint fund will invest in game developers and emerging projects building with blockchain technology, including but not limited to play-to-earn, GameFi, metaverses, and other decentralized gaming solutions,” a Gala Games press release reads.
+
+During the weekend’s Galaverse event, Fable creator Peter Molyneux announced his next game. Titled Legacy, it’s described as a “blockchain business sim” and it’s due out next year. 
+
+At first glance, Legacy seems like a standard sim: design, make, trade, and compete are the pillars of the game, according to the reveal blog post. It doesn't take long for the pitch of Legacy to veer into NFTs, cryptocurrency, and more, however. 
+
+“Owning a Land NFT allows you to start your own in-game blockchain business association in Legacy,” the post reads. “You will be able to play Legacy, while earning and owning your gameplay. Crucially, as a business association owner, you will have access to Legacy Keys. These items can be lent to other people who want to start an in-game business in Legacy, making them your in-game Business Partners. As part of your association, they will share a portion of their earned LegacyCoin with you.” 
+
+Speaking of LegacyCoin, the reveal describes it as a “currency that enables the innovative blockchain experience that is Legacy to exist.” It’s a new cryptocurrency lying on the Ethereum blockchain “which complies with the tried and trusted ERC-20 token standard.” 
+
+Blockchain games and NFTs have drawn heavy criticism in the industry thus far due to their part in ongoing environmental damage. The use of cryptocurrencies, which are often used to purchase NFTs, and the mining of said currencies results in millions of carbon dioxide emissions, damaging Earth’s atmosphere, as reported by The Verge. Ethereum, one of the most-used cryptocurrencies and the one used at the foundation of Legacy, is working on something it calls “The Merge,” which it says will “start the era of a more sustainable, eco-friendly Ethereum.” Only time will tell how green Ethereum becomes, though.
+
+LegacyCoin is at the base of Legacy, according to the post, as it’s how players will acquire Legacy keys for lending, and it’s how players will trade within the game’s economy while acquiring “exclusive item NFTs.” 
+
+“Legacy is a game that leverages player ownership, play-to-earn, lend-to-earn, highly functional NFTs and a truly unique community driven economy…and this is just the beginning,” the blog post reads. 
+
+The Sims creator Will Wright was also present during the Galaverse event and there, he “revealed his newly established creative partnership as he and his team at Gallium Studios will lend their extensive experience to assist in the development of Gala Games’ blockchain VOX metaverse and game world from the ground-up,” according to the press release. Gala says VOX NFTs are collectibles “with a real play-to-earn utility” across Gala’s games” like Town Star and soon, Mirandus. However, it says there is not a game dedicated natively to the VOX metaverse and that Wright and Gallium Studios are going to “create and build the Voxverse.” 
+
+Gala says details of Wright’s new game will be revealed in the coming months. 
+
+Elsewhere during Galaverse, AMC announced that it is partnering with Ember Entertainment to launch a “new cross-platform survival MMORPG” called The Walking Dead: Empires. In it, players “will be able to purchase ‘Dead Claims’ which will give early buyers the chance to claim an ideal plot of land prior to the game’s release.” 
+
+Certain Affinity, which helped co-develop Halo Infinite with 343 Industries, also revealed that it’s bringing a new game, Last Expedition, to the Gala Platform. Gala’s press release says Certain Affinity “aims to pair the quality of a AAA FPS with the benefits of blockchain gaming,” although further details were not revealed. 
+
+While waiting to learn more about these play-to-earn games, read about how Ubisoft recently revealed Quartz, its platform for playable NFTs, and then check out this story about how EA’s CEO says blockchain games are the “future of our industry” after that.
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

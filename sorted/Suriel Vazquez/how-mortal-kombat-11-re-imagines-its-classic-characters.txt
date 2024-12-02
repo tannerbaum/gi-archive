@@ -1,0 +1,120 @@
+
+  How Mortal Kombat 11 Re-Imagines Its Classic Characters
+
+
+
+
+
+
+Platform
+PlayStation 4, Xbox One, Switch, Stadia, PC
+
+Publisher
+Warner Bros. Interactive
+
+Developer
+NetherRealm Studios
+
+Release
+April 23, 2019
+
+Rating
+Mature
+
+            Intro
+
+NetherRealm Studios likes to fix what ain’t broke. Rather than simply tweak balance and add characters, the studio has a penchant for transforming many parts of its formula with each game it makes. While hardcore players will notice changes to meters, attack speeds, and more, even casual fans have taken notice of how Scorpion’s look evolved from the classic yellow-and-black pajamas that defined his identity in the first game.
+
+Mortal Kombat 11 includes some of the studio’s most drastic departures in that regard. To understand the reasoning, planning, and implementation behind the new look, we sat down with the people behind it to see how it all came together.
+
+Starting From Sub-Zero
+
+Starting From Sub-Zero
+
+As the art lead at the NetherRealm starting with Mortal Kombat 11, Brendan George has had a major hand in how its characters have changed. George tells me that as he set out to define the look of the sequel, he abided by three major principles. First, as has long been a directive at NetherRealm, was for the team to avoid repeating themselves. Series creative director Ed Boon wanted a new look to complement the game’s many gameplay and technical changes to avoid stagnation. This meant revisiting everyone’s overall look, including mainstays like Sub-Zero, returning favorites like Skarlet, and even recent additions like Jacqui Briggs.
+
+Second, George looked to some classic inspiration to help define the new look: Mortal Kombat 3, a game he adored as a kid. For George, this meant infusing Mortal Kombat 11 with a newfound color, with starker, easy-to-read designs that stood out from their backgrounds. While past NetherRealm featured some impressive tech, the often-dark and muted color palettes of its worlds could make certain actions hard to read at a glance. Sprucing up the palette would not only look nicer, but let players more easily read individual attack animations and pick up on the visual cues they need to block at the right time.
+
+This focus on color and eye-popping designs dovetailed nicely into George’s third guiding principle: Mortal Kombat 11’s premise, which involves plucking different versions of characters like Scorpion and Johnny Cage across timelines past and present. This allowed NetherRealm to both branch out when it came to character designs while also offering their more “classic” renditions, letting them expand in both directions at once.
+
+It also meant quite a bit of work, as the scope of Mortal Kombat 11’s designs is NetherRealm’s largest yet. “We have like 25 heroes in our game,” George says. “So trying to get them all to look cool in their own right, then also to look different in their personality, and trying to push that through so that we are getting every character looking different, every character have certain elements of them that are just for that character, but also not treading the same ground again and again, it's just the volume of ideas that you need to get that look.”
+
+The NetherRealm's In The Details
+
+The NetherRealm’s In The Details
+
+Even with as many outfits, pieces of gear, and other accoutrements as there are in Mortal Kombat 11 (George tells me the total number of individual items for costumes, gear, character introductions, and other bits of flair number in the “multi-thousands,”) each individual look had quite a bit of thought put into it.
+
+The process starts with George and a few other people sussing out who a character is, then choosing a sort of “thematic backstory,” based on an outline of that character’s role in the story from story director Dominic Cianciolo. George then takes that brief to the design team, responsible for the gameplay side of things, to get a feel for what their fighting style might be like, or what sorts of weapons they might use.
+
+George also does some of his own research on a character, often using outside sources. “There's a lot of fans out there who write a lot about [Mortal Kombat],” he tells me. “There's a couple of YouTubers I'll watch who make big sort of like, 'Hey, here's this character over the entire Mortal Kombat history.' I'd watch before I'd start down the process to make sure that I wasn't going to suggest something or push something against the lore, or dipping into something that had been done in the past."
+
+From there, George goes back to his team of internal and external artists, assigning individual characters to artists based on their strengths. Those artists then bring five concepts, or “speeds,” for a character, based on the overall direction NetherRealm wants to take with them. George then works with the other departments to whittle down those speeds to a central concept for the character.
+
+Concept art for Cetrion.
+
+At this point, George is careful to make sure the process is already coming along before getting input from art director Steve Beran, Boon, and the other department heads. “It's all between story and design and what the character needs to do, story-wise and technically,” George says. “That stuff doesn't really hit Steve and Ed.” This way Beran, Boon, and the rest of the higher-ups are able to catch things the core team might not. "Someone will see something and say 'Hey, that doesn't make sense,’” he says. “So it's a really good catch for all that."
+
+Once the concepting is done and modeling is underway, animation begins to take a much more crucial role. George begins to work with NetherRealm’s animators to characterize the roster, through both their more lifelike faces and their individual movements. “I think there's been a definite push from both [the] design department, and the animation team, and even a little bit of pressure from my end as well, of just trying to get the stances to be realistic,” he says. “Having that line up with what design is looking for, for the characters.”
+
+Mortal Kombat 11 is tuned to be a bit slower than its predecessor Mortal Kombat X, and that applies to character animations as well. Attacks move a little slower, which makes make them look smoother. “I think that's where some of the additional realism that we're getting [is coming from],” George says. “Now that the characters are a little bit easier to read, the animation team can afford to be a little bit more realistic and not have to over-amplify animations, and then everything just sort of flows together.”
+
+Similarly, building off Injustice 2’s impressive facial animations, Mortal Kombat 11’s characters are far more detailed and expressive than Mortal Kombat X’s, a change which has had an effect on the rest of the game. George tells me that even Injustice 2’s faces were somewhat stylized, which isn’t as much the case in Mortal Kombat 11. “As the faces get more realistic, and just generally how I like to approach characters and design stuff... everything has a real-world grounding, and you can't get away with soldier pads just stuck on,” George says. “You'll notice that every shoulder pad will have a strap to it, it's connected to the character – [we’re aiming for] that level of believability. So as soon as you start scanning faces and you increase that [threshold], you need to increase everything to that same level. Otherwise it stands out as being a little bit off.”
+
+To align the look of Mortal Kombat 11 with its new tech, the team implemented a new modeling system to increase the fidelity of hair, lighting, and cloth models. "Without all that, it just falls apart," George says.
+
+Practicality also factored in more than ever. Beran is particularly proud of how George and his team of artists are able to make characters look stylish, but also practical (for a fight to the death, anyway). “Nothing's too decorative and therefore just fancy, safe,” he says. “There's a purpose for everything, and materials are all well-thought out and balanced."
+
+This also means imbuing classic outfits with a new character that fits their background. “For instance, making sure that the costume designs and elements that appear on Scorpion have a Japanese quality to them, or that stuff with Sub-Zero has a chinese quality to them,” Working with more fidelity means developing more realistic guidelines for what does and does not belong on a character, aesthetically speaking. “Restrictions kind of help you drive that stuff and help you get over those hurdles of 'how do I come up with something else cool?'” George says. “Because if we just made everyone in the same style or [come] from the same background, like if everyone was a special force guy, it gets really difficult.”
+
+Kotal Makeovers
+
+Kotal Makeovers
+
+In all, the process of redesigning these characters, modeling them, and implementing them into the game fully can take a few months to a full year, depending on the character. Individual concepts for a character can take about five to six days; the full feedback loop for a character, including concepts, iterations, and whittling down ideas, can take three weeks; fleshing out the model of a character can take about eight weeks.
+
+The goal is to make sure every character is more than a one-note character and can shine on their own. As inspiration to reach that goal, the team looked inward. “Johnny Cage has such a broad personality, and I think that our big push here has been to try to add that level of personality to other characters,” George says. “I think between the animation, and the intros, and the fatalities, and their character designs, those all sort of push that way.”
+
+Some designs clicked right away. “Raiden, we got the concept speed back for him, and that was just five super-cool outfits, and the hardest thing then is just picking which one's the coolest," George says. Others take can take far longer. “We rebooted a couple of characters purely because I didn't like how [something] looked, at the end of the day." Sonya had a couple of outfits that ended up having to be redone, some of which became extra skins. Kano was also retooled late in the process.
+
+For an example of a character who had among the most extensive overhauls, George points to Jacqui Briggs, a relative newcomer from Mortal Kombat X. “I like that we've pushed a long way to add a bit of personality to her,” he says. “She was very much just ‘military girl’ in the last game. This time she has her own suit, and her own personality comes out of that. Some of the additional skins we've got for her, I've pushed really hard on making sure that they have a personality to them. That stuff I'm very proud of.”
+
+Sometimes, as is the case with Jacqui, aesthetic and mechanical flourishes go hand-in-hand. “Her leg augment stuff, that's given her like super-fast kicks in the game, and stuff like that, gives [the team] the opportunity to jump off those points to make a more interesting designed character, too. So she's not just shooting guns now, she has a lot of kicks in her combat, and stuff like that. So those are the things that I love to see.”
+
+Skarlet, a returning character from 2011’s Mortal Kombat reboot who received a major overhaul for Mortal Kombat 11, took somewhere around 10 full attempts and several months to get right. “I think [Skarlet] is the character that I'm most proud of that the character team came up with,” Beran says. “I think she's just probably evolved maybe the most to me, where she seemed like such a... I don't know, it seems she has so much more depth now.”
+
+“We tried to go sort of eastern European [look],” George says. “A lot of pulls from Russia or stuff like that... And that's sort of worked out really well for her.”
+
+Once the team has a few characters under their belt, they can use those to help guide the overall look of the rest of the cast, which helped when it came time to design Skarlet. “We had the general ninja look for the game, for the females,” says George. “Between her, Kitana, and Jade as all in the same realm.”
+
+Infinite Possibilities
+
+Infinite Possibilities
+
+It also helps that the multiverse premise allows George to take several different approaches at the same time, some of which can harken back to Mortal Kombat’s wackier roots. “[Erron Black] has sort of like a human, normal-dude look, and then he goes to Outworld and becomes this nomad,” George says. “He's like, got a leather jacket, jeans look, and then he's got like crazy armor on. There's a couple sub-skins. One of my favorites looks in the entire game now, is one of Erron Black's sub-skins, where he's armored head-to-toe in this sleek little knight armor.”
+
+By venturing off in these wilder directions, the team can tell many kinds of smaller, disconnected narratives through outfits alone. Cassie Cage, for example, has one skin resembling a space suit even though Brendan implies that’s not something that happens in the game’s story mode. But maybe she does, in some alternate timeline, and it makes for a different kind of outfit for her.
+
+NetherRealm's office holds many of the props that defined the seires' early look.
+
+All the gear and skins also gives the team a chance to blend modern and classic styles. “Kabal was a really good example of that,” Beran says. The mask was originally a cobbled-together mishmash of army surplus store clothing and duct-tape, but George has been able to iterate on it in clever ways that still feel faithful to the overall look of the mask. But the team gets to have its cake and eat it, too. "We luck out on those areas too, because we just added the [Mortal Kombat 3] mask as well. That's the great part about the gear system, is that you kind of slide more traditional things in there."
+
+All these different overhauls, branching, and tangents make for a mix of discordant looks that somehow work, all centered around a “core” identity that’s cohesive, stylish, and true to the spirit of the series. With all that effort put into these outfits, it’s almost a shame that most people’s exposure to them will be watching them get ripped apart.
+
+For more on Mortal Kombat 11, click on the banner below to follow along with all of our coverage leading up to launch. Next week we’ll have an interview with the man behind the game’s story mode, as well as a match between the studio’s two best players.
+
+      Products In This Article
+
+Mortal Kombat 11
+
+Platform:
+
+PlayStation 4, Xbox One, Switch, Stadia, PC
+
+Release Date:
+
+April 23, 2019
+
+Purchase
+More Info
+

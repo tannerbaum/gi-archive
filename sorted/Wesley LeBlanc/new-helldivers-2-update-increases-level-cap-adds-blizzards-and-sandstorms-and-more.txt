@@ -1,0 +1,99 @@
+
+  New Helldivers 2 Update Increases Level Cap, Adds Blizzards And Sandstorms, And More
+
+
+
+
+
+
+            Developer Arrowhead Game Studios has released a new patch for Helldivers 2 that greatly increases the level cap, adds new planetary hazards, fixes some bugs, and more. The update, dubbed Patch 01.000.200, goes live today and also includes balance changes to missions, stratagems, weapons, enemies, and Helldivers. It arrives after a secret update in March that added flying terminid bugs to the game and another that nerfed bug spawn rates on harder difficulties. 
+
+"Good day, Helldivers," the patch notes read. "Today, we have a slightly bigger update for you all to assist in the liberation efforts of our galaxy as well as some new environmental threats to watch out for. May Liberty guide your path." 
+
+Speaking of new environmental threats, Helldivers may now encounter blizzards and sandstorms, depending on where they drop. These hazards join the fire tornadoes and meteor showers introduced into Helldivers 2 last month. 
+
+Arrowhead has also increased the level cap from 50 to 150, giving Helldivers an additional 100 levels to rank up. 
+
+Elsewhere in the update, new balance changes should make completing some objectives easier:
+
+Retrieve Essential Personnel
+
+Moved the enemy spawn points further away from the objective to give players a fairer chance of defending the location.
+There are fewer civilians required to complete the mission on higher difficulties.
+
+Destroy Command Bunkers
+
+Now has more objective locations, the mission was too easy before compared to other missions.
+It can now appear in operations from difficulty 5.
+
+Operation Modifiers
+
+Halved the negative effect of operation modifiers that increase stratagem cooldowns or call in times.
+
+Primary, Secondary, And Support Weapons
+
+Arc Thrower: fixed charging inconsistencies; it will now always take 1s to charge a shot.
+Arc Thrower: reduced distance from 50m to 35m.
+Arc Thrower: increased stagger force.
+Guard Dog: now restores full ammo from supply boxes.
+Anti-Materiel Rifle: damage increased by 30%.
+Breaker Incendiary: damage per bullet increased from 15 per bullet to 20 per bullet.
+Fire damage per tick increased by 50% (from all sources).
+Liberator Penetrator: now has a full auto mode.
+Dominator: increased damage from 200 to 300.
+Dominator: increased stagger.
+Diligence Counter Sniper: increased armor penetration from light to medium.
+Slugger: reduced stagger.
+Slugger: reduced damage from 280 to 250.
+Slugger: reduced demolition force.
+Slugger: fixed armor penetration tag in the menu.
+Slugger, Liberator Concussive, Senator: fixed incorrect armor penetration tags in the menu.
+Recoilless Rifle: increased the number of rockets you restore from supply boxes from 2 to 3.
+Spear: increased the number of missiles you restore from supply boxes from 1 to 2.
+Heavy Machine Gun: the highest fire rate mode reduced from 1200 rpm to a more moderate 950.
+
+Stratagems
+
+Patriot Exosuit: rockets will now penetrate armor only on direct hit.
+
+Enemies
+
+Balancing adjustments have been made to
+Chargers normal melee attack now does less damage against Exosuits.
+Bile Spewer and Nursing Spewer do less damage with their puke.
+The Bile Titan can no longer be stunned.
+Shriekers no longer create bug breaches.
+Shriekers hitting you while they are dead now does significantly less damage.
+
+Helldivers
+
+Heavy and medium armor protects better and you now take about 10% less damage than before while wearing heavy and about 5% less when wearing medium armor. Fortified commando and light armor is unchanged.
+
+Patch 01.000.200 also features a number of fixes, Ballistic Shield changes, and adjustments to the tutorial. You can read the full list of those, and known issues the team is aware of, in the patch notes here. 
+
+For more about the game, read Game Informer's Helldivers 2 review. 
+
+What level are you in Helldivers 2? Let us know in the comments below!
+
+      Products In This Article
+
+Helldivers 2
+
+Platform:
+
+PlayStation 5, PC
+
+Release Date:
+
+February 8, 2024
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

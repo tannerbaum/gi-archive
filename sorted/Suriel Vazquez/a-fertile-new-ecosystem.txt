@@ -1,0 +1,82 @@
+
+                                          Monster Hunter: World
+                  				 Review
+
+
+  A Fertile New Ecosystem
+
+
+
+
+Reviewed on PC
+
+Also on
+PlayStation 4, Xbox One
+
+Publisher
+Capcom
+
+Developer
+Capcom
+
+Release
+January 26, 2018
+
+Rating
+Teen
+
+            When it released in January, Monster Hunter: World ably served two masters. Many longtime fans thought the quality-of-life improvements and interactive ecosystems were breaths of fresh air, while newcomers wary of the series’ learning curve found a more approachable (though still dense) action-RPG. Five months later, the PC version of World serves a third master - PC players - remarkably well, provided you have a fairly powerful rig.
+
+The increased horsepower of a high-end computer allows World to run at an uncapped framerate at higher resolutions, which leads to an overall smoother experience – if your PC can handle it. While running around Astera and hunting down monsters looks wonderful, these nuanced ecosystems are demanding to render; running an Nvidia 1080 TI graphics card and an Intel Core i7 8700K CPU, I was just on the cusp of 60 frames for second at 1440p. Turning the resolution down to 1080p gave me about 20 additional fps, but after comparing the PC and console versions, the visual upgrade isn’t as drastic as some might have hoped for, especially when compared to the Xbox One X and PS4 Pro; up close, many textures look muddy and blurred.
+
+The optimized load times are an unquestionable godsend, however. On console, going on a hunt meant gearing up, gathering your party, and going to check your phone or use the bathroom while the environment loaded. On PC, load times are much briefer – usually less than 10 seconds.
+
+Exploring the rich locations for resources and monsters is a fantastic experience on mouse and keyboard; after some of the thrilling hunts I've had in the new world, I prefer slaying and skinning monsters with a PC-centric setup. The gamepad control scheme works well, but can occasionally feel clunky if you’re used to other action-oriented controls (Y and B for attacking, for instance). With a mouse and keyboard, a combination of more standard controls (using left and right mouse buttons to attack) and key-remapping feel much more comfortable. 
+
+Being able to look around quickly with a mouse also makes keeping track of nimble enemies (like the Odogaron) much easier. This makes up for the jittery targeting system, which is ineffective in light of being able to simply keep track of monsters myself. I also appreciate being able to remap controls for melee and ranged weapons individually. After not taking to the default bow control scheme, I was able to rework it into something closely resembling a third-person shooter without sacrificing the setup I had going for my trusty great sword.
+
+Sorry, this video is not available
+
+One issue console players had with World was the size of the text and interface. That problem is still around for this port, and while the “large” text option added post-launch on consoles is available, World’s interface is dense and too small to properly read – at least when I was on the couch with a controller. When I was sitting at my desk and using my monitor, I had no problems scanning the minimap icons, inventory, control icons, and text.
+
+While combat is mostly improved, I wasn’t able to find a comfortable way to quickly select and use the exact item I wanted. A new PC-centric “radial” menu option (it’s actually a flat bar) lets you map items to the number keys, but only after pressing the F1 key, and this isn’t remappable. Considering the number keys aren’t used for anything else by default, mapping items to the number keys could have been the easiest way to use a potion then immediately use a whetstone to sharpen my weapon mid-fight. 
+
+The controller-centric radial menu fares slightly better, but relies on one too many key presses to be consistent and doesn’t allow for diagonal inputs. I wound up using the scroll wheel to cycle through my items when looking for a healing potion or antidote in the heat of battle. This isn’t ideal either, as several of the special items clutter up this scrolling process when you’re looking for the one or two items you need. This isn’t a deal-breaker, but it fails to capitalize on one of the PC’s strongest advantages: quick access to multiple options.
+
+I spent a lot of my time poring over stats, items, and resources as I managed my flow of items and turned them into powerful armor. The PC version handles most of these tasks well, though the menus weren’t optimized for use on PC; moving items around between my pouch and item box still involves selecting items individually and a series of clicks and keyboard movements, and feels unintuitive with a mouse. The auto-sorting and restock options do a lot of heavy lifting, though, and while I still spent quite a bit of time in menus, it was mostly looking over my upgrade and item options instead of struggling with the interface.
+
+Where’s the DLC?
+One thing that doesn’t make the jump to the PC version are the downloadable hunts that shipped after launch on consoles. While the lack of a Horizon Zero Dawn-themed event is a given, players will also have to wait for the likes of Deviljho, Kulve Taroth, Lunastra, and Behemoth, as well as the Street Fighter armor sets, to show up. These will be released after launch at a steadier clip than they were on consoles, but it’s disappointing to not have these quests from the get-go after waiting five months.
+
+While Monster Hunter: World’s co-op setup is arcane at times, it works well on PC. Playing on pre-release servers, I was able to quickly hop into friends’ sessions and hunt with them, answer SOS, and receive some help of my own without issue. The in-game chat option is a bit choppy, but that’s not a big deal with so many third-party options to chat available.
+
+A collection of minor issues don’t quite sour the experience, but still get in the way. You can’t skip cutscenes, and you cannot Alt+F4 at any point. Starting an offline session is an elaborate process, and reducing the resolution while in borderless windowed view produced a strange pixelated effect (which you can see below). Depending on your hardware, these issues may or may not surface.
+
+Monster Hunter: World’s PC version provides the same great hunting and gathering loops console players dove into earlier this year, and after having not played the series until now I’m absolutely hooked, both on the series and how the PC version enhances the experience. Adapting World's console control scheme to keyboard-and-mouse comes with some minor nitpicks, but I've found the tradeoffs are worth it. And once the DLC makes its way to this version, PC players who've waited months for one of the best games of the year should have another deep and rewarding action-RPG on their hands.
+
+9.25
+
+About Game Informer's review system
+
+ConceptBring the long-running action-RPG series to PC for the first time in North America, bumping up performance and allowing for mouse-and-keyboard play
+GraphicsExploring vast locales at a high resolution and framerate tests even the most powerful rigs. The effect is worth it, even if many textures look muddy up close
+SoundThe dense wildlife soundscapes remain intact for this version, which is good since many monsters can be identified through their cries, footsteps, and other audio tells
+PlayabilityBasic combat skills like slashing, dodging, and blocking translate beautifully to the PC once you do some remapping, but mid-combat item usage needs work
+EntertainmentMonster Hunter’s attempt to reach the PC audience performs beautifully and plays well
+ReplayHigh
+
+      Products In This Article
+
+Monster Hunter: World
+
+Platform:
+
+PlayStation 4, Xbox One, PC
+
+Release Date:
+
+January 26, 2018
+
+Purchase
+More Info
+

@@ -1,0 +1,61 @@
+
+  Everything We Know About Magic: Legends
+
+
+
+
+
+
+            After working on properties like Star Trek and Dungeons & Dragons: Neverwinter, Cryptic Studios is ready to tackle a new IP with Magic: The Gathering. Magic: Legends is an isometric action/RPG that you can play with up to 3 players, reminiscent of games like Diablo and Path of Exile. In our latest cover story, Cryptic Games finally pulled back the curtain on what’s in store and how it’s bringing the popular card game to this video game genre. Since this was the first big info drop, we compiled a list below of everything we know about Magic: Legends to give you an easy way to learn more about the ins and outs of the game. 
+
+The Basics
+
+You take the role of a Planeswalker, choosing your class and building a 12-card deck of spells, creatures, and enchantments.
+The game is launching with five classes (presumably one to represent each of Magic: The Gathering’s five colors), but Cryptic said it’s open to creating more as time goes on. 
+So far, we’ve seen the Geomancer (an aggressive, red-inspired class) and the Mind Mage (a ranged class focused on blue-like mind control) in action, but if you look closer at our cover story another class representing green was teased.
+Your class comes with three upgradeable active abilities: a primary attack, signature power, and movement or utility power. They also have two class buffs and one trait. For instance, the Geomancer does more sorcery damage and has more health. Its trait is called “Heart of Iron,” which lets you come back to life after being downed every few minutes. 
+You have a seperate 12-card deck to build, which rotates as you play, giving you a random hand of four spells at any given time. 
+The three different spell types are: sorcery (instantaneous or short duration effects), creature (summoned pets), and enchantment (long duration, sets a “rule” to build around). 
+Your mana regenerates automatically during combat, and is proportional to the cards in your deck. Meaning if your deck is mostly comprised of blue cards, you create more blue mana.
+You have a limit of 12 summon points, meaning you can’t stack your deck with tons of high-damage massive elementals
+The game includes 1v1 PVP, and will have some extra rewards and incentives for engaging with it. We just don’t have the specifics yet.
+Outside of the story campaign, you can also play “ordeals,” which are smaller-scale missions that are faster to complete and provide an opportunity to score better loot.
+Killing enemies gives you shards, which is your main loot. Shards can then be used to level up your cards, making them stronger or extending their duration. 
+Maps are not procedurally generated, each is hand-crafted.
+
+The Nitty Gritties 
+
+Levels won’t always play the same. Depending on your prowess, the A.I. may spawn minibosses or more enemies in certain areas. Using this in your favor is key to getting the best loot. 
+Buff spells work on the whole group, and your summons will grow on screen to properly represent their boosted stats.
+While there are instanced stages, the game also has open-world areas, which you allow you to unearth story beats, missions, and events.
+Once you unlock a mission, you can queue it up from your town area hub, meaning you don’t have to go back to the area you unlocked it to play it again.
+Your class is not tied to any specific color, so you’re free to use whatever you desire. The only restriction is that you can only use two different colors in a deck, unlike the card game.
+The game is free to play, but Cryptic still hasn’t outlined its monetization model. When we specifically asked about this, executive producer Stephen Ricossa said: “We want to learn from the successes of our previous games. But we also want to look at the modern landscape of free to play, because in the last few years, things have shifted dramatically. And so, we want to utilize the formula that we feel has worked really well for the studio, but also be aware of the changing tide in the industry as well.”
+You can level up all your spells, and Ricossa also said, “There are at least three other major forms of progression that we’re not ready to talk about yet. That is also something that kind of Cryptic Studios specializes in, ways to level up your character and alternate leveling paths. And We'll have a bunch of stuff at launch and then we're going to continue to expand upon that post launch.”
+
+Magic: The Gathering Fans Look Here 
+
+If you’re a Vorthos, you should know the game is canon, meaning locations and characters created by Cryptic become part of Magic’s extensive lore. 
+The story takes place before the climactic multiverse battle in War of the Spark
+During your time, you explore many planes and fight characters and creatures from each of them. Some places you visit are on Dominaria, like Benalia, and this will be the first time players get to see the island of Shiv. If you’re observant you may have spotted Zendikar on our cover and Innistrad in the teaser trailer. “There's been a lot of Magic games out there, but none of them have really let you explore the locations or the people in the world of Magic,” Ricossa said. “Outside of reading the novels, this is the first time you're going to any of these locations, seeing any of these characters, kind of immersing yourself in this world.”
+Magic: The Gathering excels as a card game and Cryptic isn’t foregoing that aspect just because Magic: Legends is an action/RPG. Cryptic called the deck you build the “beating heart” of the game, giving people plenty of ways to experiment and the team will be adding new spells constantly so things don’t get stale.
+Some sort of leaderboard system will allow you to see what decks other players are having success with.  Ricossa said if there ends up being one-go-to deck, then they’ve failed. “The goal is to have it be, however your play style is, you can make it, customize it, and and have that experience.”
+Some confirmed characters from Dominaria are Squee, Danitha Capashen, Lyra Dawnbringer, and Josu Vess. Cryptic also teased it’s bringing in “as many story planeswalker characters as possible.”
+Wizards of the Coast is involved in the process, looping Cryptic in about ongoing story efforts in various parts of the franchise so they can work within it. “We’ve certainly been in conversations about how the story of Magic: Legends aligns with those other efforts, and we’re certainly very involved in making sure that the Magic brand characters and world,” said Wizards of the Coast senior narrative designer Garritt Turner. 
+The team isn’t ready to talk about how it’s incorporating artifacts into the game, but did give us some insight into the process. “Artifacts are tricky,” said lead systems designer Phil Zeleski. “We're focusing on the color of magic and artifacts take a lot different forms in Magic. There's artifact creatures, there's artifact equipment, and then there's like artifact locations [usually represented by lands], as well. So those take a whole bunch of different forms. And I think it's safe to say that you'll see that represented in our game.”
+Magic has very many forms, like limited and constructed. Cryptic definitely wants to represent that but couldn’t discuss specifics. Ricossa said that the game “absolutely will include some of these formats.” He went into more detail about some paths they’re exploring. “It could take the form of an event, right? It could be like an ongoing, sort of seasonal thing. It could be a buying system. So there are some details that we're still nailing down."
+Magic: Legends is coming to PC in 2020, and hitting on PS4 and Xbox One in 2021.
+
+For more information the upcoming action/RPG, you can check out our coverage hub below, which contains everything from exclusive gameplay footage to developmer interviews.
+
+      Products In This Article
+
+Magic: Legends
+
+Platform:
+
+PlayStation 4, Xbox One, PC
+
+Purchase
+More Info
+

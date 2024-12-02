@@ -1,0 +1,55 @@
+
+  The Final Fantasy 14 Housing Lottery Is Finally Fixed
+
+
+
+
+
+
+            Final Fantasy XIV’s housing lottery is finally fixed after one month of being broken. 
+
+On April 16, an FFXIV maintenance update indicated that the latest lottery cycle for housing in-game was broken, so when checking the placard where winners were to be shown, the placard said there were no winners. This meant nobody could obtain a house. Polygon reports the issue has been fixed as of yesterday, and now, winning lottery numbers will be displayed correctly, and land purchases may be finalized accordingly. 
+
+“As I mentioned in our previous update, we will be conducting maintenance to restore lottery results data on Monday, May 16,” FFXIV producer and director Naoki Yoshida writes in a new update. “This maintenance will fix identified errors and properly relay lottery results for affected plots to the appropriate servers.”
+
+As a result of this maintenance fix: 
+
+Winning lottery numbers will be displayed correctly, and land purchases may be finalized accordingly.
+Temporary suspensions imposed on plot purchases and relocations will be lifted. 
+
+Yoshida says that if you have a winning lottery number, you should finalize your land purchase by Thursday, May 26, as the next lottery cycle will begin that day, at which point, you will lose the ability to claim land you won during the current lottery. The next one will start on May 26 and have a typical five-day entry period and a four-day results period. 
+
+If you’re a winning participant who has already received a gil refund due to the recent lottery break, you will still be able to finalize a purchase on a won plot of land. Even if you received a refund and have since found out you won the lottery, you’ll still be treated as a winning lottery player. 
+
+“In Patch 6.2, we plan to implement an NPC by which you may voluntarily return the deposit you were accidentally refunded,” Yoshida writes. “As these housing lottery issues have been significant and caused great stress and frustration in many players, we have no intention of performing a data rollback to forcibly rescind any refunded gil. We will make an announcement regarding the voluntary return of housing deposits once the NPC in question is ready to be implemented. 
+
+“In closing, I would like to thank you all once again for your patience and understanding this past month, and extend my deepest apologies for the trouble and inconvenience these issues have caused. We will do everything in our power to safely restore your data, fix any remaining issues, and bring you all a fair and functional housing lottery system. Thank you for your continued support.” 
+
+For more FFXIV, read our exclusive interview feature with Yoshi-P, and then read Game Informer’s Final Fantasy XIV Endwalker review. Read Game Informer’s ranking of every mainline Final Fantasy game after that. 
+
+[Source: Polygon]
+
+Are you a Final Fantasy XIV housing lottery winner? Let us know in the comments below!
+
+      Products In This Article
+
+Final Fantasy XIV: Endwalker
+
+Platform:
+
+PlayStation 5, PlayStation 4, PC, Mac
+
+Release Date:
+
+December 7, 2021
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

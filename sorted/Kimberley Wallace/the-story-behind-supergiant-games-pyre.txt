@@ -1,0 +1,79 @@
+
+  The Story Behind Supergiant Games' Pyre
+
+
+
+
+
+
+            In our latest issue of Game Informer, we have a studio profile devoted to Supergiant Games, but we didn’t want to stop there. We’re also taking the celebration online, sharing the stories behind each of the indie developer’s fantastic titles. After looking at Supergiant’s debut with Bastion and then its follow-up Transistor, we’re finally moving on to its most distinct and involved project: Pyre. 
+
+For its third game, Supergiant felt like it was time to increase the challenge and, in the words of studio director Amir Rao, “go bigger across all dimensions.” What resulted is a game unlike any other. Both fascinating and complex, Pyre gave the studio a chance to take its detailed world-building even further, involve the players and their choices in a meaningful way, and most importantly, experiment with a new style of gameplay. “It's a game that pushed us creatively in many ways, like more than any game we've ever made, including Hades,” says creative director Greg Kasavin. “Because with Hades, we did come back to certain types of ideas that were more comfortable for us.”   
+
+Pyre was all about not dreaming big and learning new skills, even if it meant having to accept some hard lessons along the way. And the team created it in three years, the same time it took to make a much smaller game – Transistor. 
+
+New Studio, New Attitude
+
+With two hits under its belt, Supergiant had the urge (and resources) to try something more ambitious. After having so many challenges on Transistor, the group was in a much better place when starting work on Pyre. Their newfound success allowed them to upgrade to a fancier studio, moving to a nicer part of San Francisco right next to a coffee shop and chocolate factory.  
+
+According to principal voice actor Logan Cunningham, the work/life balance was starting to “click into place,” as more team members were having families. New wellness policies, like mandatory vacation, were ensuring members took care of themselves. “The whole process on Pyre was just much more pleasant than anything we've done before,” Cunningham recalls.  
+
+The team also felt it had proved that Bastion wasn’t just a flash in the pan, and it was ready to experiment in ways it hadn’t before. For Pyre, the group decided to go bigger, with a party-based RPG and a procedural narrative. However, it also got a bit experimental and eccentric with NBA Jam-inspired gameplay. “We went wild, and I think we also went wilder than we thought we were gonna go,” says art director Jen Zee. “I think what I remember as the motivating factor behind Pyre was we were sick of doing worlds where there was only one person.” 
+
+One important aspect of Pyre’s development is how the studio decided on which ideas to pursue. Supergiant believes in a collaborative process, where members discuss their interests and pick the elements that most excite them. As a way to avoid Transistor’s long and fraught pre-production issue, Supergiant Games got straight down to business on Pyre. “We just told everybody to go chase their passions and then we’ll figure out how to put it together,” Kasavin says. 
+
+Kasavin tackles the synthesis of those ideas, combining everyone’s contributions and deciding what ties them all together for a game concept. “I would go so far as to say that’s my primary role,” Kasavin says. “That’s probably one of the most important things I do, because we’re not a studio where one person says, ‘Here’s the game we’re making.’ So with Pyre as a concrete example, Amir and Gavin were prototyping this competitive sport. Jen was creating these wild characters – tree people and worm people – and I’m giving my own ideas about what the world and what the play experience can be.”
+
+The Power Of Saying Goodbye
+
+While the Supergiant team might be shy to use the word “sports” to describe Pyre’s genre, it was on the studio’s mind. Technical director Andrew Wang recalls fantasy football becoming popular at Supergiant, and the sports fans were wondering how to incorporate the fun of following a team. Then things took an interesting turn. “Amir was talking about retirement, specifically in a sports context when a star athlete has to make that calculation,” Kasavin recalls. “Do you go out on top? Do you play another season? And what’s going through your head when you do that? That led to these broader conversations about the experience of saying goodbye to a close friend.”
+
+That last part is what made players connect with the game in a special way. Sure, competing in Rites to win against other teams brings the adrenaline rush of competition, but you essentially were fighting to give a character you’ve befriended their freedom from exile, or as Kasavin likes to put, “giving them a return to glory to where they came from.” Every Rite came with the opportunity to give a character a better life, but the goodbye always hit hard, as they were out of your party for the rest of the game. 
+
+“A lot of players who enjoyed Pyre, they remark on these moments in the game, the liberation rites, where you have a chance to say goodbye to someone you care about,” Kasavin says. “I'm really glad that that worked out, because in hindsight, that was a really hard thing to prototype. You needed all the surrounding context and the build up [to these matches], but you also needed to have time with these characters and grow to care about them for the stakes of that moment to be meaningful in any way. Then you need all the stuff after that moment to [create the] experience of them no longer being around and have other characters talk about how they miss that character.”
+
+And this is only a sample of the extra thought and care Supergiant had to put into everything in Pyre. The game succeeds because of how all of its parts complement one another, but it took a lot of effort to make everything come together, both technically and creatively. 
+
+Ambitious Undertakings
+
+Having more characters who interacted with one another, playing in bigger spaces, and accounting for player choices gave the team a lot to take on, and they did it all while staying the same size: 12 people. “We dreamed big for Pyre, and from the technical side, it ended up being quite challenging,” Wang says. “Pyre was almost like doing two games. On the technical side, there were very different requirements for being able to see this wide-open world versus the more reactive, action-oriented sports stuff. What I optimized in one version wouldn’t necessarily help the other.”
+
+The project bred challenge, especially for the narrative having to account for the different states a player’s party could be in due to their choices. “For my part, it was this big exploration into procedural narrative,” Kasavin says. “Essentially, there's a lot of optional procedural scenes that are varied based on the character. We had to account for you having any number of characters in your group at a given time.” 
+
+This meant supporting a playthrough where the player lost every Rite and still having it make sense for the overall story. Kasavin knew this was a big task, but felt it fit with the game’s themes of accepting failure and moving on. 
+
+Pyre was also the first time Kasavin wrote dialogue for characters in a game, which was refreshing and would later provide an invaluable learning experience that would come in handy for Supergiant’s next title. “Pyre was the first time where two, sometimes three, and sometimes even four characters may be talking to each other and have a scene like that,” Kasavin says. “That was a fun experience for me. A lot of that, certainly on the narrative side, Hades picked up right where Pyre left off.”
+
+On Pyre, everyone was constantly learning new things due to the ambition of what the team wanted to accomplish. Composer and audio director Darren Korb found the sound for the game early with what he calls “its acoustic ‘70s fantasy rock,” which is more in his wheelhouse. “My goal for [Pyre’s music] was to extrapolate a genre of music from the intro to [Led Zeppelin’s] “Stairway to Heaven,” just the flute and the guitar thing. So, that's what I tried to do and it was a useful creative guide." 
+
+However, creating the sound didn’t come without some challenges, especially when having it be more reactive to what the player is doing. “There is a very complicated dynamic music system in [Pyre],” Korb says. “The whole piece could dynamically switch based on what was happening in the game. It was really valuable from a learning perspective for us. One of the things we learned was after a certain amount of interactivity, there's diminishing returns if it's too subtle, if it's not noticeable. After all, the point of the interactivity is to notice it.” 
+
+The Biggest Challenge With Pyre...
+
+Development director Gavin Simon sums up Pyre in a way that captures its beauty and also its problem: “With Pyre, we made a game that there probably is no counterpart for in the game industry,” he says.
+
+If anything cost Pyre some of its appeal, it was the difficulty people had understanding exactly what the game was. “I think it was alienating for some of our other fans and very hard to pitch and describe to people,” Zee says. 
+
+Kasavin agrees: “If we have trouble clearly articulating what we're working on, we have to ask ourselves, ‘Do we want that?’ I love Pyre. I think some of the best work I've ever done is in that game, but the part where it was hard to describe to people? I don't love that part.”.
+
+Pyre launched and received stellar reviews, but it didn’t match the sales or status of Bastion and Transistor. However, Pyre did what it needed to. “What we look for in our games is, ‘Did it do well enough for us to be able to keep going? And is it a capable game? Do some of our players love it the most out of all our games?’ [Pyre] absolutely hit those checkmarks for us,” Kasavin says. 
+
+Even if Pyre didn’t shine as brightly as the studio’s previous titles, it was a stepping stone for what would ultimately be Supergiant’s biggest hit. “I’ve said it before and I’ll say it again: I can’t imagine that Hades would even exist if not for Pyre,” Kasavin says. “I didn’t ever get it out of my system – the idea of escaping from purgatory.”
+
+Be sure to check out our previous features on Bastion and Transistor, and stay tuned for our final entry, with Supergiant's journey through Hades, coming soon.
+
+      Products In This Article
+
+Pyre
+
+Platform:
+
+PlayStation 4, PC
+
+Release Date:
+
+July 25, 2017
+
+Purchase
+More Info
+

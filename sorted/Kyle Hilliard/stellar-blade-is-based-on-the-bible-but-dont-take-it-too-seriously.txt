@@ -1,0 +1,106 @@
+
+  Stellar Blade Is Based On The Bible, But Don’t Take It Too Seriously
+
+
+
+
+
+
+            Stellar Blade is out this week and our review, which you can read right here, is positive. We liked the game and were impressed by the depth of its action and world-building. Ahead of its release, but after spending some time with the game, we had a chance to reconnect with Shift Up CEO and Stellar Blade director Hyung-Tae Kim after speaking with him earlier this year. This time we spoke to him (through a translator) about inspirations for the game beyond Nier Automata (like the Bible and The Matrix), the approach to costumes and how they fit in the lore, and why having no minimaps in the game was a purposeful decision.
+
+Game Informer: There are multiple endings?
+
+Hyung-Tae Kim: There are multiple endings and actually, if you complete certain quests, there is a post-credits clip, as well.
+
+Is there an ending you prefer?
+
+This all depends on what choices and decisions the player makes throughout the game. There is no particular ending that I prefer. But then there is this hidden stage so I hope that players discover this and play that. If you want, I guess, a little happier ending then you will have to discover that post-credits clip.
+
+There's no gameplay reward for unlocking costumes, but they are an important incentive for the player. Why are the costumes so important?
+
+I do definitely believe that it is very charming for an iconic character to have this one iconic costume. But my strength is in character concept design. There was so much that I wanted to show to the world and to be able to convey that to the players. I decided that it would be a good idea to include different costumes, that was a good way to show what I wanted to show. And I also wanted the players to be able to go on a journey with the character in a style that they prefer. That's why.
+
+What is the process of choosing and creating a costume?
+
+It's not one method that is decided when creating the costumes. For example, the body suit – I designed it myself and then the 3D modeler; when they are done with the modeling of the costume, I will come back to it and then add more details and texture and typography and finish it for the game. Or for other costumes, we buy the actual clothes in real life, and then scan them, take the scan data, modify it so it looks more futuristic, and then complete it that way. So, it's very different. This way, you get to meet very diverse costumes in the game.
+
+And on top of that, sometimes, when you play the game, you will see some costumes that look like swimming suits. And for those costumes, it's very important to depict the skin texture like how it changes because of pressure and how it's pushed up, or how it folds, how it bends like the body and the flesh and the skin. That's very important when we're trying to detail. So, for this, we actually cast a real-life model and then had the model wear the costumes and scan the model to use the data.
+
+Is there a lore reason why Eve wears so many costumes? Is she interested in fashion?
+
+There was some kind of lore behind Eve showing a lot of interest in the costumes that were left behind on the surface of Earth. We did have that concept, and it was part of her character, but then we later decided that this doesn't really have to be shown in the game. We don't have to really make it known in the game, so that got taken out, but that lore still exists.
+
+Did you ever consider tying costumes to character upgrades?
+
+When making games in the past, I took it very seriously that I didn't connect the stats of the character and the costumes. It was important to me not to make it like that because if that happens, then only certain costumes will be picked by the users because they have better stats than the other outfits. I didn't want that to happen. I just wanted everyone to enjoy all kinds of different costumes that are provided in the game, regardless of the stats.
+
+But of course, if you don't wear anything at all, then it would be dangerous on the surface of a desolate Earth. So we did put a little bit of a disadvantage there if you're not wearing anything.
+
+Does the team see Eve as a Bayonetta-type figure who embraces her sexuality and uses it as a weapon?
+
+I don't think Eve is aware of those charms that she possesses, so she's not that kind of character. So, she won't be able to combine that central attractiveness that the Bayonetta character has and to be able to combine that with their battles. But then it's not fully decided how Eve will evolve in the future, and what kind of realization she'll be met with in the future, so I guess it would depend on the users and what they like and what kind of interest they show towards the game. Maybe Eve will go through some kind of… being more socialized and adjusted, and maybe she will get to have new realizations and become someone different.
+
+Cans are an important collectible. Why cans?
+
+That may be a personal taste. I personally like different can designs. And also, I thought it'd be more realistic to use cans where the Earth is ruined. As one of the preserved goods, cans would make more sense than other elements. 
+
+Are they based on real Korean brands?
+
+We tried to, but no can brands would partner with us to have a collaboration, so we had to create them all originally in-house. We also consulted someone who is an expert in designing can packaging. We hired that person to come up with designs that would make them look real. In the future, hopefully we'll be able to have a collaboration with a real-life brand. Especially Pepsi, which we are very interested in.
+
+Was a minimap ever considered? I would really like one in Xion.
+
+If you slide up on the touchpad, you have access to the map in Xion.
+
+Oh, but I want a little map that’s always available on the bottom corner of the screen.
+
+I wanted to show as little UI design on the screen as possible. That's why I didn't include the minimap on the screen. But then yes, it is pretty necessary in an open-world area. When it's a linear area, of course, there are other hidden paths, but if you use the map, then maybe it'll become too easy in this linear part of the game. That's why I wanted to avoid having the map there for the players to constantly use. But then yes, of course, in Xion, you will want to consult the map more because as things constantly change, you'll be given new quests constantly, so the map does become handy. I do actually recommend using the map there.
+
+In the movie The Matrix, there is the haven city of Zion. In Stellar Blade there is the haven city of Xion. In Stellar Blade there is a location called Matrix 11. The Matrix was co-directed by Lilly Wachowski. In Stellar Blade there is a character named Lily. Are these all coincidences, or is The Matrix a big inspiration for Stellar Blade?
+
+The Matrix is, of course, one of the movies that I love, but then rather than any direct inspiration or references that we got from the movie, you should see the Bible as more of a source of those inspirations. But then that doesn't mean this whole story was based on the Bible, heavily. It is more like they share similar lores.
+
+That makes sense because The Matrix looks to the Christian Bible, as well. And of course, Adam and Eve are both characters in in Stellar Blade. Is the Bible a primary source of inspiration?
+
+In terms of materials that we got for the plot, yes, the Bible, and yes it does have to do with the themes of the plot as well, but then ultimately, at the end of the day, this is an action-adventure game so when the players play this game, they can just take this lightly and just enjoy the game.
+
+When people think, “Oh, this was based on the Bible,” then they tend to take it more seriously and expect maybe a heavier, more serious story there. And of course, we're very thankful for that interpretation, but what we wanted to focus on was more the gameplay itself.
+
+Why is there a setting to change the length of Eve’s ponytail?
+
+I actually personally like the long ponytail that Eve has because it adds more to the movement and the action and I see that as an important element, but then I also realized that this wouldn't be for everyone. Some people might find it annoying, or maybe it obstructs a certain outfit or the screen when moving around, and I thought that could be interrupting or disturbing to some people, so I also wanted to include the shorter ponytail. But then after that, there have been demands about middle-length ponytails or the option to be able to control the length of the ponytail and so on.
+
+Stellar Blade is out this year. There's another big game from a South Korean developer, The First Descendent coming out later this year. Does Shift Up feel it is a big year for Korean representation in video games?
+
+We do have a hope that, starting with Stellar Blade this year, it will be an outbreak year for South Korean developers. In the past, up until recently, actually, Korean games have been rather isolated from the world because the gaming market in Korea is mostly mobile-centric. For console games, it was hard for them to gain any attention and there wasn't that much of a point where other global users were getting to access these games. There haven't been that many overlapping elements there.
+
+But then, starting with Stellar Blade, hopefully, many global users will get to discover more Korean games and actually realize, “Oh, these are actually really good games!” And I'm starting with that; hopefully, other Korean developers will be more well-known. This year will be that year. And in that way, we even have a certain sense of duty there.
+
+Are you hoping to make a Stellar Blade sequel next, or does Shift Up want to do something different next?
+
+Right now, we’re focusing more on Stellar Blade – the game itself. We're focusing more on what the users will like, what they'll want to see more of, and what kind of additional content we'll be coming up. Hopefully, you'll enjoy the game that's coming out soon.
+
+For more on Stellar Blade you can read our previous feature on the game here, and read Game Informer's Stellar Blade review here.
+
+      Products In This Article
+
+Stellar Blade
+
+Platform:
+
+PlayStation 5
+
+Release Date:
+
+April 26, 2024
+
+Purchase
+More Info
+
+Kyle Hilliard
+Magazine Content Director
+Kyle plays entirely too much Picross. He once wrote a whole book about The Legend of Zelda.
+
+Email
+Twitter
+

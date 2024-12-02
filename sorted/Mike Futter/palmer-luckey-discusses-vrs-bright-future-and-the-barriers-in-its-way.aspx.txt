@@ -1,0 +1,23 @@
+
+  Palmer Luckey Discusses VR’s Bright Future And The Barriers In Its Way
+
+
+
+
+
+
+As part of our January 2016 cover story on virtual reality, we spoke extensively with pioneer Palmer Luckey about where things go from here. The Rift, PlayStation VR, and Vive (all discussed in-depth in our most recent issue) are the culmination of years of innovation and iteration, but they are only the beginning. 
+Luckey tells us that getting to this point was only possible because of groundwork laid in the gaming industry. “The gaming industry, because it kind of stems out of some of the stuff that was done in VR first, has kind of been building all of the infrastructure needed for VR,” Luckey told me when we met at Oculus’ Menlo Park headquarters. “We have game engines that run at high frame rate. We have game engines that are made to render tons of 3D objects that are very photorealistic as fast as possible. If we didn’t have those things and if we didn’t have the game industry, VR would never be able to work remotely as well as it does.”
+It’s because of those game engines and the work done across the industry that Oculus and others in the virtual reality vanguard have been able to get as far as they have. In the near future, virtual reality will likely be more iterative than innovative.
+“A lot of the improvements are pretty obvious: higher resolution, wider field of view, lighter weight, smaller glasses, and more realistic graphics,” he says. “I mean more realistic, not necessary shinier.”
+
+Luckey points out that the visual tricks used for two-dimensional game graphics won’t have the same impact in an immersive experience. “Things like exaggerated reflections look good in a subjective way, artistically on a normal monitor,” he explains. “But when you view it in VR, it’s very obvious that it’s wrong. Your brain knows exactly how a reflection should shift on shiny objects as you translate in the space. Graphics have to be focused on how things actually work in real life, as opposed to making a stylistically nice window on your wall. Those are some of the improvements that are going to come in the next few years.”
+Unfortunately, some of the bigger challenges are going to take significantly longer to surmount. The science-fiction ideal of virtual reality as a complete sensory substitute requires buy-in from industries and professions outside the gaming sphere.
+“I don’t know if it’s going to happen in 10 years, but the end goal is pretty simple. It’s to make virtual reality that is indistinguishable from the real world for some set of experiences,” Luckey says. “We’re not going to be able to make VR that is perfect for all things for a very long time. Certain touch sensations are going to be very difficult, like liquids, until we’re able to plug directly into our nervous system. That’s so far out that we have no idea when it will happen. It doesn’t require technological advances, it requires medical advances. There’s no breakthrough on the horizon.”
+Oculus Rift will launch with an Xbox One controller packaged with each head-mounted display. Shortly after, the company plans to launch its motion-controlled haptic feedback controllers called Touch.
+
+These are a long way from what futurists envision when they think about virtual reality input and output. Handheld controllers might never go away completely, but they could take other forms, including gloves that directly mimic hand and finger movement. Prototypes have already been popping up at trade shows like E3.
+For us to advance beyond this and integrate virtual reality input with the human body begins to bridge into medical ethics discussions. Sensations like liquid, as Luckey mentions, require more than external sensation. He suggests that something more invasive will be required to establish some sensation feedback created by experiences in a virtual environment..
+“There’s nobody really pushing for the direct, neural implant, Matrix-style VR thing,” Luckey says. “It may never happen. We don’t know if it’s even possible yet. What we do know is possible is refining what we have now: the building blocks of audio, haptics, and visuals, to make something that can replicate many experiences perfectly.”
+For more, check out our coverage hub for The Year of VR issue.
+

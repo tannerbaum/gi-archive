@@ -1,0 +1,102 @@
+
+  10 Tips And Tricks To Know Before Starting Final Fantasy XVI 
+
+
+
+
+
+
+            The wait is over! Final Fantasy XVI is finally here! I really enjoyed my time with it, giving it an 8.5 out of 10 in the official Game Informer review (which you can read here). From its explosive story to its fast-paced and robust combat, it’s a treat for any Final Fantasy fan, especially those looking for an extra dose of action. However, it’s still a Final Fantasy, meaning there are dozens of hours of content to experience, from the main story to the side quests, hunts, and more. 
+
+With FFXVI now behind me after more than 65 hours (although I’m still tinkering with the idea of getting the Platinum trophy for it on PlayStation 5), I’m excited to share with you 10 tips and tricks I think you should know before getting started in FFXVI. And look, if you began FFXVI at midnight right when it became available – I don’t blame you – I still think this guide will be helpful.
+
+1
+
+            Focus On Extending Your Combos In Combat
+
+            This is the most important tip I can give you, considering the majority of your time in FFXVI will be spent wailing on enemies. And though it’s obvious – like yes, duh, extend your combos in an action game – what’s not apparent are the simple ways you can do that. First, unlock everything you can in Clive’s starting ability circle. This unlocks moves like down thrust, lunge, an ability to jump off enemies, and more. These moves work together to extend your combos greatly.
+
+For example, I always close the distance to an enemy with Clive’s Phoenix shift ability, lunge at them, hit them a few times, and then hold Square to imbue Clive’s sword with fire, launching them into the air once you strike. With them airborne, I can now wail on them in the air, use a couple of abilities, like Garuda’s Gouge, and then I can press Square + Cross to perform a downward thrust, which slams them into the ground. If they’re still alive, a few more hits might take them out or, if they’re a more challenging enemy, at least staggered, which opens them up to even more combos. You’ll find a rhythm that works for you, but the bottom line is when in combat, your focus should be on extended combos to maximize damage.
+
+2
+
+            Check In With Charon And Blackthorne Often
+
+            Charon is the shopkeep of your hideaway and Blackthorne is the blacksmith. You should check in on them often to see if they have new weapons or gear for you to craft or purchase. Fortunately, FFXVI makes this easy by putting a yellow-gold dot on the icon for these characters and shops (and everywhere else in the hideaway hub) when there is something new. Sometimes it’s a new conversation where they’ll talk to you about something you just did in the story, but often it’s an indication that Blackthorne has a new weapon or piece of gear to craft or that Charon has something new for you to purchase.
+
+3
+
+            Be Cautious Selling Weapons And Gear
+
+            In the early hours of FFXVI, and even up until about halfway through, you can safely sell the weapons and gear you’re no longer using. But you’ll later find that Blackthorne has weapons and gear he can craft for you using weapons and gear you (hopefully) already have. Especially in the late portions of the game, he’ll have some legendary stuff to craft, and you’ll need various weapons and pieces of gear, as well as tough-to-acquire crafting materials, in order to craft it. Save yourself the trouble of refinding or rebuying weapons and gear you’ve sold by holding onto them. Plus, you’re only going to get a couple of thousand gil max when you sell your weapons and gear – just go complete a hunt for 10,000 gil or more instead of selling your stuff.
+
+4
+
+            Use The Active Time Lore System Often
+
+            The Active Time Lore in FFXVI is a fantastic system that lets you pause the action at any moment to learn about who’s talking, which nations are being discussed, and more. It’s like having an interactive encyclopedia at your side, but it’s easily accessible within the game itself. If you’re in a cutscene and have forgotten who this or that person is or the area they’re talking about, pull up the ATL system and read about it.
+
+Plus, as you check in with hideaway loresman Harpocrates, his entries will grow more and more expansive and change based on what’s going on in the story. So you’ll want to stop in often with him to learn new things about Clive’s adventures in Valisthea. But even if you aren’t struggling to remember who’s who or what’s what, you should still check in on the ATL system because it will give you additional insights and details surrounding people, places, and events in the game. Reading its entries will provide you with a better understanding of what’s going on narratively in FFXVI, and I can’t stress enough how great of a system it is to keep up to date on.
+
+5
+
+            Do Not Skip The Side Quest Whose Icons Have Plus Signs In Them
+
+            Side quests are represented on the local and world maps by green icons. If you see a side quest icon with a plus sign in it, do not skip it. The plus sign is FFXVI’s indicator to you that completing this quest will net you a reward beyond the standard gil and resources. For example, completing specific plus sign side quests will result in you getting increased potion inventory and potion potency, and even a rideable Chocobo to use in the game’s open areas. It’s fine to skip a side quest – there are a ton in FFXVI – but do not skip the ones with plus signs.
+
+6
+
+            Use Garuda’s Deadly Embrace Every Time You Halfway-Stagger An Enemy
+
+            The larger, more difficult enemies in FFXVI have a stagger bar. Upon completely depleting it, the enemy becomes staggered and they fall to the ground, opening them up to increased damage. However, when you deplete precisely half of their stagger bar, they’ll lose their step for just a second or two. You can take this opportunity to wail on them a bit or do the smarter thing: Garuda’s Deadly Embrace (note: you won’t get this ability until roughly 5 to 10 hours in depending on how you play).
+
+This is Garuda’s special ability used by pressing Circle. Using Deadly Embrace after depleting half of an enemy’s stagger bar will drag them to the ground, increasing how long they remain partially staggered. I always follow this up with Garuda’s Gouge ability, because it almost always depletes the rest of the stagger bar, but you can do anything you want at this point. You have about a five-second window to damage them without fear of retaliation, so have at it!
+
+7
+
+            Don’t Stress Over Torgal
+
+            Torgal is Clive’s companion, and he’s adorable. He’s also helpful in combat because he can heal Clive and attack enemies. However, despite how much I love him as a pup, he’s not the most essential on the battlefield. His attacks are nice, but they don’t do too much damage. It’s really his ability to toss enemies into the air that’s most helpful. And his healing, while nice, heals roughly 10 to 20 HP, which isn’t much. I’m not saying to ignore him completely – definitely pet him and give him treats – but if you find keeping up with both Clive’s action on screen and Torgal’s mechanics difficult, don’t stress over the latter. He’ll still attack and heal, just less so on command. But honestly, it won’t make that big of a difference either way and if it’s easier for you to just not worry about him, that’s fine. Plus, as you get more comfortable with the game's combat, you might then find it easier to integrate Torgal's mechanics into your action.
+
+8
+
+            Don’t Stress Over Dying
+
+            If you die in FFXVI, other than restarting a battle (or starting at a mid-battle checkpoint if you’re up against a boss), there’s no real penalty. Dying in combat automatically stocks up all of Clive’s potions. Sometimes, I’d stumble into combat against a tough enemy with just one potion left, knowing that wouldn’t be enough. Instead of spending time trying to defeat the enemy anyway, knowing I likely wouldn’t, I’d just let the enemy kill me so that I could return with a full potion inventory.
+
+9
+
+            Complete Hunts
+
+            This one’s simple but essential: complete hunts. I should note that hunts aren’t available at the start of the game but you’ll reach a point in the game where they are. Regardless, remember this tip! Not only do hunts reward you with crafting materials you’ll need to obtain stronger weapons and gear, but they also net you a good chunk of experience and a lot of gil. If you feel under-leveled or need more gil, a hunt or two will get you back on track. And because different hunts have different rankings – from C to S – you can take on some of the easier ones for a quick reward.
+
+10
+
+            Read Game Informer’s Tips And Tricks Guide On FFXVI Combat
+
+            Alright, this one’s a plug but one that’s worth it! After checking out these tips and tricks, head to my guide on 10 tips and tricks to help you excel in FFXVI’s combat for additional tips about the game’s action. I go into more detail about FFXVI’s combat, including my favorite combos, recommendations, and more.
+
+            For more about FFXVI, be sure to read Game Informer’s Final Fantasy XVI review. And if you’re looking for details and insight into the development of this game, head to Game Informer’s FFXVI exclusive coverage hub for various features breaking down the game’s combat, score, and more.
+
+      Products In This Article
+
+Final Fantasy XVI
+
+Platform:
+
+PlayStation 5
+
+Release Date:
+
+June 22, 2023
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

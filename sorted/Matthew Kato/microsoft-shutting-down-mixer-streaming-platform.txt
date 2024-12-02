@@ -1,0 +1,22 @@
+
+  Microsoft Shutting Down Mixer Streaming Platform
+
+
+
+
+
+
+Microsoft has announced that it is shutting down its Mixer video game streaming platform – once the exclusive home of the likes of Ninja and Shroud – on July 22, and partnering with Facebook Gaming as a new locale for viewers and streamers.
+
+In a statement, head of Xbox Phil Spencer said:
+
+Ultimately, the success of Partners and streamers on Mixer is dependent on our ability to scale the service for them as quickly and broadly as possible. It became clear that the time needed to grow our own livestreaming community to scale was out of measure with the vision and experiences we want to deliver to gamers now, so we’ve decided to close the operations side of Mixer and help the community transition to a new platform.
+
+Microsoft acquired Beam in 2016 and turned it into Mixer in 2017, and brought over superstar streamer Ninja last year from Twitch.
+
+According to The Verge, which talked to Spencer about the developments, stars who signed deals with Mixer (like Ninja and Shroud) are free to go back to Twitch. As of the time of this writing neither Ninja nor Shroud has officially commented on the situation.
+
+The Verge also talks strategically about Microsoft's move, saying it gives Microsoft a broader base for its xCloud streaming service.
+
+[Source: Microsoft, The Verge]
+

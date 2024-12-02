@@ -1,0 +1,33 @@
+A Deep Dive On Destiny 2: Forsaken’s New Bow
+  A Deep Dive On Destiny 2: Forsaken’s New Bow
+
+
+
+
+
+
+            One of the most exciting features on the way in the release of Destiny 2: Forsaken is a new weapon archetype. The bow changes up the battlefield in some important ways, not least because it’s a distance weapon that isn’t actually a gun.
+
+I had the good fortune to get some extensive early hands-on time with the bow, and rapidly found the potential for fun. The pace of shooting is different from what we’ve come to expect with the guns of Destiny 2, and the change is refreshing. “There’s a pace and rhythm to it that is totally different from our other weapons – adding more anticipation to your shots sort of puts you in a zen-like trance,” says designer Greg Peng. “Draw, Aim, Fire, Nock, Draw, Aim, Fire, Nock, Draw, Aim Fire.” Until you shoot it for yourself, it’s hard to grasp the natural feel of the shooting. It delivers as a high-risk, high reward weapon. You invest a significant micro-chunk of time to draw the bow back and get to full power, so nailing the precision hit is essential. But when it connects (often killing PvE enemies in one shot) it’s immensely satisfying.
+
+There’s a pace and rhythm to it that is totally different from our other weapons – adding more anticipation to your shots sort of puts you in a zen-like trance.” -Greg Peng
+
+In PvP, the bow offers some significant opportunities, but even after a few hours with the weapon, it’s clear that it will take time to master. “The bow is the highest damaging primary ammo weapon in the game - in PvP it is currently playing as a two-shot kill,” Peng says. “There’s also an analog nature to the draw – releasing early changes the arrow trajectory – this is a weapon that has great expressiveness of skill.” The bow I used offered a potent example of how perks can change the experience, as it included an explosive in the arrow head. “The interesting element is that the explosion is super delayed, so you can do some interesting setups where you shoot the ground or a wall, wait for a guardian to turn a corner while drawing again, and then hit them again as the first arrow explodes,” Peng says.
+
+Conceptually, the bow fits perfectly into the western vibe that Bungie has already revealed about its storytelling and campaign. It’s easy to imagine what it will be like to range out across the untamed asteroids of the Reef, carrying a simple bow as you wade into a mess of alien outlaws. “The goal was to create a new weapon archetype that fit the space frontier feeling of the Tangled Shore,” Peng says. “Something wild and untamed but also fitting into the space magical weaponry of the Destiny franchise.”
+
+The goal was to create a new weapon archetype that fit the space frontier feeling of the Tangled Shore” -Greg Peng
+
+While the bow is a single weapon archetype that uses primary ammo, it does come in two distinct groups. I played primarily with a compound bow. Here, it’s all about a fully drawn arrow, and nailing that precision shot. “It is more of a brute force damage binary on/off weapon,” Peng says. Meanwhile, recurve bows are built with a steady draw that slowly increases the arrow velocity and damage. “This lends to quicker draws and more analog control and expressiveness over quick skill shots,” Peng continues.
+
+While the thrill of using the bow is apparent within minutes, it wasn’t lost on me that its introduction must have brought with it a ton of technical dilemmas in terms of in-game implementation. “It was quite a challenge to create the bow!,” Peng admits. “Even something as simple as switching which dominant hand holds the bow was a huge animation challenge. Getting the perfect framing on screen in hip and ADS was tricky as well – how much of the bow to show when we zoom in? How do we keep the screen relatively free of occlusion with a giant vertical element that cuts right through? It took a lot of work, but I think we got to a great place.”
+
+Peng and his teammates at Bungie shared a behind-the-scenes look at the bow in an exclusive video below. Check it out, and check out our other coverage of Destiny 2: Forsaken from the show, including hands-on impressions of the new Gambit mode, news that Year One Destiny 2 weapons will carry forward into Forsaken, and an exhaustive gallery of new images. 
+
+Matt Miller
+Senior Previews Editor
+Matt Miller has been with Game Informer since 2004. He has a special interest in the evolution of game design, the tabletop hobby, and the crafting of interactive narrative. 
+
+Email
+Twitter
+

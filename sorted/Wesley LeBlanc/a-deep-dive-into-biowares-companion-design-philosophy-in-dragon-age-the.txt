@@ -1,0 +1,82 @@
+
+  A Deep Dive Into BioWare's Companion Design Philosophy In Dragon Age: The Veilguard
+
+
+
+
+
+
+            During my visit to BioWare in its Edmonton, Canada, office earlier this year for the current Game Informer cover story on Dragon Age: The Veilguard, I heard a sentiment repeated throughout the day from the game's leads: in past Dragon Age games, BioWare stumbled onto great companions, but with Veilguard, it's the first game where the studio feels it purposefully and intentionally created great companions. As such, those companions are key to everything happening in Veilguard. 
+
+With such a significant emphasis on these characters, I spoke to some of the game's leads to learn precisely about BioWare's philosophy on companions in Veilguard. 
+
+ You're missing out!Normally this is where something cool would show.  Your browser is blocking third-party cookies so we're unable to display this content.Try clearing your browser cache, disabling ad blockers, and verifying that cookies are allowed: Verify cookie preferences
+
+"No, that is the case," BioWare general manager Gary McKay tells me when I ask if he agrees with the stumbled-onto-greatness sentiment. "I would first start with Dragon Age – each installment in this franchise has been different, so we didn't set out to make a game that was a sequel or the same game as before. We really wanted to do something different and we did push the envelope in a couple of areas, companions being one of them. Once we got knee deep into it, we really realized we had something special with these companions, again, around the motivations, the story arc, and it really started to become the centerpiece for this game." 
+
+The Philosophy Behind Dragon Age: The Veilguard’s Companions
+
+Game director Corinne Busche agrees, adding that Veilguard's companions are "the most fully realized complex companions we've ever crafted." She also believes they're the Dragon Age series' best. "They're complicated, they have complicated problems, and that's what's interesting," she continues. "As much as I adore the companions and the journeys I've been on with them in past Dragon Age titles – previously, it feels like companions are going on an adventure with me, the main character, whether it's the Hero of Ferelden or Hawke, you name it. But in [Veilguard], in many ways, the companions are so fleshed out that it feels as though I'm going on a journey with them. I'm exploring how they think and feel; I'm helping them through their problems. We're working through their unique character arcs. They feel like my dear friends, and I absolutely adore them."
+
+Busche says these companions participate in the game's darker and more optimistic parts. "We've really moved into a place where you can have the highest of highs, and it can be colorful, it can be optimistic, but also, you can have the lowest of lows where it gets gritty, it gets painful, it gets quite dark. But throughout it all, there is a sense of optimism. And it creates this delightful throughline throughout the game." 
+
+When I ask creative director John Epler about BioWare's philosophy behind Veilguard's companions, he reveals a phrase the studio uses: Dragon Age is about characters, not causes. 
+
+"What that means for us is [...] let's take the Grey Wardens, for example – the Grey Wardens are an interesting faction but by themselves, they don't tell a story, but there are characters within that faction that do," he tells me. "And the same thing with other characters in the story. They represent these factions, they show the face of the other parts of Thedas and of the storytelling we really want to do, which, again, shows Thedas as this large, diverse living world that has things going on when you're not there."
+
+Epler says one of BioWare's principles when creating Veilguard was that the world exists even when you – Rook – are not around. There are things, ancient conflicts, grudges, and more, that happen even when Rook isn't participating in them, he says. 
+
+"You kind of come in 'in media res' in some of these, so that's where we wanted to go with the companions," he says. "They have stories of their own. Where can Rook come into these stories, and what interesting ways can those stories develop not just based on themselves but also based on Rook's presence within them?"
+
+Dragon Age series art director Matt Rhodes adds that companions are the load-bearing pillars for everything in Veilguard, so "when you're designing them, it's not just designing a character; they're the face for their faction, the face for, in [some cases like Bellara Lutara], an entire area of the world." From his aesthetic-forward part of developing companions in Veilguard as the game's art director, he tells me Veilguard's characters are (hopefully) going to give cosplayers a challenge. 
+
+"The previous art director had the mindset we should make things easier for [cosplayers], which I think is a misunderstanding of cosplayers," Rhodes says. "We've seen the kind of challenges they're willing to take on, and so we've gone for, in some cases, a level of complexity and detail that I hope a lot of them are excited to rise to the challenge for." 
+
+A Quick Detour: Neve Gallus
+
+As Neve Gallus is the companion I spent the most time with during my visit to BioWare, I asked Epler about this character and her role in the game. Here's what I learned: "So Neve is a private investigator in Minrathous. Minrathous is the capital city of the Tevinter Empire. It’s also a mage-ocracy; mages run the entirety of the Empire – they’re all-powerful. A lot of them still believe in slavery, they keep slaves, it’s a very oppressive, totalitarian regime. And Neve is a member of the Shadow Dragons, which is a rebel faction within Thedas that fights back against this mage-ocracy, fights back against this oppressive, very damaging regime that’s taken over the city, because she believes there’s good, and she is there for the common people. So if you’re not a mage in Tevinter, you are lower than dirt for a lot of people. She and the Shadow Dragons, in general, fight back, but Neve, in particular, is this character that represents this more, ‘voice of the streets, the voice of the common people.’ In previous Dragon Age games, you go to Orlais, you meet Emperor Celene, you meet Briala; we wanted to have a character that showed not just what is Tevinter at the top, but what is the average person who lives in Tevinter. And she is very much about, again, fighting oppression, fighting tyranny and, as a private investigator, finding clues and ways through problems that aren’t maybe as action-focused as some of the other companions."Companions, In And Out Of Combat 
+
+Rook's companions in Veilguard have roles both in and out of combat, but since I only saw a few hours of this game (which is sure to be multiple dozens of hours long), I wanted to ask Busche about these roles and how they play out. Here's what I learned: 
+
+In Combat
+
+Bushce: "So companions as realized characters, we have to take that premise when we talk about how they show up in combat. These are their own people. They have their own behaviors; they have their own autonomy on the battlefield; they'll pick their own targets. As their plots progress, they'll learn how to use their abilities more competently, and it really feels like you're fighting alongside these realized characters in battle. So I love that, I love the believability of it. It feels like we're all in it together. 
+
+"But then when it comes time for the strategy, and the progression I might add, that's where a sense of teamwork comes into play as the leader of this party as Rook. When I open the ability wheel, I almost feel like we're huddling up. We're coming up with a game plan together. I see all the abilities that Harding has, and I see all that Bellara is capable of, and sometimes I'm using vulnerabilities synergistically. Maybe I'm slowing time with Bellara so that I can unleash devastating attacks with Harding, knocking down the enemy, and then me as Rook, rushing in and capitalizing on this setup they've created for me. It is a game about creating this organic sense of teamwork. 
+
+"Now, there are more explicit synergies as well. We very much have intentional combos where your companions can play off each other, you can queue up abilities between them, and each of those abilities will go off and have their effect. But it results in this massive detonation where you get enhanced effects, debuff the entire battlefield, all because of planning and teamwork. What makes it really cool is you can introduce Rook into that equation as well. One of my favorite things to do is upgrade some of Harding's abilities so she will automatically use some of these abilities that normally I'd have to instruct her to do. And she'll actually set my character up to execute that combo that, again, has that detonation effect." 
+
+ You're missing out!Normally this is where something cool would show.  Your browser is blocking third-party cookies so we're unable to display this content.Try clearing your browser cache, disabling ad blockers, and verifying that cookies are allowed: Verify cookie preferences
+
+Outside Combat
+
+Busche: "It's one of my favorite topics. I talked about the idea that these are fully realized characters, that they're very authentic and relatable. So outside of combat, what that means is they're going to have their own concerns, fears, distractions, and indeed, even their own sanctuaries, their own personal spaces. In our base of operations this time, our player hub, the Lighthouse, each of the companions has their own room. And what I love about it is it becomes a reflection of who they are. The more time you spend with them, as the game develops as you work through their arc, their room and their personalities will evolve and flourish and become more complete as they trust you more and you understand them better. 
+
+"What's interesting, you mentioned romance, the companions also develop romantically and I'm not just talking about with the main character Rook; I'm talking about each other. There are moments in the game where two of our companions fell in love with each other and I had to make some pretty challenging choices as it related to the quest we're on. And it broke my heart, it absolutely did [Editor's Note: I get the sense Busche is talking about a specific playthrough of Veilguard here – not a definitive sequence of events for every playthrough]. 
+
+"So I would say, as you're adventuring with them, as you're returning to the Lighthouse and getting to know them – all these decisions and conversations and things you learn about them – it endears them to you in a way that I honestly haven't experienced before. And sometimes that fills me with joy and sometimes it breaks my heart." 
+
+For more about the game, including exclusive details, interviews, video features, and more, click the Dragon Age: The Veilguard hub button below.
+
+      Products In This Article
+
+Dragon Age: The Veilguard
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PC
+
+Release Date:
+
+2024
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

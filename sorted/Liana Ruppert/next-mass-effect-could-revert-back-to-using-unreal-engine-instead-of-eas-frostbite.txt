@@ -1,0 +1,35 @@
+
+  Next Mass Effect Could Revert Back To Using Unreal Engine Instead Of EA's Frostbite
+
+
+
+
+
+
+            According to a new report, BioWare is looking into possibly reverting to using Unreal Engine for the next Mass Effect, effectively moving away from EA's Frostbite technology. 
+
+The latest report comes by way of GamesBeat and follows shortly after a recent EA listing on its website seeking a technical director for the upcoming Mass Effect adventure, the fifth game in the space franchise. It was spotted in that listing that the requirement was for someone with Unreal Engine 4+ experience instead of Frostbite. 
+
+Speaking with my own source, I was told that a key reason behind considering the switch was Mass Effect Andromeda, the most recent Mass Effect game outside of the recent trilogy remaster. Andromeda ran on Frostbite, an engine known for the creation of beautiful environments, but is notoriously challenging when creating intricate facial reactions within a choice-based adventure. When asked, one source tells Game Informer, "Yeah, it's been something that's come up a few different times, there is a really big focus on the next Mass Effect and doing it right." 
+
+The "doing it right" sentiment references the reception Andromeda got during its Early Access preview period and shortly after its full launch. When released, a plethora of bugs could be experienced. While not unusual, especially for a BioWare game, it was the facial animations that put off many, and some of the interactions became the butt of many online jokes. While those animation issues were quickly patched out post-launch, the impressions remained, and it looks like that's not something the studio is looking to repeat. 
+
+With the Mass Effect trilogy being rooted in Unreal Engine 3 and some returning BioWare vets making their way back to the studio for Mass Effect 5, it looks like the move back to Unreal would be the wisest for the team to make at this time. It's familiar to the existing team, it's suitable for the needs of a narrative-driven choice-based action RPG. It's also another way BioWare and EA, as the publisher, can show fans that they are listening to the concerns over the franchise's future and perhaps garner more excitement about the limitless possibilities that this story has just within reach. 
+
+What do you think? Would making the move back to Unreal Engine be a good one for BioWare, or should they stick with Frostbite? Sound off with your thoughts in the comment section below. Garrus would want you to. 
+
+      Products In This Article
+
+Mass Effect Legendary Edition
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC
+
+Release Date:
+
+May 14, 2021
+
+Purchase
+More Info
+

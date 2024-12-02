@@ -1,0 +1,97 @@
+
+  An In-depth Look At Destiny 2: Forsaken's New Supers And Subclass Branches
+
+
+
+
+
+
+            One of the biggest changes Forsaken will bring to Destiny 2 is the arrival of nine new supers. Come September 4, players will be able to not only choose which subclass they like best, but which super under each subclass best fits their playstyle, leading to more options in PvE and more engaging encounters in PvP.
+
+With each super comes a new subclass branch, and at the beginning of the Forsaken campaign, players choose which new subclass branch for their class they want to chase first. Once they've made their way to the Dreaming City, they can find additional quests there that will unlock the other two subclass branches, similar to the way unlocking additional subclasses works in the original Destiny 2 campaign.
+
+Sorry, this video is not available
+
+After playing around with each of them, the new subclass branches feel more synergistic than past ones, laying out more defined gameplans with abilities that build and sync up with each other, while also creating new roles players can take on while playing a specific subclass. And after speaking with Bungie senior sandbox designer Claude Jerome, we got a better of idea to the studio’s approach to creating these new subclasses and supers, including what roles the new branches are designed to fill, how support might be a new role for players to fill, and more.
+
+To prepare you for when Forsaken hits in September (or at least help out your theorycrafting), we have breakdowns of each super and subclass ability below, as well as brief glimpses of some of the abilities you can use to build up your super meter.
+
+Hunter
+
+Arcstrider: Way of the Current
+
+As if the Arcstrider subclass didn’t pack enough close-range power, the Way of the Current is based around closing the distance between you and your opponent to getting some good old-fashioned punches in. Taking a cue from Titans’ more situational melee attacks, the Tempest Strike melee ability requires you to slide before unleashing it, but delivers an uppercut that juggles enemies into the air and leaves a trail of Arc energy behind.
+
+To unleash Tempest Strike as often as possible, the Ebb and Flow perk will electrify any target you use an Arc ability on. Punching electrified targets disorients them and provides grenade, melee, and dodge energy. And while you’re doing all that punching, Lightning Weave will increase your reload speed any time your punch an enemy, letting you finish off anything you don't kill with punches with a short burst of fire.
+
+Whirlwind Guard modifies the Arc Staff super with a shield you can activate by holding down the aim button, which deflects projectiles as you approach your target. If you do manage to deflect a few bullets, your Arc Staff attacks will deal triple damage for a short amount of time.
+
+Gunslinger: Way of a Thousand Cuts
+
+Flaming knives are cool and all, but why throw just one? The Way of a Thousand Cuts lets you throw an entire fan of them using the Knife Trick ability, lighting enemies on fire. While they’re burning, The Burning Edge will fill up your dodge, and Playing with Fire will grant you energy for Knife Trick if you manage to kill burning enemies.
+
+The Blade Barrage super sacrifices some of the utility of the Golden Gun for pure damage, letting you fire several knives at once while in the air. In our playtesting, we were able to fire one volley of knives in front us, then turn around and fire a second volley behind us.
+
+Nightstalker: Way of the Wraith
+
+Channeling the stealth and murderous potential of the rogue archetype, the Way of the Wraith focuses on getting in undetected and scoring quick kills. Start by scoring a precision kill while your health is full to have Flawless Execution grant you invisibility and Truesight (letting you see enemies through walls) to hunt down your target. Hit a foe with a melee attack quickly after, and you’ll weaken them with the Shattering Strike perk, reducing their damage output. If that doesn’t finish them off, your Corrosive Smoke bomb melee ability explodes in a line, slowing and damaging enemies from afar. With your enemies slowed, you’re free to land a few precision shots on them, turning you invisible through Flawless Execution and starting the cycle over.
+
+And for those who love the Nightstalker’s toolset but prefer a more active super than firing an arrow to increase DPS, the Spectral Blades super not only lets you roam for kills instead of landing a single shot, but do so while invisible, letting you pick off foes before they notice you.
+
+Titan
+
+Sentinel: Code of the Commander
+
+The Code of the Commander turns you into a de facto leader, calling shots and pushing objectives. Hitting an enemy with a Void ability will activate Controlled Demolition, which plants a detonator on them. Hitting them again will cause it to inflate then explode in a huge area and proccing Resupply, which heals you and your allies while also granting grenade energy. To speed things up a bit, your Tactical Strike melee ability will cause a Void explosion when it lands, setting off any nearby detonators. These detonators can land on other enemies, spreading them multiple times.
+
+Titans who’ve missed the glory days of airtight bubbles being an invaluable part of any raid encounter my find new hope in Banner Shield, which could be the new PvE must-have. Activated by blocking during Sentinel Shield, Banner Shield will activate a huge barrier in front of you, protecting your fireteam from harm while letting them shoot through it, allowing them deal damage to raid bosses like Argos without having to worry about exploding harpies. Shooting through it also extends the duration of the super, making it a fantastic addition to any team who needs to plant their flag (or capture a control point) by any means necessary.
+
+Striker: Code of the Missile
+
+Living up to its name, Code of the Missile has you crash-landing into your enemies. To activate the branch’s Ballistic Slam melee attack, you’ll have to soar in the air after running. This ability rockets you to the earth below, blowing up anything on your path. The more enemies you hit, the more super energy the Impact Conversion perk will give you. With Inertia Override, sliding through the ammo your newly-dead foes drop will reload the gun you’re holding and up its damage for a short time.
+
+Your Thundercrash super ability delivers a massive amount of damage quickly, as you become the missile you wish to see in the world and crash into the ground. Your flight trajectory is hyper-maneuverable, too – with some quick stick movements, we were able to land the super right where we activated it, as well as a few feet behind us.
+
+Sunbreaker: Code of the Devastator
+
+If only being able to throw hammers during your super irked you, Code of the Devastator is the new subclass for you. Your Throwing Hammer melee ability replaces your regular melee ability with the iconic weapon, letting you throw it at enemies from a distance. Picking it up will not only refill your melee ability completely, but activate Tireless Warrior, triggering your health regeneration instantly. And as you kill enemies with your hammer (or any other Solar ability) and retrieve it time and again, the Roaring Flames perk increases its damage output, stacking up to three times.
+
+Meanwhile, the Burning Maul super ability has you spinning to win. Once you get close to a target, you can mash the attack button to deal quick, consecutive blows by spinning your hammer, or deliver a powerful overhead swing that leaves a trail of fire in its wake.
+
+Warlock
+
+Dawnblade: Attunement of Grace
+
+Warlocks have one of the few consistent “support” roles in Destiny 2, as their rift can grant their fireteams either increased damage or healing depending on the need. However, with Attunement of Grace, Warlocks can now fully lean into supporting their team. Divine Protection allows you to hold the grenade button to turn your grenades into Blessings, which act as health pickups for your allies that also grant overshield. You can also lead aggressive charges by example, as Guiding Flame empowers your allies after its flaming melee attack connects. Empowering or healing allies (through Divine Protection, Guiding Flame, or either form of your Rift) triggers Benevolent Dawn, regenerating your melee, grenade, and Rift abilities.
+
+The Well of Radiance super is a one-stop raid DPS and point control super. By planting your Dawnblade into the ground, it casts an enormous rift, which both greatly heals and empowers allies. It doesn’t stack with your Rift, which prevents the DPS or healing from getting too out of control, but also means you should be able to effectively empower your team for the duration of two Calus damage plates.
+
+Stormcaller: Attunement of Control
+
+The Attunement of Control requires you be constantly on the move in order to truly get the most of out it. As you kill enemies, they may drop Ionic Traces, which refill your grenade, melee, rift, and super energy when collected. Should you happen to get injured while collecting them, Pulsewave will give you and your allies a speed boost, which will hopefully let you escape danger. Or you may want to take a chance at hit your foes with Ball Lightning, a ranged melee attack that produces a slow projectile that shoots out lightning.
+
+Proper positioning will also be important when casting your Chaos Reach super, as using it at the right time could mean using it more regularly. After activating it, you fire an intense of beam of Arc energy which quickly eviscerates anything in its path. If you happen to catch an enemy unaware, you can activate it, kill them quickly, then “activate” your super again to stop the beam and keep any unused super energy, letting you build your super back up much sooner.
+
+Voidwalker: Attunement of Fission
+
+The Attunement of Fission excels in the mid-range, where it can lay down intense damage in the no-man’s where going for melee attacks isn’t feasible but switching to a close-range weapon may not be fast enough. Not only is your Atomic Breach ability a ranged melee attack that creates a Void explosion, but you can turn your grenade into a Handheld Supernova you can also wield at close range. Getting kills with either of these abilities will activate the Dark Matter perk, which grants a small amount of health and gives rift, melee, and grenade energy.
+
+The Nova Warp super gives you more options to be aggressive in the mid-range, and doubles as a way to give Voidwalkers more control over when and where they distribute their super’s damage. When activated, it allows you to teleport short distances by pressing the melee button, letting you close the cap. Then unleash an explosion in an area around you, but you can trigger this more than once per super, allowing you to clear out groups of enemies even if they’re spread apart.
+
+For more on Destiny 2: Forsaken, such as an extended look at the Tangled Shore, insight on how the Flashpoint milestone is being changed, and more, click on the banner below to check out all of our coverage, and be sure come back throughout the month for more coverage.
+
+      Products In This Article
+
+Destiny 2: Forsaken
+
+Platform:
+
+PlayStation 4, Xbox One, PC
+
+Release Date:
+
+September 4, 2018
+
+Purchase
+More Info
+

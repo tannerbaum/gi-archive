@@ -1,0 +1,117 @@
+
+  New Horizon Forbidden West Patch Tackles Progression Blocks, Visual Shimmering, And More
+
+
+
+
+
+
+            Guerilla Games has released a new update for Horizon Forbidden West, Patch 1.13, that tackles multiple main and side quest progression blocks, as well as persistent issues related to a strange visual shimmering effect in-game, and more. 
+
+Live today, Patch 1.13 brings with it a ton of fixes not just to quests, but to general things like the game’s UI and some of Aloy’s animations, as well as improvements to the game’s performance and stability. Perhaps the biggest issue is the aforementioned visual shimmering, which has been a player complaint since launch. 
+
+For the uninitiated, the shimmering is an almost glitter-like effect that appears on the edging of objects, robots, and more in Horizon Forbidden West. It makes things in-game look shinier than intended and in most patches since the game’s release, Guerrilla Games has addressed it. Considering it’s still listed under Patch 1.13’s “known issues,” it sounds like the problem persists today. 
+
+“We are currently looking into several issues reported by the community,” the patch notes read. “Please note that these issues are not yet fixed in this patch, but our teams are aware of them and they’re being investigated.” 
+
+Here are those known issues: 
+
+The team continues to make tweaks to the game's content with the goal to reduce visual shimmering.
+Players have reported an issue in Handa’s Contract “Ancient Relics”, where the mission progression will be stuck on “2/3 Gather Ancient Relics”, or “Go to the Northern Ancient Machine Site” if the player leaves the area.
+Outfits may appear to be covered by dark shadows in inventory.
+
+Below, we’ll post the rest of the patch notes but if you haven’t yet completed the main story of Horizon Forbidden West, be wary as there are some campaign-related spoilers within: 
+
+FIXES AND IMPROVEMENTS
+
+Main Quests
+
+Fixed an issue with Main Quest “Reach for the Stars” where progression did not update after restarting the “Clear the rubble with the pullcaster" objective.
+Fixed an issue with Main Quest “To the Brink” where Belna would sometimes not spawn after objective “Clear the Daunt: Kill the Machines”.
+Fixed an issue with Main Quest “Death’s Door” where progression is blocked after using a “Leaplasher Spark Coil” in an upgrade before the "Gather Resources for the Igniter" objective is active.
+Fixed multiple issues with Main Quest “Singularity” where unexpected character behavior might lead to progression blockers.
+
+Side Quests
+
+Fixed an issue with Side Quest “The Bristlebacks” where progression did not update after examining the Bristleback carcass prior to talking to the Carja Magistrate.
+Fixed an issue with Side Quest “The Bristlebacks” where progression might be blocked due to objective "Kill the Bristlebacks" not updating in the mine.
+Fixed an issue with Side Quest “Drowned Hopes” where the progression is blocked if using an alternate route to get to the pryable rocks.
+Fixed an issue with Side Quest “Lofty Ambitions” where the Stormbird might get stuck in the terrain, blocking progression.
+Fixed an issue with Side Quest “Lofty Ambitions” where the merchant Abadund will not have his prompt after quest completion.
+Fixed an issue with Side Quest “Signal Spike” where progression did not update due to interacting with NPCs in Side Quest “The Wound in the Sand”.
+Fixed an issue with Side Quest “Signal Spike” where Aloy can get stuck underwater during the “Go to the Source of the Signal” objective.
+Fixed an issue with Side Quest “A Soldier’s March” where objective “Scan for Penttoh’s Tracks” will not trigger if players arrive on a Sunwing nearby marker for objective “Climb the Mountain”.
+Fixed an issue with Side Quest “A Soldier’s March” where objective “Kill the Frostclaw” would not update and block progression.
+Fixed multiple issues with Side Quest “The Blood Choke” where Atekka would get stuck or disappear.
+Fixed multiple issues with Side Quest “In the Fog” where progression did not update after killing the Clawstrider.
+Fixed an issue with Side Quest “In the Fog” where progression did not update after following Garokkah to the Memorial with alerted machines.
+Fixed an issue with Side Quest “Forbidden Legacy” where progression did not update due to Alva being unresponsive on the ”Follow Alva to the Atbay Headquarters” objective.
+Fixed an issue with Side Quest “Forbidden Legacy” where a gap between two buildings was blocking progression.
+
+World Activities
+
+Fixed an issue in Cauldron IOTA where the objective “Override the Tallneck” would not update on completion.
+Fixed an issue in Cauldron CHI where overridden machines would act hostile towards Aloy.
+Fixed an issue in Contracts “Property Retrieval” where progression was blocked upon reloading the activity with all Relics found.
+Fixed an issue in Contracts “Alarm Antennas” where the objective would not update if Aloy has three Antennas before completing the “Gather Scrounger Alarm Antennas” objective.
+Fixed an issue in Contracts “Rollerback Salvage” where an additional Shellsnapper might spawn.
+Fixed an issue in Rebel Camp “Breached Rock” where progression is blocked when killing Rebel leader before objective “Enter the Bunker” is complete.
+Fixed an issue in Melee Pits where NPCs would wear the wrong armor.
+Fixed an issue where Aloy might get stuck near the entrance of Arrowhand.
+Fixed an issue in Black Box: Isle of Spires where the signal will remain active after picking up the box.
+Fixed an issue in Signal Tower where some players had an issue picking up Signal Lens.
+Fixed an issue where loading a save with previously tracked items as jobs might lead to a crash.
+
+Machines
+
+Fixed an issue where the Tideripper might get its Water Hose Sweep attack interrupted.
+Fixed an issue where machines would not react to a dead ally.
+Added Apex Grimhorn spawn points outside of missions.
+
+UI/UX
+
+Fixed icons for multiple Coils and Weaves.
+Fixed more Metal Flowers icons remaining on the map.
+Fixed Silent Strikes being counted twice in the Combat Statistics menu.
+Fixed multiple seams on the World Map.
+
+Performance and Stability
+
+Multiple streaming fixes in game and in cinematic.
+Multiple crash fixes.
+
+Other
+
+Fixed an issue where Aloy’s shadow might be dimmed when melee attacking or using her Focus.
+Fixed an issue where “Fiberzest” and “Vigorstem” can not be obtained after the pouch is full.
+Fixed multiple locations where “Install Vine Cutter Module” Icons were not appearing.
+Multiple audio fixes and improvements.
+Multiple fixes to Aloy’s animations.
+Multiple localization and subtitles fixes and improvements.
+Multiple fixes to controls
+Multiple fixes and improvements to body and facial animations in cinematics.
+
+While waiting for this patch to download, read Game Informer’s Horizon Forbidden West review and then read about why Aloy is one of our favorite heroes of this generation after that.
+
+      Products In This Article
+
+Horizon Forbidden West
+
+Platform:
+
+PlayStation 5, PlayStation 4
+
+Release Date:
+
+February 18, 2022
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

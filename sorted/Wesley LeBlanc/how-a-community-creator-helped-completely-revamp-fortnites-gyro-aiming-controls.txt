@@ -1,0 +1,80 @@
+
+  How A Community Creator Helped Completely Revamp Fortnite's Gyro Aiming Controls
+
+
+
+
+
+
+            “Shoot your shot” is something you hear often, and doing it can be pretty scary. Still, for Julian “Jibb” Smart, a video game input specialist, it helped him land the project of a lifetime: develop an entirely new gyro aiming control system for one of the biggest games in the world, Fortnite. Simply put, Smart “shot his shot.” He emailed Epic Games and essentially said, “your gyro systems are great, but they can be better, and I know how.” 
+
+It was a bold statement. You see, Epic Games created the most famous battle royale in recent memory, further augmented by a highly successful online storefront. Moreover, the company developed Unreal Engine, one of the world's most-used video game engines. But, when you know something well, and you can back it up, a shot like this is worth the effort, and perhaps to Smart’s surprise, Epic responded positively, saying, “let’s do it.”
+
+Flick Stick creator and input specialist, Julian "Jibb" Smart
+
+So, Smart began implementing a new and improved gyro aiming system for Fortnite on PlayStation consoles, Switch, PC, and Android, and added officially-sanctioned controls for his creation, Flick Stick – features that are now live in the game as of today. We spoke to Smart about how development went, what it’s like for him to see his passion project in Fortnite, and why gyro aiming and additional options like Flick Stick are not just a win for advanced-level Fortnite players but a triumph for accessibility initiatives too. 
+
+“This has been super exciting,” Smart says. “It feels like it’s been this four-year journey, and this is just the biggest step in it. One thing we talk about in the gyro community…is ‘what’s it going to take for this stuff to take hold [across video games] for there to be an impact?’ and it’s going to be a huge game; it’s going to be a game where controls really matter to players.” 
+
+That game needed to be something as big as Fortnite – it doesn’t hurt that Fortnite is where Smart’s gyro goals landed, and now the one-person developer is beyond excited to see if gyros like this take off in other massive titles. Introducing additional controls and options in a game is never a bad idea because it makes playing games more accessible for everyone. 
+
+Smart’s interest in gyro input took off following the 2015 release of Nintendo’s Splatoon, a third-person shooter whose primary aim mechanic uses gyro controls. Back then, Smart was dying to get his hands on Splatoon because it was unique for a developer as prominent as Nintendo to default to gyro aiming. He always knew that adding gyro to a player’s toolset increased precision and accuracy. Splatoon was a perfect proof of concept. 
+
+Smart would begin developing new input controls and options as a side gig/hobby after Splatoon’s release. He eventually fell in love with the gyro community. 
+
+“I will learn how to do gyro controls well,” Smart recalls telling himself. “And then I can create resources. I can tell other developers and players with authority, ‘this is how easy or hard it is; this is what you need to do. Let’s just do it.’ So I made an open-source input called JoyShockMapper.”
+
+From there, Smart created a YouTube channel to show people how to do what he was doing. He also made a website called GyroWiki, a trove of resources on how to implement good gyro controls. Things took off from there, and soon Smart became a well-known figure in the gyro input community. 
+
+Fast forward a couple of years, and today, things are finally official: Smart’s gyro input system is currently available in Fortnite. Smart recognizes that many developers are doing their best to put gyro controls in their games, but like with most anything, you can end up with a half-baked version without a specialist’s help. 
+
+“They’re doing the best they can to give other people the controls they want, but they’re not [as good as they could be],” Smart says. “There are a few different things that almost every game fumbles on, and one of those that’s really important to me is a player having the ability to turn off the gyro controls at any moment.”
+
+Last week, that wasn’t possible in Fortnite. Today, it is. A quick glance through the latest blog post about Fortnite’s new gyro options reveals just how much more customizable gyro controls are in the battle royale. 
+
+“With Fortnite, what I’ve really appreciated is the understanding that if these controls benefit people, we should make sure people know about it, and if people don’t know yet that they’ll benefit from our controls, we should make sure they know about doing it,” Smart says. “Leading up to the release of this update, I see Epic really getting behind this feature and going, ‘how are we going to make sure as many people experience this as possible? How are we doing to make sure people see the potential and just give it a good go?’ And if it’s not for them, it’s not for them. I won’t speak on behalf of everyone, but I think most players will benefit from gyro controls.”
+
+Smart says that it can take some time to get used to it, though – it’s a brand new way to handle aiming in a fast-paced battle royale, after all. But he also says that some players pick up on it quickly, and once you get used to it, going back can feel like losing a good chunk of precision from your playstyle. That extra precision is why gyro aiming is such a boon to professional players or even those who simply want to take their gameplay to the next level. 
+
+“Experienced players obviously benefit from that [precise] directness of control,” Smart says. “There are far better players than I am who are able to pull off moves where people watching go, ‘that must be a mouse and keyboard player,’ but it’s not [thanks to gyro, control precision mimics the same high level of precision seen on mouse and keyboard]. To raise that skill ceiling, to have that precision, that means we do away with aim assist, though.” 
+
+If you have gyro controls disabled, aim assist will remain. If you have gyro enabled, aim assist is disabled, and Smart says that makes things fair. Gyro aiming plus aim assist would be unfair, especially for high-skilled players. 
+
+Beyond offering additional options for professional-level players, Smart’s new gyro options also greatly benefit the accessibility of Fortnite. 
+
+“It’s been really cool to work with players who, whether it’s due to injuries or a temporary disability, or whether it’s a more long-term disability, cannot play games with a standard controller,” Smart says. “[These gyro options] might allow them to play. I have received a lot of feedback in that regard, and it’s been really encouraging to get into accessibility. It’s not ‘one size fits all,’ and so the only way to meet everyone’s needs is to supply the options to cover everyone’s needs.” 
+
+Smart believes new options like this are a step in that direction. The push for accessibility in gaming, especially over the last couple of years, has been encouraging, inspiring him to continue advocating for gyro input in games. He’ll also continue to support the Flick Stick, which allows players to make quick movements and turnarounds, too, as it helps both pro-level players and enriches the overall accessibility of Fortnite. 
+
+“It’s so awesome,” Smart says when asked what it’s like seeing his own Flick Stick as an official option in Fortnite. “It’s so cool. It’s been my hope from the beginning to share this information with the world and see that games can run away with it. Now, I’m paid to do this stuff in one of the biggest games in the world, and to see that feature I came up with, even just as a name…it’s unreal. And that’s super lame because it’s a pun [Epic develops Unreal Engine], but it’s totally spot-on. This really is a dreamlike experience, seeing my feature come to the world in this way.”
+
+Now that these features are live in Fortnite, Smart would like to give a massive shout out to the entire gyro gaming community: 
+
+“They’ve been incredibly helpful along the way, with feedback, contributing code to JoyShockMapper and other open-source projects, helping folks out, and motivating me to keep pushing to change how games are played.”
+
+He also wants to give a hearty shout out to Epic Games for the opportunity and the help in developing these new options alongside him. 
+
+For more about these new gyro options in Fortnite, be sure to read Game Informer’s entire breakdown of all the new gyro settings. 
+
+      Products In This Article
+
+Fortnite
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC, Mac, iOS, Android
+
+Release Date:
+
+July 25, 2017 (PlayStation 4, Xbox One, PC, Mac), April 2, 2018 (iOS), June 12, 2018 (Switch), August 9, 2018 (Android), November 10, 2020 (Xbox Series X/S), November 12, 2020 (PlayStation 5)
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

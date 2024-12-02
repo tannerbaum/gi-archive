@@ -1,0 +1,44 @@
+
+  Check Out Layers Of Fear's Unreal Engine 5 Performance In New Gameplay Trailer
+
+
+
+
+
+
+            Bloober Team and Anshar Studios have released a new Layers of Fear gameplay trailer to demonstrate the game's performance in Unreal Engine 5. 
+
+Layers of Fear combines the experience of the first two Layers of Fear games, as well as both games' DLC, into one single game. It will also feature a new chapter called "The Final Note" that gives players an alternate perspective on the first game's story. Layers of Fear is being developed from the ground up in Unreal Engine 5. You can check out the game's performance, as well as its new mechanics and visual enhancements, in the gameplay trailer below: 
+
+Layers of Fear will support Ray-Tracing, HDR, and 4K resolution. Plus, it uses Lumen global illumination (you might recognize the word "Lumen" from Epic Games' Unreal Engine showcase back in 2021), Niagara visual effects "to create particle effects in real time" and Action System Controls "to improve the development process and optimization of all gameplay mechanics," according to a press release. 
+
+"Creating games with Unreal Engine 5 is a great opportunity for the whole team, as it means our game development process can skyrocket in quality," Anshar Studios lead programmer Tomasz Bilnicki writes in the press release. "It has an incredible power when it comes to the implementation of dynamic lighting, shadows, and potentially beautiful worlds for players to explore. We hope that – thanks to the engine – we'll provide players with the unique, immersive, visually stunning, and atmospheric experience in graphical fidelity." 
+
+Layers of Fear will hit PlayStation 5, Xbox Series X/S, and PC in June. 
+
+For more, read Game Informer's review of Layers of Fear and then check out our thoughts on its sequel in our Layers of Fear 2 review. 
+
+Are you picking up Layers of Fear this June? Let us know in the comments below!
+
+      Products In This Article
+
+Layers of Fear (2023)
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PC
+
+Release Date:
+
+2023
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

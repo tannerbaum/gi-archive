@@ -1,0 +1,74 @@
+
+  How The Developers Of Unicorn Overlord Are Making A Return To Fantasy
+
+
+
+
+
+
+            Vanillaware makes excellent games, from GrimGrimoire to Odin Sphere to Dragon’s Crown. However, it wasn’t until its 2019 release, 13 Sentinels: Aegis Rim, that the developer’s name became synonymous with “you should play this team’s games.” It’s hard to tell what, exactly, made 13 Sentinels the breakout title for Vanillaware, shipping more than 1 million copies worldwide as of August last year, making it the studio’s best-selling title. The easy answer is probably its beloved story, both in how it plays out and how it’s infused into the game’s real-time strategy mech combat.
+
+Publisher Atlus and Vanillaware released it in 2019, so when the team announced its latest title, Unicorn Overlord, last September, it was easy to conclude that this was the studio’s next big focus. And it is, but curiously, I learned in an exclusive preview of the game Vanillaware conceived it during the development of 13 Sentinels, with its creation handled in parallel with that game, albeit with a different team and director.
+
+“[It] was not a change of genre, but rather a team effort to create a worldview that was originally based on the premise of a fantasy,” lead game designer Wataru Nakanishi tells me over email after I watch roughly an hour of live Unicorn Overlord gameplay. Notably, the game isn’t a response to the sci-fi modern action of 13 Sentinels as I expected; the team wanted to make another fantasy game, which checks out considering that’s where its roots lie, dating back to its debut game, 2007’s GrimGrimoire. Looking at Vanillaware’s history, it’s 13 Sentinels that stands out as the oddball fit, with most of the studio’s games falling into the fantasy camp.
+
+Nakanishi says Unicorn Overlord is Vanillaware’s spin on the tactical fantasy RPG, and that’s immediately clear in the opening hour. Protagonist Alain is around 10 years old in the prologue, when he and the Queen of Cornia, Ilenia, witness a rebellion at the hands of one of her trusted generals. Worried about the kingdom’s fate and bloodline, her most trusted knight, Josef, is tasked with spiriting the prince away to safety. The main game’s story picks up 10 years later; Crown Prince Alain is around 20 years old, living on the island of Palevia, where he’s grown up since the rebellion. While sparring with his friend Lex, a ship flying Zenoiran colors sails into the harbor and it’s clear they mean no good.
+
+Immediately, I’m in love with the score, which oscillates between medieval choruses and an orchestral mix of horns, winds, and other instruments typical of the genre. Nakanishi tells me the independent music group Basiscape, who scored 13 Sentinels under the direction of composer Hitoshi Sakimoto, is returning to create the musical soundscape of Unicorn Overlord, this time under Mitsuhiro Kaneda, who also worked on 13 Sentinels’ score. Nakanishi says Kaneda’s score has a “newness that befits the name, ‘Rebirth of tactical fantasy RPGs,’” which is something the team mentions various times when discussing the game. The statement is a bold one and, taken at face value, almost arrogant. But Nakanishi clears it up humbly.
+
+“[That statement] reflects the fact that this is a challenging title created in the tactical RPG genre, which we have always loved, with new challenges, and that we want to convey this to our players in a straightforward and correct manner,” he says. “We are making various efforts to make the game accessible to people who have never played this genre before.”
+
+After my hour of gameplay, that’s a somewhat tall order. The genre is historically one of the more complex to get into, and my initial impression of Unicorn Overlord is that newcomers might find it overwhelming, perhaps even odd at first. You don’t necessarily control the individual fights that happen in combat encounters – instead, you determine where you want to move on the “tactical battle map.” Bumping into an enemy makes battle inevitable, but before said battle takes place, you can essentially look into the future to see how it plays out by checking unit formation, which skills they have set up, and more.
+
+After all checks are in place, and after checking with a statistic measure that tells you how they might fair in battle in a Fire Emblem-esque way, the battle begins; you do not participate but instead, watch what happens. Success comes from active skills, which use points regenerated between skirmishes, and passive skills, which trigger in combat when certain conditions are met. For example, one passive skill I see heals a unit’s character at the end of a battle, a critical tool as health does not regenerate between bouts.
+
+Back on the beautifully illustrated tactical battle map, I watch a complete battle stage, which features its own win-loss conditions, play out. The player first interacts with the Command Post, where they deploy units based on Valor points they have available to spend. Vanillaware tells me liberating towns and fortresses and defeating enemies earns more of these. You can also spend these points on special Valor Skills, which apply unique buffs inside and outside combat. From here, Unicorn Overlord plays almost like a board game, where you must tactically place your various units on the map – each comprised of different characters and companions with their own use case – and move them accordingly.
+
+Admittedly, it’s all quite confusing as I’m thrown directly hands-off into the mix, but I do witness many tutorial messages and screens we skip over for the sake of time. Nakanishi assures me Unicorn Overlord features a lot of in-game support, including “tutorials, recommended composition examples, automatic equipment, strategy settings, and switching difficulty levels so that as many people as possible can enjoy the most exciting parts of the game [...] without becoming overwhelmed.”
+
+Once an encounter begins, either by your own unit running into an enemy or vice versa, an initiative order determines when combatants attack, and the entire battle continues until the enemy (or you) are defeated or all combatants run out of action points. In the latter scenario, the side with the most health remaining claims victory. The more of it I see, the more I appreciate its cinematic approach – I, the player, set the pieces onto the board and then watch the strategic planning (or chaos) pay off, hopefully in a win. Nakanishi says the draw of this type of gameplay is immersion.
+
+“[In] the case of tactical RPGs, the combination of a strategy element, in which you have a bird’s eye view of the battlefield and make precise, step-by-step moves, and the role-playing element, in which you become attached to the characters living in the world and fight alongside them, is a game genre that offers the greatest sense of immersion,” he says. “This is the main attraction, and the team places great importance on this kind of game experience.”
+
+After a few fights in this preliminary stage early in the game’s opening hours, we liberate a Palevian town under Zenoira, switching it from a red flag to our blue flag, picking up two Valor points in the process. This newly liberated town is now a base from which we can deploy units. We advance through the stage, using Josef to cover extra ground as movement takes place in real time, and he moves the fastest, while swapping allies in and out of various units once two units are within the radius of a special green circle on the tactical battle map. Vanillaware says it’s essential to take advantage of this feature, as damaged allies might need to fall back while more adept ones, like a companion that uses magic (or magick as it’s called in the game), or another with high stamina indicated by the number on an on-screen shield, head to the front of a unit’s pack.
+
+Within each unit is a player-created makeup of classes, too, which might determine how you advance them on the tactical battle map. Horseback cavalry are excellent against Infantry, a standard soldier, as are Knights. With their great shield, Hoplite classes offer high defense. They are suitable for protecting an area or unit, so countering with a high agility class is extra important when facing one.
+
+Outside of fights, players can use items to heal or buff companions, change a loadout and equipment, and more. And all of this – the combat of Unicorn Overlord – is just one half of the experience, with the other being exploration.
+
+“On the overworld, big goals are always clearly presented, and players decide on their own how to achieve them,” Nakanishi says. “Facilities such as towns and forts around the world are controlled by the main enemy called the New Zenoiran Empire, and while exploring the overworld, you can recruit allies, procure equipment and items, and make preparations while liberating towns. Various quests and events will occur along the way, but it is up to the player to decide in what order and how to complete them, so depending on the situation of the troops [...], you may sometimes have to avoid them or postpone them.”
+
+On that note, Vanillaware expects players to roll credits at 50 hours, but completionists can expect upwards of 100.
+
+I’m not entirely sold on the combat and exploration, but that’s because I haven’t yet played it for myself. It looks interesting from a mechanical standpoint, and it’s certainly unique. If Vanillaware has made one thing clear in its portfolio, it’s that the studio has little regard for trends; it marches to the beat of its own drum within familiar genres, even if they’re niche.
+
+“Games that we find interesting from the bottom of our hearts tend to be from genres that are considered niche,” Nakanishi says. “So rather than intentionally choosing those genres, it’s because we just happen to like them. However, no matter the genre, it is meaningless if the customers who purchase it cannot find it interesting, so we always focus on ensuring the game we’re producing is understandable and enjoyable to play.”
+
+Niche or not, Unicorn Overlord is a treat for the eyes. Classic SNES RPGs of yesteryear inspire Vanillaware this time around, Nakanishi tells me, and the studio wants Unicorn Overlord to look like one of those games but on a modern platform, complete with a full suite of English or Japanese voice over. The art design, born from a single piece of concept art, is meant to evoke that period’s games, somewhere between retro and painterly. That piece of art is also the game’s title screen. “Based on this illustration, the character designs for battle were decided, battle backgrounds were drawn, and the overall art style came together,” he adds.
+
+All of this only scratches the surface of what I saw in that first hour of Unicorn Overlord gameplay. There’s plenty of story crammed into it – a story not worth spoiling here since the narrative is a big draw for many Vanillaware fans – and an intense number of menus RPG fans will surely love digging into the minutiae of. There are more than 60 companions to recruit freely throughout the campaign, depending on how you tackle the game’s more open nature of progression, and lots of great music and visuals to accompany it if what I’ve already heard and seen is any indication. In short, there’s still a lot of game to uncover in Unicorn Overlord, and even after an hour and a lengthy interview, it feels as if I’ve barely wrapped my head around this tactical fantasy RPG experience. With little time to go until its release next month, I’m excited to see what Vanillaware can do with its return to the fantasy genre, where its history began almost two decades ago.
+
+This article originally appeared in Issue 363 of Game Informer
+
+      Products In This Article
+
+Unicorn Overlord
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Switch
+
+Release Date:
+
+March 8, 2024
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

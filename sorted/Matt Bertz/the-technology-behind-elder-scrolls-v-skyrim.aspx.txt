@@ -1,0 +1,72 @@
+
+                                          The Elder Scrolls V: Skyrim
+                  
+
+
+  The Technology Behind The Elder Scrolls V: Skyrim
+
+
+
+
+Platform
+Switch, PlayStation 3, Xbox 360, PC
+
+Publisher
+Bethesda Softworks
+
+Developer
+Bethesda Softworks
+
+Release
+November 11, 2011
+
+Rating
+Mature
+
+The Xbox 360 launched in November 2005 with a handful of titles, but it wasn’t until The Elder Scrolls IV: Oblivion released in the following March that gamers truly understood the power of next-generation consoles. The vast and impressively detailed open world of Oblivion won over critics and gamers alike with cutting edge graphics, high dynamic range lighting, and the innovative Radiant AI technology that endowed non-player characters with decision-making abilities and daily routines. Taken in combination, these technologies created a fantasy setting that felt more alive and vibrant than any role-playing predecessor.
+In the five years since Bethesda last visited Tamriel, the studio honed its chops with the post-apocalyptic hit Fallout 3. Many of Fallout's technological refinements carry over to The Elder Scrolls V: Skyrim, but Bethesda Studios has also developed and contracted a suite of technological tools that allow the team to reach far beyond anything they've done before. 
+Creation Engine
+Though Skyrim's Nordic setting is a more rugged environment than the Renaissance festival feel of Oblivion's Cyrodiil, the new setting isn't lacking in breathtaking views. To create a diverse country filled with steep mountain passes and dense forests, babbling brooks and violent waterfalls, glacier coastlines and snowy tundras, Bethesda went back to the drawing board and rewrote every major system powering the gameplay experience. The result is the newly dubbed Creation Engine and Kit.
+“The big things for us were to draw a lot of stuff in the distance so we have a really sophisticated level of detail, more so than what we've had in the past for how things stream in and how detail gets added to them as they get closer to the camera,” explains Bethesda Studios creative director Todd Howard.
+Draw distances are great for creating those postcard-worthy landscapes, but the players eyes aren't always fixed on the horizon. To give the immediate surrounding a more believable look and feel, Bethesda increased the emphasis on the play between light and shadow on the entire world.“Because our worlds are so big all of the lighting has to be dynamic,” Howard says. “That's something we had a little bit of in the past with shadowing, but not on everything. Now we have it on everything. It just makes the whole thing a lot more believable when you're there.” 
+A lot of the environments are dominated by the untamed wilderness, which look great thanks to Bethesda's overhauled foliage system. In previous games the team licensed the SpeedTree middleware to render the forests. For Skyrim, they've created their own platform that allows artists to build whatever kind of trees they want and to dictate how they animate. Artists can alter the weight of the branches to adjust how much they move in the wind, which is an effective way of, for instance, actualizing the danger of traversing steep mountain passes with howling winds violently shaking branches.  
+Given its northern location and extreme elevations, Skyrim's climate is more prone to snowfall than Cyrodiil. To create realistic precipitation effects, Bethesda originally tried to use shaders and adjust their opacity and rim lighting, but once the artists built the models and populated the world the snow appeared to fall too evenly. To work around this problem, they built a new precipitation system that allows artists to define how much snow will hit particular objects. The program scans the geography, then calculates where the snow should fall to make sure it accumulates properly on the trees, rocks, and bushes. 
+Bethesda has another ten months before Skyrim releases, but thanks to the Creation Engine the world already looks much more stunning than its predecessors. The non-player characters also seem to be more intelligent thanks to alterations the team made to the Radiant AI technology.
+Radiant AI
+The Radiant AI technology introduced in Oblivion went a long way toward making the NPCs act in realistic ways. If you followed a citizen through his daily activities, you would likely witness him or her eating breakfast, setting out to work the land, stopping by the pub for a pint after work, and then returning home to hit the sack.
+In reality, the technology driving NPC behavior wasn't overly sophisticated. Bethesda could only assign five or six types of tasks to the townspeople, and there wasn't a lot of nuance to their actions. In Skyrim, the characters have much more defined individual personalities.
+You won't find townspeople loitering aimlessly in town squares anymore. Each denizen performs tasks that make sense in their environment. To impart the towns and cities with a greater sense of life, Bethesda has populated them with mills, farms, and mines that give the NPCs believable tasks to occupy their day. In the forest village we visited during the demo, most of the citizens were hard at work chopping wood, running logs through the mill, and carrying goods through the town. 
+The improved Radiant AI technology is also more aware of how a citizen should react to your actions. As you perform tasks for them or terrorize them by ransacking their home, the NPCs develop feelings about you. If you're good friends with a particular NPC and barge into his house during the middle of the night, he may offer you lodging rather than demand you leave the premises. “Your friend would let you eat the apple in his house,” Howard says. If you swing your weapon near an NPC, knock items off their dinner table, or try to steal something of value, they'll react with an appropriate level of hostility given their prior relationship to you.  
+Havok Behavior
+The expansive Oblivion and Fallout 3 settings created a wonderful sense of place, but the robotic and unrealistic character animations sometimes betrayed the sense of immersion the environments imparted. Aware of the disconnect, Bethesda has enlisted Havok's new Behavior technology to endow Skyrim's characters and creatures with a proper sense of movement. 
+“We looked at a bunch of [animation solutions], and this is about the tippy-top state-of-the-art stuff out there,” Howard says. “I think we're the first real big game to use it.”
+Havok Behavior is a flexible animation tool that allows the developers to rapidly prototype and preview new animations and blend them together seamlessly with a few mouse clicks and minimal code support. Bethesda is using it to create more nuance in character and creature movement, govern special effects, and even to control how characters struggle to move when trapped in environmental hazards like spider webs. Characters now transition more realistically between walking, jogging, and running, and the increased nuance between animations has allowed Bethesda to better balance the combat in both first- and third-person perspective by adjusting the timing values for swings and blocks depending on your perspective. “We definitely have made a significant jump in how it plays [in third person perspective],” Howard proclaims.
+The increased animation fidelity and diversity has enabled Bethesda to ditch the awkward dialogue camera perspective that paused the game and presented you with an extreme closeup of the person with whom you were speaking. Now camera stays in the same perspective used during combat and exploration, and players are free to look around while engaging in conversation. Rather than drop their activities to give you their undivided attention, the NPCs continue to go about their business while in discussion. For instance, a barkeep may continue to clean cups while talking, and even move from behind the counter to a seat. A mill worker chopping wood may engage in conversation without turning away from his duties, only occasionally glancing toward you during the exchange.
+Perhaps the most impressive use of the Behavior technology is how Bethesda is using it to create the dragon animations. Bethesda has worked meticulously to make sure the beasts look powerful and menacing when banking, flapping their wings, gaining altitude before making another strafing run, and breathing fire on their hapless victims. None of the dragons' actions are scripted, and Behavior helps make the movements look non-mechanical, even when the dragons are speaking/shouting.  
+With all this technology at its fingertips, surely Bethesda could put players on the back of a woolly mammoth or a fire-breathing dragon, right? When we ask, for the first time during our visit Howard clams up. “We're not talking about mounts yet,” he says coyly.
+Radiant Story
+Before they started planning missions for Skyrim, Howard and his team reflected on what they liked about their older projects. They kept returning to the randomized encounters in Fallout 3 and Daggerfall. To build off the success of those models and improve the experience so the random encounters feel less forced or arbitrary, Bethesda undertook the ambitious task of constructing a new story management system dubbed Radiant Story. Many quests are still completely governed by Bethesda, but the Radiant Story system helps randomize and relate the side quests to players to make the experience as dynamic and reactive as possible. Rather than inundate you with a string of unrelated and mundane tasks, it tailors missions based on who your character is, where you're at, what you've done in the past, and what you're currently doing.
+“Traditionally in an assassination quest, we would pick someone of interest and have you assassinate them,” Howard says. “Now there is a template for an assassination mission and the game can conditionalize all the roles – where it happens, under what conditions does it take place, who wants someone assassinated, and who they want assassinated. All this can be generated based on where the character is, who he's met. They can conditionalize that someone who you've done a quest for before wants someone assassinated, and the target could be someone with whom you've spent a lot of time before.”
+The Radiant Story system also helps deal with untimely deaths. Predicting player behavior in an open world is tough, as many often stray from the main quests and get into trouble by murdering quest givers. In Skyrim, if you kill a shop owner who had a few quests to offer if you spend the time to get to know him, his sister may take over the shop and offer the quest that was formerly ascribed to him. The quest logic automatically picks up with pre-recorded voice work because Bethesda already assigned her that contingency role. Tread lightly though, because she's not oblivious to your dastardly actions. She will still recognize you killed her brother and perhaps even try to exact revenge later in the game.  
+Radiant Story is also smart enough to know which caves and dungeons you've already visited and thus conditionalize where, for instance, a kidnapped person is being held to direct you toward a specific place you haven't been to before, populated with a specific level of enemy. This helps Bethesda avoid repetition and usher the player into areas the team wants you to explore.
+The story manager is always watching you, which can leads to strange random encounters as well. If you drop a sword in the middle of town, someone may pick it up and return it to you, or two guys may get into a fight over who gets to take it. If you're really good at a particular skill, like one-handed weapons or destruction spells, a stranger who knows of your reputation  may ask for training, challenge you to a duel, or beg you for a favor that will require you to show off your skill.
+Skyrim also tracks your friendships and grudges to generate missions. Do a small favor for a farmer and it may eventually lead to a larger quest. Some NPCs will even agree to be your companion to help you out in specific situations.
+Radiant Story doesn't limit these new missions to encounters in towns. Like in Fallout 3 and Red Dead Redemption, a lot of random events occur while you're exploring the wilderness as well. "There are a wide variety of these random encounters," says design director Bruce Nesmith. "Many of them are things the player can interact with, some are not. You might save a priest who then tells you about a dungeon where there are people trapped that need saving. You might run across mammoth beset by a pack of wolves."
+Some open world games go overboard with these side activities and stray too far from the main storyline. Bethesda is aware of this pitfall and is actively engaged in preventing the feeling of being overwhelmed by the Radiant Story missions. 
+Skyrim still has several months of development left, but after seeing the technology in action it looks like Bethesda's on track to set a new high bar for open world role-playing games.
+
+      Products In This Article
+
+The Elder Scrolls V: Skyrim
+
+Platform:
+
+Switch, PlayStation 3, Xbox 360, PC
+
+Release Date:
+
+November 11, 2011
+
+Purchase
+More Info
+

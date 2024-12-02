@@ -1,0 +1,78 @@
+
+  Stellar Blade Feature – Angel From Heaven
+
+
+
+
+
+
+            Introduction
+
+Stellar Blade’s development was announced in 2019 by Korean developer Shift Up Second EVE Studio for current-gen consoles, boasting talent from the popular MMO Blade & Soul. It wasn’t until 2021, however, that we got our first proper look at Stellar Blade during a PlayStation showcase, where it was shown with its former title, Project Eve.
+
+For those not paying close attention to Korean video game news, it felt like it came out of nowhere. In the trailer, a beautiful woman is seen fighting a hybrid monster robot. She uses a sword to break off one of the cyborg creature’s arms to use as a weapon before being thrown through a wall, revealing the fight was happening on a space station all along. As she careens through space further and further away from the station, it is revealed that a much larger, much creepier creature with too many eyes has grafted itself onto the facility from the outside. It’s an attention-grabbing first look, and the trailer only gets more interesting from there as the woman (whose name is Eve) is seen pulling off more acrobatic combat moves on an Earth that has experienced some kind of apocalypse.
+
+Considering Eve, her combat style, settings in both space and on a ravaged Earth, and a robot floating behind Eve offering help and advice, many were quick to compare the game to Nier: Automata. Speaking with Stellar Blade’s game director, Hyung-Tae Kim, and its technical director Dong-Gi Lee, through a translator, that is not entirely by accident, even if the final game will likely showcase plenty of differences between the two.
+
+“You’re probably aware of this, but Yoko Taro’s Nier: Automata was the biggest inspiration for Stellar Blade,” Kim says. “That was even the starting point or motivation to make this game, so I’m very grateful for that.” Both Kim and Lee are quick to detail other points of inspiration. The two specifically call out anime and manga like Ghost in the Shell and Battle Angel Alita but add, “While Nier: Automata did give motive to the progression of the story, the combat itself is different. Of course, they share a common factor of being an action game, but we tried to make the combat flashier yet tense.”
+
+A Game With An Ending
+
+A Game With An Ending
+
+After playing Nier: Automata, but before Kim, Lee, and the Shift Up team were diving into the minutiae of making Stellar Blade, development began in 2018 with a much simpler desire: to make a video game with an ending. During that time, development in Korea was focused predominantly on the mobile market, with few focused on console development, which led to some barriers. “It was pretty tough to get all the developers of console games into one team [...] mobile games – they have their own, I guess, pros, because you get to enjoy the world that you love whenever you want, it continues on, and it’s maintained constantly, but then there is a market where only that kind of game exists,” Kim says. “That balance needed to be broken.”
+
+Combat For Everyone
+
+Combat For Everyone
+
+Stellar Blade’s combat is flashy in all gameplay footage to date, with Eve pulling off pre-determined moves and throwing the titular Stellar Blade into the air while her long hair twirls around the action, but those impressive animations don’t explain what players are doing moment-to-moment. Eve can learn various combos, but it’s not the kind of action game where you are memorizing a series of useful inputs and trying to execute the right ones at the right moments. Every encounter begins with the decision of going in offensively or defensively. Enemies will not wait for Eve to make a move, and she can defend, parry, or use evasive maneuvers. Countering enemies will put them in a groggy state, which opens the window to use combos or “Beta Skills,” as Kim and Lee refer to them. “There is also what’s called the Balance Gauge, and if you succeed in consecutive parrying, you can deal a huge blow to the enemies,” Kim says. “Other combat options include assassination, ranged attacks, and more, depending on the situation.”
+
+Boss battles carry a similar strategy. Kim refers to them as “the most important content in Stellar Blade” and adds that there will be a level of pattern recognition required to defeat them. Kim says combat is being designed in such a way that it will require proactive effort from the player, but it is not trying to make an overly challenging game like so many that are inspired by From Software titles like Sekiro: Shadows Die Twice. Difficult modes will exist for players who want them, but so will story modes. “Another mode exists for someone who wants to focus more on the narrative part of the game,” Kim says, “But that doesn’t necessarily mean that we got rid of the fun of the battle itself.”
+
+Heaven And (Destroyed) Earth
+
+Heaven And (Destroyed) Earth
+
+In the world of Stellar Blade, Eve is an airborne squad member from space, but she is human. She has a secret that distinguishes her from her coworkers (that Kim and Lee were not ready to share), but otherwise, she is at the same level as the other members of her squad. “Humanity has been defeated by these enemies called Naytibas that appeared out of nowhere one day on Earth, and so humanity, they took this space elevator, and they escaped to an off-world colony,” Kim says. That’s where privileged humans live, but many have continued to survive on Earth and Eve and her peers have come back down to try and take the world back from the Naytibas. Of course, as is often the case in science fiction, not everything is as it seems. Eve is surprised to find humans living on Earth. Everyone had been told there were no survivors.
+
+Many of the humans Eve meets on Earth call her an angel, considering where she came from, and welcome her assistance in the form of sidequests. “You can see it as an angel that descended from outer space with a sword,” Kim says. Defeating the Naytibas is the main mission, but many need help on an immediate and smaller scale. Kim does not intend for these sidequests to break the format. When asked what sidequests from other games have influenced the ones in Stellar Blade, he replied, “Let’s see… The side quests were not influenced by certain games specifically. I should say that they were influenced by all the games that I have played all this time.”
+
+For example, there is one series of consecutive sidequests where Eve is trying to help a broken woman in an old pub in Xion, a location where humans have found refuge after the apocalypse. The woman used to be a singer, but now she is struggling to even stay alive. The missions Eve completes will help her recover mentally and physically, though Kim teases an unexpected ending. “There are some choices that alter the results,” Kim says when asked if the player will be making story decisions in these moments, “But honestly, I wouldn’t say you have much freedom. But there certainly are important decisions to be made.”
+
+Costumes serve as one of the rewards for completing sidequests but don’t expect wearing different outfits to change Eve’s statistics. The goal is to make sure no singular clothing item is emphasized. They want players to choose the outfits based on personal preference rather than statistical significance. Approximately 30 costumes will be discoverable throughout the course of the game, whether by just stumbling across them, receiving them as rewards, or creating them through found recipes. The team also plans to add more after release.
+
+Kim used the terms “ingredients” and “recipes” when describing creating certain costumes, but Stellar Blade won’t have players crafting new weapons – The Stellar Blade is Eve’s only weapon. It can be improved to swing faster or deliver more critical hits, but they want players to fully focus on the titular sword.
+
+To The Future
+
+To The Future
+
+Every new look at Stellar Blade showcases footage of a game that looks stunning in action. I also appreciate Kim’s candid appreciation for Nier: Automata and its storytelling. It’s rare developers are so straightforward about the games that inspired them, and it is refreshing to hear someone love a game so much that they wanted to make one like it. The feeling of combat remains Stellar Blade’s primary question mark as I, unfortunately, did not get a chance to go hands-on, but I am already invested in finding out Eve’s secret, what the Naytibas are, and what is happening on this version of Earth.
+
+“When the world experiences an apocalypse, people develop these uncanny religious tendencies, and it will be interesting to see the changes in them,” Kim says, wrapping up our discussion. A compelling seed planted for a science fiction narrative.
+
+This article originally appeared in Issue 364 of Game Informer
+
+      Products In This Article
+
+Stellar Blade
+
+Platform:
+
+PlayStation 5
+
+Release Date:
+
+April 26, 2024
+
+Purchase
+More Info
+
+Kyle Hilliard
+Magazine Content Director
+Kyle plays entirely too much Picross. He once wrote a whole book about The Legend of Zelda.
+
+Email
+Twitter
+

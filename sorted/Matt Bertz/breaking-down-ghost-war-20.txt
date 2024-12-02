@@ -1,0 +1,97 @@
+
+                                          Ghost Recon Breakpoint
+                  
+
+
+  Breaking Down Ghost War 2.0
+
+
+
+
+Platform
+PlayStation 4, Xbox One, Stadia, PC
+
+Publisher
+Ubisoft
+
+Developer
+Ubisoft Paris
+
+Release
+October 4, 2019
+
+Rating
+Mature
+
+            Ghost Recon Wildlands was the first game in the series to ship without a competitive multiplayer mode, a strange move considering it has always been a central part of the brand since the early days of Xbox Live. Ubisoft eventually added the Ghost War PvP suite to the game as a free update seven months later and continued to iterate on it even into 2019. The 4v4 mode delivers tense, cat-and-mouse matches as teams move cautiously to preserve their cover while trying to triangulate the threat. With a short time-to-kill, getting a jump on opponents often makes the difference between living and dying. 
+
+Ghost Recon Breakpoint ships with Ghost War on day one, and given the warm reception the mode had in Wildlands, Ubisoft wants to preserve the white-knuckled action. However, the team at Ubisoft Paris who developed the mode for Wildlands also saw a lot of room for improvement as it transitioned to work on the next game. Here is everything you need to know about how Ghost War evolves in Breakpoint.    
+
+DEDICATED SERVERS FTW
+
+That’s right, Ghost Recon has finally moved into the 21st century of competitive multiplayer. Players no longer have to put up with the frustrations of peer-to-peer networking, which means you can expect a better quality experience and better cheating detection. For those of you worried about the matchmaking pairing you up against elite players, Ubisoft says the matchmaking is based on a skill rating. 
+
+We also learned a few other infrastructure details worth sharing during our time at Ubisoft Paris. Ghost War will not have a ranked mode at launch, crossplay, or a play-test server for giving balancing tweaks a test run before going live. “We won't have a play-test server, but we do have a lot of tracking and data analysis in place,” says lead Ghost War game designer Alexander Rice. “We have a team that's dedicated to analyzing the stats that come out of the game, so we'll have that, plus we plan on course-correcting throughout the game if we need to do balance changes and such.”
+
+PROGRESSION EXTENDS ACROSS PVE AND PVP
+
+The competitive multiplayer experience may happen away from the campaign, but Breakpoint doesn’t divorce player progression into two tracks. Instead, your character carries over the same cosmetics, weapons, attachments, and other unlocks from one mode to another. 
+
+“Everything you do, whatever you choose to play, all the time you invest in the game will feed your character,” says creative director Eric Couzian. “You'll never waste minutes in the game.”
+
+This extends to the classes and perks you unlock as well. Breakpoint will have four classes (assault, sharpshooter, panther, and field medic) and around 30 perks when it ships. You can equip three perks at one time, and the vast majority of them are viable options regardless of which mode you’re playing. Some just have a base value. For instance, Slim Shadow increases your stealth 60 percent. Others have trade-offs like the Twig perk, which increases your health regen speed 100 percent but drops your maximum health by 50 points. Only a few perks are designed specifically for PvE; other than those you can mix and match between the roughly 30 perks however you see fit. 
+
+Yep Since progression is shared, Ubisoft wanted to make sure you can gain XP at a similar rate no matter which mode you are playing. “There's pretty much a parity,” Rice says. “The philosophy behind PvP and XP gains and especially rewards is that we compare PvP with the higher skill activities that you get in PVE.”
+
+All weapons and attachments are shared between modes, but since Breakpoint employs a level-based loot system, not all guns are created equal. To prevent high-leveled players from running roughshod over ill-equipped newbs in Ghost War, Ubisoft Paris says there is a loot-level cap in place to normalize damage. You can still bring legendary weapons to the party (Ghost Recon’s version of exotics), but their stat increases are marginalized when you turn your sights on fellow players. 
+
+Progression may be shared across the campaign and multiplayer, but Ubisoft says Ghost War rewards players with unique customization options you can’t find in the wider region of Auroa. 
+
+MAPS & MODES
+
+Since Wildlands shipped without PvP multiplayer, the Ghost War developers had the tricky task of taking locations from the Bolivian map and retrofitting them for competitive play. Working from the ground up on Breakpoint, they had the leeway of handcrafting these maps to tailor them specifically for PvP. Their objective? Make each map viable for all tactics and play styles.
+
+Breakpoint will ship with six maps to start, two of which we experienced in a hands-on session. Since the community clamored so much for a snow map when Ghost War was introduced to Wildlands, Ubisoft wanted to make sure it shipped one off the bat for Breakpoint. The other map we played, Skell Port, is essentially an improved version of the popular Quarry map set in an industrial offloading port.
+
+Six maps seem paltry compared to other shooters with multiplayer components, but to give the play experience more variety Ubisoft can change the time of day and weather on each. Players can also set up custom matches with variable settings. For instance, if you want a pure combat experience you can remove the presence of drones. 
+
+Ghost War ships with two modes at launch – elimination and sabotage. None of the maps feature NPCs or vehicles. 
+
+HOW DOES IT PLAY?
+
+One of the edicts driving the design decisions with the new version of Ghost War was to encourage active gameplay and not reward the passive play, which is immediately noticeable when you fire up the game. One of the main ways Ubisoft accomplishes this is the new randomized, scattered loot. Soldiers no longer start with supplies like grenades, health syringes, or drones. Before the match begins, players can look at a map overview to see where the loot caches are located, pinging them to provide direction for teammates. Once the match starts, players scramble to grab a few supplies before the bullets start firing. All of the gear operates as consumables, so once you’ve used your drone it’s gone. 
+
+After the rush to stockpile resources, the focus turns to moving into position and identifying threats. Drones aren’t nearly as powerful in the new version of Ghost War as they were previously. The detection mechanics are now more demanding, so you must be within 200 meters to get a drone to mark an enemy. The blast radius for taking down drones is super forgiving as well; all you need to do is aim in its general direction to end the surveillance. I’ll have to play more to determine if the drones feel too nerfed, but my first impression is I like their limited effectiveness. If you are tagged, it also seems easier to lose your mark. 
+
+The blending between campaign and multiplayer makes its presence known in the gameplay as well, particularly with the light survival mechanics introduced in Breakpoint. Falling or jumping off higher levels can result in injury and even death, and when you’re injured you may need to take a breather to apply a bandage to regain mobility.
+
+As in Wildlands, the best-of-three showdowns are fraught with tension and anticipation. To encourage more firefights, the elimination mode now features a shrinking combat zone like a battle-royale game. This ensures more matches end in fireworks instead of stalemates where teams are comfortable entrenched in distant cover. Ubisoft says you cannot turn off the shrinking combat zone for a more MilSim experience, but if the community requests it the devs will look into making it an option for custom matches. 
+
+POST-LAUNCH PLANS
+
+As with every Ubisoft game, the publisher has big post-launch plans in mind for Ghost Recon Wildlands. Ghost War will be receiving regular updates that include balance changes and new maps, modes, events, classes, and even raids. Community feedback will help drive the evolution of the experience as well. 
+
+Ghost Recon Breakpoint releases October 4 for PS4, Xbox One, and PC. You can get your hands on the game in advance during the beta that kicks off September 5. To learn more about the game, read our previous coverage: 
+
+Everything You Need To Know About Ghost Recon Breakpoint
+Touring The Archipelago Auroa
+Ubisoft Explains Why Ghost Recon Breakpoint Has A Fictional Setting
+A.I. Partners Coming To Ghost Recon Breakpoint Post-Launch
+Finding Authenticity In Ghost Recon Breakpoint's Fiction
+Exploring Ghost Recon Breakpoint's Crafting And Endgame Content
+
+      Products In This Article
+
+Ghost Recon Breakpoint
+
+Platform:
+
+PlayStation 4, Xbox One, Stadia, PC
+
+Release Date:
+
+October 4, 2019
+
+Purchase
+More Info
+

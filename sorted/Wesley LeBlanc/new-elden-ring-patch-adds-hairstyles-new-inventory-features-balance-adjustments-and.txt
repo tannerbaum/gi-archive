@@ -1,0 +1,254 @@
+
+  New Elden Ring Patch Adds Hairstyles, New Inventory Features, Balance Adjustments, And More
+
+
+
+
+
+
+            Elden Ring's massive expansion, Shadow of the Erdtree, goes live tomorrow, on June 21, and ahead of its launch, developer From Software has released a patch that adds new hairstyles, inventory options, balance adjustments, and more. It also allows you to summon your Spectral Steed during the game's final fight (which, if you've beaten that boss, you know how helpful your mount would have been during it). 
+
+The patch – V1.12 – is now live on PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, and PC (via Steam) and also features hundreds of other changes, like adjustments to weapons, skills, armaments, and general balance-related things. 
+
+The highlight of the patch is all of the new features it adds to Elden Ring, and you can check those out below: 
+
+New Elden Ring Features In Patch V1.12
+
+Added support for the Shadow of the Erdtree DLC.Five new hairstyles have been added to the game. They can be selected during character creation, using the Clouded Mirror Stand or using Rennala's Rebirth feature.
+Added "Map Functions Menu" to the Map Menu.
+New Summoning Pool features:
+
+Active Summoning Pools will now be carried over to NG+.
+Individual Summoning Pools can now be enabled / disabled in the newly added Map Functions Menu.
+
+If "Include Distant Areas" is selected when using the Small Golden Effigy, summoning pools within the Mohgwyn Palace will not be selected for summoning, even if you have activated them.
+If you are within the Moghwyn Palace and select “Nearby Only” when using the Small Golden Effigy, you will be able to be summoned within the area.
+
+New Inventory features:
+
+Newly obtained items will be marked with a "!“.
+A new tab called "Recent Items" has been added to review recently obtained items.
+Display settings can be changed from the Display tab in the system menu.
+Added new feature to summon spectral steed during the Elden Beast the boss battle.
+Added new feature to the colosseum: crafted consumable items that have been used during a battle will be replenished at the end of your session.
+Added support for Arabic language.
+
+ Everything Else Added To Elden Ring In Patch V1.12
+
+Below, we'll list all of the changes, balance adjustments, and more made to to Elden Ring with today's patch. 
+
+Steam-Only New Features
+
+New Keyboard/mouse settings:
+
+Added "lock-on change threshold" setting of mouse controls.
+Added a setting to change cursor movement behaviour in the map menu.
+Added key assignments to open the map in the Key Settings menu.
+
+PvP-Exclusive Balance Adjustments
+
+The following changes only affect PvP – not cooperative or single player play. 
+
+Weapon Adjustments
+
+After being affected by madness and/or sleep status effects, the status effect build up will be halted for a short period of time.
+Increased the poise damage of some attacks against other players of the following weapon types:
+
+Greatswords / Colossal Swords /Curved Greatswords / Greataxes / Hammers / Flails / Great Hammers / Colossal Weapons / Great Spears / Halberds
+
+Ajusted poise damage of some dual wield attacks against other players by of the following weapon types:
+
+Greatswords / Axes / Great Axes / Hammers / Great Hammers / Halberds / Reapers
+
+Increased poise damage against other players from dual wielded attacks of the following weapon types:
+
+Axes / Hammers / Halberds / Reapers
+
+Increased poise damage of Axes against other players
+Decreased the damage of dual wield attacks against other players of all weapon types.
+Decreased the poise damage of some attacks against other players of the following weapon types:
+
+Daggers / Straight Swords / Thrusting Swords / Heavy Thrusting Swords / Curved Swords / Katanas / Twinblades / Axes / Spears / Reapers / Whips / Fists / Claws
+
+Decreased the Poise value of some attack motions against other players of the following weapon types:
+
+Greatswords / Colossal Swords / Curved Greatswords / Greataxes / Hammers / Flails / Great Hammers / Colossal Weapons / Great Spears / Halberds
+
+Decreased the damage of some attacks against other players for the Heavy Thrusting Swords weapon type.
+Decreased the damage of dual wield attacks against other players for the following weapon types:
+
+Spears / Great Spears
+
+Decreased the damage animation motion of the following weapon types when another player is stunned by a two-handed heavy running attack:
+
+Fists / Claws
+
+Decreased the effects of "Baldachin's Blessing" and "Radiant Baldachin's Blessing" to increase the Poise value and Physical damage negation in PvP.
+
+Skill Adjustments
+
+Spinning Slash: Decreased damage
+Flaming Strike: Decreased damage
+Rain of Arrows: Decreased damage and poise damage
+Cursed-Blood Slash: Decreased damage
+Transient Moonlight: Decreased damage
+Lightning Storm: Decreased poise damage
+Spearcall Ritual: Decreased poise damage
+Ancient Lightning Spear: Decreased damage
+Radahn's Rain: Decreased damage and poise damage
+Spinning Weapon: Decreased damage animation motion when stunning other players
+
+Incantation Adjustments
+
+Black Flame's Protection: Decreased physical block rate
+Bestial Sling: Decreased poise damage
+
+General Balance Adjustments
+
+The following adjustments affect both PvE and PvP in Elden Ring. 
+
+Adjusted turning speed when using dual wielded Heavy Thrusting Swords.
+Increased Dexterity scaling when assigning Ashes of War with corresponding weapon Affinities.
+Increased Stamina consumption when guarding against attacks of the following weapon types:
+
+Greatswords / Curved Greatswords / Great Axes / Great Hammers
+
+Increased the speed of some attacks of the following weapon types:
+
+Axes / Greataxes / Hammers / Flails / Reapers
+
+Increased the damage of charged attacks of the following weapon types:
+
+Axes / Greataxes / Some Colossal Weapons
+
+Increased the turning speed of normal attacks of the Reapers weapon type.
+Increased damage of the Whips weapon type, except the "Ulmi" Whip.
+Increased the speed of consecutive attacks for the following weapon types:
+
+Light Bows / Long Bows
+
+Increased the poise damage of the Torches weapon type.
+Increased the duration of the effect of Mohg’s Great Rune that increases the attack power when a bleeding status effect is triggered by a nearby summoned spirit.
+Decreased the heal amount reduction from the Flask of Crimson Tears and increased the heal on attack effect when using Malenia’s Great Rune.
+Increased the attack power of Arrows, Greatarrows, Bolts, and Greatbolts that can be crafted through Item Crafting.
+Decreased the turning speed of dual wielded weapons for the following weapon types:
+
+Spears / Great Spears
+
+Decreased poise generation speed during some attacks of the following weapon types:
+
+Great Spears / Halberd Spears
+
+Decreased the effect that increases the power of spells of Terra Magica.
+Decreased the effect duration of the Cerulean Hidden Tear.
+
+Armament Adjustments
+
+Troll Knight's Sword: Increased damage
+Zamor Curved Sword: Increased damage; Increased movement distance of some attacks
+Forked Hatchet: Increased damage
+Ripple Blade: Decreased the status buildup enhancement that scales with the Arcane attribute
+Serpent-Hunter: Increased the speed of crouching attacks
+Ripple Crescent Halberd: Decreased the status buildup enhancement that scales with the Arcane attribute
+Albinauric Staff: Increased attribute scaling
+Gelmir Glintstone Staff: Increased attribute scaling
+Prince of Death's Staff: Increased attribute scaling
+Golden Order Seal: Increased attribute scaling
+Clawmark Seal: Increased attribute scaling
+Dragon Communion Seal: Increased attribute scaling
+
+Skill Adjustments
+
+Kick: Increased the poise amount when using this skill
+Spinning Slash: Decreased the status buildup of your weapon when using this skill
+Storm Assault: Decreased the poise generation speed
+Stormcaller: Decreased the poise generation speed
+Storm Stomp: Decreased the poise generation speed
+Glintblade Phalanx: Decreased poise damage
+Loretta's Slash: Decreased the poise generation speed
+Bloody Slash: Decreased the poise generation speed
+Strong shot: Increased the speed of some attacks
+Sky Shot: Increased the speed when doing consecutive attacks
+Enchanted Shot: Increased the speed of some attacks
+Parry: Increased Parry hitbox generation speed
+Storm Wall: Increased Parry hitbox generation speed
+Thops's Barrier: Increased Parry hitbox generation speed
+Buckler Parry: Added attack recovery time after using this skill
+Taker's Flames: Decreased the fire’s poise damage; Removed the fire’s knocking down effect
+Moonlight Greatsword: Increased the poise damage of heavy and charged attacks, but decreased the poise damage of the generated magic wave
+Thundercloud Form: Decreased poise damage
+Magma Shower: Decreased the poise generation speed
+Thunderstorm: Decreased damage
+Bubble Shower: Decreased damage and poise damage
+I Command Thee, Kneel!: Increased the poise value during the active part of the Skill; Decreased the poise generation speed
+Bloodboon Ritual: Decreased the generated status buildup
+Loretta's Slash: Decreased the poise generation speed
+Bear Witness!: Increased damage and poise damage
+Contagious Fury: Decreased the amount of attack power generated by this skill
+
+Bug Fixes
+
+In the inventory menu, added the amount of FP consumed for Skills in the "Ashes of War" display information.
+Reduced the time it takes for some gestures to become cancelable by rolling.
+Adjusted the input speed in some menus, such as conversation menus, to prevent accidental skips.
+Fixed a bug that caused damage to the player and friendly summons when using the "Last Rites" Skill under specific circumstances.
+Fixed a bug that caused higher than expected poise damage when performing left-handed attacks with Thrusting Swords.
+Fixed a bug with Spinning Slash Skill that generated poise when used with Twinblades.
+Fixed a bug in The Queen's Black Flame Skill that did not apply poise when using this skill.
+Fixed a bug where the characteristics of some weapons were not working properly against mounted enemies.
+Fixed a bug that caused a Bleed buildup when using the Spinning Strikes Skill while under the effect of the Bloodflame Blade Skill, even if the attack did not hit the enemy.
+Fixed a bug that caused some Skill to perform incorrectly when specific actions were performed.
+Fixed a bug that caused unexpected behaviors when some incantations were used in quick succession.
+Fixed a bug where the spectral steed did not trigger a death fall under certain circumstances.
+Fixed a bug that prevented players from getting hit by other players under certain circumstances in Multiplayer.
+Fixed a bug in the Colosseum that allowed Critical hits against players in specific death animations.
+Fixed a bug where the Mimic’s Veil effect was not properly reflected to other players under certain circumstances.
+Fixed a bug that caused other players summoned as hunters to immediately return after being summoned under certain circumstances.
+Fixed a bug in Multiplayer where some spirits could be locked on even after they disappeared.
+Improved Multiplayer stability under certain circumstances
+Fixed a bug that caused specific maps to render differently than expected under certain circumstances.
+Fixed a bug where the damage of some equipped weapons were incorrectly displayed in various menus.
+Fixes a bug that prevented marking sites of Grace in the map menu under certain circumstances.
+Fixed a bug where item names and the cursor were not displayed correctly in the inventory menu under certain circumstances.
+Fixed a bug where event actions were available while being in the map menu.
+Fixed a bug in the map menu that caused specific terrains to be displayed differently from the actual terrain.
+
+Are you hopping into Shadow of the Erdtree tomorrow? Let us know in the comments below!
+
+      Products In This Article
+
+Elden Ring
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC
+
+Release Date:
+
+February 25, 2022
+
+Purchase
+More Info
+
+Elden Ring: Shadow of the Erdtree
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC
+
+Release Date:
+
+June 21, 2024
+
+Purchase
+More Info
+
+    expand for more
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+
