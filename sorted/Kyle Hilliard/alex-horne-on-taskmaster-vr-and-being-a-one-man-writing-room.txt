@@ -1,0 +1,106 @@
+
+  Alex Horne On Taskmaster VR And Being A One-Man Writing Room
+
+
+
+
+
+
+            Long-running British comedy panel TV game shows are not something we usually cover here at Game Informer (a magazine and website devoted to informing readers about video games), but Taskmaster, the long-running British comedy panel TV game show, is getting a video game adaption. The Taskmasters themselves, Greg Davies and Alex Horne, will be represented in-game, and Horne, who created the concept of the show and is technically its sole writer (see below) was available to chat about it. We learned about the upcoming VR game (releasing June 13 on Quest), why the American Comedy Central version of the show didn't work, whether or not it is time to give an American version another shot, and what it is like to meet yourself in VR. So without further ado... it's little Alex Horne!
+
+Game Informer: Do you play video games? Are you a fan at all?
+
+Alex Horne: No, not really. I used to have an Amiga when I was growing up in the 80s. I do have a Quest and I did play it a little bit during lockdown. I played it quite a bit. I found it useful for that. But I've got three boys, three kids who are 11, 13, and 14, so my job is to tell them to stop playing computer games and go outside. But they do play a lot. They play a lot of Roblox and Minecraft and Fortnite. But I'm not a gamer, so this has been a whole education for me.
+
+But you’ve played Taskmaster VR, right?
+
+I have. I've had a demo. I've dipped my toe into it. It's too weird, though, for me to play. To meet myself in it and be a contestant. It reminded me of the very first time I put on the VR headset, or even put it on my mum, as well. It blows your mind the very first time. It was like that, again, going around the Taskmaster house, in particular, was so eerie. It's so lifelike. Not lifelike, because it's obviously cartoony, but it's so well drawn and faithfully recreated.
+
+The Taskmaster house is there and you can walk around? It's accurate?
+
+It’s so accurate. Sort of unnecessarily accurate. The house itself in real life is disappointingly small. It's a bungalow. There's only one floor. There's only about five rooms. So, we could do anything with the house. But instead, we've absolutely faithfully recreated the Taskmaster House [laughs]. But it's amazing. You can open every cupboard, and you'll see things from the show. There are lots of Easter eggs, things hidden around that are irrelevant. And all the rooms are pretty much the right dimension, we've had to slightly swell the corridor in the kitchen, because they're narrower in real life. It is great. And also, there's so much potential. In the real house in the real world, there's a door that opens and has nothing behind except for a green screen, which gives us potential… we've never really used it. But similarly in the VR house, you could open a door and end up in a different location.
+
+Is the stage in the game, as well?
+
+Yeah. You end up in the studio. And it's like the TV studio. So if you look around, you'll see the cameras, and where the audience sits, and you'll see Greg [Davies] on the throne. The team have been to the house a lot and they've measured up and they've taken pictures, you know, like estate agents would. And they've been to see the live show. They've tried to make it, so if you're a fan of the show, it'll be really exciting to be in the world. And hopefully, if you're not a fan of the show, it's a… VR games are so weird. The ones I know, it feels like either Star Wars, that’s brilliant, or that job one where you're doing something really menial, and this is hopefully somewhere in between the two. So they are quite practical, simple tasks, but you're in a fantastical world.
+
+I imagine this would be hard for you to answer: did they get your height correct in VR? If I play the game, do you tower over me?
+
+I don't know what height I am anymore. I've lost all sense of that. You know, if you Google a Hollywood actor and try to find out how tall Johnny Depp is, you'll never get the right answer. And I think it's the same with me. I can't find the right answer. So, I think I'm smaller in VR. I should be small in VR. It’s the correct Taskmaster height for me.
+
+Did you come up with any tasks specifically for the game? Did you give the team ideas?
+
+It was a collaborative process. And, to be honest, the team – Scallywag Arcade – came up with things and they quite nervously put them to me and I may have tinkered with them, but they know computer games. I know Taskmaster games. And we sort of met in the middle. So, they came from them and I've absolutely given them all the seal of approval.
+
+There's a tiny bit of me that… tasks are quite precious for me, without sounding too serious, there's only a certain number. I'm worried I am going to run out one day. There's certain things I've come up with which are so good because for me it's not all about the task. It's about the little layers. For example, your time starts when you've done a thing. You said  a certain word or whatever. And they've come up with some great ideas. For example, your time doesn't end unless you don't put the thing in a box. I'm not sure if I'm being very clear, but they've completely got the Taskmaster language and ideas. So yeah, I've collaborated, but I can't take responsibility for all the games.
+
+One of my favorite things about the show – and I don't know how you guys feel about it, honestly. It's hard to tell as a viewer – but I love when the contestants smudge the rules to get around a task.
+
+Are there opportunities to do that here? Because sometimes videos games have to be rigid in order to work. Is there room for that in Taskmaster VR?
+
+That's one of the real challenges. We definitely want that. Well, what you can't necessarily do is sort of nitpick the language quite so much. But there's definitely multiple ways around [a task]. So, the whole point for me of a good task is there might be three or four ways of doing it. And then one or two ways we haven't thought of which is on the verge of cheating, but it's not. It's just a clever workaround. And yes, we hope that's built into the game.
+
+On the verge of cheating. That’s a great way to put it.
+
+I'm really hoping we watch people do things that we didn't think, or we discover that people have done things in a completely different way than what we expected.
+
+Are there any quintessential tasks from the show? Like really popular tasks that had to be in the game?
+
+No. It's the opposite of that. One of the things we pride ourselves on in the show is that we never repeat a task. So, when you open the envelope, you have no idea what it’s going to be.
+
+Here's the thing. When we did Taskmaster America – we did one ill-fated series for Comedy Central – and I think one of the mistakes we made was that we repeated all the tasks. They were ones we'd done in England. And it just felt like we were treading water a bit and it wasn't exciting. We should have taken much more of a risk and done brand new tasks. And that's what we decided to do with this. We don't want players to go, “Oh, well I know what to do with this one. I've seen five people do it.” So, it's all brand new. There's elements of tasks that we love from the show, but there's nothing taken directly from the show.
+
+I will admit, I was hoping… one task that I love was when you had all the contestants blindfolded and they drove a moped around a parking lot.
+
+Yeah, by the the railway museum.
+
+Is there anything like that in the VR game? I love the idea of like you being blindfolded in VR and having to perform a task.
+
+Well, it's an ongoing project, I don't think there's a blindfolded one in there, but I might be told otherwise by the devs. I don't know how that would work. That's a great idea. Do you mind if we steal your idea that you've stolen from us?
+
+Please. Everything's a circle, right?
+
+I mean, you can blindfold yourself. You can do whatever you want. But um, yeah. It's a good idea. Thank you.
+
+What does the writing room look like for Taskmaster? How does that work?
+
+I’m afraid you're looking at the writing room.
+
+Just you?
+
+It is, yeah. It's quite stupid because most comedy shows do need a writing room. But from the very beginning it was just me. And actually, most of the team that make the show, it's still the same people – producer and director and some of the team. So, people do chip in with ideas, but it's kind of me and I'm a bit precious about it and a bit control freak, I suppose. Because I think it's quite delicate to get the right balance of being interesting, but not crazy and kooky. So, yes, pretty much me.
+
+In New Zealand they have got a team. Sometimes I'll watch it and think, “Oh, yeah, we should get a team.” But I don't want to let it go. We get suggested a lot of tasks by the public, but very rarely, seldom, do they come up with one that's actually good.
+
+I imagine it's more complicated than you think.
+
+It is. And also, we thought of most things now, because we've done 18 series. That's a lot of tasks, you know, it's 600, or whatever it is. So, most of the time people will suggest something and we'll say,“We tried that. It didn’t work.” Or, “We have actually done that.” So the writing room is just me and my dog.
+
+Do you think it's time to give an American reboot another shot?
+
+I think so. We learned a lot from that. I think what we should have done is brought Greg over, we should have new things, and we should have made it the same length as the UK show. We agreed to everything that Comedy Central said, because we thought they knew best. And I'm sure they know best in lots of ways. But I think we if we did it again, we would stick to our guns a bit more.
+
+Taskmaster VR releases June 13 on Meta Quest.
+
+      Products In This Article
+
+Taskmaster VR
+
+Platform:
+
+Quest 3, Quest 2, PC
+
+Release Date:
+
+June 13, 2024
+
+Purchase
+More Info
+
+Kyle Hilliard
+Magazine Content Director
+Kyle plays entirely too much Picross. He once wrote a whole book about The Legend of Zelda.
+
+Email
+Twitter
+

@@ -1,0 +1,49 @@
+
+  Interview: Ted Price Talks Resistance 3, Going Multiplatform
+
+
+
+
+
+
+We visited Insomniac Games at their studio in Burbank, California for our Resistance 3 cover story. While we were there Ted Price took time out of his busy schedule as the company's founder, president, and CEO to chat with us. He talked with us about handing off the creative director position for the Resistance franchise, what it was like being compared to Gears of War, his thoughts on fans' reactions to Insomniac's decision to go multiplatform, and more.
+What’s it like handing the Resistance franchise over to new creative director Marcus Smith?
+It’s probably a lot easier for me because we never had a culture where it was always one person’s edict in terms of directing a project, because we’ve always had a very collaborative approach to the design process. So it was not as if I was giving up my “baby.” A lot of  people have been heavily invested in Resistance and Marcus has been one of them, so it’s been great, actually, to see him bring his enthusiasm to the team creatively.
+Quite frankly, also, during Resistance 1 and 2 I had a dual role here as director and CEO. I was the bottleneck for a lot of things, and it made things difficult for the production team to get their questions answered, and I think being pulled in both of those very different directions made me less effective in both situations.
+What was it like for Insomniac to shift from platformer to FPS?
+It was certainly tough at first because we spent so many years on cartoony, family-friendly games. The very first few iterations of Resistance reflected our experience in the platforming genre – the characters were a lot more cartoony, everything was super saturated – and we had to make a pretty big effort to go more gritty, more realistic with Resistance. We didn’t get it right at first. It took a couple years before we felt like we had the look for Resistance, and that was of course before Resistance 1 shipped, but when we got there it was big accomplishment for us.
+Sucker Punch and Naughty Dog have seemingly dropped their cartoonier games for more mainstream titles. What has it been like for Insomniac continuing both Resistance and Ratchet & Clank.
+There are pros and cons associated with having two very different franchises. One pro is that we have a lot of folks here at Insomniac who are either fans of the more realistic genres of fans of the more family-friendly fare, and we offer both in terms of things you can work on. It also allows us to keep developing a broader set of skills as a developer. I think it’s easy to get pigeonholed or get narrowly focused on a specific type of game. When that happens it’s not as easy to be innovative across the board. Having both the platforming and first-person shooter genre as two foci is, I think, good for us.
+
+Ratchet & Clank: All 4 One
+Any other genres in Insomniac’s future?
+Real-time Strategy might be really good. Maybe MMOs, RPGs, racing games. I’m kidding, I’m kidding. [Laughs] We actually talked about a lot of different genres and what we have tried to do is emphasize our strengths and our strengths in storytelling, creative weapons and gadgets, and third-person camera controls are all strengths that can be a number of genres. That’s not a specific answer for you, but it leaves our options open. We talk about this all the time. The best answer I can give you for the future is wait and see.
+What was it like working with the early PS3 hardware?
+Challenging. We learned a lot of tough lessons. It didn’t have as much to do with the hardware as it did with going through the experience of making a launch title. Some of the lessons we learned were if you prototype on a PC and expect the same sort of performance from the final hardware, you’re crazy. It wasn’t that the PC was more or less powerful, it was just different. We prototyped everything very early on the PC, and some of the assumptions we made were wildly different when it came to the PlayStation 3. They were different paradigms we were dealing with. Now that we’ve been on the PlayStation3 for five years or so, we’ve been able to really dig in and take advantage of its unique architecture with its SPUs (Synergistic Processing Units) and we feel very comfortable with it. In fact, we felt pretty comfortable with it from the beginning, simply because we have a fantastic technology team that loves getting down to the metal on any machine and they appreciated the Cell’s architecture and being able to offload a lot more of the complex, heavily math-oriented SPUs. We couldn’t do that on the PC, so it was a cool transition for us. However, there were things that just didn’t match up when we were doing our prototyping.
+Was Resistance 2 a race to the finish to fit into your two-year cycle? How has that changed for Resistance 3?
+On Resistance 2 we spent a lot of time at the beginning rewriting the code base for Resistance 1. When we got Resistance 1 out the door it was just in time for launch, we were scrambling, and we realized that if we wanted Resistance to be a long-lived franchise we had to clean up a lot of what we had done and make sure a lot of what we wrote for Resistance 2 would be reasonable to use in the future, not just for Resistance but for other games. 
+A lot of that first year was spent rewriting, so it truncated our production period down to a year and half or even less for Resistance 2, and Resistance 2 is a big game – you’ve got 60-player multiplayer, eight-player online co-op, and a 12-14 hour campaign. We had a lot to get done. With Resistance 3 we have the benefit of having gone through all the work to bring our code base up to date and have a really strong start on it and start doing the things that you guys are checking out now. We also wanted to spend more time with polish and tuning. I’m sure Marcus has mentioned that to you guys. As a philosophy at Insomniac we now believe that the more time you can spend watching people play the game, making tweaks, and getting in there and turning the knobs, the better your game is going to be. It’s that last 10 percent that you hear developers talk about all the time that is so important to get right. That ten percent is usually the difference between a megahit and a game that’s good, but not quite a megahit.
+
+Resistance: Fall of Man [left] Gears of War [right]
+What was it like having Resistance compared to Gears of War in during the PlayStation 3 launch days?
+It was fun. It was really cool for people to assume there was some sort of rivalry between Epic and Insomniac when there wasn’t at all. Mike Capps and I are friends, and so are Cliff [Bleizinski] and I, so there’s a lot of mutual respect between the companies and we both got a kick out of the fact that people thought that the two games were somehow in competition when they were on different platforms and basically different genres. Since then a lot of different games have come out, and there weren’t really a lot of games available for the PlayStation 3 at launch, so Resistance was held up as the game to beat. Of course, on Xbox 360 it was Gears and Halo. Since Gears was coming out that same year, there was that natural rivalry. Since then, though, there have been a lot of other great games in the first-person genre and third-person genre. That’s why I don’t think there is that rabid speculation about how we’re rivals [any longer].
+What sort of reaction have you received from the multiplatform announcement?
+Mostly positive. I think some of the hardcore PS3 fans expressed disappointment because they assumed we would be diminishing our efforts on PS3 somehow, but that’s not the case. With Resistance 3 and with the announcement of Ratchet & Clank: All 4 One, we’re proving that our dedication to PS3 is just as strong. I think, and I hope, that both multiplatform owners and PS3 fans are happy.
+Are you looking forward to the challenge of developing for the Xbox 360?
+Of course. Working on a multiplatform game is, as I’m sure a lot of developers will tell you, has its own set of challenges. But we have folks on our engine team that are very familiar with the Xbox 360, as well. We were prepared and it’s a challenge we’re embracing right now.
+
+      Products In This Article
+
+Resistance 3
+
+Platform:
+
+PlayStation 3
+
+Release Date:
+
+September 1, 2011
+
+Purchase
+More Info
+

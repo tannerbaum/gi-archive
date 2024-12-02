@@ -1,0 +1,84 @@
+
+  We Happy Few's Creators Discuss How And Why The Game Has Changed So Much
+
+
+
+
+
+
+            The current version of We Happy Few is a much different game than the one that released in early access back in 2016. Developer Compulsion Games listened closely to every bit of feedback it received and expanded its studio significantly in order to bring the game closer to the narrative-focused game many thought it was going to be, based on its early trailers. We spoke with producer Sam Abbott about how and why the game has changed so much during its development and why procedurally-generated levels are still an asset to the We Happy Few Experience.
+
+Game Informer: What is the story of We Happy Few now that is has undergone such big changes. You’re playing as Arthur who seems to be seeking his older brother, and he is not supposed to be in Wellington Wells, from what I gathered from the demo.
+
+Sam Abbott: The story is really Arthur wakes up from being involved with the Joy denial society for so very long because he sees a picture of his brother and is forced to confront his memories and he’s basically gotten to his breaking point where he says, “Well, you know I am not going to forget. I don’t want to go back into the system. I want to break out and find out what happened and I want to leave.” And the story with Arthur is about him remembering his brother and how they used to relate to each other. As he goes along he discovers that, my god, everything in the city is far worse than he thought, because he no longer sees things with those rose-tinted glasses. He is finally seeing it for what it is.
+
+What specifically has changed since the Xbox Game Preview version of the game?
+
+It’s been two years since we launched. How I respond actually depends on when you last played it.
+
+I played a significant portion of the game right when it launched in Game Preview on Xbox One.
+
+Things have changed an astronomical amount since that point. When the game comes out, I think people are going to say that this is one of the games that has changed the most during the Early Access period. And I’m actually quite proud of that.
+
+The way that we looked at this... we were always going to be building a story around it. We launched in Early Access and people said, “This is great! But where’s my story? I’ve got this survival sandbox.” And we were like, “Okay, well, we were building that in the background,” because Early Access is not particularly well-suited to story-based games.  Unless you’ve got an episodic model, people don’t want to play just part of a story and that’s really come out a lot in the feedback we’ve gotten over the last two years from players that will say, “Well I played the first couple of versions, but now, actually, I just want to wait and play the full story.”
+
+But the early reception we got – everyone was so enthusiastic and we started getting comparisons to games like BioShock. We were 15 people at the time. So that’s an order of magnitude different from the team that built BioShock. We sort of looked at that and thought we had two options: we can keep building the small game we were thinking of. Or we can say, why don’t we give it a go? Why don’t we build the game we think people are expecting. That’s been the story of the last two years. We scaled up from 15 to 35-40 people internally, and then we have our external QA teams. We have worked and partnered with Gearbox publishing really because at that point we thought, if we’re going to build a big game, we need a partner that actually knows what they are doing and are enthusiastic about the game, because if you’re 15 people you can self-publish and that’s fine. But when you’re making something bigger, we really wanted that support. So we went back and refinanced and did a whole bunch of other stuff. We basically said, “Okay. You want this big old game with this big story? Then we’ll build it.”
+
+Have the survival aspects of the game been scaled back in favor of focusing on the story?
+
+I’ve changed it. Well, I say, “I,” but it was us. With the survival stuff, we received a lot of feedback early on that said, “Hey, I don’t really like survival mechanics.” The thing that was really interesting was there was a natural tension between survival mechanics that kill you and your ability to explore and experience the story. In most games that heavily focus on story, you’re not really at risk of death from not maintaining yourself properly. So, we iterated on that for a good couple of years. We tried just scaling back the duration and rates of thirst and hunger and sleep. We tried just increasing the availability of the items and that sort of thing, but in the end we felt that that wasn’t sufficient so, then we experimented with removing survival mechanics all together. And that was quite successful, but it felt hollow because the game is about a society that’s dying. They’re running out of food; they’ve drugged the water. Everything is laced together thematically and we felt if we removed the food and water completely, then we would be missing a crucial part of the thematic experience. So we thought, "Well, how do we do this and maintain your ability to explore and enjoy the narrative?" And really, basically very simply, we moved to a buff and debuff system. Taking food will give you a buff for a short amount of time, and over a very long period of time, if you don’t take enough, you will be debuffed.
+
+For example, if you don’t sleep every day or two, you will be quite weak in combat. You can still explore. You can still do what you want, you can still play. It won’t change that. It will just make it harder for you. That’s what we’re experimenting with and that’s probably going to be the final design. But you can also make it harder, or you can turn it off completely so you eat and only get buffs. There are no debuffs. We wanted to make sure it was there thematically and had a gameplay purpose, but didn’t inconvenience people who didn’t want to deal with it.
+
+When I played the initial Game Preview version of the game, it played like a typical survival game. I was in an open world, trying to stay alive for as long as I could, and when I died, I had to start over. Is that no longer the main structure of the game? What happens when you die? Do you start over, or pick up where you left off?
+
+That’s your choice. There is a permadeath option for the brave, but most of the time you just play through and reload back to where you were. We’ve changed our whole save system so you’ve got multiple slots like an average, normal story-based game, I guess you could say. It’s there if you want, but otherwise it is now a pretty standard action adventure game.
+
+Are the areas still very open? Or is it more linear to hit all the story moments?
+
+It’s unique. Basically, think of it like scripted, hand-crafted narrative moments and gameplay areas strung together through a procedural open world. For example, you played through the demo and you saw the first island you were on was called Eel Pie Holm. Now that is our tutorial island and that is completely custom because it turns out it’s bloody hard to teach people when you don’t know what they’re going to experience first. We felt like we needed to both teach mechanics, but also introduce the world in a way that gave just a little bit more context. Just a little bit more help.
+
+And then you went across the bridge in the demo and saw the cutscene with the hanged people. As soon you had crossed that bridge, you were in a procedural world. So, that layout changes every time. However, the story and the linear nature of it, is always the same. For example, the train station you were in will always be pretty much across that bridge. But the exact arrangement around it and the threats and challenges you might face will be slightly different. The loot that you find that will help you through your journey will be different, the recipes the crafting – all of that will change.
+
+Likewise, you can have encounters and sidequests that may spawn in one game, but may not spawn necessarily in another game. Although, we’ve dialed that back a lot because we were like, “We’ve really moved away from a highly repeatable one-hour game to a 20-hour experience. Maybe, we should just put it all in there.” So now it’s more like slightly different stuff. It’s not that big a change anymore.
+
+That feeds into my next question, which maybe you can answer in more detail – how long is the game? Are you still trying to see how long you can survive? Or are you seeing a story to the end?
+
+It’s a story. Think of We Happy Few as a single, linear narrative comprised of three characters’ stories. You play through Arthur and it will turn you automatically into Sally’s story, and then into Ollie’s. Basically, the idea is, as you go through the world, each character experiences the world differently, so you get a different procedural world every time, but as you go through, you begin see different perspectives on the society and you learn more about each of these characters and what they’re doing to try and survive and escape from a society they’ve decided is pretty doomed. And the story is not just Arthur’s story. It’s not just Ollie and Sally. It’s the story of the world of Wellington Wells and what happens to a society that’s just not willing to face the truth anymore.
+
+What is the value of having procedurally-generated worlds if you’re not pushing people to replay it repeatedly anymore?
+
+The procedural world was designed mostly with sandbox in mind, but it’s also a really great development tool for us. It means we can focus our time on the core gameplay areas and the bits that string it together are available for exploration and you can kind of choose to engage them or not. It will come back with a fair amount of vengeance in the sandbox mode post-release.
+
+So, there will be a separate mode that will focus on survival, procedural generation, and playing it over and over?
+
+Yeah, it will go back to the roots of what it originally was, because while we built this story we still want to make sure we provide the experience people were initially interested in.
+
+The value of the procedural generation for me is, we’re still a very small team so procedural allows us to build out this world and make it feel rich and complex and interesting. At the same time, if everything was hand-crafted, it would be a hell of a lot smaller and it wouldn’t feel like a city. That’s really, I think, the advantage for us. It’s basically saying, “Well – 35 people. That’s the best way of building our world.”
+
+Sorry, this video is not available
+
+For more on We Happy Few, head here to learn about its struggle to release in Australia, or you can head here to watch us play the Game Preview version of the game in 2016.
+
+      Products In This Article
+
+We Happy Few
+
+Platform:
+
+PlayStation 4, Xbox One, PC, Mac, Linux
+
+Release Date:
+
+August 10, 2018
+
+Purchase
+More Info
+
+Kyle Hilliard
+Magazine Content Director
+Kyle plays entirely too much Picross. He once wrote a whole book about The Legend of Zelda.
+
+Email
+Twitter
+

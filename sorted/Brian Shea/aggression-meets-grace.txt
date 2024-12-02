@@ -1,0 +1,95 @@
+
+                                          Tekken 8
+                  
+
+
+  Aggression Meets Grace
+
+
+
+
+Platform
+PlayStation 5, Xbox Series X/S, PC
+
+Publisher
+Bandai Namco
+
+Developer
+Bandai Namco
+
+Release
+January 26, 2024
+
+Rating
+Teen
+
+            It's been more than eight years since Tekken 7 arrived in arcades across the globe. While the console version didn't hit for another two years, the gap since that seventh entry represents the largest distance between two mainline entries since the series began in 1994. Bandai Namco used that time to evolve the experience, adding several new characters by way of DLC en route to the announcement of a highly anticipated eighth entry.
+
+With so much time since Tekken 7 launched, Tekken 8 represents not only the franchise's first game developed for PlayStation 5 and Xbox Series X/S, but also the first to use Unreal Engine 5. These additional tools at the developers' disposal spell the best-looking Tekken game yet, with enhanced lighting, intricate stages, detailed character models, and gorgeous particle effects.
+
+ You're missing out!Normally this is where something cool would show.  Your browser is blocking third-party cookies so we're unable to display this content.Try clearing your browser cache, disabling ad blockers, and verifying that cookies are allowed: Verify cookie preferences
+
+Tekken 8 brings forward many of its predecessor's successful conventions and mechanics but does so in a way that forges its own identity. "[Due to Tekken 7's success], it becomes very hard to make changes to the game for the next installment," executive producer Katsuhiro Harada says. "You know that if you're going to add a different number to the end of it, you have to make some big changes, but it's very hard because you don't know if it's going to be in the direction that people will want you to go. It's very difficult in that regard. [Because of that] we can't really use any of the learnings of Tekken 7 because you have to make it something different that people don't expect. So, there aren't really any learnings; you have to take your knowledge of the game and use that as a guide of, 'What might they like?'"
+
+Harada and his team settled on a theme based on aggression to differentiate this version. While players can still block and sidestep incoming attacks, Tekken 8 does its best to encourage players to go on the offensive. This is not only to create a more frenetic, offensive experience for players but a more visually appealing spectator sport for people watching streamers or tournaments like Evo.
+
+To push players to be aggressive, Bandai Namco has evolved some mechanics from past Tekken games while introducing a new one. The Rage system returns from Tekken 7, giving players a cinematic "break-glass-in-case-of-emergency" move once they have low health; for Tekken 8, these Rage Art moves are triggered by the same button input for each character.
+
+On top of that, players can also engage with the all-new Heat system with a press of a button or by pulling off one of a few different attacks. Once a character is in a Heat status, they glow blue, and all their attacks are more effective. They also have access to Heat Smash attacks and Heat Dash movements, which consume the Heat bar. Typically, Heat status lasts about 10 seconds, but the effect can be extended through attacking your opponent, delivering on that theme of aggression.
+
+Tekken 8 also signals the return of the recoverable gauge in health bars from the Tekken Tag series, meaning that if you take damage, a small portion of the health bar remains white. The highlighted parts of the health bar are recoverable, but because Bandai Namco wants this to be a more offensive-facing experience, the game doesn't reward health for avoiding your opponent. Instead, you now regain health through mounting offense. "We don't want people to just be running around and turtling," producer Michael Murray says.
+
+Tekken 8 is the latest fighting game to join the trend of offering different control schemes to suit different skill levels. Arcade Style allows for classic Tekken gameplay, letting longtime players feel at home. Meanwhile, the new Special Style is intended for more casual play. This control scheme, which can be toggled on or off during any point in the match using the left bumper, streamlines the Easy Combo and assist features of Tekken 7. Using this, you can chain together masterful combos without needing to learn inputs of characters with whom you're unfamiliar. The developers see this as a potentially favorite way for people to play long-term or as a way to learn a new character before switching to Arcade Style.
+
+"This is really designed to make it more accessible," Murray says. "If I were to play my friend, I would destroy him, so I can let him turn this on. At least he'll be able to execute some of the moves and feel what makes this game fun. […] That said, I'm not going to turn on Special Style and beat [a high-level player]; it's not going to happen because you don't have all the moves accessible."
+
+The Roster So Far
+
+We still have a ways to go before Tekken 8 launches on consoles and PC, but the launch roster already looks promising. While executive producer Katsuhiro Harada has a favorite from the announced roster, he hints that the best is still to come.
+
+"One that we've announced, King, is quite unique this time and one of my favorites," Harada says. "There are one or two that we haven't announced that I like as well."
+
+"I like Jin Kazama the most so far," producer Michael Murray says. "He's drastically different. He first started off in the Mishima style that he used in Tekken 3, then around Tekken 4, he shifted to a more traditional karate approach. Because of the story arc in 7, where he gains more control over his devil abilities, he has a very unique moveset this time."
+
+Check out the complete list of known fighters to be available at launch to this point.
+
+Jack-8
+Jin Kazama
+Jun Kazama
+Kazuya Mishima
+King
+Lars Alexandersson
+Ling Xiaoyu
+Marshall Law
+Nina Williams
+Paul Phoenix
+In motion, Tekken 8 feels great. The smooth, quick fighting styles of Law and the newly announced Xiaoyu perfectly contrast the hulking brute styles of Paul and Jack-8. The Rage system is a great weapon in your back pocket if the deck feels stacked against you – I only wish there was more diversity in the animations so I didn't have to sit through the exact same cinematic attacks each round, gorgeous as they are. More than the Rage Arts, I loved the strategy of waiting until the correct moment to activate Heat each round; reacting to my opponent's Heat activation and vice-versa made each round play out in a fascinating manner.
+
+I mostly stuck with the Arcade Style control scheme, but the assistance Special Style provides to players is immediately noticeable and immense. When my opponent chose a character he didn't typically play, I often came away with the win. However, once he switched to Special Style (as indicated by a command list in the corner of the screen), the tables quickly turned, and he was suddenly much more competitive. It's possible I'll eventually learn best practices for countering Special Style players, but for now, it feels like a powerful way to tilt the odds in your favor.
+
+My first hands-on experience with Tekken 8 was impressive; the fighting mechanics are mechanically sound and fun. But I'm perhaps most excited to see how the modes and offerings will fill out. "I'm quite confident because before I was so high up, I was actually in charge of making a lot of those modes and bonus content in past installments of Tekken, outside of the Versus one-on-one fighting experience," Harada says. "Tekken's always been kind of famous for Tekken Ball or Tekken Bowl […] and story, even. Before story modes became a staple of fighting games, Tekken always, from almost the start, had the movies that portray a cohesive story – or we like to think cohesive [laughs]. Now that we've progressed through Tekken 7 into Tekken 8, that's something we definitely have our bases covered. The timing's not right to go into what we have planned, but you can see the pedigree's there if you look at the past."
+
+We'll need to wait a bit longer to see how Tekken 8 turns out, but for now, one of the sole remaining triple-A 3D fighting game franchises shows no signs of slowing down with age. We don't currently have a solid release date, but when Tekken 8 launches, it will arrive on PlayStation 5, Xbox Series X/S, and PC.
+
+      Products In This Article
+
+Tekken 8
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PC
+
+Release Date:
+
+January 26, 2024
+
+Purchase
+More Info
+
+Brian Shea
+Online Content Director
+Brian has written about video games for more than 15 years across multiple publications. Brian is also the host of All Things Nintendo, a weekly podcast focused on the news and games of Nintendo.
+
+Email
+Twitter
+

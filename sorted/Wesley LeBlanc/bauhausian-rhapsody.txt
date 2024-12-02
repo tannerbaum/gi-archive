@@ -1,0 +1,97 @@
+
+                                          Penny's Big Breakaway
+                  
+
+
+  Bauhausian Rhapsody
+
+
+
+
+Platform
+PlayStation 5, Xbox Series X/S, Switch, PC
+
+Publisher
+Private Division
+
+Developer
+Evening Star
+
+Release
+February 21, 2024
+
+Rating
+Everyone
+
+            Introduction
+
+Sonic Mania is widely regarded as one of the blue blur’s best games. More than six years after its 2017 release, that sentiment remains as strong as ever, even after recent outings like 2022’s Sonic Frontiers and this year’s Sonic Superstars. While published by Sega, longtime Sonic fans who grew up playing the series, like Christian Whitehead, Hunter Bridges, Dave Padilla, Brad Flick, Tom Fry, and others, led the game’s development. And without speculating too much, the degree of separation afforded to these fans-turned-developers allowed Sonic Mania to feel like both a fresh breath of air and a return to form.
+
+Not wanting to wade too deep into the world of independent contracts and wishing to maintain the friendship between each other strengthened in Sonic Mania’s development, the five of them formed Evening Star months after the game’s release. Studio CEO and executive producer Padilla, CTO and game director Bridges, creative director and lead engine architect Whitehead, design director Flick, and art director Fry all admit the easy follow-up was right there: A Sonic Mania-type 2D platformer. It’s what fans of Sonic Mania wanted, and to their credit, they worked with Sega on potential sequel ideas before amicably parting ways. But, unsatisfied with the easy answer, Evening Star got to work on a 3D momentum-based platformer inspired by Tony Hawk’s Pro Skater, an early 20th Century ballet, and 1995’s Jumping Flash on PlayStation.
+
+Evening Star
+
+“We always had this idea of, ‘Wouldn’t it be great if we had a character that could use a yo-yo to do different moves?’” Whitehead says. “Initially, we jotted them down on a 2D playfield, but there were several concurrent themes swirling in the background. At least for me, my perspective as a developer is I’ve spent the last decade working exclusively on 2D pixel art, so I really wanted to expand and prove that I could do something more than just one particular genre.”
+
+Whitehead says he’s aware Penny’s Big Breakaway is another platformer but says it’s a different flavor in a different dimension. After playing more than two hours of the game myself, experiencing the first three of 11 regions in the world of Macaroon, including three different boss stages and special Star Globe bonus levels, that much is clear. Knowing the development leads of Sonic Mania are responsible for what I play, it’s impossible to deny the momentum-based inspiration that lives in both titles. But Whitehead’s right – even beyond the obvious shift from 2D to 3D, Penny’s Big Breakaway features a different flavor. It is not just a new flavor for these developers but something unique in the long-standing platforming genre.
+
+Breaking the Standards
+
+Breaking The Standards
+
+I’m terrible at the game, at least for the first handful of stages. It doesn’t help that I just watched Bridges speed through them like someone with intimate knowledge of every stage’s challenges, but I’m slow and struggle to combo yo-tagonist Penny’s yo-yo-based moves across ramps, flag poles, gaps, and more. Penny can toss her yo-yo forward to attack enemies and break barrels with a button on a controller or, more curiously, by flicking the right stick in a direction. And that directional input is independent of Penny, meaning you can flick the yo-yo to her right while she walks left. It’s admittedly bizarre at first – not because it doesn’t feel good, but because it’s so different from how I typically interact with the combat and moveset of a 3D platformer mascot.
+
+In the same vein, Penny can double jump, but instead of gaining a good amount of height with a second jump, she gains a barely noticeable amount; the purpose of her double jump isn’t height but a stop in momentum, Bridges tells me. She can dash by tossing her yo-yo forward, performed by flicking the right stick in the same direction twice, and she can swing left and right, forward and backward, on her yo-yo anywhere in the air as well.
+
+Although it takes me some time – something I welcome because it’s rare to experience a new moveset that challenges my preconceptions of a genre – I finish my Penny’s Big Breakaway play time with the realization that it’s not a 3D platformer in the vein of something Nintendo might create, another challenged preconception. On the one hand, it’s a Tony Hawk’s Pro Skater-inspired platformer with an emphasis on momentum that will appeal heavily to speedrunners and time trial fans, with a constant score and Devil May Cry-style combo tracker on the right side of the screen, too. On the other, it’s a team’s love letter to the weird and sometimes broken platformers of the 3D genre’s early days. Together as a complete package, it rules.
+
+“The rules [of 3D platformers] at that stage weren’t really established that well,” Whitehead says. “I remember growing up playing a lot of PlayStation games where they were maybe a bit rough around the edges but trying to grapple platforming mechanics in 3D, and I felt really inspired by that era. I experienced that as a kid, but I wanted to experience that as a developer.”
+
+A Roundtable Philosophy
+
+A Roundtable Philosophy
+
+Whitehead, admitting creative selfishness, says he wanted to try and make a PlayStation-style 3D platformer that fixes the problems he experienced growing up with the genre. The small slice I’ve played proves Evening Star is on the right path. But in speaking to others within Evening Star, like Bridges, Fry, Flick, and Padilla, it’s clear everyone is all-in on that idea. Even Fry, the art director on paper, says he was involved in all kinds of decisions outside of his development realm, a philosophy everyone else expresses too. “The collaborative effort is an intrinsic part of the team,” Fry says. “Not one person has an idea and everyone follows them like the Pied Piper with it. It’s something where we believe everyone has something of value to throw into the pot, and with the art, that’s certainly no different. I refer to it as a roundtable philosophy.”
+
+That collaborative energy even made its way into the so-far-amazing score of Penny’s Big Breakaway, which utilizes a wide range of weird synthesizer instruments, instrumentation from genres like Latin and Calypso, and more to create a jazz-like symphony of music. Bridges, Whitehead, and others in the team contributed to the score in various ways, even after Evening Star hired Streets of Rage 4 and TMNT: Shredder’s Revenge composer Tee Lopes, who the team also worked with on Sonic Mania, and Sean Bialo to create the score.
+
+Performance Art
+
+Performance Art
+
+If one aspect of Penny’s Big Breakaway speaks most to its early PlayStation inspiration, it’s the art direction. Inspired by the early 20th Century Triadisches Ballett and the Germanic Bauhaus art movement from the same period, combining colorful abstract ideas with primitive geometry, the world of Macaroon feels like one big performance. Your social status is defined by the performance you can give to denizens of the world. Every stage ends with a “Busker” bonus that requires quick and accurate QTE sequence completion to add additional points to your total score. Within each stage are three denizen challenges, like collecting four missing tax forms for an electric company while riding Penny’s yo-yo like a unicycle, and during the Busker bonus, the denizens you help watch you perform.
+
+Even the conceit of the narrative speaks to the idea of performance art being everything – Penny attends a talent show after finding a special yo-yo with an insatiable hunger and, instead of wowing the emperor with a showstopping performance, the yo-yo eats the emperor’s clothes. She spends the rest of the game running further and further away from the emperor and Macaroon’s capital, chased to the world’s edges by the emperor’s ever-present penguins, only temporarily slowed by your efforts and never outright defeated.
+
+“We want the game to keep the flow and dribble going,” Bridges tells me. “We really wanted to have that rhythm [...] and never interrupt that. It’s a game where the most skilled players can theoretically make it through a level in an unbroken string of moves. That’s Penny’s masterful performance.”
+
+That’s why Evening Star controls the camera at all times, which requires a flip in my brain. With three denizen challenges to complete and three Show Pieces to find in each level, I want to explore every nook and cranny. But without camera control, I can’t, and I hate this at first. It’s only after realizing that if Evening Star isn’t allowing the camera to take me here or there, then there isn’t anything to miss that I begin to play on the team’s terms. This switch is freeing, realizing Penny’s platforming playground is predicated on my ability to keep moving forward to where Evening Star was taking me in its design. With thoughtful movement and a keen eye, completing every challenge and finding every Show Piece feels intrinsic to Penny’s “performance” in each stage.
+
+The game clashed with every notion I had of 3D platforming. I wanted to take things slow; I wanted to search every corner for something; I wanted to take my time. But Penny’s Big Breakaway is a welcome antithesis to everything (mostly) Nintendo had taught me about this genre. It’s a bold design choice and one I would have called risky on paper. In talking with Evening Star, it’s clear it understood that risk going into its first original game and IP. However, each member I spoke to expressed humble confidence in their respective facets of the game’s development.
+
+“There are a lot of skills we really excel at when making games, and a lot of specific nuances we bring to the table because of our team dynamic and our tools, and I don’t think it’s going to be a complete surprise,” Padilla says. “I think a lot of folks are going to see this as something completely new and something completely original, but in terms of what we’ve done before and what we’re doing now, and hopefully what we’re doing in the future, folks are going to be able to connect the dots.” 
+
+This article originally appeared in Issue 362 of Game Informer.
+
+      Products In This Article
+
+Penny's Big Breakaway
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, Switch, PC
+
+Release Date:
+
+February 21, 2024
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

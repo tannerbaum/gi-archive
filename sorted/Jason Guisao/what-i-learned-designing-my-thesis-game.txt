@@ -1,0 +1,30 @@
+
+  What I Learned Designing My Thesis Game
+
+
+
+
+
+
+            I made 12 little games (analog and digital) over the course of my MFA program at NYU Game Center. However, I dedicated most of that time to my thesis. By graduation, I’d worked as a writer/narrative designer on prototypes, vertical slices, documentation – you name it. And after many adjustments, my thesis even won a highly competitive grant to assist post-grad development. Short deadlines and secondary assignments led to high-stress periods, albeit in a controlled academic environment, but the lessons about collaboration and creativity were invaluable.
+
+It’s an ordinary school night, and I’m on a video call with my friend Jude. I watch them casually scroll through graffiti-adjacent concept art and brief clips of a passion project called Ponch: Cyberspace Investigator. They give me a rundown of the game’s mechanics, inspirations, and vibes, which include phrases like “platformer,” “Ace Attorney-inspired dialogue puzzles,” “detective work,” and “hack the internet.”
+
+When I ask about the narrative, their eyes light up. Jude tells me about a virtual, dichromatic metropolis chockful of criminal hacktivists, government-owned surveillance systems, and class-based feuds. A slum world oozing with Persona’s unmatched flair. But above all else, they say Ponch: Cyberspace Investigator is a celebration of resistance. A game following an eccentric crew of BIPOC lesbians who confront their dystopic society.
+
+Suddenly, Jude clarifies that this is merely an idea they’ve worked on in tiny bursts over the past few years. “It’s not concrete,” their modest silence seems to imply. Even so, I want in.
+
+At the beginning of Thesis class, we post extensive character maps, wireframes for scene compositions/U.I. layouts, and various mood boards to our Miro, a digital whiteboard for remote collaboration. While Jude tinkers with the menu dialogue system, I draft an opening scene based on their initial vision – Ponch, a dirt-poor private eye running an illegal practice out of the basement of an abandoned funeral home, is hired to find a missing person.
+
+As the first few rounds of milestones drew near, Jude works closely with a cinematographer and adds dynamic camera angles to character conversations. Then, after finishing my screenplay, we implement text and spend the entire night-before debugging. It takes several long weeks to create a three-to-five-minute proof of concept highlighting those aforementioned Ace Attorney-inspired dialogue puzzles.
+
+As Ponch, the player probes a client about events leading up to the disappearance of their girlfriend. After clicking on inconsistencies in the client’s testimony, the discussion continues. Faculty feedback seems worrisome as there's still a critical question that needs answering: "Beyond interrogations, what is the central loop?"
+
+We need help. So, Jude and I recruit Katie, a talented programmer who voices an interest in working on our gameplay systems. Almost instantly, workloads decrease, giving the team room to conduct playtests and make more iterations. We spend hours debating a primary hacking mechanic that parallels our gritty detective narrative. And after much deliberation, we land on giving players the ability to hack psyches, infiltrate minds (or “Mindspaces”) for info/secrets, and, consequently, make investigative breakthroughs.
+
+Mindspaces became minigames relying on visual storytelling to characterize other people. But how could we make the player feel clever? We return to dialogue puzzles and make revisions inspired by age-old, cartoonish detectives armed with nothing but pens and pads. Instead of simply clicking through dialogue in search of contradictions, we build an inventory system for collectible quotes that players present to NPCs during key instances. By giving players more agency in how they respond to other characters, confrontations are more dynamic and gratifying.
+
+Solidifying these mechanics while polishing U.I., FX, and general juiciness (the embellishments that make play satisfying) takes almost six months. And for our final milestone, we proudly submit a 20-minute playable demo. Ponch: Cyberspace Investigator gave me the opportunity to craft a queer story while also learning to embrace constructive criticism and constant revision within the framework of a small team. More importantly, designing my thesis game taught me to be trusting, inquisitive, and playful.
+
+This article originally appeared in Issue 350 of Game Informer.
+

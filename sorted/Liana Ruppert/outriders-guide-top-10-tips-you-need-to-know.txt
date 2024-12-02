@@ -1,0 +1,641 @@
+
+  Outriders Guide: Top 10 Tips You Need To Know
+
+
+
+
+
+
+            Introduction
+
+So you've picked up Outriders and you're diving in for the first time with the world of Enoch. Outriders is an enjoyable looter shooter that has more depth than what meets the eye. In order to get the most out of your game time, here are the top 10 Outriders tips we have to make you fully prepared to kick butt and take names in People Can Fly's latest adventure. 
+
+Outriders Guide - Tips for Beginners
+
+The first thing you need to know about Outriders is that it is an always-online title. While always-online typically gets in with live-service games, Outriders is not that. Instead of a slow and steady roadmap for content to release post-launch to make up an eventual complete picture, Outriders is a full game in its own right. There are many ways to make the most out of Enoch and the journey it holds, so let's kick off some of the tips we have to help you do just that. 
+
+1
+
+            Healing 
+
+            Kill and be healed, or go Technomancer. 
+
+            Healing
+
+You won't find healing potions in Outriders, so how do you heal? The most direct way to ensure you don't head into the white light is to kill. Kill a lot. Seriously, that's how you heal, take out any and all enemies in your path and you'll see an immediate green animation near your bar to indicate regeneration to your health. 
+
+Choosing your class impacts your ability to heal, here's a quick breakdown: 
+
+Devastator: Recover health by killing enemies in close range
+Tricksters: Recover health (and shields) by killing enemies in close range
+Pyromancer: Recover health every time a marked enemy dies via abilities 
+Technomancer: Recover health every time damage hits 
+
+2
+
+            Classes
+
+            Choose the class that's right for you. 
+
+            Classes
+
+There are four classes to choose from, as noted above, but which one is right for you? Don't worry, we've got you covered: 
+
+Devastator 
+
+The Devastator is the backbone of any group of Outriders, and that's something I talked a little more about in our Review in Progress. Strong and tough, they control gravity and use the power of the earth to crush their enemies. A close-combat specialist that wades into damage; their powers allow them to leap into the fight, cover themselves in rock-like skin, and send their enemies flying with powerful ground pounds.
+
+Pyromancer 
+
+The Pyromancer is a medium-range class with powerful AoE damage. Wielding the power of fire, Pyromancers cover the battlefield with their blazing fury. The Thermal Bomb turns any enemy within range into a walking explosive that detonates when that enemy dies. Their firewalls tear across the battlefield and flushes enemies out from cover. Pyromancers may not be as durable as Devastators or as mobile as Tricksters, but their explosive arsenal makes them a threat in any situation.
+
+Technomancer 
+
+Technomancers control technology and can manifest weapons of destruction from thin air. This class is especially perfect for those that like engineering-based combat. It’s a flexible combat style that can be built as a crowd-control support character, damage over time monster, heavy ordinance blaster, or a hodgepodge of everything. This is the only class in Outriders that can heal teammates with its powers, which makes them great for teams running together.
+
+Trickster
+
+The Trickster is the hit-and-run damage dealer of Outriders, they're there to cause chaos (much like the name suggests). They operate at their full potential in close combat and are equipped with powers that allow for unrivaled mobility on the battlefield as they flank enemies. They can slow down time, a power that’s great both defensively and offensively, and can teleport around the battlefield. Up close, they wreak havoc with their Temporal Slice, a wide arcing melee attack that turns unfortunate foes to skeletons.
+
+3
+
+            Melee
+
+            Don't be afraid to just go ham with those fists, there's more to this than you think!
+
+            Melee
+
+Don't be afraid to just go ham with those fists, there's more to playing aggressively than you might think. Not only is meleeing an enemy going to make you feel like a total badass, but it's also going to help you heal, help you control the combat with that particular enemy, and interrupt any attack that your foe has in progress. Control the battlefield; it's yours for the taking. 
+
+To unlock the full potential of your melee power, you're going to want to pay attention to your skill tree. And that, friends, is the perfect segue into our next part. You guessed it, let's talk about skills (to pay those biiilllls).
+
+4
+
+            Skills
+
+            If only you knew this section was coming. 
+
+            Skills
+
+There are 22 levels for building up your skills in Outriders. When you first start out, you're going to be fleshing out your core abilities. That being said, the further you progress, there will be branching skills to be made aware of. Here's a simplified breakdown of what you need to know for each class' usable skills. 
+
+Pyromancer
+
+Level 1: Heatwave
+Type: Ignite
+Summon a fiery wave that deals damage and inflicts Burn to all enemies. 
+Level 3: Feed the Flames 
+Type: Immobilize 
+Pull an enemy toward you, dealing damage, draining Health, and inflicting Ash.
+Level 4: Thermal Bomb
+Type: Explosive
+Interrupt. Select an enemy to Burn, Interrupt and deal damage to. If killed while still afflicted by the skill, the enemy will explode, dealing damage in a large radius
+Level 6: Overhead
+Type: Explosive, Interrupt.  
+Deals a little damage to all enemies in a large radius and Interrupt their skills. Enemies afflicted with Burn receive additional damage and the Burn will be consumed.
+Level 9: Volcanic Rounds 
+Type: Ignite
+Fill your current weapon’s magazine with Anomaly-infused bullets that will inflict Burn within a small radius and pierce targets, damaging enemies behind them. The skill lasts until you reload or switch weapons.
+Level 13: Ash Blast
+Type: Immobilize 
+Create an Anomaly blast to inflict Ash on all enemies in a large radius around you.
+Level 17: F.A.S.E.R Beam
+Type: Ignite, Interrupt
+Fire an energy beam that deals damage that benefits from 125% of Status Power, inflicting Burn and causing Interrupt.
+Level 22: Eruption
+Type: Unknown
+Create a volcanic eruption beneath the selected enemy, dealing damage to them, and all enemies within a small radius around the target.
+
+Technomancer
+
+Level 1: Shrapnel
+Type: Ordinance, Interrupt 
+Throw a proximity device. The explosion deals damage and Interrupts the skills of enemies caught within the blast radius.
+Level 3: Cyro Turret
+Type: Gadget, Turret
+Place an automated turret that deals damage and inflicts Freeze onto enemies. The turret’s health depletes slowly over time and when it takes damage.
+Level 4: Pain Launcher
+Type: Ordinance, Interrupt
+Place a missile launcher and bomb the area in front of you. Each missile deals damage per hit and Interrupts enemy skills.
+Level 6: Blighted Rounds
+Type: Decay
+Fill your current weapon’s magazine with decay-infused bullets that inflict Toxic onto enemies. Enemies within a small radius of the main target also receive Toxic and 50% of the damage. The skill lasts until you reload or switch weapons.
+Level 9: Tool of Destruction
+Type: Ordinance, Interrupt
+Conjure a Rocket Launcher that can Interrupt enemies or a Minigun that deals damage per shot. The skill will remain active until all ammo is depleted or until you switch weapons.
+Level 13: Fixing Wave
+Type: Gadget, Heal
+Release your energy to restore 33% of Health to all players and 50% of Health to your turrets regardless of distance.
+Level 17: Cold Snap
+Type: Gadget
+Drop a gadget to inflict Freeze onto all enemies within a large radius around you.
+Level 22: Blighted Turret
+Type: Decay
+Place an automated turret that deals damage and inflicts Toxic onto enemies. The turret’s health depletes slowly over time and when it takes damage.
+
+Trickster
+
+Level 1: Temporal Slice
+Type: Damage, Interrupt 
+Paralyze and slice enemies in front of you, dealing damage and inflicting Slow and Interrupt to all targets.
+Level 3: Slow Trap
+Type: Deception
+Create a spacetime Anomaly that inflicts Slow onto enemies and projectiles for 10 seconds.
+Level 4: Hunt the Prey
+Type: Movement
+Select an enemy and teleport behind them and receive a shield bonus.
+Level 6: Twisted Rounds
+Type: Damage
+Fill your weapon’s magazine with Anomaly-infused bullets that deal significantly more damage to enemies. The skill lasts until you reload or switch weapons.
+Level 9: Cyclone Slice
+Type: Damage, Interrupt
+Create a whirlwind of Anomaly blades that deal damage and Interrupt onto enemies within a small radius of you with every hit. The skill lasts for 5 seconds.
+Level 13: Borrowed Time
+Type: Movement
+Receive a shield and mark your location for 28 seconds. Triggering the skill again will bend spacetime and teleport you back to the marked spot.
+Level 17: Venator's Knife
+Type: Deception
+Throw a temporal knife at an enemy. The blade will ricochet between a maximum of 5 enemies within a small radius, dealing damage and marking them. All marked targets will be inflicted with Slow and for 10 seconds the first damage dealt by you will be doubled.
+Level 22: Time Rift
+Type: Deception, Interrupt
+Create a shockwave that suspends enemies in the air leaving them unable to fight for 3.5 seconds and inflicts Weakness.
+
+Devastator
+
+Level 1: Earthquake
+Type: Seismic, Interrupt
+Release a shockwave to deal damage and Interrupt all enemies in front of you.
+Level 3: Golem
+Type: Protection
+Fortify yourself against 65% of incoming damage for 8 seconds.
+Level 4: Gravity Leap
+Type: Kinetic, Interrupt
+Leap into the air and strike your targets from above, dealing damage and Interrupting enemies within a small radius of the area you land in.
+Level 6: Reflect Bullets
+Type: Protection
+Create a barrier that captures all enemy projectiles and accumulates damage. After 10 seconds of triggering the skill, the accumulated damage is reflected back to enemies in front of you. The barrier also protects against melee attacks by reflecting some damage back.
+Level 9: Impale
+Type: Seismic, Interrupt
+Select a target to Interrupt their skills, inflict Bleed, and deal damage. If the damage is lethal, the enemy will be impaled, creating a zone that grants a powerful bonus to Armor and Health regeneration to all allies in range for 9 seconds.
+Level 13: Tremor
+Type: Seismic
+Create a series of explosions around you, each dealing damage and draining Health from enemies within a medium radius around you.
+Level 17: Boulderdash
+Type: Kinetic, Interrupt
+Charge forward to Interrupt all enemies in your path and deal damage. At the end of the charge, you will smash the ground and deal damage to all enemies in a small radius around you.
+Level 22: Endless Mass
+Type: Kinetic
+Encase a target in stone, inflicting Bleed and pulling enemies within a small radius towards the initial target. The stone will then explode, dealing damage to all enemies within a small radius around the target.
+
+Perks
+
+The perks will help you hone in your combat style and defensive positions, all filtering into one of three options for a finalized style. These will be upgraded with Class Points for the following final perks: 
+
+Technomancer
+
+Pestilence
+
+Br/8 Impact Amplifier: Increase your Weapon Damage by 8%
+Suction Module: Increase your Weapon Leech by 5%
+Sower of Decay: Reduce Decay skills cooldown by 15%
+Sniper Master: Increase your sniper weapon damage by 40%, Sniper weapons will drop 12% more often
+Drill Coating: Increase Armor Piercing by 15%
+BL-STM Havoc Nexus: Increase your Critical Damage by 15%
+Nitrogen Capsules: Decrease the distance considered to be Long Range by 3 meters
+Toxicologist: Toxic afflicted on enemies lasts 30% longer
+Cannonade: Activating Ordinance skills increases Weapon Damage for you and your allies by 30% for 10 seconds.
+Br/8 Impact Amplifier: Increase your Weapon Damage by 8%
+Nitrogen Capsules: Decrease the distance considered to be Long Range by 3 meters.
+Purge: Enemies afflicted with Toxic receive 10% more damage.
+Assault Master: Increase your assault weapon damage by 20%, Increase assault rifle drop chance by 12%
+Br/8 Impact Amplifier: Increase your Weapon Damage by 8%
+Assault Adept: Increase your assault weapon damage by 12%
+Sniper Adept: Increase your sniper weapon damage by 12%
+Drill Coating: Increase your Armor Piercing by 15%
+Two Sides of the Power: Increase damage received from all sources by 15% and dealt by 20%
+Grand Amplification: Increase your Anomaly Power by 4% for each unlocked Br/8 Impact Amplifier class node
+Sharpshooter: Increase your Long Range Weapon Damage by 30%
+UT-14 Clips: Increase magazine size by 50%
+Charged Gunshot: First bullet after reload deals damage with 200% increased Weapon Damage. It can happen once every 5 seconds.
+Purge: Enemies afflicted with Toxic receive 30% more damage.
+Empowering Antenna: Activating Decay increases Weapon Damage for you and your allies by 40% for 10 seconds.
+
+Tech Shaman
+
+Anomalous Body: Increase your health by 10%
+A.N.E.T.A. Plates: Increase your Resistance by 20%
+Gadgeteer: Reduce Gadget skills cooldown by 15%
+Exposing Toxin: Every time Toxic is afflicted on an enemy, Vulnerable status is inflicted as well
+Marked for Execution: Vulnerable afflicted on an enemy is 40% more effective
+Anomalous Body: Increase your health by 10%
+Winter’s Barrier: After using your class Melee skill, increase damage mitigation by 40% for 3 seconds
+Sols-56 Freezing Tanks: Freeze afflicted on enemies lasts 20% longer
+Armor Plates: Increase your Armor by 20%
+Fracture: Enemies afflicted with Freeze receive 10% more damage
+Blurscreen: Your Health Regeneration threshold is increased by 20% of Maximum Health
+Engineer: Decrease Turret's health decay rate by 30%
+Anomalous Body: Increase your Health by 10%
+Wipe Out: Enemies below 30% health receive 20% more damage
+Vitality Magnet: Increase your Skill Leech by 6%
+Gadgeteer: Reduce Gadget skills cooldown by 15%
+Senior Engineer: Increase Turret skills health by 100%
+Anomalous Body: Increase your health by 10%
+Exposing Frost: Every time Freeze is afflicted on an enemy, Vulnerable status is afflicted as well.
+Marked for Execution: Vulnerable afflicted on an enemy is 40% more effective.
+Armor Plates: Increase your Armor by 20%
+Sols-56 Freezing Tanks: Freeze afflicted on enemies lasts 20% longer
+Suction Module: Increase your Weapon Leech by 5%
+Medical Unit: Using a Gadget skill increases all healing received by you and your allies by 30% for 7 seconds
+Armor Plates: Increase your Armor by 20%
+Doctor of Medicine: Increase all healing by 20% for you and your allies.
+Vitality Magnet: Increase your Skill Leech by 6%
+Fracture: Enemies afflicted with Freeze receive 30% more damage.
+Overclocked: Activating Gadget skills increases your Anomaly Power and Weapon Damage by 40% for 10 seconds. For 10 seconds upon losing all Health you will receive a second chance to return to the battlefield with 50% Health. The effect may occur once every 180 seconds.
+
+Demolisher
+
+Anomaly Fuelled: Increase your Anomaly Power by 6%
+Ordnance Technician: Reduce Ordinance skills cooldown by 15%
+Disturbance Coating: Increase your Resistance Piercing by 15%
+Sidearm Adept: Increase your pistols and revolver damage by 12%
+Anomaly Fuelled: Increase your Anomaly Power by 6%
+Brain Freeze: Your class Melee skill also inflicts Toxic on every enemy hit.
+A.N.E.T.A. Plates: Increase your Resistance by 20%
+Welcome Shot: The first shot after reload deals damage with Firepower increased by 15% of your Anomaly Power
+Anomaly Fuelled: Increase your Anomaly Power by 6%
+Adrenalizing Antenna: Activating Decay skills increases Anomaly Power for you and your allies by 30% for 10 seconds
+Ordnance Technician: Reduce Ordinance skills cooldown by 15%
+Toxicologist: Toxic afflicted on enemies lasts 30% longer
+Anomaly Fuelled: Increase your Anomaly Power by 6%
+Heavy Absorption: Activating Ordinance skills increases Skill Leech by 15% for 7 seconds
+Anomaly Fuelled: Increase your Anomaly Power by 6%
+D-Kay Toxin: Increase Toxic damage by 20%
+Disturbance Coating: Increase your Resistance Piercing by 15%
+Vitality Magnet: Increase your Skill Leech by 6%
+Armored Unit: Activating Ordinance skills increases your Armor by 50% for 15 seconds
+Team player: Decrease Elites’ damage against you and your allies by 10%
+Anomaly Fuelled: Increase your Anomaly Power by 6%
+Emergency Transfusion: Double your Skill Leech when your Health goes below 30%
+Anomaly Fuelled: Increase your Anomaly Power by 6%
+D-Kay Toxin: Increase Toxic damage by 20%
+Techbond: Activating Ordinance skills increases Anomaly power by 50% for 10 seconds.
+
+Trickster
+
+Assassin
+
+Arms Trick: Increase Close Range Weapon Damage by 15%.
+Bulletstorm: Decrease Reload Time by 20%.
+Ace of Trumps: Increase Armor Piercing by 15%.
+Shotgun Master: Increase your shotgun weapon damage by 15%. Increase shotgun weapons drop chance by 12%.
+Death Probability: Increase your Weapon Damage by 8%.
+Arms Trick: Increase Close Range Weapon Damage by 15%.
+Equilibrium: Decrease the cooldown of your Movement skills by 15%.
+Deadly Shadow: Increase your Critical Damage by 20%.
+Disruptive Firepower: Activation of Deception skills increases your Weapon Damage by 50% for 8 seconds.
+Arms Trick: Increase Close Range Weapon Damage by 15%.
+Singularity: Decrease the cooldown of your Deception skills by 15%.
+Ace of Trumps: Increase Armor Piercing by 15%.
+Scion of the Power: When your Damage skill ends, increase your Weapon Damage by 50% for 8 seconds.
+Unforeseen End: When attacking enemies from behind, all your Weapon Damage is increased by 20%.
+Death Probability: Increase your Weapon Damage by 8%.
+Arms Trick: Increase Close Range Weapon Damage by 15%.
+Equilibrium: Decrease cooldown of your MOVEMENT skills by 15%.
+Death Probability: Increase your Weapon Damage by 8%.
+Transfusion: Increase your Weapon Leech by 5%.
+Unforeseen End: When attacking enemies from behind, all your Weapon Damage is increased by 20%.
+Bounty Hunter: Increase your Weapon Damage against Elites by 15%.
+Oddity Summation: Increase your magazine size by 50%.
+Assault Adept: Increase your assault weapon damage by 12%.
+Shotgun Adept: Increase your shotgun weapon damage by 12%.
+Cold Calculation: For each enemy in Close Range, your Weapon Damage is increased by 8%.
+
+Harbringer
+
+Anomaly Persistence: Increase your Health by 10%.
+Immunity: Increase your Resistance by 15%.
+Oddity Resistance: Receive 20% less damage from Elites.
+Leap of Quietus: Activating Movement skills increases your Armor Piercing by 15% for 10 seconds.
+Cycle of Life and Death: Gain additional 10% Health for each enemy that died at Close Range.
+Anomaly Persistence: Increase your Health by 10%.
+Against the Odds: When surrounded by enemies, reloading your weapons deals 11 damage and interrupts enemies’ abilities. Damage scales with Anomaly Power.
+Cycle of Life and Death: Gain additional 10% Health for each enemy that died at Close Range.
+Shield’s Timeline: Decrease your Shield degradation rate by 30%.
+Atrophy: Weakness afflicted on enemies lasts 30% longer.
+Outrider Executioner: Activating Movement skills increases your Weapon Damage by 50% for 8 seconds.
+Ace of Trumps: Increase Armor Piercing by 15%.
+Anomaly Persistence: Increase your Health by 10%.
+Wither Scything: Your class Melee skill inflicts Weakness to all enemies hit.
+Shield’s Increment: Increase your Shield gain by 10%.
+Immunity: Increase your Resistance by 15%.
+Shield’s Timeline: Decrease your Shield degradation speed by 30%.
+Singularity: Decrease the cooldown of your Deception skills by 15%.
+Mitigation in Motion: When your Damage skills end, increase your damage mitigation by 10% for 10 seconds.
+Anomaly Cloak: Increase your Armor by 20%.
+Shield’s Increment: Increase Shield gain by 10%.
+Long Odds: For each enemy in Close Range, your Armor is increased by 15%.
+Shield’s Timeline: Decrease your Shield degradation rate by 30%.
+Anomaly Persistence: Increase your Health by 10%.
+Profit Squared: Every ammo pick-up heals you for 5% of your Maximum Health.
+Dualshield: Increase your damage mitigation while your Shield is active by an additional 6%.
+Anomaly Cloak: Increase your Armor by 20%.
+Disruptive Shield: Every activation of Deception skills grants you 20% Shield.
+
+Reaver
+
+Concentration: Increase your Anomaly Power by 6%.
+Life Transfer: Increase your Skill Leech by 6%.
+Disturbance Coating: Increase your Resistance Piercing by 10%.
+Anomaly Scything: Activation Melee skill increases your Anomaly Power by 30% for 5 seconds.
+Concentration: Increase your Anomaly Power by 6%.
+Assault Master: Increase your assault weapon damage by 7% for each unlocked Concentration class node. Increase assault weapon drop chance by 12%.
+Concentration: Increase your Anomaly Power by 6%.
+Continuum: Decrease the cooldown of your Damage skills by 15%.
+Concentration: Increase your Anomaly Power by 6%.
+Countershield: Activating your Deception skills increases Anomaly Power by 50% for 10 seconds.
+Atrophy: Weakness afflicted on enemies lasts 30% longer.
+Disturbance Coating: Increase your Resistance Piercing by 10%.
+Concentration: Increase your Anomaly Power by 6%.
+Combat Shield’s Timeline: Activating your Movement skill increases Anomaly Power by 50% for 10 seconds.
+Life Transfer: Increase your Skill Leech by 6%.
+Concentration: Increase your Anomaly Power by 6%.
+Concentration: Increase your Anomaly Power by 6%.
+Continuum: Decrease the cooldown of your Damage skills by 15%.
+Anomalic Acceleration: When your Damage skill ends, increase your Anomaly Power by 50% for 10 seconds.
+Leap of Clincher: Activating your Movement skills increases your Resistance Piercing by 15% for 10 seconds.
+Life Transfer: Increase your Skill Leech by 6%.
+Scion of the Void: At the end of any Damage skill, increase your Armor Piercing by 30% and Resistance Piercing by 25% for 10 seconds.
+Shadow’s Embrace: Your Firepower is increased by 15% of your Anomaly Power.
+Shielded Readiness: You will not be healed for each enemy that dies in Close Range. Instead, your Shield gain will be increased by an additional 20%.
+Altered Executioner: For each enemy in Close Range, your Anomaly Power is increased by 10%.
+
+Pyromancer
+
+Ash Breaker
+
+Inferno Weapon: Increase your Weapon Damage by 8%
+Moths to the Flame: Increase your Weapon Leech by 5%
+Marble Orchard: Reduce Immobilize skills cooldown by 15%
+Assault Master: Increase your assault weapon damage by 20%. Increase assault weapon drop chance by 12%.
+Mark of the Anomaly: Increase your Weapon Damage by 10% against Marked enemies
+Sidearm Adept: Increase your pistols and revolver damage by 12%
+Blood Boil: Increase your Armor Piercing by 15%
+Trial of the Ashes: Enemies afflicted with Ash receive 10% more damage.
+Hot Situation: Activating your Immobilize skills increases your Anomaly Power by 45% for 10 seconds
+Mark of the Anomaly: Increase your Weapon Damage by 10% against Marked enemies.
+Conflagration: Increase your Resistance Piercing by 15%
+Curse of the Pompeii: Ash afflicted on enemies lasts 15% longer
+Sniper Master: Increase your sniper weapon damage by 40%. Sniper weapons will drop 12% more often.
+Mark of the Anomaly: Increase your Weapon Damage by 10% against Marked enemies.
+Blood Boil: Increase your Armor Piercing by 15%
+Inferno Weapon: Increase your Weapon Damage by 8%
+Moths to the Flame: Increase your Weapon Leech by 5%
+Mark of the Anomaly: Increase your Weapon Damage by 10% against Marked enemies
+Ashes to Ashes: Every time Ash is afflicted on an enemy, Vulnerable status is inflicted as well.
+Nimble as a Flame: Decrease reload time by 20%.
+…Hurt Twice as Long: Increase damage against Elites by 10%. Elites deal 10% less damage to you.
+Trial of the Ashes: Enemies afflicted with Ash receive 30% more damage.
+Marble Orchard: Reduce Immobilize skills cooldown by 15%.
+Burning Situation: Activating Immobilize skills increases your Weapon Damage by 60% for 10 seconds.
+
+Fire Storm
+
+Magma Golem: Increase your health by 10%.
+Unquenchable: Increase your Skill Leech by 6%
+Warm Up: Reduce Ignite skills cooldown by 15%.
+Armor Melting: Increase your Armor Piercing against Marked enemies by 30%
+Steady Fire: Decrease weapon recoil by 30%
+Magma Golem: Increase your health by 10%.
+Wildfire: Decrease all your skill cooldowns by 10%.
+Trial by Fire: Enemies afflicted with Burn receive 5% more damage.
+Master of the Armor: Increase your Armor by 20%.
+Meltdown: Burn afflicted on enemies deals 20% more damage.
+Incinerate: The moment Burn ends on an enemy, inflict Ash status.
+Curse of the Pompeii: Ash afflicted on enemies lasts 15% longer.
+Magma Golem: Increase your health by 10%.
+Extinction: Increase damage by 20% against enemies below 30% health.
+Let Them Burn: Burn afflicted on enemies lasts 20% longer.
+Gifted: Increase Weapon Damage and Anomaly Power by 5%.
+Mater of the Resistance: Increase your Resistance by 20%.
+Distance Flame: Increase your Anomaly Power by 2.5% for each unlocked Golem class node.
+Magma Golem: Increase your health by 10%.
+All Guns Blazing: Increase Weapon Damage after any skill activation by 20% for 7 seconds.
+Unquenchable: Increase your Skill Leech by 6%.
+Let Them Burn: Burn afflicted on enemies lasts 20% longer.
+Magma Golem: Increase your health by 10%.
+Anomalous Lava: Activating Ignite skills increases your Armor by 45% for 10 seconds.
+Unquenchable: Increase your Skill Leech by 6%.
+Fuel for the Embers: Doubles Skill Leech when under 30% Health.
+Trial by Fire: Enemies afflicted by Burn receive 15% more damage.
+Warm Up: Reduce Ignite skills cooldown by 15%.
+Magma Elemental: Activating Ignite skills increases your Armor by 45% and Resistance Piercing by 45% for 10 seconds.
+
+Tempest
+
+Archmage: Increase your Anomaly Power by 6%.
+Mark’s Cumulation: Increase your skill damage by 10% against Marked enemies.
+World Ablaze: Reduce cooldown of your Explosive skills by 15%.
+Gifted: Increase Weapon Damage and Anomaly Power by 5%.
+Archmage: Increase your Anomaly Power by 6%.
+With Fire and Rifle: Activating Explosive skills increases your Weapon Damage by 45% for 10 seconds.
+Mark’s Cumulation: Increase your skill damage by 10% against Marked enemies.
+Strength Of The Flame: Reduce Elite damage against you by 10%.
+Archmage: Increase your Anomaly Power by 6%.
+Inferno Bullets: Your Firepower is increased by 15% of your Anomaly Power.
+Meltdown: Burn afflicted on enemies deals 20% more damage.
+Gifted: Increase Weapon Damage and Anomaly Power by 5%.
+Archmage: Increase your Anomaly Power by 6%.
+With Fire and Anomaly: Activating Explosive skills increases your Anomaly Power by 12% for 10 seconds.
+Unquenchable: Increase your Skill Leech by 6%.
+Master of the Resistance: Increase your Resistance by 20%.
+Archmage: Increase your Anomaly Power by 6%.
+Phoenix Nestling: Upon losing all Health you will receive a second chance to return to the battlefield with 50% Health. Phoenix can revive you every 180 seconds.
+Phoenix: Your Phoenix will revive you with 100% Health. Its activation cooldown will be reduced to 135 seconds.
+Chasing the Chill Away: Killing a Marked enemy heals you by an additional 12% of your Maximum Health.
+Conflagration: Increase your Resistance Piercing by 15%.
+Flames That Burn Twice…: Increase damage against Elites by 10%.
+Mark’s Cumulation: Increase your skill damage by 10% against Marked enemies.
+World Ablaze: Reduce Explosive skills cooldown by 15%.
+Grave Ablaze: Increase Explosive skills base damage by 30%.
+
+Devastator
+
+Vanquisher
+
+Havoc: Increase your Weapon Damage by 8%.
+Shotgun Adept: Increase your shotgun weapon damage by 12%.
+Armorbreaker: Increase your Armor Piercing by 15%.
+Shotgun Master: Increase your shotgun weapon damage by 15%. Increase shotgun weapon drop chance by 12%.
+Brawler: Increase your Close Range Weapon Damage by 15%.
+Perpetual Motion: Reduce Kinetic skills cooldown by 15%.
+Into the Fray: Increase your damage mitigation by 15% for 10 seconds after your KINETIC skills end.
+Vim and Vigor: Increase Weapon Damage by 10% for each unlocked Anomaly in Veins class node.
+Assault Adept: Increase your assault weapon damage by 12%.
+Armorbreaker: Increase your Armor Piercing by 15%.
+Champion: Using Protection skills increases Weapon Damage by 45% for 10 seconds.
+Havoc: Increase your Weapon Damage by 8%.
+Heirloom Armor: When an enemy dies in your Close Range 20% of their Armor will be transferred to you for 10 seconds.
+Profit Squared: Every ammo pick-up heals you for 5%.
+Assault Master: Increase your assault weapon damage by 20%. Increase assault weapon drop chance by 12%.
+Havoc: Increase your Weapon Damage by 8%.
+Perpetual Motion: Reduce Kinetic skills cooldown by 15%.
+Brawler: Increase your Close Range Weapon Damage by 15%.
+Dry Them Out: Increase your Weapon Leech by 5%.
+Bounty Hunter: Increase damage against Elites by 15%. Elites deal 15% less damage to you.
+Havoc: Increase your Weapon Damage by 8%.
+Bulletstorm: Reload your weapons 20% faster.
+Ammo Stockpile: Increase your magazine size by 50%.
+Confrontation: Enemies who damage you will have their physical damage reduced by 10% for 5 seconds. The effect is doubled if you damage that enemy as well.
+Dry Them Out: Increase Weapon Leech by 5%.
+Armorbreaker: Increase your Armor Piercing by 15%.
+Altered Charge: When Kinetic skills end, increase your Weapon Damage by 70% for 10 seconds.
+
+Warden
+
+Colossus: Increase your health by 10%.
+Tank: Increase your Armor by 20%.
+Anomaly in Veins: Every second regenerate your Health by 1%.
+Into the Fray: Increase your damage mitigation by 15% for 10 seconds after your Kinetic skills end.
+Vim and Vigor: Increase Weapon Damage by 10% for each unlocked Anomaly in Veins class node.
+Colossus: Increase your health by 10%.
+Strong Arm of the Anomaly: After using class Melee skill, increase Resistance Piercing by 15% for each hit enemy for 10 seconds.
+Colossus: Increase your health by 10%.
+Resistance Paragon: Increase your Resistance by 20%.
+Anomaly in Veins: Every second regenerate your Health by 1%.
+Heirloom Armor: When an enemy dies in your Close Range 20% of their Armor will be transferred to you for 10 seconds.
+Profit Squared: Every ammo pick-up heals you for 5%.
+Colossus: Increase your health by 10%.
+Stone Circle: Extend the distance considered to be Close Range by an additional 4 meters.
+Through the Mob: Increase your Armor by 7% for each enemy in Close Range.
+Anomaly in Veins: Every second regenerate your Health by 1%.
+Tank: Increase your Armor by 20%.
+Colossus: Increase your health by 10%.
+Outrider Commander: Increase all healing by 20% and Shield by 20% for you and your allies.
+Colossus: Increase your health by 10%.
+Unending Watch: Reduce Protection skills cooldown by 15%.
+Unbroken Vow: You have 100% chance to ignore the damage that would kill you and gain 50% Health. The effect may occur once every 180 seconds.
+Resist the Mob: Increase Resistance by 15% for each enemy in Close Range.
+Tank: Increase your Armor by 20%.
+Overlord of the Battleground: Gain additional 10% Health for each enemy that died at Close Range.
+Resistance Paragon: Increase your Resistance by 20%.
+Tank: Increase Armor by 20%.
+Mighty Tank: Increase Firepower by 10% of your Armor. Increase Anomaly Power by 10% of your Armor.
+
+Seismic Shifter
+
+Anomaly Reservoir: Increase your Anomaly Power by 6%.
+Endless Tremors: Seismic skills cooldown is reduced by 15%.
+Rejuvenation: Increase your Skill Leech by 6%.
+Unending Watch: Reduce Protection skills cooldown by 15%.
+Anomaly Reservoir: Increase your Anomaly Power by 6%.
+Paladin: Using Protection skills increases Anomaly Power by 45% for 10 seconds.
+Pure Anomaly: Increase your Resistance Piercing by 15%.
+Perpetual Motion: Reduce Kinentic skills cooldown by 15%.
+Anomaly Reservoir: Increase your Anomaly Power by 6%.
+Anomaly Bullets: Increase Firepower by 15% of your Anomaly Power.
+Red Rivers: Increases Bleed duration by 30%.
+Endless Tremors: Reduce Seismic skills cooldown by 15%.
+Anomaly Reservoir: Increase your Anomaly Power by 6%.
+Strong Arm of the Law: Double the damage of class Melee skill.
+Executioner: Increase damage by 20% against enemies below 30% of health.
+Red Rivers: Increases Bleed duration by 30%.
+Anomaly Reservoir: Increase your Anomaly Power by 6%.
+Bloodbath: Bleed afflicted on enemies deals 30% more damage.
+Blood Donation: You are healed for 35% of your Bleed damage.
+Protected by the Anomaly: Increase your Armor Bonus by 40% of your Anomaly Power.
+Rejuvenation: Increase your Skill Leech by 6%.
+Skilled Sentry: Increase Armor by 20% and Resistance by 20% for 10 seconds when your skills end.
+Pure Anomaly: Increase your Resistance Piercing by 15%.
+Bloodbath: Bleed afflicted on enemies deals 30% more damage.
+Earth’s Heritage: Increase Seismic skills base damage by 50%.
+
+5
+
+            Respec
+
+            You're not stuck if you don't want to be. 
+
+            Respec
+
+That's a lot of info above to take in – I get it – but there's another cool facet about skills that you should be aware of: You don't have to be limited to what you choose. In the Perks section, you can modify your build to suit your play style. For me, I play heavy tank, so I invested heavily in beefing myself up with high defenses and with more melee power. Honestly, there are numerous ways to roll your character. My best advice? Play around, try out different things. You might be surprised what feels like the perfect fit and what just feels like a hinderance. 
+
+6
+
+            Hoarder
+
+            Turn on that auto-collect, boo, you'll thank me later. 
+
+            Hoarder
+
+Auto-collection is one of my favorite features in loot-based games, mostly because I'm lazy when it comes to retracing my steps and I don't want to stop shooting. When you're in a fight, there is going to be loot that pops out as a big glowing orb that's colored to the level of loot it is, but sometimes they drop on ledges or in a hot zone you might not be totally willing to wade into yet. To make sure you grab every piece of gear possible, head over into your settings menu. 
+
+Settings > Gameplay > Auto Loot Minimum Rarity 
+
+This will make sure you scoop up everything, which is great for something we're going to dive in next when it comes to dismantling. 
+
+7
+
+            Kidding on the Hoarder bit
+
+            Collect everything but don't KEEP everything. Let me explain:
+
+            So when I said hoard everything, I did mean it. Sort of. But there is merit in getting rid of some of that lower-tiered loot as well. You can dismantle various gear types like armor and weapons to help craft and upgrade better equipment to don when heading back out into danger. You're going to be constantly getting new loot from enemy drops, so pay attention to what's no longer usable and dismantle it, especially for higher-tiered goods. For lower items like Common and Uncommon, you can sell those for money to the vendors in-camp. 
+
+8
+
+            Side Quests
+
+            Side quests are going to be your best friend in Outriders
+
+            Side Quests
+
+I feel like this is a no-brainer, but just in case you might be thinking on skimping out on some of the side quests: don't. Outriders has some downright stunning weapon designs, especially for the Legendary gear types, and a solid way to get those is through the various side quests found throughout the game.
+
+More than that, doing these quests will also better formulate how you see the world you're suddenly in, getting insight into what life looks like for those outside of yourself. This enriches the RPG aspect of this game and makes worldbuilding more rewarding and immersive for players. If you're looking for a story, this is a good chunk of that, so skimping out on them to save some time only hurts your experience. 
+
+9
+
+            Are Mods Worth It? 
+
+            I mean, yeah. 
+
+            Mods
+
+Outriders gives players a lot of freedom to tailor how they want to fight in-game. Mods help to further that customizable experience with different options to equip in order to achieve a certain build. 
+
+Mod types will include buffs, ways to enhance current skills, what your offense looks like in comparison to your defense. They aren't the end-all-be-all of character craftmanship, but like Destiny - they are a vital part of taking your character to the next level. 
+
+10
+
+            Have Fun
+
+            Another no-brainer tip, but this one gets lost in the shuffle a lot. 
+
+            At the end of the day, games are about having fun. Outriders can absolutely be played solo, but it definitely has a special charm when playing with friends. Play around with the different mods, the different weapons. Don't force yourself into a box. People Can Fly did a great job at adding variety into the gameplay mechanics of Outriders, so go ham. Be the chaos machine you've always wanted to be, or be the strategic overseer that keeps your teammates alive. Whatever you do, just make sure you're having fun. Otherwise, what's the point? 
+
+            And that's it! That's our in-depth guide for maximizing your time in Outriders. Interested in our thoughts about the latest game from People Can Fly? You can check out our Review in Progress right here. 
+
+            .
+
+Liana Ruppert
+Associate Editor 
+With an arguably unhealthy obsession with Dragon Age and Mass Effect, Liana is wildly passionate about all things in the gaming community. From shooters, to RPGs, if it's out - she's playing it. She's also likely to die from hoarding gaming collectibles.
+
+Email
+Twitter
+
+      Products In This Article
+
+Outriders
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC
+
+Release Date:
+
+April 1, 2021
+
+Purchase
+More Info
+

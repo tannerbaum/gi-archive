@@ -1,0 +1,77 @@
+
+  What Dreams Needs To Do To Stay Relevant
+
+
+
+
+
+
+            The early access version of Dreams launched into the wild in April after seven long years of development, which you can read all about here. What's there is an incredible creative suite as well as an ingenious way to disseminate creators' wild and wacky games, movies, and art pieces among a growing community.
+
+We're pretty hot on Dreams (as our glowing review shows) but we also acknowledge that the game-toolset hybrid needs to make some pretty significant additions in the crucial months ahead to stay relevant as a live-service game. Here's what we think Dreams needs to do to stay relevant and cultivate a space filled with amazing creations as well as the audience to enjoy those things.
+
+Mouse & Keyboard Support
+
+Dreams makes use of motion controls in both the DualShock 4 as well as the PlayStation Move controllers. While this is a somewhat reliable method, there are some annoyances, particularly constantly having to reset your cursor. The lack of precise control with the Dualshock is also annoying. Considering you can connect a mouse and keyboard to your PS4, it seems reasonable to expect there to be some kind of support for Dreams in the future. In a recent interview with us, Media Molecule said it's currently looking into alternate forms of control besides the motion control you can do with the Dualshock... but we're hoping for mouse and keyboard support much sooner than the studio's answer suggests.
+
+More Flexible Sculpting Shapes
+
+All objects in Dreams are sculpted out of simple shapes – but some of those shapes are simpler than others. While objects like the rectangle and cylinder can only be resized and stretched, the pyramid lets players manipulate the individual corners of the shape. The Curve object is even more flexible, allowing you to create a curved line with varying thicknesses you can then stamp or smear like the other shapes. Having this kind of flexibility with other shapes – be it built into the existing offerings or as entirely new ones – would help streamline the creation of some objects; while you can create pretty much anything by adding and subtracting different shapes, sometimes you only need to move one corner or plane to get the intended look. At the risk of sounding like a broken record, the more building blocks players have to work with, the cooler things they can build.
+
+A Killer App
+
+So far, Dreams' growth has fittingly mimicked the beginning of modding scenes for the likes of Half-Life, Quake, and Warcraft III, with players throwing everything against the wall as they experiment with the tools to create small games based on popular properties like The Avengers, Zelda, and everything in between. However, at a certain point, all those communities created something that came to define the power of those tools and the creative ingenuity of the community using them. Counter-Strike and Neil Manke's They Hunger were total conversion mods for Half-Life that demonstrated even small teams of hobbyists could create genre-defining experiences with only dedication and the tools at hand.
+
+Dreams has yet to make a similar statement. This is largely, we imagine, because of how new the toolset still is to its user base. It was more than a year after Half-Life released before Counter-Strike arrived on the scene, after all. The biggest challenge Dreams has in front of it is proving its ecosystem can give rise to something that captures everyone's attention in a similar fashion, which is largely out of Media Molecule's hands. Hopefully for Dreams' sake, its Absolutely Must Play creation isn't too far off given how much content is out there competing for players' attention spans.
+
+More Tutorials And Masterclasses
+
+The early access version of Dreams launched with a seemingly endless assortment of tutorials, but after a few hours of learning the ropes, you’ll realize they fall far short of covering everything. While the current offerings do an excellent job of getting you acquainted with Dreams’ sculpting, painting, animation, and basic logic tools, many of the more advanced gadgets are only lightly touched on or ignored completely. Dreams’ pop-up tips illuminate many of the options and variables at your disposal, but more guided learning options would still be a welcome addition. The same goes for more masterclass lessons, which offer deeper dives into the various modes.
+
+New Game Templates
+
+One of the best ways to learn how things work in Dreams is jumping in and dissecting someone else’s project. In its current state, Dreams offers a few official gameplay templates for things like creating your own basic first-person shooter or a Super Monkeyball-style rolling ball game. The more of these templates Media Molecule can offer the better: Not only are they are a great jumping-off point for wrapping your head around more advanced scripting and logic, many players will likely be content just remixing and re-theming their own levels from them. Thankfully, Media Molecule has already said it plans to add more game templates in the future; hopefully there will be a wide breadth of game and genre templates available to players by the time Dreams officially launches.
+
+More Options With Your HomeSpace
+
+Sure, the HomeSpace, your avatar's hub where they hang out before you head into DreamSurfing or DreamShaping, isn't the main draw of Dreams. And yet, the idea of having a little space for you to decorate and call your own in the Dreamiverse is cute. Too bad the options are a little barren. Even the tools you can use in the HomeSpace are dumbed down (no cloning, for example), making creating in that space more tedious than it needs to be.
+
+Adding an influx of new objects to build that space out and new ways to manipulate said objects would do much to make HomeSpace feel more like a feature and less than an afterthought.
+
+Better Search And Playlist Options
+
+Media Molecule is already working to address this particular issue with some improvements included in its upcoming patch, but we imagine the search and playlist options will need to be iterated and improved upon consistently as Dreams continues to grow. Giving users and creators the ability to divvy up their searches by even more tags and categories, letting them search for games that fit specific builds or last a certain amount of time, would be beneficial going forward.
+
+More Gameplay Objects/Contraptions
+
+Similar to game templates, players can also create and share individual objects (complete with logic) that other players can simply drop into their own projects. Media Molecule offers a number of downloadable contraptions, from boost pads and orb dispensers to animated character rigs (which are technically classified as gadgets, but it’s the same idea). Once again, Dreams could benefit from a more-the-merrier approach, with Media Molecule providing the foundational blueprints for numerous objects players frequently come across in games – drivable car, flashlight, jetpack, the proliferous exploding barrel, you name it. Sure, Dreams players are busy creating and uploading every object known to man, but having optimized and annotated examples straight from Media Molecule would ensure players are starting their projects with a solid foundation. 
+
+Sorry, this video is not available
+
+Design Exercises
+
+One of the things that makes Dreams’ early tutorials so effective is that they walk you through a very practical design scenario: Players are trying to get Connie (a cone-shaped controllable character) past a series of pits by creating and animating platforms, sculpting stairways, and wiring interactive bridges. Not only are you learning Dreams’ toolset, you’re also being encouraged to think about the fundamentals of designing a platformer.
+
+Having completed all the tutorials, I feel pretty confident in my ability to create a simple 3D platformer. But what if I wanted to create a turn-based game instead? Or a puzzle game? I’d love to see Media Molecule offer more exercises that walk players through other specific gameplay examples, be it wiring up a controllable vehicle, creating an NPC that seeks out the player character, or creating interactive menus. Unlike the aforementioned tutorials/masterclasses, these would also offer actual game design advice, and include challenges for players to solve. These types of design exercises would hopefully help the Dreams community break out of creating clones of other games and tackle more original projects.
+
+More Standard Options For Games In The Dreamiverse?
+
+Do you play with inverted controls? Need subtitles? Bad news. Accessibility options in the individual games in the Dreamiverse are often left in the hands of creators.  Many of these games don't have an inverted options or subtitles in-game.  We hope that Media Molecule finds a way in the future to stick such options in a general menu that affects all the games in the Dreamiverse instead of a case-by-case basis.
+
+For more on Dreams, check out  what one of our editors built after spending a week with Dreams and our rundown of 11 tools in the game any dummy can use.
+
+      Products In This Article
+
+Dreams
+
+Platform:
+
+PlayStation 4
+
+Release Date:
+
+February 14, 2020
+
+Purchase
+More Info
+

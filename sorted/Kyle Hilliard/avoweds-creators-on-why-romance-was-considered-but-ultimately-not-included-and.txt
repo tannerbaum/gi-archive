@@ -1,0 +1,131 @@
+
+                                          Avowed
+                  
+
+
+  Avowed's Creators On Why Romance Was Considered, But Ultimately Not Included And Skyrim Comparisons
+
+
+
+
+Platform
+Xbox Series X/S, PC
+
+Publisher
+Xbox Game Studios
+
+Developer
+Obsidian Entertainment
+
+Release
+2024
+
+            Avowed was featured as a major part of Xbox's Summer presentations. The game appeared in the Xbox Game Showcase, and following the new footage, game director Carrie Patel appeared on the official Xbox podcast to share more gameplay and share more about the game. We caught up with Patel and gameplay director Gabe Paramo to find out even more about Avowed, covering what they think of comparisons to Skyrim, how they feel about Baldur's Gate 3, why romance was considered for the game but ultimately not included, and why playing The Outer Worlds may gave you the best idea of what to expect from Avowed.
+
+Can you tell me more about Avowed’s third-person option? That’s likely how I will play the game.
+Carrie Patel, game director: So, as you yourself have just noted, there are a lot of people who simply prefer it. There are people who prefer it for aesthetic reasons. They've built this character, and they want to see them in the world. There are people who prefer it because of accessibility reasons. First-person maybe makes the motion sick, and FOV sliders don't quite get them comfortable. So yeah, there are a lot of reasons to have it. There are a lot of players who prefer it for some reason or another. But we're still giving players the same Avowed experience in third-person. Gabe can speak more to that.
+
+Gabe Paramo, gameplay director: So, to be super clear, right? This is a first-person game with a third-person perspective. So, when we talk about feel, there might be some micro-adjustments – in terms of, like, the physics of the capsules, super micro – in order to give a little bit of leeway for the animation frames to kind of make those blend a bit better, but we want it to feel as snappy. And we and it's going to feel in control exactly like the first-person game. Okay,
+
+Do you expect players to go back and forth between first and third? Or do you expect players to commit one way or the other?
+GP: I think that's still kind of TBD. I believe we've started with making it more like an accessibility setting. But definitely, if we hear feedback that's like, “I really want to switch this quicker,” that's definitely something we could discuss in a community forum.
+
+I understand that Avowed takes place in the Pillars of Eternity universe. But I'm curious what that means more specifically. Does it take place at a certain point in the timeline? Is it a good idea to have some background on the universe beforehand?
+CP: First and foremost, you don't have to have played any of the prior Pillars games to play Avowed. We're glad to have our returning fans, but we expect that for many players Avowed is going to be their first introduction into the world of Eora, and we're accounting for that. So Avowed takes place a few years after the end of Deadfire, which was our game just before this. There are a couple of characters that returning players are going to recognize. Inquisitor Lödwyn – the scary lady with the cool mask that we saw in the trailer – she was actually a side character in Deadfire. And she plays a much more prominent role in Avowed as you can probably tell.
+
+We have a couple other more minor characters who make some cameos. But in all of those cases, you don't have to be familiar with those characters. You don't have to have met them before in order to understand the context and Avowed. Our approach to a lot of details about the world, references to events from other games, references to locations is really just that. Returning players will recognize those things and feel the interconnectivity of the world, but it's not something that you have to have played. It's not it's not at all required reading. As with any big fantasy game, we're giving the world a lot of context so that players can step into it. We want it to feel fleshed out besides the small slice that we're giving them. But yeah, part of the fun of setting it in The Living Lands, besides just the color of the setting, is that it is a location that we have not explored in any prior Pillars game. It's one that we've built up some lore about, but it was fresh for us as the dev team, and it will be fresh for players, as well.
+
+How extensive are the choices in the game and the narrative? Are we talking, like, multiple endings? And how many? Or is it more detailed than that?
+CP: Choice and consequence is something that unfolds for the player over the course of the game. There are choices that you're going to make that are going to have immediate effects, choices that you'll make that will have effects that you'll see maybe hours later, and some that you'll make that you'll come to see at the very end of the game, kind of how those play out further on into the future. But along with that, you've got choices that are very intimate and impactful for specific characters, and some that really affect the state of entire settlements of the Living Lands and the Living Lands at large.
+
+So, when it comes to choice, we really try to provide breadth and a tapestry for the player. It’s not like you just reach the ending and kind of you’re choosing your ending. It's really the ending is the result of choices you've made along the way. Some of those are very intimate and character-focused, some of those are very broad and sweeping. But yeah, you'll definitely have moments where the way you made certain choices, or perhaps the way you treated certain characters early in the game will come back to reward or haunt you, or likely a bit of both a few hours later, when you meet those characters – allies and adversaries. And you'll have a number of choices that it's kind of… characters will be willing to trust you or will be not willing to trust you based on kind of the cumulative combination of choices that you've made up until that moment. So if you're trying to ally with someone, and you say, like, “Hey, you can trust me. I want to do this thing, let's work together,” they might call out a handful of things you've done up to that point and say, “I don't think I can trust you,” or, “ what? I think you're right, so I'll give you this chance.
+
+So, there will be subtlety in the conclusions. You’re not just making your way toward one of three potential endings.
+CP: Correct. There are a couple of very, very big choices that players will make at the end. And those are very clearly telegraphed. The ending that they get is the result of what very big choices do they make, but also the numerous and subtle choices that they make along the way.
+
+In the recent Xbox podcast you showed that you can flirt, and you showed the character Yatzli, who is very flirtatious. But there aren’t romance options in the traditional sense, right? You're not building romantic relationships? You’re not marrying characters or anything like that, correct?
+CP: Yeah, we decided to forego full romance paths in Avowed. It's something that we thought very hard about, and we talked about it as a narrative team. I think if you're going to invest in romance, everyone who's writing them needs to be absolutely, fully bought in. And the other thing you need to do is make sure that if you're going to provide that path, that you're balancing that with an equally meaningful and well-developed, non-romantic path because you never want players to feel that, "Well, the only way I really get to know this character or really get to form a meaningful bond with them, is if I commit to romancing them, which maybe isn't something I want to do." So, for all of those reasons, we decided to forego romances, specifically in Avowed. But we still built a lot of content around getting to know your companions. Forging deeper bonds with them and coming to understand their stories.
+
+But you can role-play as a flirtatious person?
+CP: Yeah, you definitely have options with various characters to flirt sometimes, to be cheeky, to be a little aggressive. It’s not something that… it's not as if every dialogue has a flirt option. It's all situational. It's in this moment, in this context with this character – how might a person want to play off of this individual? And Yatzli, who is very naturally flirtatious? Yeah, sometimes there are times when you want to respond in kind.
+
+GP: It's not a romance system. But you are building relationships, right? That's what a lot of these games are all about. You're building them through the dialogue choices, but you are speaking to these characters in the way that you want to based on either whatever background you chose, or whatever type of playstyle you're trying to have your character portray.
+
+How does the party work? Do you have a bank of people you meet who decide to join you and hang out in the camps? But then you pick certain people to take out with you on missions?
+CP: So you have four companions that you'll meet over the course of the game. They're all directly tied to the crit path and to the story that the player is encountering. So, as you meet them, they'll join your party. And yeah, when you're at the party camp, they'll be hanging out at party camp with you. And it's kind of fun to see as you recruit them, and they start to populate camp, and there are, I don't know how many, tons of banters between them. Some of them are based on things that have happened in the world, quests you've done, where on the crit path you are, or even just who's present – those things will fire off. You can see them get to know one another and just get another window into their personality. It's just a lot of very fun stuff.
+
+So yeah, they will be present at party camp with you, and then when you leave party camp, which is kind of your rest zone, you choose who ventures out with you. And for almost all of the game, you can choose any two of the companions you have recruited. So, if you'd like to switch it up, and you want to get to know someone you haven't spent much time with, or see what kinds of banters two other characters have together, you can bring them, if there's someone that you really, really like, who complements your playstyle really well, you might choose to spend a lot of your time with that companion specifically. There are a few quests and a few areas that because they are very closely tied to those companion stories and their insights and the ways that they're able to kind of help you move through the world. There are a few spots where one particular companion is required, but the other is going to be up to you. But by and large, you're choosing who to take with you based on your personal preferences and your mechanical playstyle.
+
+You shared a boss fight you could avoid entirely with dialogue choices. Is the game designed in such a way that you can avoid combat entirely from the opening moments?
+CP: There is no pacifist route in Avowed so no, this isn't a game where you're gonna be able to avoid all combat.
+
+Do you consider Avowed an action game at all? Or is it strictly an RPG?
+GP: An RPG. Yeah, I mean, what are we doing? Right? You are exploring the world, you're using traversal mechanics, we have to care about pacing. You're having conversations with characters. It's a fantasy action RPG, right? You will engage with combat as you explore the spaces. There's different ways to approach that like when you do get to the combat portions of things, it is very action-oriented. But the pacing is probably what you would expect from fantasy action RPGs.
+
+Traversal – is there fall damage? Is there flying or gliding from high points?
+GP: Okay, so your first question is, is there fall damage?
+
+Sorry, I should have let you answer them one by one.
+GP: In our dev direct, we did show that the player can swim. And no, there is no flying.
+
+CP: But there is something very clever you can do in some spaces, which is if you use your charge ability creatively, you can sometimes use that to zoom over gaps that aren't too wide. It's not the same as flying or gliding. It doesn't get rid of fall damage. But you can creatively use that as one option in your toolbox for traversal in some trickier spots.
+
+GP: And we have a parkour system. The goal of it is to allow the player to move over objects. Some other first-person games or in other action RPGs you maybe might get stuck and have to walk around. We're trying to say, "Okay, just let the player move over that thing."
+
+There’s a scene you showed where there are vines, and the player has to use a fire ability to get past them that I saw where there were vines, and then you use the fire ability to burn the vines and get past them. Metroid comes to mind with mechanics like that. Are you unlocking abilities that allow you to get to new parts of the map?
+GP: I would call it lock and key mechanics. We do have some lock and key mechanics, but they are definitely tied to the story beats and we wanted – because again, we are big on choice and consequence – in general, we want to make sure there are multiple approaches and ways to be able to handle some of those scenarios. We have companion interactions that allow the companion to help you get through some of those things. But also, let's say that companion’s not with you, we wanted to give the player an opportunity to use like a throwable, that also can do that. Or if there's a clever, scripted setup that one of our area designers has created, another opportunity to shoot an object that can cause the thing to light on fire. So, we did want to provide multiple mechanisms to allow the player to feel smart and clever.
+
+CP: It's not a Metroidvania. It's more that the player has a toolbox of options and depending on what they have and what they like to use, they can use those creatively to bypass certain obstacles and find nooks, loot, and surprises in the game.
+
+Do you embrace comparisons to The Elder Scrolls V: Skyrim? Or do you push against it?
+CP: I think the best comparison is The Outer Worlds. I think that gives a much clearer idea of the scope of the game and also the design and layout. Like The Outer Worlds, Avowed has a series of open zones that are connected and unlock over the course of the game, rather than one giant map that you can walk through from beginning to end. And yeah, in terms of the kind of the quest structure, the narrative structure, it's a lot closer to The Outer Worlds, as well.
+
+Is it tonally similar to The Outer Worlds? Is it humorous in a comparable way?
+CP: Tonally, the best comparison is going to be Deadfire, the second Pillars game where you have a very grounded and serious political story. A very kind of weird and esoteric, metaphysical, and divine story beneath that. A lot of moments of seriousness, but also moments of levity to kind of to kind of break that up, and a lot of those things are very character-based. So yeah, I wouldn't compare it tonally to The Outer Worlds.
+
+GP: My opinion on that is I don't love it. Even as I've learned in my role, comparing two games, even for the team – let's forget the player for a second – even for the team it's hard to say, “Use this like this.” You have to break down the mechanic more because people will grab what mechanics they think you're talking about. Without it, if you're not very clear about what it is specifically, you are trying to be inspired by another game. Personally, I don't love it because a lot of players can take whatever they want from those games and go, “It's gonna have this and this and this.” I prefer if we just better just explain what it is our game is doing.
+
+It feels like every fantasy RPG now has to deal with Baldur’s Gate 3. Avowed does not look like Baldur’s Gate 3 at all, but they're both fantasy games. Does Baldur’s Gate 3 inspire confidence that there is clearly an appetite for the genre? Or is it intimidating?
+CP: I mean, it was a super fun game. We're all RPG fans at the studio and on the team as well, so we enjoyed playing it. Comparing our build choices talking about, “Are you investing in tadpole powers. Are you rejecting them?” So, first and foremost, we just had a lot of fun with it. But yeah, it's always great to see aa fantasy RPG do well and to see that, yeah, players are ready to invest in and commit to a big creative world that rewards a lot of investment from them in the story and building their character in exploration, and making choices… all of that feels great to see.
+
+How long should we expect Avowed to be?
+CP: The best comparison for Avowed in terms of scope is The Outer Worlds. Players can expect a roughly similar experience, just like The Outer Worlds, depending on what kind of difficulty they play on, and how thoroughly they explore and invest inside content, versus just sticking to the main crit path missions.
+
+What does it mean to be a godlike? I don't know what that is… but I'm curious what it is.
+CP: In the world of Eora, godlikes are individuals of any of the civilized species, who, before their birth, their soul was touched by one of the gods. You could play as a Godlike in Pillars or Deadfire, so you can get a taste of that if you want to see what that looks and feels like. Godlikes will have some physical manifestation of their patron deity. So, there is usually something about their head, their face, that kind of calls to mind that god’s flavor and portfolio. And they'll usually have a couple abilities or passives that also reflect that god’s portfolio. Some of them have somewhat closer relationships with those gods and can speak to them, or hear from them in ways that other characters can't.
+
+But then you also have characters like Pallegina, one of our Pillars and Deadfire companions, whose story kind of revolves around her not really feeling this sense of closeness with Hylia, the god who gave her the really lovely, feathered appearance. One of the mysteries at the heart of Avowed is the player understanding which god touched their soul and what that means for them. So, players will get to choose kind of what that physical manifestation looks like on their character. They can choose something that's more or less dramatic. They can choose something subtler. And we do have a checkbox option for players who really don't want to see it to say, “Just hide it for me,” but characters will still react to you, because godlikes in the world of Eora are very rare. And so characters are going to respond to that.
+
+So, mechanically, within the game's lore, it is a means to give players as much choice as they want to pursue different abilities?
+CP: There are some abilities that are tied to being a godlike that unlock over the course of the game. So yeah, mechanically, players will get to explore that in gameplay as well. And part of that is also kind of coming to understand who this god is and what they're all about through the powers that you get that are connected to them.
+
+Is there anything else I didn't touch on that you guys want to discuss with Avowed?
+
+GP: We’re super excited to have finally shown the Grimoire. It's the first time we've shown it's an offhand-only weapon that holds the players’ wizard spells and lets them quickly access them to be able to use them. So that's really cool. People were able to see the Grimoire slam, which is something that Pillars had in the game, but we've taken and translated it into what that feels and looks like in a first-person game. And we're just super happy to just show off that because we know the community has been like, “Hey, where are the stats? Where are the RPG things in this game?” It has been very cool to start to show like, yes, we have attributes, there are six of them. They might be familiar, and then we can kind of see how we translate them into our game and our mechanics. Being able to show off gear stats and that there is upgrading and that there is this gameplay loop of you going out and exploring, maybe facing creatures that are more powerful than you at that moment in time and then needing to go upgrade your weapons and gear and come back and face them again.
+
+CP: I'm also glad we've gotten to show off more of the world. One of the appeals of The Living Lands is all of the different biomes and regions and sub-regions that it has. We got to show some of Shatterscarp back in January, and we showed a slice of Emerald Stair on Monday. I'm glad the players are getting to see the very different environments and vibes that they're going to get to encounter over their journey.
+
+For more on Avowed, head here.
+
+      Products In This Article
+
+Avowed
+
+Platform:
+
+Xbox Series X/S, PC
+
+Release Date:
+
+2024
+
+Purchase
+More Info
+
+Kyle Hilliard
+Magazine Content Director
+Kyle plays entirely too much Picross. He once wrote a whole book about The Legend of Zelda.
+
+Email
+Twitter
+

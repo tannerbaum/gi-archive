@@ -1,0 +1,83 @@
+
+  New Lies Of P Update Includes Various Changes To Make The Game Easier
+
+
+
+
+
+
+            A new Lies of P update is live on PlayStation and Steam, and it includes several changes to bosses, standard enemies, items, and more that should make the game easier overall. The update is not yet live on Xbox platforms but publisher Neowiz says the Xbox versions of the update "have been submitted to Microsoft for testing and will be updated as soon as they are ready." 
+
+Lies of P hit PlayStation, Xbox, and PC earlier this month. It's one of our favorite games of the year – read about why in Game Informer's Lies of P review here – but it's a tough soulslike that kicked our butts more than once. However, today's Update 1.2.0.0 should make the game easier overall so if you've taken a break from saving Krat with Pinocchio, now might be a good time to jump back in. 
+
+Here's what's changed in Update 1.2.0.0 in Lies of P: 
+
+Balance Changes 
+
+Decreased the HP of certain field monsters
+Increased the chance of breaking some monsters' stance and the frequency of stagger
+Increased the staggerable window time of field monsters
+Decrease the HP of all 3 types of Dimensional Butterflies
+
+Adjusted the rewards for some monsters
+
+Increased the drop rate of Moonstone type items
+Decreased the drop rate of Star Fragments
+Increased the drop rate of Ergo items
+Increased the Ergo rewards of certain monsters that appear after Lorenzini Arcade"
+
+Boss Monster Balance Changes
+
+Decreased the HP of 'Fallen Archbishop Andreus'
+Decreased the HP of 'King of Puppets' in the first phase
+Decreased the HP of 'Simon Manus, Arm of God'
+Decreased the damage of 'Simon Manus, Awakened God'
+Increased the chance to break the stance of 'Simon Manus, Awakened God'"
+Increased the Specter's HP and damage
+
+System Changes Related to the Character Progression Reset
+
+Added the feature to reset the character's level, P-Organ, and Legion Arms at the 'Gold Coin Tree'
+Characters created after this patch will now receive 8 Gold Coin Fruits instead of 5 for their first harvest
+Adjusted the required amount of gold coins to reset the character's level, P-Organ, and Legion Arms
+
+Additional Changes
+
+Players will now be able to carry more weight for each point spent on Capacity
+Decreased the weight of Amulets that could be purchased with Boss Ergo
+Players will now be able to land attacks better when they use fable arts that consume three or more slots. (includes Fable Arts that stack)
+Successfully performing the Fable Art 'Guard Parry' will now break the monster's stance
+
+Lies of P's Update 1.2.0.0 also features a few bug fixes as well: 
+
+Fixed a bug with the Legion Arm 'Pandemonium II - Acid Charge' rarely not working properly.
+Fixed a bug that the Legion Arm 'Pandemonium' consumed only Legion guage while using Grindstones
+Fixed a bug that Geppetto's face to flicker in the cutscene after defeating the 'Nameless Puppet' with Graphic Quality Presets - Low
+Fixed a typo of Carlo Collodi in the End Credits. (We sincerely apologize to Mr. Collodi and that was not a lie!)
+
+For more, read Game Informer's Lies of P review and then check out these 20 Soulslike tips, tricks, and secrets to help Pinocchio survive Krat. After that, watch this podcast about why Lies of P is more than a Bloodborne clone, and then check out one hour of mid-game Lies of P gameplay. 
+
+Have you been playing Lies of P? Let us know what you think of its difficulty in the comments below!
+
+      Products In This Article
+
+Lies of P
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC, Mac
+
+Release Date:
+
+September 19, 2023
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

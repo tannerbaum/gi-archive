@@ -1,0 +1,128 @@
+
+  The Destiny 2 Zero Hour Interview
+
+
+
+
+
+
+            In a game as expansive as Destiny 2, a number of individual teams work in concert to try and create something meaningful and exciting for players. Even as one group works on improvements for the competitive Crucible, another group is hard at work on an upcoming raid. In the wake of one of the game’s biggest recent surprises, the content for Zero Hour, a surprise quest with a harrowing, secret mission connected to it, we wanted to take a behind-the-scenes look with the team within the broader Bungie development team that pulled it all together.
+
+Our questions were addressed by a number of different team members at Bungie, and together, their answers paint a fascinating picture of what it takes to bring this kind of content into the game.
+
+What were the seeds that led to the Zero Hour mission? Did you start with a story conceit and develop from there? Was it that you knew you wanted, in part, to use the old Tower space? Or something else?
+
+Rob Adams (The Whisper and Zero Hour Creative Lead): First off, we’re completely humbled at the positive reception these secret missions have had. Nothing is more satisfying than watching our players enjoy an experience we’ve put so much of our hearts into.
+
+Back when we were developing “The Whisper,” playtests were going well and we knew we had something special on hand, but when we released it to the world, we knew for sure we had to make another. We started thinking about how we could provide the same kind of experience without creating a carbon copy.
+
+We knew lots of players wanted to return to the “old” Tower that was destroyed at the beginning of Destiny 2, so we asked ourselves, “What would be a cool reason to go there?” That got us riffing on ideas about the kinds of things that might have been lost when the Tower fell. We were particularly inspired by the Cryptarchs, since it seemed like they might have some powerful secrets stashed there.
+
+How lengthy was the development process of Zero Hour and its related quest?
+
+Rob Adams: In total, it took roughly 7 months to build. By comparison, Whisper took 4 months and had a smaller team.
+
+Vince Van Pelt Reeves (Zero Hour and The Whisper’s Experience Designer): These can take a lot of time and effort to really dial in the fun. Sometimes we have things baking in the oven for a long time before they make it out to the players.
+
+Before players even get to the mission, there’s a process of unlocking nodes and visiting various locales that is required. Why is this step important when designing a content piece like this? Why not let players dive right into the big mission?
+
+Vince Van Pelt Reeves: Our goal was to build a mysterious scavenger hunt that would bring players together to share knowledge both inside and outside of the game. The scavenger hunt creates a kind of “gold rush” moment, where players get to feel like they’re at the bleeding edge of a one-time event. We like to create those kinds of memories for our players.
+
+The scavenger hunt also supports the fiction of the activity. To enter “Zero Hour,” players need to rendezvous with a friendly Fallen Captain, Mithrax, who doesn’t know if he can totally trust the player - Guardians being so incredibly dangerous. If the player finds and solves the clues, they gain Mithrax’s trust, and he can reveal himself in a safe way, far from the weapons and lights in the Last City.
+
+One of the challenges to a timed piece of content is that players tend to be moving very quickly through the content you’ve created. However, Zero Hour also has some fun nods to various aspects of the Destiny universe, in terms of locations you pass through in the old tower. Are there things that players may have missed about the spaces you move through in the mission?
+
+Brandon Campbell (Senior World Artist): There are a few little Easter eggs here and there for sharp-eyed players. We put up some caution tape around the deflated purple ball that players first noticed in “Homecoming,” the first mission of Destiny 2. If you stop by the door that led into the Hunter lounge in Destiny 1, you can hear the jukebox still playing.
+
+In general, my personal goal was for players to gain a better understanding of the physical shape of the Tower’s “hammerhead” structure, a place they had previously only seen from distant views. I tried to let the player see as many angles as possible, starting with the first reveal as you emerge from the gap between the underside of the Hangar wing and the superstructure where the hammerhead rests. If the player stops at any one of these exteriors and looks up and around, I wanted them to feel dwarfed by the scale of the structure.
+
+Bungie often brings a very deliberate eye to its mission environment design, whether it’s the feeling of endless descent inherent to the Vault of Glass, or the sense of huge scale on display in fights like the Oryx or Riven battles. What emotions or sensations were you hoping to evoke with the Zero Hour mission?
+
+Rob Adams: It’s interesting that you ask about emotions because it’s the most important thing for us when we’re building these experiences. The internal code name for Zero Hour was “Commando” because we wanted the player to go in guns blazing and leave nothing alive. If they’re victorious, they feel like an action hero.
+
+For each area or “moment” in the mission, nearly all creative decisions were in service of evoking a specific localized emotion. For example, the first moment in the mission has players jumping out that round pipe, and realizing they were in the s---. A humbling barrage of weapon fire and an unyielding clock. The classic tension with time. They burn through the bad guys and then we flip to our downbeat, where players slide under the door and drop into that first dark elevator shaft. I’m obsessed with the idea that a huge place can await you just under a small crack in a door, or innocuous gap in the rocks. It’s where we hope players will think “Holy crap, where does this go?” This is where we want to evoke surprise and wonder.
+
+Brandon Campbell: On the exterior of the Tower, I wanted players to suddenly feel small in their surroundings. We also wanted moments of discovery. The jump out of the back of the Tower is a great example: you see a clear path that leads you all the way down the side, but ends abruptly with no other place for the player to go but down, to a likely death.
+Through trial and error players would catch a brief glimpse of the path under the lip that would either force them to take the tedious route of tiny ledges, or one massive, vertigo-inducing leap of faith. This is what I always strive for, something that makes the player stop and try to reconcile their surroundings. We love creating situations where the player can feel smart after finding their own way.
+
+Rob Adams: Of course all paths eventually lead to TR3-VR’s lair. The emotional goal there was total fear on a primal level. The machine was designed to cause terror in players not accustomed to being afraid while paying Destiny. You’re suddenly in a maze with something you can’t kill. One thing I can’t stand in movies is when the subway is coming around the corner and someone’s on the tracks. I can’t deal with the anxiety. First you hear the sound, then you see the light as it rounds the corner. This inspired TR3-VR.
+
+As players make their way through this quest, it could be easy to miss the story implications of this event. For players who might not be super plugged into the lore, who is Mithrax? Where have we seen him before, and how is he involved in “Zero Hour?” What should we know about that character moving forward?
+
+Mallory Schleif (Staff Writer): Players first met Mithrax on Titan during the world quest “Enemy of My Enemy.” He’s a Fallen Captain with an unusually radical worldview. He believes the Fallen should make peace with the Guardians and fight alongside them to defend the Traveler from its many enemies. Let’s be honest, that’s a pretty dangerous dream to have! The Fallen have been subsistence pirates for so long that pillaging is all they know, and because of that, most Guardians understand them only as bloodthirsty monsters.
+
+Mithrax understands that he needs strong allies like the player Guardian if his plans have any hope of succeeding. I hope his story will allow us to explore just how complicated it can be to try to make peace.
+
+In a related vein to the previous question, would you detail a bit about the current state of the Fallen/Eliksni? It seems like there have been some big changes for that alien race. For players wanting to get up to speed, who are the major players at this point, and how do the events of Zero Hour change the status quo?
+
+Mallory Schleif: The Fallen are really down on their luck. It’s been a bad couple years for them. They went from a number of strong, distinct cultural groups that we call Houses – you might remember the House of Wolves, House of Kings, House of Devils, and so on from Destiny 1 – to just one, much weaker pan-cultural group that we call the House of Dusk.
+
+During Ghaul’s attack on Earth, the Fallen suffered almost as much as the Lightless Guardians did. They’re teetering on the edge of survival. They need a strong leader to step up and guide them back to a place of strength. Mithrax thinks he’s that guy. So does our old friend Variks – and so, too, does a particularly vicious Baroness named Eramis. She has no interest in alliances, and the events of “Zero Hour” throw Mithrax and Eramis into direct contention.
+
+For anyone looking for a meatier summary, check out the page “Outliers” in the lore book “Stolen Intelligence.” You can pick it up from Zavala when you turn in tokens for rank-up packages.
+
+Some folks in the community have really latched on to TR3-VR and are talking about it a lot. Where did the idea for that “enemy” come from, and what do you think works about its presence in the mission?
+
+Rob Adams: I’m a long-time fan of a Japanese show called Takeshi’s Castle, and it’s a goldmine of ideas for physical challenges in games. They have a recurring bit where contestants try to ascend a hill, and then a huge Styrofoam boulder comes rolling down. There’s little cubbies where the victims can try to hide, but they don’t have much room and can be pushed out. I’ve almost died laughing watching that. We wanted a section of the mission to be a game of chance, where no matter how good you are, you could still get trolled by this “hazard” as we first referred to it.
+
+But we wanted it to be terrifying, so TR3-VR’s shape was also key. I wanted an abstract box un-relatable to us as human beings. He needed to have a single unsympathetic eye what would light you up just before it ran you down. The best part is how players see their own shadow sprinting from it just before the end.
+
+As we dialed in TR3-VR’s final design, we kept asking ourselves, “What do I least want to be killed by?” and for me, the answer was, “A wood chipper or giant centipede.” Centipedes are the worst thing. That’s how we got to the shipping model, where  TR3-VR has mechanical wood chipper tines resembling centipede legs.
+
+From left: TR3-VR’s birth on the whiteboard, first concept by Fan Gao, and a final concept with updated legs
+
+Alex May (Senior World Artist): Early on we decided that four switches would control the exit from TR3-VR. During play tests we noticed that players who knew what to do would blitz through the space and likely never even encounter TR3-VR. Thus the lightning gates were born to act as a “gating” mechanic, forcing players to slow down and utilize the small duck outs to avoid death. All these thing culminated in the final experience and a focus on messaging with the glass overlook, computer panel and light indicators for which buttons had been pressed. Right near the end of production though, we hit some technical snags. TR3-VR did not have consistent positioning across multiple fire-team members. Because of networking limitations we were hitting hard limits with the lightning gates, the puzzle and TR3-VR all existing in a single bubble together.  At the last minute we needed to split Zero Hour into multiple areas to break up the networking requirements.  This was a risky prospect so late in development, specifically for test. After splitting the bubbles, we were no longer hitting network limits and after the engineers and animation experts got their hands on TR3-VR, he was working like a charm.
+
+What can you share about the redeployment of the pulse rifle now called Outbreak Perfected? What needed to change about that weapon from its original incarnation in the first game? Why was it the right fit as the main reward for completing Zero Hour?
+
+Vince Van Pelt Reeves: The challenge has to match the reward. Our sandbox team was interested in making a strong Exotic in the Kinetic slot, and we were interested in a really desirable gun that would motivate players to complete “Zero Hour,” ideally an old fan favorite that would generate word-of-mouth excitement. Outbreak Prime was a popular gun during Destiny 1, so it was a natural fit.
+
+I suspect designing toward a 20-minute timer comes with all sorts of challenges. Would you describe that process? Do you start with the 20-minute timer, and build spaces and enemies to match? Some players have opined that they want a version that lets them freely explore without a time limit – is that something you’re open to?
+
+Vince Van Pelt Reeves: We really like 20 minutes because it feels like a magic amount of time to ask a player to be stressed out. It feels better to get closer to success and fail at minute 19 than 29 minutes or 39 minutes. I couldn’t imagine being a player and being asked to spend 40 minutes on a timed activity that is very difficult. It would be exhausting.
+
+During development, we worried that 20 minutes might be too aggressive for “Zero Hour,” so we tried the mission with a 30 minute timer for a while, but it ended up reducing the difficulty of the activity too much.
+
+Rob Adams: Because this mission can be launched Heroic repeatedly from the director at any time, it’s possible to explore.
+
+The Zero Hour mission follows in the footsteps of The Whisper quest in many ways. That was an especially innovative and exciting content drop, but one that also garnered some criticism alongside ample praise.  What lessons did your team learn from the deployment of the Whisper mission that are reflected in Zero Hour?
+
+Vince Van Pelt Reeves: Definitely the way players access the activity. In the original design for “The Whisper,” players needed to notice subtle differences in the Lost Oasis on Io during the Taken Blight public event, like new combatants scattered around the area, then they needed to quickly kill those guys in order to gain access to the mission. We wanted to surprise observant players and encourage spontaneous connection with strangers.
+
+It did make for moments where players gathered in the Lost Oasis and talked with each other, formed groups, or shared things on social media. But, obviously, the downside there is the unpredictability of public event timers. I spent that first weekend running my friends and LFG strangers through the mission, so I completely understand how frustrating it could be waiting with no indicator of how long you might have to sit on your hands. A six-hour block with no event triggering was painful to experience as a creator and as a player. So that got us thinking about how to improve the experience the next time around.
+
+It’s important to also consider that when something is easier to approach, players will lean into the grindstone for hours until they accomplish the task if the reward is sweet enough. When many players achieve something intended to be quite difficult or rare, sometimes the achievement can be diminished – for example, if every player in the Tower had Whisper of the Worm or Outbreak Perfected, they wouldn’t be as special. Looking toward Zero Hour, we thought it would be better to make the mission more challenging, but also much more available to players generally.
+
+It seems that jumping puzzles must be a challenging concept to integrate. Some players adore those opportunities to do platforming, while other players kind of despise them. It seems as if Zero Hour attempts to account for that, with some moments in which dedicated jumpers can eventually open up shortcuts or easier paths for the other players on the team to follow. How much was this issue on your mind as you created this content? How do you find the right balance?
+
+Rob Adams: These missions are a test of a player’s combat skill, intelligence, and movement ability. If they pass the test, they’re rewarded with power.
+
+Before Bungie, I worked at Naughty Dog for about seven years, where I built platforming puzzles for Jak & Daxter and Uncharted. I’m a bit old-school, and that feeling of mastering a difficult but carefully-crafted path in something like Crash, Sonic, or Super Mario feels amazing. But you have to earn that amazing feeling. We see this a critical part of the overall experience.
+
+Well… I tried to run a co-worker through Whisper one Saturday and we wiped five times. They couldn’t get all the way through the jump puzzle in time to help with the final boss room. We had to give up, and I suddenly identified hard with posts I’d read about players not being able to get through the jump sections fast enough to help their team fight. For Zero Hour, we wanted to mitigate the worst difficulty spikes in the traversal areas but still have it be challenging. Brandon added switches where the leader could help out their friends and keep everyone moving. It’s very hard to find the right balance, so we had to playtest the hell out of these areas.
+
+Brandon Campbell: My favorite switch was at the end of the big jump down the back of the Tower. The extended platform doesn’t trivialize the daunting task of the drop. You still have to jump.
+
+Were there any “dead ends” that you explored related to this quest, either in locations, enemies, or puzzles, that you had to subsequently scrap? Were there directions you attempted to take the mission that just didn’t work out, for one reason or another?
+
+Vince Van Pelt Reeves: Ironically, TR3-VR was almost one of these casualties. The whole experience beat was either very boring or very frustrating until very late in development when it completely flipped over into fun territory. It was dangerously close to the cutting room floor for a long time.
+
+The level geometry changed a lot throughout development as well. Before we built the underside of the tower, we had a huge amount of cramped space: lots of vents and pipes, too much claustrophobia. I think at one point we had multiple fan sections and ultimately reduced them down to one long section.
+
+The ship schematic and catalyst puzzle seem to set a new bar in complexity to figure out for in-game Destiny activities. At least at this point, many people in the community are having to refer to spreadsheets, potentially for multiple weeks, in order to get the reward. Some players potentially embrace this kind of laborious effort to get an unlock, but some other players could be turned off by something like that, which can feel exhausting. As a team, how much do you think about the line between what is intriguing and complex versus what might simply not be a fun thing to do in-game on a moment-to-moment basis?
+
+Vince Van Pelt Reeves: We think deeply about what we are asking players to do with every decision we make. The heroic puzzle was a source of heated debate for months. We actually coded in several difficulty safeguards to take the teeth out of the puzzle if the community was struggling too much. Luckily, players keyed in on some methods to solve it and worked together to overcome it. In the end, I think the puzzle is in theme with the experience and with the community-made tools, it can be very satisfying to complete.
+
+With the release of Zero Hour, and the enthusiasm around it, is it safe now to assume that this style of dungeon-like content is something that players can look forward to more of in the future of the Destiny universe?
+
+Rob Adams: The Shattered Throne in the Dreaming City is what we would call a dungeon. It’s grindable for rewards, has raid-like checkpoints, traversal, puzzles, and mechanics. By contrast, “The Whisper” and “Zero Hour” are what we call secret missions – timed activities with hidden entry points, a high-degree of emphasis on platforming and combat skill, and a guaranteed Exotic weapon at the end. Secret missions are built to be played more than once, and they’re part of what makes Destiny cool. We love making and playing them, but nothing beats watching our players discover and come up with unexpected ways to master them. We’re hopeful that we’ll have a chance to make more in the future.
+
+            .
+
+Matt Miller
+Senior Previews Editor
+Matt Miller has been with Game Informer since 2004. He has a special interest in the evolution of game design, the tabletop hobby, and the crafting of interactive narrative. 
+
+Email
+Twitter
+

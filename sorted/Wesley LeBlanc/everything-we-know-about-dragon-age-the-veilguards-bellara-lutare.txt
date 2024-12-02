@@ -1,0 +1,72 @@
+
+  Everything We Know About Dragon Age: The Veilguard's Bellara Lutare
+
+
+
+
+
+
+            We've reached the end of Game Informer's Dragon Age: The Veilguard cover story coverage as we prepare to launch our next exciting issue. But I still have this one last feature to publish, and it's about Bellara Lutare, the Dalish elf and member of the new Veil Jumpers faction in the game. During my visit to BioWare's Edmonton, Canada, office earlier this year, I checked out the game's expansive character creator, its in medias res prologue, and the first mission after said prologue.
+
+Though BioWare released a big look at Veilguard's prologue via a 20-minute gameplay trailer last month, they haven't released much about that subsequent mission, where you meet and recruit your first companion, Bellara. I learned a lot about this character, and knowing I was one of the first outside of the studio to see the mission where you meet her, I spent a chunk of my interviews with the team's leads talking about Bellara. So, for my final feature on Dragon Age: The Veilguard, here's everything I learned about this quirky elven mage. 
+
+Everything We Learned About Bellara Lutara In Dragon Age: The Veilguard
+
+In talking with BioWare's various leads, like game director Corinne Bushce, creative director John Epler (who is personally responsible for writing Bellara and leading her development), and BioWare general manager Gary McKay, it's clear the team has a deep love for this character. She's energetic, effervescent, and academic, and as a companion for combat, she's a character I’m pretty excited to use in my party. 
+
+"I love Bellara, I think she's fantastic," McKay tells me. "I see people that I know in her and so that's how she really resonates with me. I love the whole tinkerer aspect to her. It was a collective to bring that character to life. It was everything from the writers, to the editors, the animators, to character modelers, to the texturing, to how we light her. I'm really proud of that character." 
+
+Bellara In Combat
+
+When I ask Busche about Bellara, she gives me some insight into what I can expect of the mage on the battlefield. And Bellara sounds like an excellent choice for both support and elemental combos. 
+
+"Oh my goodness, she is amazing," Busche says. "So, first of all, she is a mage. She is an explorer of ancient Elven ruins. She is an elf herself and a member of the Veil Jumpers faction. They investigate the ancient ruins of Arlathan. Everything about her character as a mage leans into that, but she also challenges the kind of archetypal idea of a mage." 
+
+She does that by attacking with a bow at range using electrically charged arrows. But she's also casting spells that slow down time or heal allies and Rook. She does that by channeling magical energy into her gauntlet. Busche says she starts as a support character in combat, thanks to her healing spells, but notes players don't have to build her out that way. She also leans into electrical damage, and "damage type really matters a lot when we get into the strategy and tactics," Busche says. 
+
+"You can spec her out in a way where she's unleashing this devastating vortex that pulls in all enemies into an electrical storm. Maybe then we unleash our own [area of effect attack] with all the enemies clumped together," Busche adds. "She can debuff all the enemies with the shocked affliction, where they're taking passive damage. I mentioned she can slow time, she can heal. She is one of the characters that you can build out [to have her] healing spells heal you autonomously, so if you're the kind of player that likes to be on the frontlines [...] Bellara might just be the perfect companion for you." 
+
+Bellara's Place In The World
+
+Epler, who writes Bellara, tells me about her place in Thedas as an elf and the connection elves have to the magic of the world. He says if you've paid attention to the franchise, you likely already know that elves are historically an oppressed people in the games. Now, with two of their gods on the loose in Veilguard, magic has poured back into the world in a big way. 
+
+"She represents the Veil Jumpers," Epler explains. "Now, the Veil Jumpers are a faction that's appeared in the comics before, but otherwise, this is the first time it's appeared in the games, and they are the ones journeying through Arlathan, where the ancient elven empire used to exist and left a lot of artifacts when it disappeared. When the elves fell from immortality thousands of years ago, they still left a lot of their artifacts and a lot of their, for lack of a better term, magical technology behind, and Bellara represents this yearning to find the truth of who the elves were because not only did they lose their magic and their immortality, they lost a lot of their history. 
+
+"A lot of what they know of their past is based on myth, it's based on rumor. Bellara is a knowledge seeker. She wants to find out what's true, what's not; she wants to find the pieces of who the elves used to be and really understand what their story was, where they came from, as well as figure out where they're going next, and find a future for the elves. And within the context of The Veilguard, she joins the team, first of all, to help stop the gods because Bellara feels at least partially responsible since they are elven gods, but also to maybe find a little bit more of who they used to be. Because again, you're dealing with these elves that were around millennia ago that have now reemerged into the world, and who better to teach her who the elves used to be than them."
+
+A Quick Detour: Magic
+
+During my discussion, Epler spoke about magic's place in the world and how it differs in Veilguard from previous Dragon Age games. Here's what he said: "Historically, as you've mentioned, we've been in the south of Thedas and south Thedas is Ferelden, Orlais. Both are fairly still oppressed, they still have circles. Mages are viewed with suspicion, but Tevinter has always been this land where mages rule, mages are in charge, mages make the rules, mages run the show. So what does that look like? And as we've gone through [Dragon Age: Origins, Dragon Age II, Dragon Age: Inquisition], magic has become more and more present. And part of that is because Solas has been slowly preparing this ritual for longer than anyone in the Dragon Age universe is really aware of, but also, just going into the spaces where magic is, by definition and by the lore, much, much more present. And it's been fun because, again, we do have rules; we want to make sure we're not violating the lore or violating things we've said before. But it's also, again, that permissiveness of, 'Okay, what is the most interesting way to do this? What's the most interesting way to tell the story? [In] Origins, II, on the Eclipse engine, we could talk about this fantastical magic, but the engine didn't really allow us to show it. For the first time, we're really able to let the visuals speak for themselves and not have to tell the player, 'Trust us, it's spectacular; this magic is really cool.' We can actually show you and let you drink it in." For one of my last questions to Epler, I was curious about the contrast between Bellara, an elven mage who is optimistic and bubbly, and Solas, a determined and tragic character. He indicated there might be more to Bellara than meets the eye. 
+
+"Solas sees himself as the tragic hero," Epler says. "He's not capable of really being happy, he can't let himself be happy, partially because he carries the guilt of what he did bringing the Veil, doing what he did to the world. Whereas Bellara is somebody who has seen tragedy, and as you get into her character arc and get into her backstory, you realize this is a character who has seen a lot of tragedy. But that tragedy, instead of wallowing in it, she's forced herself to push past it. She looks at her regrets, and she tells herself, 'I don't want to feel regret.'
+
+"Whereas again, Solas tends to wallow in his to a large degree. And it allows us to create a very big differentiation. Part of it is also because Solas is an ancient elf, whereas Bellara is a Dalish elf, but she just sees a problem and wants to solve it. She feels a tremendous amount of responsibility to her people [...] to the Dalish, and to the Veil Jumpers, and that drives her forward. That said, she does have her moments where she has doubt, she has moments where she has a more grim outlook, and there are moments where you realize that some of her sunny, optimistic outlook is kind of a mask that she puts on to hide the fact that she's hurting, she's in pain. But in general, she doesn't see any benefit to wallowing in those regrets."
+
+We learned today that Bellara will be voiced by Jee Young Han, known for her roles in Perry Mason, Unprisoned, and as Sentinel Dax in a previous Bioware game, Anthem. To see the rest of the cast, along with Rook's four voice options, click here.
+
+[Editor’s Note: This article has been updated to reflect that Bellara’s last name is Lutare, not Lutara as it previously incorrectly stated]
+
+For more about the game, including exclusive details, interviews, video features, and more, click the Dragon Age: The Veilguard hub button below.
+
+      Products In This Article
+
+Dragon Age: The Veilguard
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PC
+
+Release Date:
+
+2024
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

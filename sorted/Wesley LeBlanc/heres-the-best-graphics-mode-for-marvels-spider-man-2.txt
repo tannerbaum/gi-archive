@@ -1,0 +1,68 @@
+
+  Here's The Best Graphics Mode For Marvel's Spider-Man 2
+
+
+
+
+
+
+            Marvel's Spider-Man 2 is almost here – less than 24 hours to go until its October 20 launch exclusively on PlayStation 5. We loved the game – you can read Game Informer's Marvel's Spider-Man 2 review here – and we're excited to hear what our audience thinks of it. We've got plenty of spoiler-free Marvel's Spider-Man 2 tips for you to read before you start your next spidey adventure, but here, I want to discuss what I think is the best graphics mode in the game. 
+
+Now, before diving deep into the minutia of the technology behind developer Insomniac Games' various visual settings for Marvel's Spider-Man 2, I want to preface this by saying the best graphics mode requires a TV or monitor with a 120 HZ refresh rate. A lot of monitors have done this for years, and since the launch of the PlayStation 5 generation in 2020, more and more TVs capable of this refresh rate have been released (but admittedly, they do cost a pretty penny). 
+
+If you don't have a 120 HZ refresh rate TV or monitor, don't sweat – both the standard Fidelity (4K resolution at 30 FPS) and Performance (Dynamic 4K resolution with 60 FPS target) look and feel great so you can't go wrong. 
+
+The Best Graphics Mode For Marvel's Spider-Man 2
+
+If you don't care about any of the reasons why, I'll save you the trouble: the best graphics mode for Marvel's Spider-Man 2 is easily Fidelity with VRR (Smoothed) and the 120 HZ mode set to Auto. Now, as you can imagine, having all of these activated requires a 120 HZ TV or monitor with Variable Refresh Rate and 4K resolution. 
+
+Let's talk about why. 
+
+Most players are familiar with 30 FPS gaming and 60 FPS gaming. It's typically the two choices console gamers have before them this generation, with 30 FPS typically targeting a higher, more visually impressive resolution and 60 FPS losing some visual fidelity to maintain the high frame rate. But some developers, like Insomniac Games, are tapping into the technology behind 120 HZ refresh rates to deliver 40 FPS gaming at 4K resolution. And strangely, 40 FPS is basically the halfway point between 30 FPS and 60 FPS, even though math would have you believe otherwise. 
+
+At 60 FPS or at a 60 HZ refresh rate, there are roughly 16.67 milliseconds between each frame. At 30 FPS or at a 30 HZ refresh rate, there are roughly 33.3 milliseconds between each frame. At 40 FPS or at a 40 HZ refresh rate, there are roughly 25 milliseconds between each frame, and the halfway point between 16.67 milliseconds and 33.3 milliseconds is exactly 25 milliseconds. This is why 40 FPS, or 40 HZ, is the halfway point between 30 FPS and 60 FPS gaming. As a result, while only 10 frames or HZ higher than 30, 40 FPS gaming will feel a lot closer to 60 FPS gaming than you'd expect. 
+
+Typically, in order to push beyond 30 FPS in a game, you must sacrifice some of the visual fidelity you'd otherwise get. But because Insomniac Games uses 120 HZ TVs and monitors to tap into 40 FPS gaming, players can still maintain all the beauty and visual features of Marvel's Spider-Man 2's Fidelity mode while playing at a higher frame rate. Insomniac Games goes a step further for players with TVs or monitors that have VRR, too.
+
+With VRR on, you can then select either Smoothed, which will maintain resolution and target a steady framerate, or Uncapped, which will allow lower resolution to target higher, more variable frame rates. Personally, I prefer the Smoothed route to maintain the gorgeous 4K visuals of Marvel's Spider-Man 2 but after testing both, you can't go wrong. 
+
+Here's what Insomniac Games' graphics mode settings look like in Marvel's Spider-Man 2:  
+
+Fidelity: This mode targets 30 frames per second and offers the highest image quality and resolution. All ray-tracing features are on, including ray-traced reflections, ray-tracing on water, and ray-traced window interiors. All graphics systems are at maximum, including pedestrian density, traffic density, and hair detail. 
+Performance: This mode targets 60 frames per second. It includes ray-tracing features that are simplified for some use cases. Pedestrian and traffic density may be decreased in some areas, and fine hair detail is simplified. 
+VRR: When set appropriately in the console settings, utilize the variable refresh rate of a compatible display to improve resolution or frame rates based on gameplay. 
+
+Smoothed will maintain resolution and target a steady framerate. Uncapped will allow lower resolution to target higher, more variable frame rates. 
+The corresponding setting is found in the PS5 at Settings -> Screen and Video -> Video Output -> VRR. 
+
+120 HZ Display Mode: When set appropriately in the console settings, utilize the 120 HZ refresh rate of a compatible display to reduce input latency and enable higher frame rates. The frame rate target of the "Fidelity" graphic mode is increased to 40 frames per second. If VRR is also enabled, frame rates will be further increased and vary based on gameplay. 
+
+The corresponding system setting is found in the PS5 at Settings -> Screen and Video -> Video Output -> Enable 120 HZ output.
+Adjusting this setting applies to all save slots. 
+
+I do want to note that at the end of the day, you should just use the visual settings and graphics modes you prefer – there is not right or wrong answer, but I spend too much time tinkering with these types of settings and technologies and wanted to hopefully give you an easy-to-understand guide that explains what I believe to be the best graphics mode in Marvel's Spider-Man 2. If you have any questions, drop them in the comments below!
+
+In the meantime, read Game Informer's Marvel's Spider-Man 2 review and then read Game Informer's spoiler-free tips to know before starting Marvel's Spider-Man 2. After that, read about the Marvel's Spider-Man 2's Day 1 patch and then check out this story about how Insomniac Games says a Marvel's Spider-Man 2 New Game Plus mode should be out by the end of this year. 
+
+      Products In This Article
+
+Marvel's Spider-Man 2
+
+Platform:
+
+PlayStation 5
+
+Release Date:
+
+October 20, 2023
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

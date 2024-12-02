@@ -1,0 +1,73 @@
+
+  Afterwords – Sea Of Solitude
+
+
+
+
+
+
+            Cornelia Geppert, the creative head of the Berlin-based Jo-Mei games, wanted to create the game she always dreamed of, and she finally had the chance with Sea of Solitude.
+
+This melancholy adventure game casts you as Kay, a young girl whose loneliness has transformed her into a literal monster. The story is inspired by real-life events from Geppert’s life (as well as the lives of her loved ones and coworkers) regarding mental health.
+
+We recently sat down with Geppert to talk about Sea of Solitude post-release, to better understand her inspirations behind it, and what it was like to develop such a deeply personal project.
+
+SPOILER WARNING:  There are certain topics in this interview that reveal plot points from Sea of Solitude.
+
+Sea of Solitude is based on real-life struggles you had; a lack of fulfillment at your job as well as relationship problems. Can you tell me how these issues made their way into Sea of Solitude?
+
+Cornelia Geppert: So in my work life, I had my company already four or five plus years, and we developed free-to-play games. When we started the company, we [immediately wanted to] develop story-driven emotional, deep games. In Germany, free-to-play games are a very, very huge thing. So this is how the whole company started, and we got lost in it a bit. Because we developed game after game. And a publisher really loved us and offered us an endless contract. We could even not develop games and still get money every month.
+
+But it was a struggle. And at some point in my life, at the end of 2013, I felt so sad, because I felt like I was in a golden cage. Because it was a good life, I got money, a lot of money, but I couldn't express myself as an artist. So, we had to make the decision. I felt really, really confused and sad. And, you know, I could have destroyed my company with this, you know, by breaking off the contract.
+
+At the same time, in my private life, I started a new relationship with a man. It was the best thing that ever happened in my life at this point; I was so full of love. In a few months, we already talked about marriage. And it was so amazing. But he started to vanish after like a half year. It was just for hours at the beginning. I couldn't reach him. Then he came back and apologized, told me how much he loves me. But I couldn't make sense of all of it. And then he vanished for days. At one point it 14 days, and I thought he was dead. Imagine, you have a partner that is just gone. You think he's dead and you want to call the police or something. Then he came back and apologized again. He finally opened up, and I already sensed that something wasn't right. He opened up that he suffers from clinical depression. I didn't know exactly what it meant – I know about feeling sad, but I didn’t know what depression really was. So, I started reading books like crazy, I started reading articles trying to understand what that really means.
+
+And with all this emotion, I did the only thing I think artists can do – you let it out by putting it into your art. And I am a game designer. So, I started writing a game about it. And this is how Sea of Solitude started.
+
+Why do you think mental health is important to tackle in games?
+
+Geppert: I think of course it's important to open up about it. The more we open up the more other people that suffer from it don't feel so alone anymore. I didn't start the production of Sea of Solitude thinking, 'Oh, it is important to tackle this theme in games.' It was just that I lived through it and my life and as an artist you process your inner feelings by letting it out into your art. I didn't talk about it because it’s important to tell in the games industry, it was just a natural thing that I processed.
+
+But it is of course very important in the games industry, because especially here in our industry, the creative industries, there are many people that are very vulnerable. Or who suffer from mental health issues. When Sea of Solitude came out, literally thousands of fans wrote me. I feel a little bit overwhelmed to answer everyone. Thousands of fans wrote that they don’t feel alone anymore, because finally someone expressed the feelings they have and they always shied away from openly talking about it, because they felt embarrassed about it or didn't know if anybody could understand.
+
+And many people wrote that they broke down crying. For example, during the beginning [of the game, a monster says,] ‘You’re a worthless piece of s---.’ We just got a message from somebody who has autism, where I cried a bit because it was so intense for me. And he said he always had a hard time understanding what people think. And when he played Sea of Solitude, for the first time he could understand what people with certain emotions really go through, and that he felt deeply touched.
+
+I get many messages from people who suffer from depression. One told me he didn't feel anything for years, that he felt numb and he couldn't connect to any feelings. When he played Sea of Solitude, for the first time he started to feel hope, He started to feel that he could get out of this numb feeling. After he played Sea of Solitude, he called a therapist and made his first therapy session. Hearing these stories is more than I could have ever hoped that we could achieve with this game.
+
+I wanted to talk about the fish monster that follows you through the game. I was surprised by certain horror elements it introduced. Why did you feel like those segments were significant to the story and feel of the game?
+
+Geppert: So, yes, there are different monsters in the game – some monsters are related to the core family of Kay. But there are other monsters like the fish monster that represents Kay’s emotions. Some are obvious, like the shell monster at the beginning representing self-doubt. But the fish monster, for me, is representing the self-destructive part of Kay. Even though you are on your path of so-called healing or becoming more content with yourself, it's always up and down. At some point, you feel bad again. This is what the self-destruction monster is all about. If you look at the very beginning of Sea of Solitude, I always say like, everything has a meaning. And I really needed that at the very beginning. When we hear the monologue of Kay, the initial monologue, you see the self-destructive monster swimming there. This is the only thing we see under the water. Kay is so tired of feeling this weird, this bad, this sad, this worthless, and she wants to change. But of course, you cannot change completely just by saying 'I want to change.' Self-destruction is always there, always lurking. And she is a little bit like a siren because it can also be a comfortable feeling.
+
+I lived so long in an emotionally abusive a relationship that at some point, you get somehow attached to this bad feeling. You see a little bit of home there.
+
+Which monster did you find most fascinating to write?
+
+Geppert: So for me, it was the shell monster because this this one, I know it so well. At the beginning, when we meet it the first time it pops up in your way and you can't go on, you just started the game and feel a little bit confident. And then the monster pops up and says you're worthless. You don't even know what you did and you will feel that anyway. At some point [the monster] starts to get smaller and smaller, because each time you have an interaction with her, you also get something out of it. [For example, you receive] some knowledge about Kay and Kay gets some knowledge about herself.
+
+There are some true parts [to what the monster says], like that Kay is too selfish to a certain degree. In the third level, [the monster] actually turns into healthy doubt. The monster asks Kay, ‘Come on, tell me who do you need to listen to.’ And Kay is so distracted by her boyfriend that she answers like, 'Him! I need to listen to him and help him!' But Kay is not even listening to this part of herself at this point, because she's so, so concentrated on her boyfriend. Emotions need to go into balance, or you need to bring those emotion into balance. It's important to have all those emotions, even the sh--- part of yourself like that, like the self-destruction.
+
+Are there any sections of the game that had to be cut that you wish you could have kept for the final product?
+
+Geppert: That is a good question. Nobody asked me this before. Because yes, there was a lot that we needed to cut out. In the initial concept, or no, even later on, we had failure in the game. You could actually not rescue your brother, for example. And then you would have moved on without him being a human and he would drown in the ocean. Same with the parents. But we needed to cut it unfortunately, because we were just a too small of a team, 12 people, and we wanted too much. We had decisions at the end with the boyfriend monster too. In the game, right now he's the only one who doesn’t change into a human at the end. But initially, we had three decisions, three possibilities.
+
+Also, we had other monsters, other family members. Like the grandma, for example. Loneliness in old age was another form of loneliness, which is a big topic here in Berlin. But we now know [what we’re capable of] for the next game. We know what we can do with a small team.
+
+Read our review of Sea of Solitude by heading here.
+
+            .
+
+      Products In This Article
+
+Sea of Solitude
+
+Platform:
+
+PlayStation 4, Xbox One, PC
+
+Release Date:
+
+July 5, 2019
+
+Purchase
+More Info
+

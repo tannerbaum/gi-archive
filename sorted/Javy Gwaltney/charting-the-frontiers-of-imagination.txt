@@ -1,0 +1,204 @@
+Charting The Frontiers Of Imagination
+  Charting The Frontiers Of Imagination
+
+
+
+
+
+
+Platform
+PlayStation 4
+
+Publisher
+Sony Interactive Entertainment
+
+Developer
+Media Molecule
+
+Release
+February 14, 2020
+
+Rating
+Teen
+
+            Introduction
+
+This article originally appeared in the November 2018 issue of Game Informer.
+
+Have you ever dreamed of making a first-person shooter or RPG? Maybe a racing game? Many of us have yearned to try our hands at game creation but for various reasons we’re never quite able to do more than fantasize. Learning how to develop games is time-consuming and expensive, often requiring years of study, not to mention tracking down collaborators to help create the parts of the project you can’t. But what if you could create that amazing game nestled in the back of your mind not in a matter of years, but days? For the past seven years, LittleBigPlanet creator Media Molecule has toiled to design a creative suite both accessible and ridiculously deep, capable of letting users who have never programmed or illustrated in their lives make almost any game in any genre they can imagine – and do it with style.
+
+The ambitions of this team of England-based developers’ sounds like an impossible fantasy. You know what is even wilder?
+
+They might just pull it off.
+
+Talk The Talk
+
+Talk The Talk
+
+The office of Media Molecule is an unconventional one, eschewing a corporate honeycomb setup for something more freeform and lively. Hardly any cubicles build walls between employees, almost all of whom chat excitedly about what they’re contributing to the project as a line of paper lanterns dangle above them. A small pink lobby contains glass cabinets with shiny awards for both LittleBigPlanet and Tearaway. On the floor above is a cafeteria with a balcony built in that casts a grey but nice view of the sleepy town of Guildford, England. It’s a place known for being the UK’s hub for game developers, housing the likes of Supermassive Games and Fireproof Games, and for its obsession with Lewis Carroll, the author of Alice’s Adventures In Wonderland. There is perhaps no place on earth more fitting for a studio known for putting out polished games that make the world of imagination their stomping ground.
+
+Media Molecule is familiar with handing players a palette, shoving them in front of a blank canvas, and telling them to go wild. The colorful platformer LittleBigPlanet innovated by letting players create and share their own levels with a robust editor, resulting in over 15 million custom levels being made by users. Dreams is billed as the next step up from that, giving players the ability to craft not just levels but objects, animations, games, and even feature-length movies. The studio’s recurring statement on Dreams’ capability is “the question isn’t what can’t you do in Dreams, but how can you do it,” implying that the creation tools are limited only by imagination and effort.
+
+We’re skeptical. As if to challenge our doubts, creative director Mark Healey tells us as he boots up Dreams, “This was all made with the game’s tools. No cheating. It’s a genuine example.”
+
+A woman’s voice booms as PlayStation’s familiar green triangles and pink circles zoom past on the black screen. “Nothing, nothing at all. And then, something. A hint of an idea. It could be anything. It could be everything.” The next half hour goes by in a fantastical blur. We select an imp, Dreams’ squiggly, cutesy cursor, and are taken to a level selection screen where we load into the first stage of the story mode. We float down a hallway that looks like it might be outside a private eye’s office, complete with a saxophone’s howl in the background. Using the DualShock’s motion control and the R2 button, we swing open the door and zoom inside a messy apartment filled with records, boxes, and overturned furniture. The small, pathetic room is swallowed in a sharp contrast between bright lights and utter darkness, creating a strong noir vibe.
+
+Media Molecule says all of Dreams' story mode was made in the game's creative suite, with tools that players can use to make their own creations.
+
+A man’s voice cuts through the music. “I used to think I was god’s gift.” Enter Art, a down-on-his-luck musician and the protagonist of Dreams. The camera zooms around the apartment, giving us tiny puzzles to solve, like pushing some records aside to reveal a photo of Art’s former bandmate Laila. Doing so causes the game to progress with more of Art’s monologue, with the camera jumping from point to point in the apartment with each progression. “That’s the record we would have made,” Art moans as shadow figures of him and Laila play out on the wall revealing the argument that split the band apart.
+
+“Me and Laila, we go way back,” Art explains as we jump to various toys littered across the floor, including a robot, a plush fox (named Foxy) with an eyepatch, and a bear (Frances). Suddenly a cute pink dragon erupts from a locker box. “Lancewing! She was my inspiration, but I lost her somehow,” Art says.
+
+This is where things get really weird. A portal appears and Lancewing takes off into it, with Foxy and Frances in pursuit. A second later, we’ve seamlessly left Art’s apartment and are now in a beautiful grassy forest that has a pastel quality to it. It’s as though we’ve sprung up inside a painting. Moreover, we’re in control of Frances, and the game has gone from being a guided puzzle adventure to a platformer. The two animals (with Foxy controlled by the A.I. in lieu of another player) chase after Lancewing, bopping obstacles out of the way with Frances’ wooden hammer and avoiding traps while a whimsical, harmonica-heavy tune plays in the background and Art’s narration pops in from time to time to comment on events.
+
+At points during this pretty excursion, we jump out of Foxy’s body with the press of a button and use the imp cursor to manipulate items in the environments, like moving marbles in a weighted bowl to lower a gate. Eventually we reach the end of the level, disappearing down a hole that leads to a room where Art is trapped inside a double-bass coffin. The gameplay returns to a physics manipulation puzzler, with us having to clear several black anvils off the coffin to release Art.
+
+Media Molecule tells us genre-hopping happens a fair amount in Dreams’ story mode, which will likely be shorter than LittleBigPlanet, with all the dreams tying into one another to tell Art’s story of creative redemption. The effect of transitioning from puzzler to platforming back to another puzzler is well done, and the studio says it has more genres littered across the story, including racing.
+
+Media Molecule jumps us ahead in the story. This time, Art is in a celestial train station with a conductor who won’t let him on a train without a ticket, which he informs Art of with an Oompa Loompa-style song and dance. Exploring the station, we find several pieces of luggage containing Art’s belongings, including a camera and a banjo string. More exploration reveals a weary traveler accompanied by her dog and a broken banjo. Talking with her brings up multiple point-and-click adventure-like dialogue interactions. We give her the string and she repairs her banjo, playing a song that distracts the conductor long enough for Art to sneak aboard the train and ride away into the night.
+
+The last section of the demo features the little robot from earlier, D-Bug, as he navigates a futuristic complex swallowed up in ruin and decay, with branches covering everything. D-Bug’s power is to shoot electricity from his body in every direction, which proves to be useful in powering up platforms for him to traverse. “There are optional paths to explore,” Healey says, revealing that these often yield rewards like objects that can be used in the creation suite, but we don’t go after any of them in the demo. After roaming around for a while, we find a giant robot. Interacting with him causes his mechanical heart to fall out and shatter. Now D-Bug has to find a way to fix it (also teasing that yes, we do get to control the big robot somewhere down the line). We don’t get to start that search; the demo ends here with a fade to black.
+
+Back in the real, non-dreamy world, we turn to the developers in the room. The demo’s surreal atmosphere was engaging and we want to see where the story mode goes, but it’s clearly designed as a showcase for the flexibility of the tools. If it’s an accurate one that can be manipulated by hobbyists, then the creative suite is something to be marveled. The demo’s camera control was tight, the audio mix sounded professional, the transitions were smooth, and there were a large variety of animations. No more beating around the bush.
+
+We ask Healey and Siobhan Reddy, the studio director, if players could feasibly make something of this quality in Dream’s creative suite. The pair nod.
+
+We remain unconvinced, but the disbelief doesn’t last long.
+
+Meet The Dreamers
+
+Though much of Dreams’ appeal is rooted in its creation tools and the potential for players to make the games they’ve always dreamed of, Media Molecule’s story mode looks to be a promising journey through a strange and emotionally heavy space. We talked with narrative designer Cara Ellison to get a better grasp on this wild, surreal story. Here are the key players of the tale and what you can expect from them.
+
+Art
+
+The protagonist, a musician with a haunted past, and the man whose shifting mind serves as home to the story itself. Art’s story is intended to be redemptive. “The story is essentially about him finding his way back to being able to collaborate and play music with other people again and enrich his life by starting to play music again.”
+
+Frances And Foxy
+
+Art and Laila’s toys from childhood, as well as Art and Laila’s alter egos in some of the sequences in Dreams, the plush animals are more than the cutesy animals they appear to be. “Frances tends to be a little bit more wild and more interested in thrashing stuff up and I think Foxy is a bit more wily and wants to stand back and essentially search the situation out a bit before he does anything.”
+
+Lancewing
+
+A dragon Art is constantly pursuing, Lancewing is intended to represent the collaborative process that Art wants to get back to. “Lancewing is this symbol for people being able to create, which is ultimately represented by the idea of putting the band back together.”
+
+Laila
+
+Art’s childhood friend and former bandmate. A split between the two flung each in opposite directions, with Art’s musical ability fading while Laila’s star shines on. However, that doesn’t stop her from missing their time together. “What she really misses is the collaboration part of their relationship so she does miss his company and creating, but she’s also just as stubborn as Art.”
+
+D-Bug
+
+Another favorite toy of Art from his childhood, Healey and Ellison describe the robot as a sort of “chi gun” for Art. “D-Bug is also a toy that Art used to have, but D-Bug’s job in our story is to ward off a lot of these bad feelings and lack of energy that Art has felt in the past and reawaken a lot of his feelings in life, especially about how he felt about inventing stuff as a child.”
+
+Walk The Walk
+
+Walk The Walk
+
+The toolset, called Dream Shaping, is the heart and soul of Dreams. Pitched as accessible to everyone and endlessly deep for experienced creators, the editor makes a quiet first impression with a simple flat square, a skybox above, and a green toolbar at the top of the screen. However, clicking on any of the buttons of that toolbar immediately opens up a plethora of options for whatever function you’ve chosen. You can spawn objects in the world – called sculpts – with the press of a button. Media Molecule starts us with a biped puppet that looks like an uncolored tabletop model of a human being, faceless and gray.
+
+“So what do we want to make?” asks level designer Jon Beech. We decide on a pirate. Beech brings our peg-legged protagonist to life quickly, sculpting eye sockets into the model, crafting a scraggly beard, sticking a sword in his hand, and even demonstrating how easy it is to customize the puppet’s animations and behaviors. The tweaking submenu, usable with any sculpt in the world, endows a model with qualities like health and attack sounds. Instilling animations for puppets is also simple, with several ways of accomplishing it. Beech moves the pirate back and forth wildly with the analog stick and captures the movement with the recorder app, saving that animation and tying it to a button press in the submenu. Presto: our attack animation is born. Within 15 minutes, we’ve brought a fully-formed character to life.
+
+Designing the level around our pirate friend is also astonishingly easy. Art director Kareem Ettouney takes over the controls but eschews the DualShock for two PlayStation Move controllers, which most of the demonstration staff seems to prefer. He quickly creates a convincing mountainside by spawning some premade rocks and then cloning them with the press of a button. Using a glue tool he sticks them together so that they form boulders. With a little more cloning and placement, he’s soon created a mountain that looks convincingly natural. It takes even less time for him to make a beach by planting an oval shape in the world and expanding it beneath our pirate. After filling it in with a sand color, he also adds water at the edge of the map and even makes it look realistic by using the blend tool to give it flowing texture.
+
+From here, the demo only gets more impressive. Ettouney crafts a huge pirate skull out of a sphere in minutes and glues it to the mountainside. He hollows out the back of the skull and creates a dance room within, placing floor tiles and lights around it. After that, we return outside where Beech takes the controls again to show us something special. The toolbar includes an entire section of function-based objects you can stick in the world called gadgets. Beech plants one called a trigger sensor that’s represented as a green glowing field. He sets the trigger for the player and then creates a camera icon, planting it near the skull as an icon viewable in the editor. Clicking on the camera icon, we’re taken into the view of the camera itself, which Beech moves around the level with ease until we’re looking at the skull from a lower angle, making it seem ominous.
+
+He takes us out of Edit mode and into Play mode, with the transition between the two being instantaneous. This transitioning is particularly impressive because you can switch between the two modes on the fly, making quick edits and then starting Play mode to see how they pan out in-game, adjusting when necessary. We zoom to our pirate hero on the shore, with the camera taking on a third-person platforming view. When he moves into the trigger zone Beech planted, the camera swings into the position he created earlier. The only difference is this time the pirate is moving through the space and Beech has full control over him while the camera remains, creating a cool cinematic view. The camera returns to the pirate after he leaves the trigger zone. Within two hours, we’ve created a character with attack animations, the environment he moves through, and even filled the world with some of the neat camera tricks you’d see in the likes of Uncharted 4 or Gears of War. The swiftness of the process, and how easy it is to understand and duplicate, is impressive.
+
+Reddy calls Dreams “visual programming.” After our pirate demo, I’m convinced the term is appropriate. Playing with Dreams’ toolset isn’t cheating or bypassing any of the design hurdles of making games. You’re still learning programming. The trigger switch is just another version of conditional statements in programming languages. The huge difference here is you’re navigating the world of layouts, sliders, and buttons instead of strings and statements. It’s No Fear Shakespeare but for people who prefer fiddling with user interfaces and snappy toolsets to coding. In a wise move, tutorials are also included, but they’re atypical in that they’re videos that can be minimized and played as a small square in the corner of the screen while you’re actually playing the game, so you can follow their instructions to the letter and strengthen muscle memory.
+
+The toolset’s plentiful creative suite options are impressive, but how do you get people to use it, particularly those skittish about creating or learning systems? Media Molecule has an answer: you turn it into a video game.
+
+Create Your Own Symphony
+
+One of Dreams’ most fascinating components is its sound creation tool. While the game comes with a load of prebaked music tracks and sounds, you can also record your own dialogue or music with a USB mic or PlayStation Camera and import the sound into the game for you to use how you see fit. Want to record your cat purring as dialogue for one of your characters? Go for it. And if you don’t record music yourself, you can also take the premade sets, which range from jazz to electronic to rock & roll, and chop them up and mix them together.
+
+The controls are tight, with you dragging tunes onto a composition sheet that forms a track. During our demo, we mixed drums, an electronic sound, and some recorded audio of everyone in the showing room shouting “Game Informer!” After that, we used the music maker’s plentiful tweak menus to slow down and distort the audio of our voices to a crawl to create a creepy, amusing chorus chant that played while the electronica thumped in the background. Connecting the track to the level we created and getting it to play when and where we wanted was simple as well.
+
+There are so many options in the music menu it could make an audiophile’s head spin. From distortion to changing pitch, tempo, and even tooling with the tuning of the creator’s emulated instruments themselves to produce a different sound makes Dreams a formidable digital audio workstation, rivaling applications like GarageBand and Nuendo. “Someone can make a genuine album in this,” creative director Mark Healey asserts.
+
+After seeing all the options within options within options in the music creator, it’s hard to disagree.
+
+Living Inside A Dream
+
+Living Inside A Dream
+
+In spite of so much of its appeal being rooted in an engine for making games, Media Molecule is adamant Dreams is a capital-v video game, and the team is making a progression system to prove it. “Dreams is an amazing world,” says Emily Newton Dunn, systems designer. “If you were just thrown in there with nothing to help or guide you it’d be an overwhelming experience.” The developer is looking to the likes of Twitter and YouTube to answer two questions: How do you make creation fun for everyone, and how do you get people to share their work?
+
+An in-depth progression system has players accomplishing tasks called Imp Quests in order to gain XP and unlock items to use in Dream Shaping. You level up in Dreams, but it’s mostly a prestige thing, with few rewards existing outside of bragging rights for having a bigger number than everyone else. The material gains come from doing Imp Quests. For example, an early pottery quest has you sculpting a certain number of objects. Once you’ve done that, you gain the XP and you earn a reward, like a new sound file or sculpt. However, don’t be too concerned about gatekeeping. There are already a load of objects for you to use from the get-go, and finishing Imp Quests is easy, as many of them complete while you’re fiddling about in the creator. There are countless quests, each of them tied to the many different ways players can interact with the suite. A sculptor builds that category by sculpting objects, while a curator builds that reputation meter by being a good community member. “We’re going to be relying on the community to surface the really good stuff,” Reddy says. “The maps and content. We want to encourage the idea of people becoming known for having good taste.”
+
+Media Molecule is leaning hard into its potential community, building out a social universe where people can follow and reach out to each other to create content together. “We’re not all polymaths,” Dunn says. “We can’t all be amazing at everything. I think that part of making games, making fun, making anything creative is about collaborating with people you gel with.” The categorization setup allows artists to seek out people with experience in audio or level design with ease, making your next development team for a project just a couple of keyword searches away.
+
+The social element isn’t just about creating together, however. Like with LittleBigPlanet, sharing and playing content others have created is a huge part of the game and a way to bring in users who would rather participate in Dreams’ offerings as a player instead of a creator. Dream Surfing is Dreams’ portal to that, letting players share what they create – objects, levels, games, movies – on a YouTube-like system filled with playlists. Here, you can follow creators, leave reviews of content, or spend hours playing surrealist games thanks to a handy tag system that lets you mark games with labels and genres. Healey says much effort has been put into streamlining the seamlessness of experiencing shared content and hopes that it results in what he calls dream binging. “You go to Netflix and it’s pretty easy to go down a wormhole,” he says. “Click on a thing, get recommended for what to watch next. You don’t have to be a creator to enjoy YouTube and that’s what we want for Dreams.”
+
+Media Molecule says multiplayer support for playing with each other in player’s creations is on the way, but won’t be available at launch. You won’t be able to edit an environment at the same time online (you can locally), but that functionality is planned for post-release at some point. There’s no way for anyone to craft an MMO, which is the only genre the company says is not capable of being created within the current version of the editor. Still, the idea of bounding around with a handful of other players in a game that you’ve all built together is an alluring premise and one that hopefully pans out.
+
+One Wild Showcase
+
+During our studio visit, Media Molecule showed us a number of small, fun games that had been made in a matter of days (sometimes hours) from developers in their free time that encompass a lot of genres. Here were some of our favorites.
+
+What Are You Afraid Of?
+
+A first-person horror game similar to P.T. featuring a protagonist exploring a house that appears to be haunted, complete with mysterious portals, a spooky vibe, and a strong synth soundtrack.
+
+Ferovium
+
+A side-scrolling shoot ‘em up with a combat spaceship zipping across a station, shooting turrets into oblivion.
+
+Hammer Time!
+
+A local multiplayer game that has up to four players competing against one another in Mario Party-esque minigames. One game had hammers competing to hit as many nails down as possible. Another had the hammers suspended on a platform made of puzzle pieces, with each blow from the hammer sending out a shockwave that takes out all the pieces of the floor in the wave’s path—the first hammer to fall into the abyss loses.
+
+Moon Raider
+
+A sci-fi flight simulation game like Wing Commander and TIE Fighter focused on dogfighting in an asteroid field, with the player capable of playing from third-person or from a view inside the cockpit.
+
+Helmet Kid
+
+A platformer with a small child wearing a helmet as he navigates a world filled with pits of spikes to leap over and foes to fight.
+
+Let’s Get Ready To Thumble!
+
+A goofy local multiplayer game that’s Thumb War but with massive hands on a wrestling arena.
+
+Untitled Mecha Demo
+
+A demo that takes place outside a huge post-apocalyptic dam and has players piloting a combat-outfitted mecha to defend themselves against drones. Gritty visuals and a strong demonstration of first-person shooter mechanics in Dreams (including detailed reloading and solid gunplay) made this one of the most eye-catching projects.
+
+ Looking To The Horizon
+
+Looking To The Horizon
+
+LittleBigPlanet has understandably served as the foundation for Dreams’ creative elements as well as the possibilities of its future, with the studio founders expressing hope that its flagship series’ success is an indicator that Dreams has a sizable audience out there. “When we launched LittleBigPlanet, we made a bunch of tools and put it on a PlayStation,” Ettouny says. “Who was that for?” he recalls, thinking that people were buying consoles just to disconnect from reality, that they weren’t interested in learning necessarily. “We tried our best to make it as gamey and chill as possible. We didn’t know who we were going to reach. And to our surprise, 15 million levels were made in LittleBigPlanet. Who were these people? The game audience is filled with cool, creative people. They play and by playing, they’re learning 3D spaces, visual language, HUDs. They’re building a repertoire.”
+
+When asked how he thinks the game’s potential community will react to Dreams, Healey chuckles. “God knows. Hopefully positively. There are a lot of things in there that are a progression from LittleBigPlanet, so I’m hoping at least that community comes to this and hits the ground running.”
+
+The world is a different place now than in 2008, when LittleBigPlanet launched with the motto “Create, Play, Share.” Now everyone is creating and sharing, as a huge number of big-budget games launch with photography modes or have elements designed to encourage players to create their own emergent stories. Encouraging creativity in abstract ways has become an essential part of popular game design. Whether or not Dreams can tap into the zeitgeist LittleBigPlanet helped create remains to be seen.
+
+Still, Dreams has more than legacy on its side. The marriage of an accessible creation toolset to a networking hub capable of uniting creators as well as consumers means Media Molecule’s long-awaited project could be an incredible opportunity to bring creative tools to an audience that hasn’t had the means to use them before. “It’s easier now to get into the games industry with universities and such,” Healey says. “But not everyone has the opportunity to go to university for whatever reasons, so I just really like that someone who’s managed to get their hands on a PlayStation 4 and a copy of Dreams has the potential make the next massive triple-A game or really exciting film.”
+
+Lighting, animations, characters models, even sound effects and music are all things users can create in Dreams
+
+Media Molecule hopes to launch a beta before the end of the year. After it releases, Media Molecule will get its first idea of what people can do with it out in the wild, where creations are no longer solely the fruit of an internal development team experienced with the tools and in touch with the company’s creative ethos. Numerous questions remain unanswered or untested about how the developer plans to handle copyright violations and who owns the creations that players make in Dreams. If someone remakes Smash Bros. in Dreams or recreates some other popular game, Media Molecule says that copyright violations (as well as graphic content) will result in the games being removed from Dream Surfing. But what’s to stop those creators from filming gameplay and sticking it on YouTube? Will content takedowns be enough to appease copyright holders? As far as who owns the content made in Dreams, Reddy and Healey have little to say in terms of explicit details but have expressed interest in making certain games made in Dreams available in the PlayStation Store sometime after release.
+
+Dreams has a lot to prove, with the true showcase of its potential likely not to appear until after skilled and imaginative users have had enough time to learn the tools, come together, and make feature-length games and videos. That could be a matter of weeks or months. But with so much of how the gaming community interacts ingrained in internet word of mouth, with tales and tutorials that spread like wildfire through subreddits, YouTube, and on social media, this ambitious, hard-to-pin-down project could emerge as one of this generation’s most memorable and rewarding titles under the right circumstances.
+
+Despite how the company is charging into the unknown once more, Media Molecule is in good spirts and not as worried about finding popular success as much as it is creating something unique and memorable, focused on helping people find joy in creation. “At the end of the day, we’re making something we want to make,” Healey states. “All we can do is just hope that people are into that kind of stuff too.”
+
+After fiddling around inside Dreams for two days and getting a good look at all the possibilities that its easy-to-use interface and wealth of creative materials has, we’d like to think there’s an audience out there for it, too. We’re curious just how much emotional depth and variety is in the game’s story mode, but we enjoyed what we saw of it and look forward to finding out more about Art’s journey. More pressingly: despite our initial skepticism, we came away from our time with Media Molecule’s latest as believers in its potential to open the doors in the imagination of its players and put tools in their hands that will let them produce and share some truly astonishing worlds.
+
+We cannot wait to see them.
+
+      Products In This Article
+
+Dreams
+
+Platform:
+
+PlayStation 4
+
+Release Date:
+
+February 14, 2020
+
+Purchase
+More Info
+

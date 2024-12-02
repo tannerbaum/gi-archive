@@ -1,0 +1,22 @@
+
+  Voting For Your 2019 Games Of The Year Is Now Closed
+
+
+
+
+
+
+            Update: Our 2019 GOTY Reader Poll is now closed. Thank you to all who voted! Stay tuned both online and in issue 322 of Game Informer magazine for the results!
+
+Original Article:
+
+This is your chance to sound off on your favorite video games of 2019. Do your part and vote to determine our Reader Games of the Year in issue 322 of Game Informer Magazine.
+
+From new IPs and big, triple-A sequels to a host of ongoing games from years past, 2019 provided us with no shortage of exciting things to play. Whether you were looking at consoles, PC, VR, or even mobile, chances are, you found something that resonated with you. Now is your chance to tell us what.
+
+You can find the survey below, or at this link. Simply click to select your choices.
+
+(function(t,e,s,n){var o,a,c;t.SMCX=t.SMCX||[],e.getElementById(n)||(o=e.getElementsByTagName(s),a=o[o.length-1],c=e.createElement(s),c.type="text/javascript",c.async=!0,c.id=n,c.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgd94oBlbq3r_2B5Kl7XA2rvf_2FjIXDMmzhiDxNTk3VorGJA_2B.js"].join(""),a.parentNode.insertBefore(c,a))})(window,document,"script","smcx-sdk");
+
+If you're having trouble making decisions, you can always use our scientific method for making important game of the year decisions or take this advice. The last day of voting is Friday, December 13, so get all of your votes in while you can and look out for the results on the website and in issue 322 of the magazine!
+

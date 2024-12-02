@@ -1,0 +1,339 @@
+GoingBig
+  Going Big
+
+
+
+
+
+
+Platform
+Switch
+
+Publisher
+The Pokémon Company, Nintendo
+
+Developer
+Game Freak
+
+Release
+November 15, 2019
+
+Rating
+Everyone
+
+            Introduction
+
+Since Pokémon’s debut, the mainline series has existed solely on handheld devices. Being able to adventure in the world of Pokémon while being anywhere in the real world is enticing, but fans have long clamored to see the series deliver a mainline console RPG. However, developer Game Freak was reluctant to create a game that players couldn’t take with them. The release of the hybrid Nintendo Switch changed everything.
+
+Now, unrestrained by the traditional limitations of dedicated handheld devices, Game Freak sets out to make what it considers to be the ultimate version of Pokémon. We traveled to the team’s Tokyo headquarters to learn the inspirations behind the various additions and advancements of Pokémon Sword and Shield.
+
+Walking into the unassuming Carrot Tower in Tokyo, you would never guess the creators of the highest-grossing entertainment franchise in the world were just a couple hundred feet above you. After a short elevator ride and a stroll through a plain, twisting hallway, a door opens to a conference room and you’re suddenly presented with the rich history that has been made here. Lining the walls of the conference room is every game, every soundtrack, and hundreds of figures from the world’s largest entertainment juggernaut.
+
+While the shelves housing the mainline entries of the Pokémon series read like a history book for Nintendo’s handheld devices, when you get to the end, Pokémon: Let’s Go, Pikachu and Let’s Go, Eevee immediately stick out as the sole console entries. The games, which released last year on Nintendo’s current flagship platform, effectively transitioned the series to the hybrid format. But while those reimaginings of the first-generation games served as a crowd-pleasing bridge to the next evolution of the franchise, they did more for the development teams at Game Freak.
+
+The Pokémon Let’s Go games served as a way for the studio to get down the development basics for Nintendo’s new console – introducing new features, like wild Pokémon appearing in the environments and a giant leap forward in terms of visuals. Fans enjoyed these games and loved having a modern remake as a starting point for the franchise on Switch, but Game Freak had greater ambitions with the new technology than simply recreating past glories.
+
+During the development of the Let’s Go games, the team realized creating games on Switch was no small task when compared to developing on lower-resolution handheld devices. “I think the biggest takeaway was how the graphics and rendering work is so different from the 3DS,” says Pokémon Sword and Shield director Shigeru Ohmori. “Needing to staff up and figure out how we’re able to get that to work really well on Switch takes more time, and we needed more resources.”
+
+The studio grew in size, nearly doubling the core team since the development of Sun and Moon. With 180 to 200 core members, hundreds of outsourced and external partners, and a large marketing department, the full team is massive. When you factor in the localization teams across the nine languages the game is launching in, Ohmori estimates that around 1,000 names will appear in the credits of Pokémon Sword and Shield.
+
+Using key takeaways from the Let’s Go games, the rapidly growing team at Game Freak forged ahead with its vision for the next generation of Pokémon games. “We set out with the idea of making the ultimate, strongest, the best Pokémon game yet, being on Nintendo Switch, the first time an all-new generation is coming to a console,” Ohmori says. “It was really just kind of applying this idea of ‘ultimate’ to every facet of the game: gameplay, visuals, everything. That was really the theme for when I set out making the game: the greatest Pokémon game.”
+
+Battling the Status Quo
+
+Battling the Status Quo
+
+To craft the “ultimate” Pokémon game, Game Freak put everything under a microscope. Across seven generations and five video game systems to this point, familiar battle mechanics that have stood the test of time always carry over in the series. Since the beginning, players have taken part in turn-based battles with Pokémon that can learn up to four moves. Despite that basic formula remaining firmly in place over the years, Game Freak has explored ways to change it up.
+
+“I think with the Pokémon games, you’re taking the elements that existed before and add onto them with every game, but we don’t just take the elements for granted,” says planning director Kazumasa Iwao. “Each time we make a new game, we review what’s there and make sure they make sense for the project and that we’re confident we can make them fun for the next game.”
+
+Why Did A Console Game Take So Long?
+
+Since the series’ inception on Game Boy in the 1990s, fans have begged Game Freak for a mainline Pokémon RPG for home consoles. Until the release of the Nintendo Switch, that project would have compromised what Game Freak considers one of the series’ most important aspects.
+
+“We think it’s really i...
+Since the series’ inception on Game Boy in the 1990s, fans have begged Game Freak for a mainline Pokémon RPG for home consoles. Until the release of the Nintendo Switch, that project would have compromised what Game Freak considers one of the series’ most important aspects.
+
+“We think it’s really important to not have the experience be totally closed,” says producer Junichi Masuda. “Having it facilitate the real-life interactions – playing with friends in the same space, and talking with each other – facilitating that is a part of the Pokémon experience, rather than just what’s happening on the screen. It’s fun to play alone at home as well, but it’s probably more fun if you’re playing with friends at a festival.”
+
+Masuda also points toward the in-store Pokémon distributions that happen at retailers across the world. During these in-store events, players can bring their systems in or obtain an exclusive card to download a special Pokémon. “We do that so you can go there to that location and you may run into a friend or meet somebody you didn’t know before and connect through the game,” he says. “Those moments turn into memories and add value to that Pokémon you get; every time you see it, you’ll remember that experience, and we think those experiences are valuable.”
+
+Now, with the Switch offering the best of both the home console and handheld worlds, Game Freak is excited to finally give fans the mainline Pokémon RPG they’ve been wanting for decades without sacrificing its desire to have the games be portable.
+Expand ▾
+
+According to Ohmori, the team even thought about changing up the very core of the battle system from the traditional turn-based experience, but reconsidered when thinking of the initial themes for this next entry. “With Sword and Shield, we felt like expressing the turn-based battles in their ultimate form,” he says.
+
+With that level of willingness to re-examine the core tenets of the series, the team looked toward other ways to experiment without completely disrupting the beloved balance. Even mainstays like Pokémon being able to learn four moves was looked at. The studio considered bumping the number of moves up to five, or even down to three, but nothing felt right.
+
+“If you make it five or even more than five, that makes it so a lot of the Pokémon can really do anything, and it becomes a lot harder to read what your opponent might do because there are just that many more possibilities of moves they could use,” Iwao says. “I think that hurts the balance of the gameplay quite a bit. At the same time, even if you reduce it by one to three, you really start seeing there are haves and have nots in the Pokémon world. Like, these Pokémon are obviously way stronger than the rest of these Pokémon. We keep coming back and finding that four is the right number for the current battle system, but it is something we revisit.”
+
+One recent example of Game Freak changing things up with the series prior to this generation is how Pokémon Sun and Moon did away with Hidden Machines (HMs). This convention, which was in place since Pokémon Red and Blue, allowed players to teach moves that Pokémon can use both in and out of battle. They acted as keys of sorts, allowing players to access new areas once they obtain the right HM and corresponding gym badge to allow them to use the ability outside of battle. In Pokémon Sun and Moon, those HMs were replaced by Ride Pokémon. The team wanted to give players a higher degree of freedom in Pokémon Sword and Shield, and as such, didn’t feel the concept of HMs fit into the themes of the new game.
+
+While that modernization is carried over from Sun and Moon, several new elements are being introduced into Sword and Shield that differentiate it from past games. The Exp. Share item, which spreads experience points learned to all Pokémon in your party is no more. Instead, Sword and Shield automatically spreads out the experience without an item.
+
+In perhaps the biggest modernization to the core elements of the Pokémon franchise, the game now autosaves. In past mainline Pokémon games, you had to remember to stop and save occasionally or run the risk of losing substantial progress if you turned off the system or your batteries died. With Sword and Shield, players benefit from an autosave functionality that seamlessly records your progress in the background as you go. However, for those who want a more traditional Pokémon experience of stopping the action to manually save, you can turn this feature off; I imagine that will be a popular option when it comes to facing off against Legendary Pokémon.
+
+Competitive players also have a new way to fill their parties, as a new backend parameter helps players use the Pokémon they catch from the outset of play in competitive battles. “Traditionally in the series, you start with your starter Pokémon and then you catch a lot of Pokémon in the beginning, and those are with you throughout your whole adventure, and the player gets attached to them,” Iwao says. “But a lot of times, they get into the competitive battles and they find they can’t actually use those Pokémon or they’re not competitive, so they have to go out and find the exact right Pokémon or breed them in a certain way to make sure they’re viable in competitive battle.”
+
+To address that issue, Pokémon Sword and Shield introduces new systems that allow your favorite Pokémon to become useable in competitive matches. While Game Freak won’t elaborate too much, Iwao says players will know it when they see it. In previous games, you could have a Pokémon with all the right stats, but a personality that makes it a bad choice for competitive, meaning it wasn’t the best choice in high-level matches. With Pokémon Sword and Shield, players can still breed to try and obtain the perfect specimen, but they also have ways to circumvent that problem. “We’re doing a lot of stuff in the back end introducing systems that allow players to make sure that Pokémon they want to use in competitive battles are viable,” Iwao says.
+
+These changes are just the start of what sets Pokémon Sword and Shield apart from prior Pokémon games, but before the team could really fit the pieces together, it needed to decide on where it would take place.
+
+Going To Galar
+
+Going To Galar
+
+Concepts for what is now known as Pokémon Sword and Pokémon Shield began floating around during the development of Pokémon Sun and Moon, but it wasn’t until the media tour for those games that things started to click into place. While touring the world in the lead up to the release of 2016’s Sun and Moon, Game Freak co-founder and Sword and Shield producer Junichi Masuda became fascinated by London and the U.K. “I remember being there with the feeling of the country and I was also looking at the history and the strength the country has; that inspired me to base the region off that,” he says.
+
+Masuda and Ohmori began kicking around ideas for a region inspired by the U.K. To brainstorm, the team turned internally to an invaluable asset: James Turner, who has been designing Pokémon since the fifth generation of the series. While he now resides in Tokyo to work at the Game Freak headquarters, he grew up on the British countryside.
+
+This concept art showing the player’s home was used as reference when creating the game’s 3D model
+
+Throughout his time at Game Freak, the team spoke highly of the U.K., but it was never in serious consideration to be a region for a game. However, at a certain point, Turner began picking up on some hints that his home country might be in the running. “I was working on a different project and they were beginning development on what would become Sword and Shield, and I would hear from people working on it, ‘We have some things we want to ask you about. We need your opinion on something,’ and I’d be pulled away from what I was doing” he says. “It became pretty clear they were thinking about England and they wanted my opinion about the English countryside or the culture and stuff like that.”
+
+Eventually, the quick questions about England became inquiries about him joining the team for the next Pokémon game. When it was revealed the studio was planning a region called Galar based on the U.K., Turner’s brain kicked into overdrive thinking about what in the U.K. could translate into a Pokémon game and what should be highlighted.
+
+Turner was named art director for the project and he began making a list of what he hoped to accomplish with the design of the new region. Having grown up away from the major cities, he knew the importance of making the countryside just right. “The greenery of the countryside, the patchwork farmlands – that’s a really beautiful aspect – the pretty small towns, and the big cities as well – they can be really impressive; I wanted to get that across in the game.”
+
+In addition to getting the beauty of the rolling hills and the impressive nature of the cities across, Turner wanted to bring a level of authenticity to the region beyond just the landmarks everyone knows from postcards. “I also wanted to convey the small details that people who come from the U.K. or people who visit the U.K. a lot, they can look at them and feel familiar, and it doesn’t feel like a rough interpretation, but something that is really true to the details,” he says.
+
+One example of Turner helping the studio accomplish this came with the signboards scattered across the region. Initially, the designer of the signboards used a medieval fantasy style for the signs. Turner rejected the design in favor of pursuing something more authentic to the real-life region. He pushed the team to create something more familiar to people who have been to the U.K., recreating the kinds of fonts and color schemes used in the actual signs in Britain.
+
+Despite this push for authenticity in the Galar region paying homage to the U.K., Turner understands players want variety and exaggerations in the world. “It is based on the U.K., but there are more colorful locations as well within the game to create a sense of adventure,” he says.
+
+What’s In A Name?
+
+What’s In A Name?
+
+Pokémon Sword and Shield’s name draws inspiration from the setting of the Galar region, but a lot more goes into naming than just picking something related to the area. Traditionally, the names of mainline Pokémon games have some relationship to the themes of the game or other games in the series.
+
+After two generations of color-based games in Red and Blue followed by Gold and Silver, Masuda thought of Ruby and Sapphire as the start of the “jewel” series, which concluded with the following generation’s Diamond and Pearl. For Black and White, while it was technically a return to color-based naming conventions the series started with, he more wanted to represent two opposing colors. However, starting with X and Y, Masuda was presented with a unique challenge as it was the first time the games were launching worldwide simultaneously.
+
+“We wanted to make sure we had a title that would be shared across all the different countries, so we wouldn’t have to localize the titles,” Masuda says of Pokémon X and Y. “Up until then, all the titles had been localized; Red was Rouge in French. I wanted to make sure for the first title to be released worldwide at the same time, it would be a name that could be the same everywhere.”
+
+For Sword and Shield, Masuda wanted to look toward the themes of creating the strongest, ultimate version of Pokémon. The names Sword and Shield weren’t decided until the last minute. However, the team had art for the two Legendary Pokémon. One was a dog holding a sword in its mouth, while the other was a dog with a head shaped like a shield.
+
+Creating a Pokémon
+
+With just over 800 Pokémon currently in the National Pokédex, the series is bound to eclipse the 1,000 mark either this generation or the following one. With so many distinct designs and styles, it’s remarkable the team can continue churning them out the way it has over the last couple decades.
+
+Th...
+With just over 800 Pokémon currently in the National Pokédex, the series is bound to eclipse the 1,000 mark either this generation or the following one. With so many distinct designs and styles, it’s remarkable the team can continue churning them out the way it has over the last couple decades.
+
+The process of creating a Pokémon is an intense one, often beginning with a simple request to an artist. These requests are often saying they need a concept of a Pokémon for a particular scenario or are looking for a specific direction for a new creature. From there, the artist creates quick sketches with few details, which are shown to the team requesting to see if they’re heading in the correct direction. The groups iterate on the design based on feedback, with the gaps getting longer and longer each time as the artist adds more and more detail with each iteration.
+
+For art director James Turner, who has been designing Pokémon since Gen V, one of the major challenges is coming up with something that hasn’t yet been seen in the series. “There are a lot of Pokémon,” Turner says. “To me, it’s like trying to park in a really crowded car park or something. You’re going this way, there’s a car there. You’re going this way, there’s a car. You’re trying to find some unique space. This color scheme has been used before, this animal has been used before. You’re trying to find something unique. That’s important.”
+
+On top of that, it’s important that every aspect of a Pokémon’s design has potential real-world functionality and logic behind it. “You can’t just come up with a cool looking design or a cute-looking design that hasn’t got any logic behind it,” Turner says. “This Pokémon has these cool, big horns, and it looks mean and tough, but why would it have those horns? How does it live? How does it exist in this environment? That’s really important. If there’s no meaning behind the decorations, then they’re not really necessary for the design. We have to think about how this creature exists in the world and how it lives in the world.”
+
+As a part of this process, only a very small percentage of concepted Pokémon make it onto the final lineup of creatures. According to Turner, it’s close to two or three out of every 10 Pokémon drawn make that into that game. However, once a concepted Pokémon makes it to a certain point down the design path, it’s rare they’re outright stopped.
+
+Many of these concerns are addressed in meetings where the teams come together and determine which concepted Pokémon are in the game and which are out. It’s not always about the design of the Pokémon in question; sometimes it’s about the game already having a new electric or rock Pokémon and not needing another.
+
+“There are really quite detailed opinions about that kind of stuff,” Turner says. “When you see a Pokémon at first, you think, ‘Oh that’s a cool design.’ But then if you start to think about it logically: Why would it exist in this world and what role would it have? Even though they are cool designs, there can be opinions that come up that makes it, ‘Actually that doesn’t quite fit within what we want to do this time around.’ There are a lot of detailed discussions.”
+
+For those Pokémon that don’t make it into the game, there’s good news: The “rejected” designs often return in later games. “People submit designs for one generation, and they don’t get approved,” Turner says. “It might be just because it doesn’t fit within that region or it might be because the idea is not fully cooked yet. So they will go away with that design, and then the next region, the next game will start and they’ll bring it back, and maybe they’ve modified it a little bit, or maybe it fits better within the lineup, and those designs go ahead. I’ve seen them become final Pokémon within certain games.”
+Expand ▾
+
+The name derived from the Legendary Pokémon fit in with both the themes Masuda wanted to pursue, as well as the region, but it also took on new meaning for the team. “When a person goes to choose which version they want, maybe in the back of their mind, if they had power or strength, would they use it to fight or use it to protect? Maybe deciding what they would do with power when they choose which version to get,” he says.
+
+The final order of business when it came to naming was to decide what those Legendary dogs that inspired the names of the games should be called. “Those were the last things we were able to determine. We thought it would be interesting to go back to colors with the Legendary Pokémon,” Ohmori says. “One of the things I had in my head was that in the Galar region, these were just kind of rumors; no one has actually seen them in the story. ‘I saw this red knight or this blue knight-looking creature.’ That’s the myth in the region, and I had this initial idea of ‘The Cyan’ or ‘The Magenta.’ Rather than going 100-percent straight like that, we played a little bit on the sound, like ‘Zacian’ and ‘Zamazenta,’ ‘The Cyan’ and ‘The Magenta’ to make it more like a name. The actual idea is that people would be like, ‘That Cyan!’ or ‘That Magenta!’ They’re describing it.”
+
+Turning Trainers Into Stars
+
+Turning Trainers Into Stars
+
+In addition to getting the visual design to feel authentic, Game Freak wanted to embrace the sports-centric culture of the U.K. Trainers are treated like star athletes, complete with collectible League Cards. While filling your albums with League Cards from A.I. and human trainers can be a fun goal (each card even has trivia or information about the trainer’s personality on the back), I enjoyed creating my own League Card, even with an extremely limited selection available in the build.
+
+Even before customizing my character’s appearance on the card, I can choose from different backgrounds, effects, and frames. From there, I reposition my trainer on the card, and adjust their pose and facial expression before slapping a laminate coat of my choosing over the entire card.
+
+You can also equip your trainer with a jersey and give them a number. However, if you’d rather go for a more casual look, Pokémon Sword and Shield gives you more customization options than has ever been seen in the series.
+
+Past entries let you customize your outfit by selecting a top and a bottom, but now you can take it down to a granular level. Sword and Shield’s trainer customization options allow you to choose shirts, jackets, pants, dresses, socks, shoes, backpacks, hats, glasses, and gloves. You can also choose from several hairstyles to complete the look.
+
+The team wanted shopping in the Galar region to remind you of shopping in a fashionable street in England. “That can feel very familiar for people who live in the U.K.,” Turner says. “There were a lot of bits here and there that I pulled from my own experience.”
+
+Much like shopping in real life, you’re going to want to scour all the stores possible to find the right piece to complete your outfit; you can’t just go to one store and expect to see the entire collection of clothes. “There’s actually different clothing brands that serve different genres of clothing, and you’ll find that different towns specialize in some genres over the others,” Ohmori says.
+
+Fashion even changes from town to town, encouraging players to bounce around to find the perfect look. “Big-city fashion is different from small-city fashion, and then there are more kind of punkish towns you can visit too,” Turner says.
+
+The tribute to British sports culture continues with stadiums full of people during big battles. This setting delivers a new kind of atmosphere not seen in mainline Pokémon games to this point. The crowd reacts as action unfolds in the arena, including uproars, cheers, chants, and songs. The stadium itself also changes with the action, with certain things displayed on the screens around the arena, as well as music that plays.
+
+All of these elements brought by the Galar region felt like a natural fit for the Pokémon series, but where it proved most valuable was in helping Game Freak begin to pull together disparate elements it wanted to implement into one cohesive vision.
+
+Giant Ambitions
+
+An early piece of concept art conveys the team’s desire of portraying Pokémon battles in the Galar region to look and feel like a sports broadcast
+
+Giant Ambitions
+
+The team had various ideas in mind for new features that could appear across the adventure, but they were nebulous and unattached. Several of the ideas they had in mind suddenly started snapping into place thanks to the idea of basing a game in a region inspired by the U.K.
+
+“Just in general for a Pokémon game’s development and where the ideas come from, usually in our heads we have all these different ideas, existing as individual parts,” Masuda says. “For example, maybe we’ll have an idea for a connectivity feature, or a battle feature, or a Pokémon, then they’re kind of all existing in your head, then you’ll have these moments where, for example, you’re traveling or you’re going to a media interview session and you’ll feel the atmosphere of that location and all of it will come together like, ‘This is a good location to feature all of these other ideas I already had in my mind.’”
+
+“There were definitely a lot of ideas,” Ohmori says. “There were a lot of ideas we explored for this game that we ended up not using. It all goes back to us having these individual parts swimming in our heads and finding the right one that makes sense for the game.”
+
+Art director James Turner wanted to capture the colors and mood of the UK (including the patchwork farmland) in this concept art focusing on the homes of the player and rival
+
+One of those ideas that seemingly snapped into place with a U.K.-inspired region was the new Max Raid Battles. For the first all-new console game in the series, Ohmori wanted to include a feature that reminded him of his younger days playing Nintendo 64 in the same room with his friends. He began brainstorming for ways to recreate that feeling, but didn’t have any great ideas. He eventually found inspiration in the mythologies of giants involved in the founding of ancient Britain.
+
+The result is Max Raid Battles, where players can gather together with other trainers to take on massive Pokémon together. If the team of players can take down the giant creature, the trainers are rewarded with the opportunity to catch the defeated Pokémon. While that may sound familiar to anyone who has played Pokémon Go, the idea actually predates the implementation of raids in the mobile smash hit.
+
+“The initial concept of having cooperative battles against a Pokémon – the raid idea – came before raids were even implemented in Pokémon Go, but we saw Pokémon Go implement this raid feature and how popular it was for people to get together in the same space and enjoy these cooperative experiences,” Ohmori says. “I think there was some influence, like how in Pokémon Go, you don’t need to be a hardcore battler to enjoy the raid battles; it’s really easy to invite a friend. We wanted to have that element in Sword and Shield’s raid encounters as well.”
+
+However, before raids were introduced in Pokémon Go, this mechanic in Pokémon Sword and Shield was simply referred to as “cooperative battles.” With the term “raid” now cemented in the lexicon of millions of Pokémon fans across the world, Game Freak decided to play off that word to make the feature instantly recognizable for a large chunk of its fan base.
+
+Much like Pokémon Go’s raids, the battles are ranked using a star system; the more stars a raid has, the more difficult it will be for players. According to Iwao, players might be in for a rude awakening if they think they can just coast through the higher-ranked Max Raid Battles.
+
+“I think it’s going to have a kind of difficulty we haven’t seen in a lot of main series Pokémon games up until now,” Iwao says. “Even for me, a seasoned Pokémon player, even if I go with one of the five-star Max Raid Battles, I can definitely run into situations where I’m not able to win.”
+
+Thankfully, you can alleviate headaches by joining up with friends or choosing raid levels appropriate for your team of Pokémon. Even if you go into a Max Raid Battle alone, A.I. teammates will join to fight alongside you. In addition, you can also even the odds by temporarily growing your own Pokémon to massive scales using one of Sword and Shield’s centerpiece new features: Dynamax.
+
+Taking It To The Max
+
+Taking It To The Max
+
+While Dynamax’s inspiration was a direct result of Ohmori’s understanding of U.K. myths, the inclusion of Pokémon on this scale simply wasn’t possible in a satisfactory way on handheld devices. Game Freak wanted to use the higher resolution of the Switch and the larger screens of televisions to demonstrate a strong sense of scale. Not only do the enormous Pokémon look bigger than ever before, but the small Pokémon on the roster also look appropriately small.
+
+This is further on display when players use Dynamax to make their Pokémon grow to unprecedented sizes. Seeing a Dynamaxed Pokémon next to a trainer on a big screen shows off the scale Game Freak hoped for. Ohmori says this display would only be possible on a high-resolution platform like the Switch. “On the 3DS, if you showed some of the huge Pokémon, the limited resolution would probably make the player character be like a single pixel or something,” he says with a chuckle.
+
+How Different Are Sword And Shield?
+
+Pokémon games have traditionally released in pairs, with the titles featuring some different Pokémon and other smaller differences. For example, in Sun and Moon, the day and night cycles were reversed, affecting certain items and encounters during different parts of the cycle. Pokémon Sword and Shi...
+Pokémon games have traditionally released in pairs, with the titles featuring some different Pokémon and other smaller differences. For example, in Sun and Moon, the day and night cycles were reversed, affecting certain items and encounters during different parts of the cycle. Pokémon Sword and Shield carry on the tradition of certain Pokémon being exclusive to each version, but based on which version you get, the gym leaders are also affected.
+
+According to director Shigeru Ohmori, the gyms are split into a system resembling major and minor sports leagues. “There are 18 different types of gyms in the story, and depending on the version, which gyms are in the minor league and which gyms are in the major league are different,” he says. “For example, in Sword, the fighting-type gym will be in the major league, but in Shield, the ghost-type. The idea is that every year, the Galar region is playing and which gyms make it into the minor league versus the major league changes.”
+
+For clarification on this quote from Game Freak, read this additional statement.
+Expand ▾
+
+The concept of having Pokémon grow to become giants satisfied another goal of the team going into its first all-new console Pokémon game. “If you’re playing on the TV, there’s probably going to be other people in the house like family or your parents,” Ohmori says. “We wanted to make what you were doing on the screen look impressive or something that makes it look like, if the kid is playing it and the mom comes by like, ‘Wow, you’re really doing something cool there!’ Kind of like the idea of it being a sport, for example. It’s impressive to watch as a sport, and maybe the kid is like a really powerful sports player.”
+
+Outside of impressive visual sequences showcasing larger creatures and a colorful aura, Dynamaxed Pokémon also feature much more powerful attacks. Even the most useless Pokémon like Magikarp can suddenly become formidable through Dynamax. This mechanic replaces systems from past games like X and Y’s Mega Evolutions, and Sun and Moon’s Z-Moves as the powerful equalizer in battle.
+
+To take the new feature for a test drive, Game Freak held an internal tournament. The team came away confident that not only will competitive play embrace the Dynamax ability, but it will add an extra layer of strategy for players of all skill levels.
+
+“You don’t have to give the Pokémon an item, so you can trigger it whenever and create this element of suspense or keeping people on their toes since they don’t know when you’re going to trigger it or what Pokémon you’re going to use for it,” Ohmori says. “In Sun and Moon, with the Z-Moves, you had to give the Pokémon the Z-Crystal to trigger it, so if the effect of any item goes off, you know that Pokémon isn’t holding a Z-Crystal and you can feel at ease and then plan your strategy around that. With Dynamax, since it doesn’t require an item, you’re never going to have that feeling of being at ease since you don’t know that this Pokémon isn’t going to unleash this Dynamax power. But at the same time, it doesn’t feel cheap.”
+
+While some fans have expressed concern that the Dynamax mechanic might be overpowered in its ability to change the course of matches, by installing a three-turn limit for the transformation, Game Freak thinks it has struck the right balance. “For a long time, we were going back and forth between three turns and two turns,” Ohmori says. “It sounds like a small difference, but it’s a huge thing we had to work with the balance. Also, tweaking the strength of the moves. Just working with the battle design staff to get that balance right. It took a very long time.”
+
+In addition, if a trainer Dynamaxes a Pokémon, it tips off their opponent as to what’s coming, allowing them to prepare for the approaching storm. “Technically you can switch out your Pokémon after you’ve Dynamaxed or just defend, but since that’s a waste of the Dynamax, the expectation is that you’re going to attack to take advantage of that power,” Ohmori says. “That allows your opponent to read what you’re going to do, so that gives a little bit of balance there.”
+
+Dynamax is sure to play a massive role in Pokémon Sword and Shield, but it’s not the only way Pokémon can grow exponentially during battle. Every Pokémon can use Dynamax to power up, but a certain subset can take the concept further through a special variation called Gigantamax. Much like Dynamax, this causes the Pokémon to rapidly grow in size. However, it’s not simply a power boost. In addition to visually changing the Gigantamaxed Pokémon beyond what Dynamax does, this new form grants different attributes. This means that for some Pokémon that have the ability to use both Gigantamax and Dynamax, the trainer must have the awareness to correctly determine which transformation to use for their current battle situation.
+
+These transformations are more than just gameplay mechanics in Sword and Shield. In fact, Professor Magnolia is specialized in researching the Dynamax phenomenon in the Galar region. These transformations are sure to be centerpieces of not just the gameplay, but the narrative as well.
+
+“The lore of the land is that the Galar region has this sort of mysterious energy that can power up things and make them massive, and we express that through the battle system; when they get bigger, they become stronger,” Iwao says.
+
+Going Wild
+
+Going Wild
+
+While Dynamax is something Game Freak says wouldn’t be possible on older hardware, the new Wild Area brings several technological advancements together into a vast expanse within the Galar region – a wide-open space where players can roam freely and catch Pokémon. However, it combines both synchronous and asynchronous connections to other players to populate the area with trainers from both online and local sessions.
+
+In addition, players can meet up to trade, battle, or cooperate in the aforementioned Max Raid Battles, all of which is seamlessly autosaved as you play. “We’re only able to do this because we’ve figured out all these technologies and figured out how to make it work, making sure we can have this kind of online matchmaking happen in the background while you’re walking around and not interrupt the player,” Masuda says. “Traditionally when the trade would happen, you’d have a hard save screen where you’d stop right there and save the game, but we’ve finally made a way to make saving happen in the background seamlessly without data being corrupted. Even though it looks like a super simple feature, it’s actually been a lot of work behind getting it to actually work in the game.”
+
+The Wild Area also plays host to Pokémon Camps, another new feature in Pokémon Sword and Shield. As players roam the expanse of the Wild Area, they can set up camps for them and their Pokémon. Once in a camp, you can let your party of six Pokémon out to play. In addition to interacting with the Pokémon directly through throwing balls for them to fetch or brushing them, you can also watch them interact with each other.
+
+You can also cook for yourself and your Pokémon. Based on the ingredients you use and how good you are at the cooking minigame, you can make different versions of curry with rice. Other players can join you in camp to help you cook and eat with you. Game Freak teases that eating with other trainers can have definite benefits.
+
+The Cost of Advancement
+
+The myriad advancements of Pokémon Sword and Shield are exciting, but a few months ago, the games made headlines for what’s not going to be in them. During E3 in June, Masuda stated that not every Pokémon from the past will be able to be imported into Sword and Shield. This caused many members of the community to express their disappointment that their favorite Pokémon might be left out from the first all-new generation to appear on consoles.
+
+When I ask Masuda about the Pokémon not making the journey to the Galar region for Pokémon Sword and Shield, he says having so many Pokémon with each passing generation has become nearly unmanageable if the team wants to continue implementing new features.
+
+“Up until now, we’ve been proud we’ve been able to include so many Pokémon in the games, but as a result of that, there’s actually been quite a few features or gameplay ideas that we’ve had to abandon in the past,” he says. “Going forward, thinking about the future of Pokémon, we want to prioritize all those new gameplay ideas, and want to challenge ourselves at Game Freak to create new ways to enjoy the game. That’s really what drove the decision for this new direction.”
+
+While he won’t elaborate on how many or which ones didn’t make the cut, Masuda says the decision was a result of collaborative talks with Nintendo and The Pokémon Company. According to the producer, the decisions surrounding this move weren’t easy. “A wide variety of discussions happened; it’s not just one kind of criteria for deciding the Pokémon are going to appear in the games, but a lot of different reasons, a lot of different directions, a lot of debate over which ones would be the best in the game,” Masuda says. “I think one example of that is figuring out the Pokémon that would make sense for the setting of the game the most; these Pokémon look like they could live in the Galar region. We really spent a lot of effort deciding which would best fit the setting of the adventure and the features that we wanted to implement. I think players will be satisfied. There’s quite a few Pokémon that you’ll encounter in the Galar region Pokédex, so I think players will have fun seeing all the Pokémon.”
+
+While it’s disappointing to be potentially unable to import your favorite Pokémon from a past game, there is an additional silver lining outside of the new features this enables Game Freak to implement going forward.
+
+When I ask Masuda if the cut Pokémon will return in the future, he leaves little doubt. “Definitely,” he says. “You can look forward to seeing Pokémon that don’t appear in these games appearing in different regions in future games. I think Pokémon Home, for a lot of players, will serve as a launching pad to gather them all there and then embark on future adventures.”
+
+The Ultimate Pokémon Game
+
+On the surface, Pokémon Sword and Shield may look like just an upgraded version of the mainline Pokémon games to this point, but several changes and upgrades have helped Game Freak come closer to realizing its mission of creating the best Pokémon game to date. With improved hardware, a fully realized region to explore, and exciting new mechanics and ways to battle – not to mention an entire new generation of Pokémon to encounter, catch, and battle – Pokémon Sword and Shield certainly has the potential to deliver on Game Freak’s lofty ambitions. Now, players don’t have long before they’ll know if the long-requested leap to consoles was worth the wait.
+
+This article originally appeared in the November 2019 issue of Game Informer.
+
+      Products In This Article
+
+Pokémon Sword
+
+Platform:
+
+Switch
+
+Release Date:
+
+November 15, 2019
+
+Purchase
+More Info
+
+Pokémon Shield
+
+Platform:
+
+Switch
+
+Release Date:
+
+November 15, 2019
+
+Purchase
+More Info
+
+Brian Shea
+Online Content Director
+Brian has written about video games for more than 15 years across multiple publications. Brian is also the host of All Things Nintendo, a weekly podcast focused on the news and games of Nintendo.
+
+Email
+Twitter
+
+Why Did A Console Game Take So Long?
+
+Since the series’ inception on Game Boy in the 1990s, fans have begged Game Freak for a mainline Pokémon RPG for home consoles. Until the release of the Nintendo Switch, that project would have compromised what Game Freak considers one of the series’ most important aspects.
+
+“We think it’s really i...
+Since the series’ inception on Game Boy in the 1990s, fans have begged Game Freak for a mainline Pokémon RPG for home consoles. Until the release of the Nintendo Switch, that project would have compromised what Game Freak considers one of the series’ most important aspects.
+
+“We think it’s really important to not have the experience be totally closed,” says producer Junichi Masuda. “Having it facilitate the real-life interactions – playing with friends in the same space, and talking with each other – facilitating that is a part of the Pokémon experience, rather than just what’s happening on the screen. It’s fun to play alone at home as well, but it’s probably more fun if you’re playing with friends at a festival.”
+
+Masuda also points toward the in-store Pokémon distributions that happen at retailers across the world. During these in-store events, players can bring their systems in or obtain an exclusive card to download a special Pokémon. “We do that so you can go there to that location and you may run into a friend or meet somebody you didn’t know before and connect through the game,” he says. “Those moments turn into memories and add value to that Pokémon you get; every time you see it, you’ll remember that experience, and we think those experiences are valuable.”
+
+Now, with the Switch offering the best of both the home console and handheld worlds, Game Freak is excited to finally give fans the mainline Pokémon RPG they’ve been wanting for decades without sacrificing its desire to have the games be portable.
+Expand ▾
+
+Creating a Pokémon
+
+With just over 800 Pokémon currently in the National Pokédex, the series is bound to eclipse the 1,000 mark either this generation or the following one. With so many distinct designs and styles, it’s remarkable the team can continue churning them out the way it has over the last couple decades.
+
+Th...
+With just over 800 Pokémon currently in the National Pokédex, the series is bound to eclipse the 1,000 mark either this generation or the following one. With so many distinct designs and styles, it’s remarkable the team can continue churning them out the way it has over the last couple decades.
+
+The process of creating a Pokémon is an intense one, often beginning with a simple request to an artist. These requests are often saying they need a concept of a Pokémon for a particular scenario or are looking for a specific direction for a new creature. From there, the artist creates quick sketches with few details, which are shown to the team requesting to see if they’re heading in the correct direction. The groups iterate on the design based on feedback, with the gaps getting longer and longer each time as the artist adds more and more detail with each iteration.
+
+For art director James Turner, who has been designing Pokémon since Gen V, one of the major challenges is coming up with something that hasn’t yet been seen in the series. “There are a lot of Pokémon,” Turner says. “To me, it’s like trying to park in a really crowded car park or something. You’re going this way, there’s a car there. You’re going this way, there’s a car. You’re trying to find some unique space. This color scheme has been used before, this animal has been used before. You’re trying to find something unique. That’s important.”
+
+On top of that, it’s important that every aspect of a Pokémon’s design has potential real-world functionality and logic behind it. “You can’t just come up with a cool looking design or a cute-looking design that hasn’t got any logic behind it,” Turner says. “This Pokémon has these cool, big horns, and it looks mean and tough, but why would it have those horns? How does it live? How does it exist in this environment? That’s really important. If there’s no meaning behind the decorations, then they’re not really necessary for the design. We have to think about how this creature exists in the world and how it lives in the world.”
+
+As a part of this process, only a very small percentage of concepted Pokémon make it onto the final lineup of creatures. According to Turner, it’s close to two or three out of every 10 Pokémon drawn make that into that game. However, once a concepted Pokémon makes it to a certain point down the design path, it’s rare they’re outright stopped.
+
+Many of these concerns are addressed in meetings where the teams come together and determine which concepted Pokémon are in the game and which are out. It’s not always about the design of the Pokémon in question; sometimes it’s about the game already having a new electric or rock Pokémon and not needing another.
+
+“There are really quite detailed opinions about that kind of stuff,” Turner says. “When you see a Pokémon at first, you think, ‘Oh that’s a cool design.’ But then if you start to think about it logically: Why would it exist in this world and what role would it have? Even though they are cool designs, there can be opinions that come up that makes it, ‘Actually that doesn’t quite fit within what we want to do this time around.’ There are a lot of detailed discussions.”
+
+For those Pokémon that don’t make it into the game, there’s good news: The “rejected” designs often return in later games. “People submit designs for one generation, and they don’t get approved,” Turner says. “It might be just because it doesn’t fit within that region or it might be because the idea is not fully cooked yet. So they will go away with that design, and then the next region, the next game will start and they’ll bring it back, and maybe they’ve modified it a little bit, or maybe it fits better within the lineup, and those designs go ahead. I’ve seen them become final Pokémon within certain games.”
+Expand ▾
+
+How Different Are Sword And Shield?
+
+Pokémon games have traditionally released in pairs, with the titles featuring some different Pokémon and other smaller differences. For example, in Sun and Moon, the day and night cycles were reversed, affecting certain items and encounters during different parts of the cycle. Pokémon Sword and Shi...
+Pokémon games have traditionally released in pairs, with the titles featuring some different Pokémon and other smaller differences. For example, in Sun and Moon, the day and night cycles were reversed, affecting certain items and encounters during different parts of the cycle. Pokémon Sword and Shield carry on the tradition of certain Pokémon being exclusive to each version, but based on which version you get, the gym leaders are also affected.
+
+According to director Shigeru Ohmori, the gyms are split into a system resembling major and minor sports leagues. “There are 18 different types of gyms in the story, and depending on the version, which gyms are in the minor league and which gyms are in the major league are different,” he says. “For example, in Sword, the fighting-type gym will be in the major league, but in Shield, the ghost-type. The idea is that every year, the Galar region is playing and which gyms make it into the minor league versus the major league changes.”
+
+For clarification on this quote from Game Freak, read this additional statement.
+Expand ▾

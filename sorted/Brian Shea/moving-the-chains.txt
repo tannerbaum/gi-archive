@@ -1,0 +1,109 @@
+
+                                          Madden NFL 24
+                  
+
+
+  Moving The Chains
+
+
+
+
+Publisher
+EA Sports
+
+Release
+TBA
+
+            Madden NFL 23 effectively pushed the ball downfield for EA Sports' long-running franchise. Though the implementation of the foundational FieldSense system, which revamped how the gameplay feels on both sides of the ball, was solid, much like any rookie, it was clear it still needed to develop in order to reach its full potential.
+
+Madden NFL 24 carries forward the gameplay improvements from last year while adding some exciting additions to modes like Franchise and the single-player-focused career mode. I traveled to Electronic Arts in Redwood Shores, California, to learn about what's new in this year's game and get my hands on the most recent build of the annualized football title. 
+
+Gameplay
+
+Laying the Groundwork
+
+FieldSense evolves further in Madden NFL 24, with major improvements on both sides of the ball. A new contested catch tackle system provides defenders with more control when playing the receiver, and new tackle types offer up more ways to hit the player with the ball. To contend with this, the offense gets new tools and improvements, with the biggest leap ahead addressing a longstanding problem with the Madden franchise: the receivers' loss of momentum after they catch a ball. Now, if you hit a receiver in stride, they won't bafflingly slow down as they did in prior games. While I had my hands on this year's game, I noticed major improvements in how receivers behave after catching the ball, with crossing and streak routes playing out in a more effective manner. Receivers can also make diving catches, but now, QBs can also dive and jump into their passes, making for more dynamic plays. At launch, Patrick Mahomes will be the only NFL QB with the ability to dive into his passes, but you'll be able to unlock it as an ability in your career mode (more on that mode later).
+
+Those holding the ball aren't the only ones who get hit on the field, and the Hit Everything system introduced in Madden NFL 23 expands to blockers in Madden NFL 24. In fact, blockers receive a huge boost in this title, including dynamic double teams, chip blocks, and the ability to branch in and out of double teams and go from defender to defender. Blockers now spot and lock on to their targets earlier, allowing players to commit to their running lanes sooner. While playing, I noticed major improvements to the running lanes; I'm typically a pass-first player, but I found myself relying more heavily on the run game.
+
+With Madden NFL 24, developer EA Tiburon aims to make the experience of playing each team feel different. In addition to the continued use of authentic soundtracks for each stadium, as well as unique home-field advantages and the further expansion of each team's playbooks, the developers have improved the A.I. in various ways. Moving forward, the A.I. uses the skill-based passing introduced in last year's game, allowing for more precise throws based on the skill level you compete against. New A.I. logic gives the CPU-controlled teams more knowledge on how to avoid incoming pressure, as well as better awareness of the down and distance, plus the skills of the receivers and defenders. This was all done in service to the single-player experience, giving each team a different feeling to play against.
+
+On top of that, ballcarrier A.I. has also received an upgrade, with a new vision and awareness grid from the Frostbite engine continually updating to make sure the man with the ball carries along an optimal path. Meanwhile, defenders also receive upgrades in the form of improved coverage positioning, new tackles to decrease the effectiveness of high-ball throws, increased break times, and new movements. Defenses also now react to repetitive play calls, meaning that your third time running the same offensive play is less likely to be effective than the first time you ran it. However, perhaps the biggest improvement to defense comes in the form of what the developer is taking away from their repertoire: their "psychic" abilities. In past games, defenders would magically swat away passes they weren't even looking at or preemptively run the receiver's route before the receiver himself ran it. Those A.I. anomalies are gone in this entry, making for more realistic defensive play. 
+
+Madden NFL 24 also emphasizes improvements in the times when nobody has the ball. These live-ball improvements add updated onside kicks with new bounce physics and animations to make for more realistic outcomes. When the ball pokes out of a ballcarrier's arms to create a fumble, the A.I. of the players has been adjusted, and the fumble recovery animations have been updated to create more opportunities where the players will dive on the ball or scoop and run. I didn't get a chance to experience any fumbles during my hands-on time, but when you add new logic for contested fumbles, I have high hopes that these rarely-used but ever-important scenarios will play out better than they have in past years.
+
+Presentation
+
+A Good Look
+
+These gameplay improvements are made more effective by the presentation, which again receives a boost from last year with raytracing added to the entire stadium and new details like relaxed jersey number rules, rear hand warmers, and new equipment additions. A new gameplay emotion system aims to make big-play moments feel even bigger. As the development team puts it, they want the emotion you're feeling on the couch to be reflected by the players on the field. During my hands-on time, I notice better and more appropriate post-play animations, with the teammates of the celebrating player sharing in the emotions. That means that whether you score a crucial touchdown during a close game or a massive sack to force a fourth and long, you'll see noticeable differences in how the teams behave following a big play.
+
+Speaking of how players look, Madden NFL 24 overhauls all of the franchise's character models by replacing the skeletons inside of each character on the screen. Named Sapien, this next-generation skeleton rebuilds all players, coaches, fans, and referees (who return to the field of play) from the ground up. Players are built from four archetypes (standard, thin, muscular, or heavy), then tweaked to look more realistic. While I didn't notice a huge difference during my hands-on session, seeing the side-by-side comparison of how the players look makes it obvious that this system is a huge step forward. Tiburon claims Sapien's improved proportions will affect every aspect of gameplay, but the biggest change during my short time in the game came in how the players looked when they walked; since the game went to 3D models, every player kind of waddled around after the whistle. Now, they stand upright and walk more like humans. Sapien introduces various subtle improvements, but ultimately, it makes the experience of playing a game look and feel better. Madden NFL 24 is the first game to use Sapien, but the plan is to expand the skeleton to the character models across all EA Sports titles.
+
+Minigames
+
+The (Mini) Game Within the Game
+
+Many years after their disappearance, the popular minigames from previous iterations return in full force in Madden NFL 24. These games allow you to focus on specific areas of the game of football to try and achieve the highest score. At launch, Madden NFL 24 will feature at least 25 minigames, with more to come through the game's live-service roadmap. At launch, players can compete in games like Target Passing, Rushing Attack, Close Quarters, Option Attack, and my personal favorite, Survival. 
+
+Survival puts you in control of your selected team's running back as you try to stay alive on the field for as long as possible. As the timer goes on, more defenders join the hunt. Your score is determined by how long you stay alive, but you can also cross over different score boosters on the field to hit the high score faster. In addition, various obstacles litter the field (and even move around) to make for a more dynamic field of chase. Even as I set the high score on the console I was playing on, I kept firing it up for one more round. I'm excited to see how the development team iterates and evolves this formula in the future. 
+
+Minigames pop up in a couple of different modes – most notably Franchise, where they populate training camp and the weekly strategy, and Superstar, where they sit during the draft combine – but you can also access them through their own menu to play them as one-off games for either practice or to shoot for the high score. If you don't want to play the minigames for whatever reason, you can skip them during your Franchise.
+
+Franchise
+
+The Franchise Play
+
+The development of the Madden NFL franchise is hindered by the problems every other annualized sports franchise has. Namely, the yearly grind to release a new game means that each entry takes an iterative approach rather than creating drastically different experiences. While this makes sense on one hand – after all, the real-life sports these games attempt to emulate don't evolve much year over year – those who play the games every year still hope for noticeable evolution each time they plop down their money for the new game. Perhaps no franchise has been criticized more each year than Madden NFL. 
+
+After several years of maligned entries in the series, recent entries have signaled a change in how the developers approach creating each successful entry. "It's challenging, but I think it really is honestly a blessing that we have on Madden, where we have such a big demographic of people who want to go and play a solo fantasy experience, whether that's as a coach or GM or as a quarterback, running back, whatever in Superstar," senior producer Mike Mahar says. "Those areas of the game are just incredibly important to the core player on day zero when we launch the game."
+
+Gone are the days of the Franchise mode updates veering closer to that of patch notes than the typical annual leap. In fact, ever since the community made it known that it wasn't happy with the trajectory of modes like Franchise, EA Tiburon has made concerted efforts to address the perceived lack of updates. Last year, Tiburon added new free agency interactions and enhancements like tags, as well as a more active trading block. This year, Madden NFL 24 is pushing things even further. 
+
+The way players move from team to team continued to be a big focus for the developers this year, as GMs can now add six items on each side of a trade (up to three players per team, with draft picks going as far into the future as three seasons), and both the trade logic and offer logic have been overhauled. This means that if you, for whatever reason, decide to put Patrick Mahomes on the trading block, you should expect actually enticing offers for the elite QB. This stacks with what EA Tiburon calls Free Agency 2.0 to improve the front-office aspect of Madden NFL 24. When you're trying to figure out how you'll hang on to your favorite players, you'll notice enhanced contract restructuring, including a new fifth-year option in the re-sign user interface. On top of that, the A.I. logic has been reworked for restructuring and re-signing, meaning that both users and CPU teams will be able to hang on to their stars.
+
+On the front office side, a third skill tree has been added for all coaching staff, but the big upgrade here is in the form of new relocation tools. Now found under Coach mode, the relocation tools add new city options and more uniform and logo varieties to equip your team. Commissioners of Franchise leagues can also look forward to a ton of new settings, including age XP sliders, trade difficulty settings, adjustable draft timers, progression/regression sliders, and plenty more. Additionally, new draft class generators ensure generational talent for each position, 99 Club generators, legend generators (that build incoming prospects off the archetypes of legends from the past), and out-of-position generators that let you identify if that incoming quarterback might actually make for a better NFL running back. 
+
+Superstar
+
+Building Your Legend
+
+As Franchise continues to receive love from Tiburon, so too does the player-lock career mode. Madden NFL 24 signals the return of Superstar mode for the first time in nearly a decade, replacing Face of the Franchise. After playing through the Combine, which consists of minigames, you take part in various interactive moments, such as team interviews, as you play through the cinematic narrative. Your performance in the Combine impacts your progression and draft position.
+
+Once you're in the league, you'll notice improved feedback after each play and drive for each position. Essentially, the progression system rewards you for doing your job, and a post-game report and drive summary show you exactly why you received the grade that you did. Additionally, a new mission system gives you side objectives to build your brand, team, and influence within the league. This user experience allows you to surface the storylines, progress, and rewards you want to give you a more tailored experience within Superstar mode. The story of Superstar is told through a combination of cutscenes and talking-heads sequences to provide a more interactive and reactive experience, as well as a social media reactions feed so you can see how people are looking at you as a player.
+
+According to Mahar, the cinematics in Superstar mode are there primarily to pay off the progression you make in your career. "You're not playing a story; it is your story with your character, and it's up to us to choose the right amount of content in the right places to pay that off," he says. "It's about you playing your fantasy, your experience, and then, when you make the 99 Club, you're rewarded for that. When you get Walter Payton Man of the Year or MVP, we have sequences in the game to pay those things off. Every year, we add a little bit more depth and a bit more content to pay those off."
+
+Your character in Superstar is unified through both the single-player career and Superstar Showdown, the new social mode that serves as the evolution of The Yard. Despite having this unified progression system, you have distinct NFL and Showdown loadouts. Thanks to custom animations, you can achieve a deeper level of customization, such as giving your Superstar a robot dance or a specific celebration across both modes. While you can unlock these customizations through microtransactions faster than you would through gameplay, none of it is locked behind monetization. I'm glad to hear that, but I'm still wary of any monetization elements infiltrating career modes, thanks in large part to how prevalent the microtransactions in 2K Games' NBA series' career mode have become. Still, until EA Sports fully unveils the customization unlock methods and pricing, we'll have to wait and see how it is implemented.
+
+Crossplay
+
+A Wider Field of Play
+
+EA Tiburon's presentation on what is new with Madden NFL 24 ended with the announcement of cross-platform play for the first time in series history. Using EA's social system, players on PlayStation 5, Xbox Series X/S, and PC can compete against each other. PC is included in that list because, unlike last year, the PC release will reflect the feature set of the PS5 and Xbox Series X/S versions of the game. Cross-platform play will include leaderboards, VOIP, and work on every mode but Franchise and Madden Ultimate Team at launch. While Tiburon has no plans to expand to Ultimate Team in the future, as Mahar puts it, the question of when Franchise mode will feature crossplay will be "when," not "if."
+
+While the Madden NFL franchise continues to improve, Tiburon continually admits the evolution is really only beginning for its various modes. Several times when a question was volleyed their way about whether or not something was in a game, the answer was that it was on the roadmap but not in this entry – at least at launch. 
+
+"There are a ton of different Madden players, and they all play the game a little differently," Mahar says. "Some play head to head, some play Franchise, some are going to play Superstar. Heck, some people might just play minigames! What we try to do every year is have a vision for where we want to go over the longer term, and there's no secret to this: It's just elbow grease. We read every Reddit post, we read every review, we are on Twitter; we're everywhere that our fans are. We read the feedback, and we try to quantify it and get precise data about what it is and what will make the biggest impact to our players and go after that stuff."
+
+EA Tiburon knows it needs to continue to make the experience worthwhile for players to ensure the passionate fan base is satisfied with each game's offerings, and it knows that requires a combination of delivering short-term gratification, all while playing the long game to implement some of its more ambitious ideas. In the short time I spent playing Madden NFL 24, and the extended time I spent speaking with and learning from the developers, this year's game looks and feels great. However, the proof will ultimately come when the larger community puts the title through its paces, and we all get to see where this game shines and where it falls short of the marker.
+
+Madden NFL 24 arrives August 18 on PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, and PC. 
+
+      Products In This Article
+
+Madden NFL 24
+
+Release Date:
+
+TBA
+
+Purchase
+More Info
+
+Brian Shea
+Online Content Director
+Brian has written about video games for more than 15 years across multiple publications. Brian is also the host of All Things Nintendo, a weekly podcast focused on the news and games of Nintendo.
+
+Email
+

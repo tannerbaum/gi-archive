@@ -1,0 +1,99 @@
+
+  Seeing Crystal-Clear Worlds: Hands-On With PlayStation VR2
+
+
+
+
+
+
+            PlayStation VR2 delivers breathtaking clarity and a riveting next-gen experience, but will it have the games to make you want it?
+
+I let out an audible “wow” just minutes after starting Resident Evil Village on PlayStation VR2. A blood-curdling scream deep within Castle Dimitrescu doesn’t put me on edge as my attention is elsewhere. I’m looking at a framed painting on a foyer wall. This portrait of a regal-looking man is rather ordinary, but in PSVR2, it holds my attention because I can see the little details in crystal-clear clarity. I study the brush strokes, the color variations in his coat’s fabric, and I can tell it’s an oil painting.
+
+When I played the original version of Resident Evil Village on PlayStation 5, I didn’t pay too much attention to the environmental details, like this painting. In this playthrough, I am frequently distracted by them. Even though this version is essentially the same game, it takes on new life through PSVR2’s stunning display.
+
+The headset’s OLED display delivers a wide 110-degree field of view capable of presenting games in vivid 4K HDR. Unlike most VR headsets on the market, I’m not seeing any general pixelization, artifacting, or graininess in the text – everything looks sharp. The display resolution is 2000x2040 per eye, and the games can run at smooth framerates of 90/120Hz. This is one of the nicest screens out there, rivaling HTC VIVE 2’s 2448 x 2448 per eye resolution. That headset retails for roughly $799. We still don't know what price the PSVR2 will go for, but my time with this impressive hardware makes me think it will be expensive – every aspect of the PSVR2 feels genuinely high-end.
+
+In the day I spent with this headset, I checked out four games: The Walking Dead: Saints & Sinners: Chapter 2 – Retribution, Resident Evil Village, Star Wars: Tales from Galaxy’s Edge – Enhanced Edition, and most impressively, Horizon: Call of the Mountain.
+
+All these games embrace the power and clarity of the headset, as well as the enhanced functionality of the controllers, such as the adaptive triggers, haptic feedback, finger touch sensitivity, and general motion tracking. But only Horizon is designed exclusively for the PlayStation VR2. The other games are either already out on other VR headsets or will soon release on them. Looking at the software lineup, are Horizon and enhanced editions of existing games enough to make you want the hardware? That’s a particularly loaded question to ask people who already have a VR headset.
+
+The Setup
+The painful days of setting up PlayStation 4’s VR headset are behind us. PlayStation VR2 consists of just one cable, you don’t need a camera or Move controllers, and the passthrough camera allows you to see your surroundings while adjusting your setup.
+
+The PSVR2 headset is light, comfortable, and easy to adjust in size. A couple of game developers at the event said the headset has an “airy” design. That’s a great way of summarizing how it feels on your head. It isn’t suffocating or too snug and just kind of hangs comfortably in front of your eyes. The dial on the back of the headset is also a nice way of tightening the fit – a moment I rather enjoyed, given how loudly the dial clicks as the strap tightens.
+
+When you boot the headset up, you have the option to personalize the specifics of the VR experience, including the visibility fields and eye tracking. Through the PlayStation VR2 control center, you can enter menus that provide accurate readings on where your eyes are and how you are viewing things.
+
+These menus play out like minigames, such as having your eyes follow moving red dots without swiveling your head. Another menu shows colored rings around your eyes. If the rings turn blue, the lenses are aligned. Eye reading matters, as the headset can track what you are looking at. That's right; characters will know if you are making eye contact with them! The eye reading also helps on the backend with advanced foveated rendering techniques used to enhance the visuals by adjusting resolutions based on what you are looking at.
+
+Sorry, this video is not available
+
+As strange as this sounds, the best part of the setup is defining your play area. This process draws heavy inspiration from Meta’s Quest headsets. With the headset's embedded camera active, you get a quick look at your surroundings. A wild, science-fiction-like mesh covers everything near you, doing its best to read the lay of your room. You need to look at the floor and even up at the ceiling to get a complete readout.
+
+After the scan is complete, the headset recommends a play area. Using your controller almost like a laser pointer, you can alter the recommended shape to your liking, all with the simplicity of drawing in the air. It’s a wonderfully simple process, and the results should keep people from punching walls or knocking over things in their rooms. If you approach the edge of your grid, red warning rings appear, cautioning you to back up. You can also press a button under the headset to activate a pass-through camera at any time, which should help to keep you in the safe area when playing. 
+
+As freeing as this VR setup is, you always have to remember it's tethered to your PlayStation 5 through a cable. You'll feel it hanging around your body as you move, and will also step on it. The cable has some length and wasn't too much of a bother in my time with PSVR2, but I did notice it often as I got into the games, as it draped in front of my arms, or I could feel it on my back.
+
+After getting comfortable with the headset, I dove into the games! Launching them is just as simple as booting up a game from the PlayStation 5 crossbar.
+
+Horizon: Call of the Mountain
+This game is the next-generation showpiece you want to see at launch. We don't yet know if Horizon or any of the games mentioned in this article will be available on the same day as the hardware in early 2023, but the safe money is on at least Horizon being there, if not all of them.
+
+In my Horizon: Call of the Mountain demo, what I quickly learned is this experience is every bit the graphical juggernaut as Horizon: Forbidden West, and it gains a little more oomph in its visuals, thanks to VR giving us an accurate read on the scale of the robotic dinosaurs. If you thought the Tallnecks were huge in the console games, just wait until you see one lumber right in front of you in VR. The sheer size of one of their feet is far beyond what you thought it was. After I saw one in VR, I asked the Guerrilla Games representatives in attendance if the Tallneck size increased in Call of the Mountain. They said it was one-to-one and that it just looked larger given the new perspective. The VR viewpoint and the feeling of presence amplify its proportions. It’s a wild thing to see, and it will only make sense once you view it with your own eyes.
+
+The Horizon demo starts slowly with the player on a rowboat going upstream. This moment helps establish the story, and lets you get to know your character Ryas, a disgraced former Carja soldier who first appeared in a Horizon comic book series. Ryas is talking with two other people who are commanding the boat. You are there as their prisoner. They are moving slowly given the amount of wildlife bounding about.
+
+As the plot develops, the ride almost takes on a Disneyland-like vibe as a variety of robotic beasts emerge from lush treelines and soar over mountains. They get dangerously close, and each carries a different kind of awe in the way they move and how large they are. The visual clarity and detail in each machine look amazing. Within just a few minutes of playing and sitting on this boat, I felt like I was on a greatest hits tour of the dinosaurs from Horizon Zero Dawn. It’s an awesome way to start the game, even if you don’t do much. The animations and lighting are breathtaking, and I just wanted to reach out to grab onto the robots.  The most interaction I have in the opening minute, however, is holding up a hand to move a vine hanging in front of us as we enter a cave. It's a small interactive moment, but a cool one nonetheless.
+
+When Ryas finally gets onto dryland, I don’t know what to do. The analog sticks won’t move him, and I can’t click on the environment to warp to specific spots (something many games do in VR). The game informs me that I need to raise and lower my hands like I’m running. Sure enough, making this motion makes Ryas move as quickly as I’m pumping. These are the kinds of motions I hate doing when anyone else is watching me play VR. I felt like an idiot doing it in front of game developers and PlayStation representatives.
+
+As I chug along like someone jogging in place, turning my head steers Ryas in the direction I look. I could also use the left analog stick to change his direction, but I found using my head to be the best approach. He eventually comes across a rock wall that he will need to ascend. White markings highlight the ledges he can grab onto. As you would expect, all I have to do is reach out my arm, make sure my hand is hovering over the rock, and then pull the trigger on the controller to latch on to it. My first few grips were made slowly and with perfect calculation, but I soon learned I could motor up the wall quickly. I could feel the motion as I moved. The developers in the room warn me that I can fall if my aim isn’t true.
+
+The climbing mechanic works well and offers plenty of variety in rock designs, including ledges requiring hand-over-hand motions. Most of the action in this demo consisted of ascents up towering structures that give a fantastic sense of height (and fright) should I look down.
+
+I also got to take on a Watcher, Horizon’s version of a raptor. This agile beast isn’t as aggressive as we’ve come to know in the console games, but it does rattle off fireballs and periodically lunge at Ryas with a tail swipe. Ryas dodges attacks by pressing a button and motioning to the desired side. His weapon of choice is the same as Aloy’s: a bow.
+
+Always one of the best examples of player input in VR, the bow in Call of the Mountain is a blast to use. I reach over my shoulder to pull an arrow from my quiver, quickly place it on the bow, click a shoulder button to hold it in place, and then pull my arm back to tighten the string. Letting go of the shoulder button sends the arrow flying at the Watcher. My aim isn’t great out of the gates, and I feel like my settings are off. Guerrilla’s reps recommend I switch the option from right to lefthanded (handled in a menu), and that does the trick. I’m slinging arrows like a champ, and the Watcher’s health depletes quickly.
+
+Outside of the action, I find the world of Call of the Mountain to be highly interactive. I pick up an apple, hold it to my face to eat it, and regain strength. I also pick up other items to examine. Their physics are impressive, allowing me to put a crate on the floor and then carefully place the lid on top of it.
+
+Horizon: Call of the Wild is a visual feast that blends extravagant details with vibrant colors. It's a fun game to look at, and my short time with it also delivered plenty of excitement. The Horizon world is handled with care, reminding me why I love the console games. The combat and action are something new, however, and we'll have to wait to see if they live up to the game's hallowed name.
+
+Resident Evil Village
+I already talked about how Resident Evil Village’s little details impress. They are a constant throughout the short demo. As you would expect, Lady Dimitrescu looks gigantic in the VR world, and seeing her suck blood from your hand creates a new level of creepiness through the headset. The swarms of bugs that her minions summon also are more of a visual nuisance and up the tension.
+
+Ethan still takes a beating just like he did in the console version, yet he can now dual-wield weapons, but that doesn't mean he'll have an easier time combating them. In my play session, I place a knife in his left hand and a pistol in his right. I can freely use both as I please but will have to holster the blade when I need to reload. This action isn’t just a click of a button. You must free the clip from the pistol, grab a fresh one from your side, insert it, and then cock the gun. These actions take a bit of precision yet deliver satisfying haptic feedback in the controllers. It also slows Ethan down, leaving him vulnerable.
+
+The physics in the game are quite good. When no enemies were nearby, I tossed my knife high into the air and was able to catch it on its descent. My demo didn’t have any puzzles (although they will be in the final game), so I had to make up some of my own excitement as I moved deeper into Dimitrescu’s lair.
+
+When enemies did crawl out of the woodwork, I found the gunplay to be excellent, delivering a nice pop in the feel, and I experienced the panic of running low on ammo, and the scramble to reload as quickly as possible.
+
+Resident Evil Village is another excellent demonstration of PlayStation VR2’s next-gen screen quality and controller input. With some big pieces of the game missing in the demo, it's hard to say how the gameplay will flow in the final product. No matter what, though, it's wild seeing Lady Dimitrescu in VR. That isn't enough of a selling point, especially for people that already played the game on console, but it is one of those moments that people will likely rave about.
+
+The Walking Dead: Saints & Sinners: Chapter 2 – Retribution
+I don’t know how many zombies I grabbed to hold back from biting me, but most of them received a swift machete to the skull. Retribution was the most complete game I played on PlayStation VR2, and it required plenty of trial and error, given how many different controller actions are in the game. It’s a VR title that embraces most aspects of the medium and impresses in that capacity.
+
+Whether I was furiously shaking my flashlight to regain light in a darkened backroom or frantically trying to reload a gun, Retribution kept me on my toes. It delivered a nice slice of zombie action and a sliver of narrative player choice. The big finale in my demo took place in a bar that was blasting music. Zombies poured in from every direction, even dropping from higher floors on top of me. I would have been a goner, but thankfully was gifted with a chainsaw that cuts through them like a hot knife in butter. This weapon has a satisfying rattle in the PlayStation controllers. All weapons I used delivered different haptics output, much like in Ratchet & Clank: Rift Apart on PlayStation 5.
+
+Retribution’s visuals didn’t wow me like Resident Evil and Horizon and seemed close to what the first chapter looks like on other VR headsets. Regardless, the action and storytelling hooked me. For people just jumping into Saints & Sinners for the first time, starting with Chapter 2 seems like the wrong way to go about it. I asked the Skydance Interactive team in attendance if the first chapter was also on the way and received a smile, but no definitive answer.
+
+Star Wars: Tales from Galaxy’s Edge – Enhanced Edition
+As much as I love Star Wars, returning to Galaxy's Edge on PlayStation VR2 didn't do much for me. The reason: the demo didn't show much. I experienced a brief conversation in the cantina and one firefight out in the wild. The demo mostly shows how much the visuals are enhanced, giving a good look at the more realistic lighting and sharper texture quality. The 3D audio through the PlayStation VR headphones also delivers a great sense of spacial awareness, allowing me to pick up threats in the battle. The audio of a door suddenly opening also made me turn around while talking to someone in the cantina to see who was coming in. The headset feels fantastic and again makes me wonder how much a full PSVR2 setup will cost.
+
+ You're missing out!Normally this is where something cool would show.  Your browser is blocking third-party cookies so we're unable to display this content.Try clearing your browser cache, disabling ad blockers, and verifying that cookies are allowed: Verify cookie preferences
+
+The Early Verdict
+I was blown away by PlayStation VR2's technology and want to spend more time with it, but need reasons to do so. Horizon: Call of the Mountain appears to be a great first foot forward, but we need more games that we can't get anywhere else that truly show what the machine is capable of. There's still plenty of time before the headset launches in 2023. Odds are we'll learn of more games in development. Let's hope they impress just as much as Horizon and make PlayStation VR2 yet another Sony product we want on day one.
+
+      Products In This Article
+
+PlayStation VR2
+
+Release Date:
+
+February 22, 2023
+
+Purchase
+More Info
+

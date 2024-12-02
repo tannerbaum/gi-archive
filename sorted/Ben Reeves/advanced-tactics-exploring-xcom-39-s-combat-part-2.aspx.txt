@@ -1,0 +1,37 @@
+
+  Advanced Tactics: Exploring XCOM's Combat, Part 2
+
+
+
+
+
+
+In the world of XCOM: Enemy Unknown, players will need much more than brute strength and Rambo tactics. Would-be generals will need to implement precise coordination between all of their elite soldiers. Take note as we walk you through some sample tactics, this time we explore flanking. 
+[This feature was written with the assistance of XCOM: Enemy Unknown producer Garth DeAngelis]
+If you missed part one, read it here.
+XCOM HQ has been getting reports of alien activity circling the skies over a small American town. Our team lands near a gas station and pushes forward into a fog-enshrouded battlefield.
+In XCOM: Enemy Unknown, the player doesn’t control one hero. An entire squad is at their command, and it’s crucial to leverage squad and combination tactics to counter the alien threat.
+
+One simple way to do this is by flanking your enemy. Flanking is a simple technique that always gives the aggressor the advantage. But taking the time to get behind a target has its risks…aliens could be lurking in the shadows or waiting to react to a player’s actions for a high percentage shot. However, the player can mastermind creative squad combinations, which will increase their odds against these devious alien tactics. In this example, an Assault squadmember moves to high cover to survey the fog-enshrouded battlefield.
+
+...but a few Sectoids emerge!
+
+The Heavy soldier moves into cover to prepare to support the Assault unit, scoping out the revealed Sectoids.
+
+Our Heavy foregoes a standard shot on an individual Sectoid, and instead unleashes a devastating area Suppress ability. This won’t kill the aliens, but it will pin their movements and reduce their offensive capabilities.
+
+As our Heavy distracts the Sectoids our Assault soldier is free to move about. She now plans her flanking maneuver. 
+
+Notice that her chance to hit the Sectoid is at 65%. This is because he countered our Suppression by Mind Merging with an unrevealed cohort. This alien ability has increased the Sectoid’s health and made him tougher. So let’s increase our odds of taking him out by going for the flank…
+
+Our Assault unit plans her route to the coveted flanking spot…
+
+…and she makes a run for it! 
+
+The Sectoid suppressed by our Heavy is still penalized, so his shot misses and our Assault unit makes it safely to her destination.
+
+The flanking position increases the Assault’s chance to-hit to 91%. 
+
+Mission accomplished.
+For more battle tactics, read part one here. 
+

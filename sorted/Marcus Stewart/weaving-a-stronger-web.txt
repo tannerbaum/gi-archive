@@ -1,0 +1,129 @@
+
+                                          Marvel's Spider-Man 2
+                  
+
+
+  Weaving A Stronger Web
+
+
+
+
+Platform
+PlayStation 5
+
+Publisher
+Sony Interactive Entertainment
+
+Developer
+Insomniac Games
+
+Release
+October 20, 2023
+
+            With two fantastic Spider-Man games under Insomniac’s belt, Marvel’s Spider-Man 2 feels like the culmination of the 2018 game and 2020’s Miles Morales in all the best ways. At a recent preview event, I spent roughly 90 minutes swinging and gliding across its new and improved New York City, taking down scores of bad guys and even challenging the Lizard. When my session concluded, I walked away thinking one thing: The first two games swung so that this third act could soar. 
+
+This preview contains spoilers for Spider-Man (2018) and Spider-Man: Miles Morales. 
+
+Spider-Man 2 picks up nine months after the events of Miles Morales. Peter is still coping with Aunt May’s death and has since moved into her home, which players will visit often between missions. Mary Jane remains a constant source of companionship and encouragement, but Peter has another friend in the returning Harry Osborn. It’s good to see him after he was only present via audio logs Spider-Man, though he’s in less-than-great shape thanks to the terminal illness players discovered in the first game. Surprisingly, Harry is also aware of Peter’s superheroic moonlighting and wants to help not only Spider-Man but the world as a whole. To this end, he and Peter have been researching world-saving solutions at a think tank connected to Oscorp, named after his late mother, Emily.  
+
+Meanwhile, Miles Morales is on the cusp of graduating high school with his friends Ganke and Haley. Like all teens during this pivotal time, he’s torn on what the next chapter of his life looks like, evidenced by his struggle to complete a school essay on the topic. The fact he’s still looking out for his community as a costumed hero only complicates matters, as does his obsession with locating Martin Li, aka Mr. Negative, the man behind his father’s death. Still, Miles has the unwavering support of his mother, Rio, who acts as a rock as he continues to heal from the deaths of his father and his friend-turned-enemy, Phin.
+
+My demo takes place a few hours into the game. Peter is already wearing the black symbiote suit and has his robotic Iron Spider arms. Kraven has launched his destructive campaign to hunt both Peter and the Lizard, the monster formerly known as Peter’s friend, Dr. Curt Connors. I witnessed several lengthy cutscenes giving me some glimpses into the story, and while I won’t go into specifics, I will say the dialogue and performances remain top-notch. As a PS5-only title, the presentation also sports a noticeable bump; Spider-Man 2 is a great-looking game. 
+
+New York City is a larger, more dense playground thanks to the additions of Brooklyn and Queens. Like the previous games, it's filled with activities, some specific to Peter and Miles. Players can instantly switch between either hero any time they want outside of story missions, and the change is seamless, with the camera panning over to whatever section of the city the other Spider is currently patrolling. The feature is reminiscent of changing characters in Grand Theft Auto V, complete with watching a Spider-Man wrap up a random activity before taking control, such as Peter doing situps on the side of a building. Missions include returning activities like random street crimes, of which I only did a few, so I can’t speak to how varied they are this time. Photo ops make a welcomed comeback in which players still capture local landmarks and occasionally humorous social situations to the delight and confusion of their recipient, the Daily Bugle’s Robbie Robertson. 
+
+Other diversions I engaged in include collecting stray spider-bots themed after different Spidey costumes (such as the Iron Spider and Spider Armor MK III), finding caches of bad guy tech used for crafting unlockable upgrades, and clearing out various hunter dens to find data on the vulnerabilities of a larger enemy stronghold. 
+
+A New Wrinkle To Combat
+
+Combat remains an acrobatic dance of chaining attacks, blasting webs, flinging objects at targets, and dodging offense, but the Spiders have a new defensive trick up their sleeves: parrying. Hitting L1 just before an attack lands blocks and stuns enemies, providing windows to retaliate. It’s especially helpful against larger tank enemies and to defend against new parry-focused assaults, in which enemies glow yellow upon initiating the attack before turning red just before it makes contact. These attacks deal heavy damage, and the color-coded warning system provides a visual hint of when to prepare a parry. 
+
+It took a while for me to get used to parrying. The previous games have trained me to dodge any and everything rather than wait to get hit. But once I settled in, it became a welcomed perk, especially when enemies try to catch you between dodges. Parrying also adds a new layer of strategy to the chaotic battles that forced me to observe individual foes more thoughtfully and decide whether a parry or dodge would be more advantageous in the situation.  
+
+“Getting the parry in there was a big win for us,” senior programming director Doug Sheahan tells me. “That gave us a real opportunity for those one-on-one fights, to really make those fights more intimate and get into a position where Peter can really engage one-on-one in a way where you're not just spamming dodge all the time and everything like that.”
+
+I only had access to two new web gadgets, but they are as helpful as they are entertaining. One is a circular device that fires multiple web lines in all directions that ensnare several targets before yanking them all toward its center, causing them to slam into each other. This tool is great for gathering a bunch of goons in one neat pile for you to pummel, and watching captured victims crash through objects before hitting each other is a chaotic treat. The other gadget is a drone-like missile launcher of sorts that fires multiple, presumably non-lethal projectiles. I found the best use for this was against distant threats, such as snipers, or dealing with powerful foes from a distance. 
+
+In addition to the gadget wheel, a second ability wheel houses Peter’s symbiote powers/Iron Spider attacks. This wheel also has Miles’ venom attacks, and these abilities are tied to L1 plus a corresponding face button. Thus, players wield even more abilities, and I loved combining web gadgets with my other talents. The symbiote abilities feel appropriately powerful and brutal, whether I was unleashing several tendrils to slam multiple targets or turning into a living spiked ball that plows through anyone in my way. 
+
+Throughout the adventure, you’ll earn more skills equipped in one of the wheel's four slots. Because of this, Peter can have a mix of the symbiote and Iron Spider skills or all of both. Speaking of the Iron Spider, these mechanical legs can be unleashed with moves such as an aggressive barrage of swipes or a powerful rising kick that knocks foes airborne before Pete finishes with an earth-shaking ground punch. Perhaps my favorite lets Peter fire bolts of electricity from all four legs that zap multiple targets. Not to be outdone, Miles’ bioelectric venom powers feel just as game-changing, such as an electrified leap that carries multiple targets airborne for you to juggle or a lightning blast that zaps several nearby baddies. These powers function on a cooldown, so you’ll have to be thoughtful about when to pull them out of your hat. 
+
+Landing successful attacks also builds towards a meter that activates a powered-up state, triggered by pressing both analog sticks. In Peter’s case, this state is called Symbiote Surge, and it amplifies his damage output and abilities until the meter drains, encouraging players to unleash hell until it does. 
+
+A Big Green Problem
+
+I eventually played the big Lizard chase sequence we first saw during May’s PlayStation Showcase. Surprise! It’s even more exciting to interact with. Though it’s primarily a series of quick-time events while swinging, gliding, and water skiing to chase targets, it’s a wildly entertaining spectacle. The big treat was seeing the other side of this segment once Peter continued the chase on his own: a big showdown with the Lizard. 
+
+This encounter unfolded in the sewers and felt like a first exam of my combat skills. Taking on this reptilian behemoth required me to dodge his lighting-quick slashes or deflect his powerful tail swipe with a well-timed parry. However, he has a powerful bite you can’t parry, meaning you must dodge, lest you become his chew toy.
+
+Lizard is a formidable opponent, but I found that there are multiple options for tackling him that I discovered by experimenting with my tools and surroundings. The arena has a couple of floor grates you can yank open to unleash a burst of steam that can stun Connors, provided he’s close enough to them. Firing webs muzzles his snout and blinds him, interrupting some of his offense and providing a small window to attack. When he began crawling on the walls, I found the missile drone helpful for getting him down. 
+
+This fight feels much more intimate and strategic than the boss fights of the previous entries. I hesitate to say Souls-like, but the parry certainly engenders a vaguely similar strategy of studying the boss’ movements and finding openings to deflect, stun, and attack. 
+
+“Our boss fights in this game are such a level up that I feel like they do such a good job of getting that one-on-one feel, and they really stand out as the tentpole that we want them to be, and the players expect them to be,” says Sheahan. “Having these big fights and clashes with villains, they're just fantastic moments through the game and really leave you feeling just exhilarated and like you've had a fantastic experience.”
+
+Once I finally toppled him, the confrontation continued in a different fashion: a raucous chase through the city itself. If the first fight was a combat test, this next sequence felt like a traversal exam. Swinging/gliding through the city as the Lizard flees while dodging the gunfire of Kraven’s choppers and drones creates another thrilling chase. The segment culminates in a cool vertical climb up the side of a skyscraper, with Peter tethered to a climbing Lizard via a web line as he tries to avoid falling debris. I won’t spoil how this encounter ends, but it has me excited to see how the other boss battles unfold.
+
+In terms of other villains, Insomniac is naturally keeping tight-lipped on who players will trade blows with, but I did spot one clue: side mission beacons in the form of a cloudy green eye that almost certainly points to Mysterio. 
+
+Stealth And Other Sequences
+
+When you’re not in open combat, picking off enemies quietly in stealth is more rewarding, thanks to the ability to create your own walkable tightropes. By simply aiming at a surface and firing a web, you can make your own perches, perfect for positing yourself over targets who may be in otherwise inaccessible locations. 
+
+I put this to good use during a Miles-focused sequence in a hunter-laden warehouse. By thoughtfully laying down a network of web-lines, I could pursue targets instead of waiting for them to wander into a certain spot to web up safely like in the previous games. This mechanic also got me thinking more creatively about using a room’s layout to my advantage, especially since having too many web lines causes old ones to deteriorate, dropping any webbed enemies hanging from them to the ground. Though they’re still incapacitated, any goons that see their wrapped-up buddies fall in front of them may tip the room off to your presence. 
+
+During my demo, I engaged in a few creative puzzle-like sequences. Harkening back to the laboratory minigames in the first game, one science mission tasked me with eliminating harmful nodes from an interconnected strand of DNA. Eradicating some nodes caused connected, vital cells to perish, too, so the goal is to figure out how to get rid of the unwanted nodes without destroying the entire structure.  
+
+In one tense Peter-focused segment at Oscorp, I crawled through the bowels of a particle accelerator to repair it from the inside. I dodged hazardous electric currents by either crawling or rolling away from them. Walls of static could only be bypassed by using the black suit’s tendrils to latch onto generators, causing two meters to appear. Each is tied to a shoulder trigger, and holding them down moves its respective indicator downward, with the goal of positioning them within a highlighted box. This puts the DualSense’s trigger sensitivity to good use, as each meter requires a different placement; the left may require holding the button all the way down, but the right may only need its indicator in the middle. Achieving and holding both positions simultaneously is a tricky yet neat little challenge. 
+
+For Miles, I controlled his spider-bot to infiltrate a Harlem museum captured by henchmen. This sequence shifted to first-person as I crawled through vents to power up a series of circuit breakers while sneaking past enemies. Sometimes, I distracted them by firing webs at musical instruments and other objects. While small, these segments offered nice breaks from the standard action while mixing up objectives in small, creative ways. 
+
+To Glide Like A Spider Can
+
+Web-swinging and general traversal have always been my favorite element in the past games, and Spider-Man 2’s wingsuit-style web wings raises this fun factor exponentially. Hitting the triangle button seamlessly deploys your wings between swings, letting you gracefully glide until you fire another web. Depending on the situation, creating a rhythm of swinging and gliding can help you keep up with chase targets more effectively or help you reach tricky spots more gracefully than swinging alone could accomplish. 
+
+I was most surprised at how long the Spider-Men can stay airborne. I often soared over many city blocks, even without the help of special wind tunnels propelling my momentum. Web wing steering uses standard, inverted flight controls, and the mechanic just feels great; it didn’t take long before I was banking sharp turns around buildings with ease or nosediving under tunnels to gain momentum to shoot upwards. Gliding is especially handy for traversing city blocks with either lower buildings or none at all, like Queens or Central Park, which keeps forward momentum going without interruption. Since gliding is so useful, Insomniac went to great lengths to ensure it remained balanced to where the player didn’t lean on it too much. 
+
+“The ultimate goal of [gliding] is that it's an integrated part of swinging,” says Sheahan. “...trading height for speed is what swinging does. And you use gravity that generates speed, and then you can use that to make your swings faster. And so we took that same approach with the wingsuit to make sure that if you want to go really fast, you have to dive. You have to lose height. So you can glide really far, but it's not necessarily faster to do so. And so we’re making sure that we were balancing all of those mechanics against each other for players to balance how they want to get around, what feels good to them, what's efficient, but what goes fast.” 
+
+I only played one mission designed around this mechanic: a chase in which Miles pursued one of Kraven’s drones and had to glide within its slipstream long enough to collect its data. It was an enjoyable exam of my early gliding skills, and I’m looking forward to more missions centered on the feature. 
+
+Thanks to the web wings, the series’ enjoyable flow of movement is at its zenith in Spider-Man 2. Between web-swinging, gliding, and the ability to temporarily ski atop bodies of water, preserving momentum is easier than ever, as is recovering from a mistake. There’s always a way to adjust trajectory or rebound from a blunder, whether it be web-zipping to a nearby perch to launch from or foot-skiing across a river instead of falling into it. 
+
+My biggest takeaway is that gliding doesn’t overshadow web swinging. Rather, it enhances it to the point that I wondered how I ever explored New York without it. Given how much fun getting around in these games has already been, that’s high praise. It’s always been hard to imagine how anyone could top the excellent web swinging, but Insomniac has pulled it off. 
+
+Build-A-Spider
+
+Since you’re free to switch between heroes at almost any time, progression is shared between Peter and Miles. This way, neither will be left behind if you prefer to stick with one Spider-Man outside of mandatory story sequences. Both earn experience together to unlock their own skill trees as well as a shared tree of more general upgrades. On top of that, numerous suit upgrades increase stats such as defense, health, and attack power. 
+
+You’ll also unlock new gadgets depending on whether you fulfill conditions by completing certain side missions and collecting tech. Thankfully, a menu toggle displays each upgrade’s requirements, so you’ll know exactly what you need to do to obtain a desired item. The upgrade menu is more dense and involved compared to the other games, especially with two characters to improve. But this added customization provides plenty of opportunity to craft the type of hero you desire. 
+
+I’d be remiss not to mention the costumes, which have been one of the most entertaining elements of the series. Insomniac has expanded on this feature, too; now, in addition to unlocking a suit, you unlock its style, which offers four color variations of that suit. For example, I unlocked Miles’ 10th-anniversary suit from his 2021-2022 comic run, which came in the traditional electric red/black but also in standard red as well as purple. The standard suits for both Spiders include different color variations, too. The other new outfits I saw were a Spider-Man 3 symbiote suit for Peter and the “Boricua” suit for Miles that sports a Puerto Rican flag design. 
+
+A great sign of any gameplay demo is feeling reluctant to relinquish the controller once it ends, and this feeling certainly arose once my time with Marvel’s Spider-Man 2 came to a close. From what I’ve played, Insomniac has added smart, meaningful layers on top of the already exceptional template, positioning it as the ultimate entry in the series. If the full package can live up to this slice, Insomniac has a heck of a sequel on its hands, and I can’t wait to rescue New York one more time as my two favorite arachnid-powered do-gooders. 
+
+Which symbiote are we getting?
+The nature of Insominac’s take on the Venom symbiote has been a question I've pondered since its reveal at the end of the first game. Given its containment in Oscorp’s labs, I first assumed it was a synthetic creation, much like Ultimate Spider-Man’s version of Venom. However, during my demo, I spotted several research notes while exploring a hidden lab that pointed toward the suit being extraterrestrial in origin, as it always has been in the traditional comics continuity. Furthermore, one particular note sports a familiar spiral symbol that fans of stories such as Absolute Carnage and King in Black should recognize, potentially signaling the incorporation (or at least a sprinkling) of contemporary symbiote lore. 
+
+      Products In This Article
+
+Marvel's Spider-Man 2
+
+Platform:
+
+PlayStation 5
+
+Release Date:
+
+October 20, 2023
+
+Purchase
+More Info
+
+Marcus Stewart
+Associate Editor
+Marcus is an avid gamer, giant wrestling nerd, and a connoisseur of 90's cartoons and obscure childhood references. The cat's out of the bagel now!
+
+Email
+Twitter
+

@@ -1,0 +1,33 @@
+
+  Pokemon Go's Adventure Sync Counts Your Steps Without Draining Your Battery
+
+
+
+
+
+
+Pokémon Go has long had a problem with battery drainage. Ardent fans looking to catch 'em all have been forced to either turn home after a few hours (at best), or carry around a bulky external battery. But, if you booted up Pokémon Go today, you might have seen some details for a new Niantic Real World Platform gameplay system called Adventure Sync.
+
+Lauded as a way to extend your phone's battery life and encourage active lifestyles, Adventure Sync can count your steps while the game isn't running. The new system syncs in the background with your iOS HealthKit or Android Google Fit data, essentially allowing you to hatch eggs and find your buddy Pokémon's candy without actively playing the game. Now that you can achieve distance-based goals without the game running, trainers can listen to music or watch a video on their commutes. 
+
+Niantic promises the Adventure Sync system will be rolling out worldwide soon and in the meantime, we'll have to celebrate Pokémon Go's Halloween event the old fashion way. 
+
+[Source: Twitter]
+
+When I saw the announcement this morning, I have to admit it felt a little Big Brother. My game is watching me even when it's not on? It looks like you have to opt-in to the Adventure Sync feature in order for it to work, but I'm feeling a bit skittish with other widespread data privacy issues big in the news.
+
+      Products In This Article
+
+Pokémon Go
+
+Platform:
+
+iOS, Android
+
+Release Date:
+
+July 6, 2016
+
+Purchase
+More Info
+

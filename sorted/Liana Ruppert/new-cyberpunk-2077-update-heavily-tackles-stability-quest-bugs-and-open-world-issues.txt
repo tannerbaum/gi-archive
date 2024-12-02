@@ -1,0 +1,106 @@
+
+  New Cyberpunk 2077 Update Heavily Tackles Stability, Quest Bugs, And Open-World Issues
+
+
+
+
+
+
+            A new Cyberpunk 2077 update is now available for PC and console players alike, as well as Google Stadia. The latest patch is one of many on the horizon following a chaotic launch and this update tackles major areas of improvement including open-world issues, commonly reported bugs, and overall stability concerns. 
+
+CD Projekt Red took to the game's blog to share with players what the latest update has in store, saying "In this update, we focused on various stability improvements, which you can find outlined in the patch notes below. We will continue this work in patch 1.2 and other upcoming updates. At the same time, we will keep fixing the bugs you encounter and listening to your feedback on how to improve the overall game experience."
+
+While new DLC and new-gen updates are still on the horizon, the main priority for the Polish studio currently is to get the issues that contributed to the messy launch under control. This especially became an important focus when Poland's Office of Competition and Consumer Protection began its investigation into the company concerning the game's launch on the heels of two class-action lawsuits from investors. 
+
+The latest patch, called Update 1.1, tackles various stability issues including: 
+
+Memory usage improvements in various systems within the game: characters, interactions, navigation, in-game videos (news, tv, etc.), foliage, laser effects, minimap, devices, AI, street traffic, environmental damage system, GPU-related, and more.
+Various crash fixes (related to, among others, loading saves, game opening/closing and Point of No Return).
+
+It also tackles many of the quest bugs that players have been reporting and a few open-world issues that have been shared as well, especially concerning any of the content surrounding Delamain and achievement/trophy issues. 
+
+For the full list of what the latest patch entails, check out the full update notes below courtesy of CDPR: 
+
+Quests/Open World
+
+Fixed an issue where calls from Delamain would end immediately and seem like they cannot be picked up in Epistrophy.
+Fixed an issue where players would not receive calls from Delamain when approaching relevant vehicles in Epistrophy.
+Fixed an issue where the objective could get stuck on "Answer the call from Mr. Hands" in M'ap Tann Pèlen.
+Fixed an issue where Judy could teleport underground in Pyramid Song.
+Fixed an issue where it would be impossible to talk to Zen Master in Poem of The Atoms.
+Fixed an issue where Takemura wouldn't call in Down on the Street.
+Fixed an issue where Jackie could disappear in The Pickup.
+Fixed an issue where it could be impossible to get out of the car in The Beast in Me: The Big Race.
+Fixed an issue where players could stop receiving calls and messages after moving too far away from A Day In The Life area.
+Fixed an issue where opening the package wouldn't update Space Oddity.
+Retro-fixed the saves affected by a rare issue where speaking to Judy in Automatic Love would be impossible due to an invisible wall. The underlying issue is under investigation.
+Fixed an issue that prevented players from collecting the reward in Gig: Freedom of the Press. The quest will auto-complete for those who could not collect the reward previously, and the reward will be provided automatically.
+Fixed an issue where Delamain would remain silent throughout Epistrophy if the player initially refused to help him.
+
+﻿UI
+
+Fixed an issue where prompt for exiting braindance could be missing.
+Removed an invalid item from loot.
+
+Visual
+
+Fixed an issue where a grenade's trajectory could be displayed in photo mode.
+Fixed particles' hue appearing pink when viewed close up.
+Fixed cars spawning incorrectly in Reported Crime: Welcome to Night City.
+
+Achievements
+
+Fixed an issue where completing one of theassaults in progress in Santo Domingo would sometimes not contribute towards progression for The Jungle achievement, preventing its completion.
+
+Miscellaneous 
+
+Addressed the issue responsible for saves getting oversized (related to the modifier indicating if the item is crafted), and trimmed the excess size from already existing saves (note: this won’t fix PC save files corrupted before 1.06 update). 
+Fixed an issue where input could stop registering upon opening the weapon wheel and performing an action.
+Fixed an issue where the "Continue" button in the Main Menu could load an end game save.
+
+PlayStation-specific
+
+Performance optimization of crowds on PlayStation 4 Pro and PlayStation 5.
+Various crash fixes on PlayStation 4.
+
+Xbox-specific
+
+Improved memory usage for character creation, mirrors, scanning, camera remote control, menus (inventory, map) on Xbox One, Xbox One X and Xbox One S.
+
+PC-specific
+
+It will now be possible to obtain achievements while in Steam offline mode. Note: Offline mode needs to be enabled before starting the game. This change does not work retroactively.
+Addressed the game startup crashes related to loading cache on NVIDIA graphics cards.
+
+Stadia-specific
+
+Concert audio should no longer be inaudible in Never Fade Away.
+Fixed corrupted textures on several melee weapons.
+Tweaked default deadzone settings to be more responsive. Note: the change will not affect settings unless they’re set to default.  
+
+Interested in learning what else is going on in the world of Cyberpunk 2077 and the studio behind the open-world game? You can check out our previous coverage here that includes news, mods, and our reviews for both PC and last-generation systems.  
+
+            .
+
+Liana Ruppert
+Associate Editor 
+With an arguably unhealthy obsession with Dragon Age and Mass Effect, Liana is wildly passionate about all things in the gaming community. From shooters, to RPGs, if it's out - she's playing it. She's also likely to die from hoarding gaming collectibles.
+
+Email
+Twitter
+
+      Products In This Article
+
+Cyberpunk 2077
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Stadia, PC
+
+Release Date:
+
+December 10, 2020 (PlayStation 4, Xbox One, Stadia, PC), 2021 (PlayStation 5, Xbox Series X/S)
+
+Purchase
+More Info
+

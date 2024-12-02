@@ -1,0 +1,47 @@
+
+  The Steam Deck OLED Review
+
+
+
+
+
+
+            The Steam Deck OLED releases today, providing a new avenue for game players (especially those with big Steam libraries) to take their gaming experience on the go. The new OLED models (one at 512 GB and another at 1TB storage) effectively replace the original release as the new Steam Deck flagship hardware. The older 64 GB and 512 GB LCD models are being phased out, while the 256 GB LCD will remain available at a reduced price.
+
+Steam Deck OLED is not a fundamentally new platform. In many ways that matter, our review of the original still stands, and snagging one of the older LCD screen models is now an even more substantial value at the lower price. However, several of the concerns that surfaced in that review have been remedied by the new model – enough that a new evaluation is warranted.
+
+While I had few complaints about the original screen, there’s no doubt that the new OLED is a step up. It’s also slightly larger, by about half an inch, which is a pleasant bonus. The brightness of graphics on the screen is particularly noticeable, as are color gradations. A play session with the recent indie darling, Jusant, revealed breathtaking landscapes and a rich color palette that look just as good as they would on a great gaming monitor. Black levels were also impressive; a trip down the highway of Darkest Dungeon II was foreboding and pleasantly bleak. The detailed landscapes of Baldur’s Gate 3 popped off the screen, and character portraits looked lifelike. The HDR capability also impresses in games like Ori and the Will of the Wisps, making tiny shifts in shadow depth in dim environments appear realistic and beautiful.
+
+One of my chief concerns with the original model was battery life. A portable gaming system is all well and good, but the fun evaporates quickly if you can only get a few hours of play. The original Steam Deck wasn’t terrible in that regard, but it wasn’t a high point. Thankfully, the new Steam Deck OLED makes major strides in this department. It’s hard to quantify, given that different use cases result in vastly different battery life. But, in general, I found game sessions lasting a good couple of hours longer before a charge became necessary, compared to my tests of the original model. Valve’s claims of 30% to 50% better battery life are, at worst, conservative estimates.
+
+The form factor hasn’t changed substantially. Like with the original model, I don’t love the high placement of the thumbsticks, but the haptic feedback on the touchpads is quite cool. The curved grips comfortably fit adult hands and fingers. It’s a smidge lighter; I’ll admit that I barely noticed the difference, but given that one of my criticisms of the original was its size and weight, it’s worth a call-out. Overall, the OLED model still feels a little bulky in hand, but nothing that should scare away an enthusiast.
+
+I also noted that the new OLED model doesn’t run as hot as the original; that was never a dealbreaker for me, but it’s a pleasant change. And while not every home Wi-Fi system will be able to leverage the advantage, it’s nice to see support for Wi-Fi 6E; when available, that adds up to faster downloads.
+
+In the interim since our original review of the Steam Deck, Valve has also continued to expand its library of games that are “Verified” for Steam Deck. While not technically a part of our hardware evaluation, it’s notable here as you consider a possible purchase; players now have a vast library of verified games running well on Steam Deck. In practical terms, whether you play on the new OLED model or one of the older LCDs, a much more extensive library of enjoyable games makes it worth your time and money.
+
+Over the months since the original Steam Deck’s launch, other companies have continued to push into this portable PC gaming space; we’re very enthusiastic about the ROG Ally, for instance. But Valve makes a potent argument for the value of its new Steam Deck OLED for those players who’ve still been waiting to snag a portable gaming PC. It looks and plays great, features better battery life than the original, and makes minor changes to an array of onboard systems, such as increased bass response in the audio or faster battery charging, that add up to a better overall experience. It’s an easy recommendation for those who have been waiting to take the leap.
+
+The OLED model is a tougher sell for early adopters who purchased a Steam Deck in 2022. Undoubtedly, it’s a step up in ways that matter, but it’s a considerable expense for only incremental change. If you’re looking for the definitive portable Steam game player, it’s undoubtedly the way to go, but be prepared for only minor changes to the overall experience.
+
+A-
+
+The Verdict
+The Steam Deck OLED improves on almost all the features that were problems in the original model’s release and makes a strong case for being the portable gaming PC to beat – though the competition is steeper now than it was at the original model’s launch. A beautiful screen and excellent battery life are the chief attention-getters amid a slew of minor updates that add up to a big difference.
+
+Release
+November 16
+
+Price
+$549 (512GB), $649 (1TB)
+
+More Information
+store.steampowered.com/steamdeck
+
+Matt Miller
+Editor-in-Chief
+Matt Miller has been with Game Informer since 2004. He has a special interest in the evolution of game design, the tabletop hobby, and the crafting of interactive narrative. 
+
+Email
+Twitter
+

@@ -1,0 +1,48 @@
+
+  GOG Galaxy 2.0 States Its Case To Be Your One PC Library To Rule Them All
+
+
+
+
+
+
+            The diaspora of PC platforms in recent years has done players no favors when it comes to quality of life. Instead of having all your games and friends under one roof, we're now tending to an unwieldy collection of game launchers from the likes of Steam, Epic Games Store, Battle.net, EA Origin, Uplay, Discord, and Xbox, each with its own library, friends list, and storefront. 
+
+The frustration with this fractured ecosystem is evident any time you see the predictable online backlash to another Epic Games Store exclusive. Though Epic Games Store is the most recent target for dismay, the move away from a central PC game destination has been developing for several years. During this span, GOG has quietly been developing a potential solution for wrangling all your games and friends in one place. This past week GOG launched the beta for this project, dubbed Galaxy 2.0, and we spent the last several days playing around with the system. It shows promise, but also has some significant hurdles to overcome. Here's what you need to know.
+
+The Luxury Of A Single Library Is Undeniable
+
+True to its promise, Galaxy 2.0 is a flexible system that integrates the libraries of most PC platforms, and even a couple of console ones. In about five minutes, I had my Steam, Battle.net, Uplay, Origin, Epic, and GOG accounts integrated seamlessly into the service. Once every account was logged in, I could see all the games in my library across these platforms, most of which had attractive box art already added. Some were missing box art or had poorly cropped images, but just like with a music-management app like iTunes, you can edit the entry and add your own box art. Clicking into a game brings up a curated menu that shows your activity, achievements (if the platform provides them), critic scores, and a brief overview of the game. The interface is clean and easy to navigate.
+
+After your accounts are integrated and your library populates, you can launch and install games directly from Galaxy 2.0. Clicking to install the title launches the corresponding platform, where you must go through the normal steps to download the game. Unfortunately, Galaxy doesn't show the download progress, but once it's installed you can click to play the title right from the service. 
+
+GOG also includes the ability to add your PlayStation Network and Xbox Live games to the library, though console games obviously can't launch from the PC. This seems superfluous, but it's nonetheless interesting to see all your games listed in one place. If you own a game on multiple platforms, duplicates appear. GOG could clean this up by either adding an icon so you know which entry is for which platform or integrating them all under one game umbrella. 
+
+Some platforms still don't have integrated support, most notably Oculus and Nintendo, but GOG says it's working diligently to court more companies. In the meantime, the community has the option of making and sharing their own integrations via Github. 
+
+Filters Provide Deep Library Management
+
+Once all your games are integrated into Galaxy 2.0, if you're like me you may be staring at a sea of a thousand games. Wading through these selections is dramatically improved with the flexible filter system that allows you to curate as you see fit. Galaxy has pre-made filters for platforms, genres, personal rating, and whether or not the games are installed, that you can access easily. In addition, you can save filters as permanent bookmarks or create your own using tags. 
+
+The reasons for doing so are plentiful. Perhaps you want a playlist of your favorite multiplayer games, collections from a favorite franchise, or a backlog list where you can easily see the games you own but haven't played yet. You can't drag and drop titles to these playlists yet, but that seems to be a no-brainer for a future platform update.
+
+Galaxy 2.0 Preserves User Privacy
+
+Given that you're integrating all your platforms into one place, it's fair to wonder what GOG intends to do with all that data. Their answer? Nothing. "This is your data, your privacy," says GOG managing director Piotr Karwowski. "We're not in a data-selling business." If you choose to disconnect a service, not only will it delete from your Galaxy 2.0 app, Karwowski says it will wipe from all the GOG servers immediately. 
+
+Friends Lists Aren't Fully Integrated Yet
+
+Beyond having your library in one place, the next biggest selling point for Galaxy 2.0 is its intention to integrate all your friends lists into one app. The idea of having one destination where you can see what your friends are playing, compare each other's activity lists and progress, and eventually allow you to chat and interact across various platforms is golden. However, as the beta currently stands, this is where GOG has the most work to do still.
+
+Right now, you can only see friends who already have GOG accounts, and you have no way of interacting with them across various platforms. GOG is actively working on implementing the unified friends list and chat. For Galaxy 2.0 to be the all-in-one solution, getting these features right is a must.
+
+Nor Are Competing Storefronts
+
+The other missing element in the Galaxy 2.0 app right now is the ability to shop, purchase, and manually update games from platforms other than GOG. The power of this type of future would be great. Imagine comparing prices from various storefronts right from one app, or looking at your friends' lists to see what they have been playing the most lately and purchasing the game directly from that screen. 
+
+"We have absolutely nothing against this concept, it's really interesting," Karwowski says. "For me, as a gamer, I absolutely understand why people are asking about this."  That being said, Karwoski says they have nothing to share about this concept at this time. The potential hurdles are evident given that GOG has its own digital storefront; getting others to play nice could prove difficult.
+
+GOG Galaxy 2.0 makes a lot of promises, and you can see the rough infrastructure taking place to make this dream a reality in the beta version. But GOG still has some heavy lifting ahead of it, primarily in the form of fully integrating the unified friends lists, adding chat support, and finding a way to let users buy games from this service regardless of platform. That's what it will take to be the true one PC platform to rule them all.  
+
+The Galaxy 2.0 app will remain in the closed beta period for the foreseeable future as GOG works to add more features and realize the full potential of the platform. If you want to check it out, you can sign up for the beta here. 
+

@@ -1,0 +1,149 @@
+
+  Apex Legends Cover Story - Living Legends
+
+
+
+
+
+
+Platform
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC
+
+Publisher
+Electronic Arts
+
+Developer
+Respawn Entertainment
+
+Release
+February 4, 2019
+
+Rating
+Teen
+
+            Introduction
+
+A smokescreen blankets the war-torn street. Squadmates eliminated and health dangerously low, you fling your teleportation bracelet toward a distant building and slip away from the firefight. Once inside, you press your body to the front door and pop a regenerative Phoenix Kit, vitality slowly returning with each second. But the healing process is halted when Seer stuns you through the wall with his micro-drone scanner. As the enemy nears, you ready your Peacekeeper shotgun. Seer’s steel boot connects with the door; it crumbles into glass-metal shards, but you don’t flinch. You line up the shot, weapon hissing uncontrollably, and …
+
+Bang!
+
+Clash of the Titans
+
+CLASH OF THE TITANS
+
+The Battle Royale genre’s (BR) impact on the competitive shooter scene is undeniable. Take, for example, Daybreak’s H1Z1. The three-year early access marvel might be a relic by today’s standards, but Brendan “PlayerUnknown” Greene’s consultation work on it informed his later game, PlayerUnknown’s Battlegrounds, which then inspired Fortnite. Treyarch followed suit with Call of Duty: Black Ops 4’s Blackout mode (the first iteration of what we now know as Warzone). And then Respawn Entertainment joined the lobby.
+
+By early 2019, Respawn had flown under the radar for almost two years. Titanfall 2 dropped in 2016 and was lauded for its fluid gameplay and explosive mech battles, but sales were lower than expected. Several DLCs throughout 2017 kept dedicated fans satisfied, but 2018 was a period of radio silence – because the team’s next massive project was underway. On February 4, 2019, Respawn launched Apex Legends. When we asked about the general secrecy and surprise release five years ago, former executive producer Drew McCoy emphasized transparency. This might seem contradictory, but McCoy told us the decision was a power move.
+
+“We know this game has skepticism around it,” McCoy said. “It’s not Titanfall 3. It’s battle royale, which, for some people, is a fad right now. Instead of trying to convince a skeptical audience with marketing and interviews, why not just let the game speak for itself? The best antidote for any skepticism is to see and hopefully believe.”
+
+If seeing truly is believing, Apex Legends is a prime example of the adage. Respawn’s Titanfall-themed BR touted a free-to-play model, responsive gunplay/physics due to an upgraded Source engine, and diverse playable characters that resonated with a growing audience. Revolutionary new mechanics – a non-verbal Ping System and Respawn Beacons – changed players’ understanding of in-game communication while also deconstructing the one-life-per-match rule that made the genre equally exhilarating and frustrating. In eight hours, the hero shooter drew over one million unique players. And by the end of February, it surpassed 50 million (also earning a whopping $92 million through in-game purchases), at the time, eclipsing even Fortnite’s impressive growth trajectory. The greatest form of flattery is imitation, so it’s no surprise that Apex’s various unique features made their way to other prominent BRs. And a healthy end-of-the-year awards season was just the icing on the cake.
+
+From Christmas-themed locations and ever-changing maps to overhauled legend roles and the recent Final Fantasy VII crossover, Respawn gradually redefined its approach to battle royale. And now, half a decade later, the team is gearing up for a titanic shift with Season 20: Breakout. We visited the studio’s Vancouver office, played hours of new content, and spoke with leadership and numerous game, art, and narrative designers about their design pillars, the evolution of Apex, and some of the biggest updates on the horizon.
+
+Sitrep
+
+SITREP
+
+The Vancouver office is pristine. Its expansive second floor is awash with elaborate Apex murals; a striking timberwood staircase towers over the workspace. Out beyond an endless row of window walls, a chill mist engulfs the horizon. Despite the bitter cold and somber, milky skyline, there’s an air of excitement among the few devs scattered throughout the common area: Today is Season 20 playtest day.
+
+Game director Steven Ferreira and design director Evan Nikolich plop down in front of me on an L-shaped sofa. When I ask them to speak about their five-year battle royale journey, both stress the importance of community feedback and adaptability. Live service games foster rapid, sometimes brutal, workflows, but the two directors enjoy the challenges of the content-heavy format.
+
+“I've been working on live service games for 12 years now,” Nikolich starts. “And I much prefer it in terms of having that direct connection with the player. You're building the game alongside and for them instead of for yourself.”
+
+That methodology extends to Season 20, which Ferreira hopes will be a suitable answer to widespread gripes with match difficulty. There’s nothing worse than getting steamrolled instantaneously by a premade squad of rare-badged Apex Predators, but, of course, backend countermeasures are in place to help remedy that issue. A lengthy Respawn blog post from January 2023 dove into the various matchmaking combinations used to categorize players, from straightforward skill comparisons to optimizing wait times. But at its core, Season 20 is all about leveling the playing field.
+
+“Apex is hard,” Ferreira admits. “I think as we look back retrospectively – as we added more features and as the community just got better and better with the game itself – the difficulty floor kept rising. There are just a lot of stone-cold killers out there in the community. So, what we’re trying to do is reset the table a bit. And find ways to get new players, who just aren't as far on the competitive spectrum, a window to engage and fall in love with Apex the way that we've all had that opportunity to fall in love with it.”
+
+Among a bevy of incoming features, including a 120-hertz performance setting and haptics for PlayStation 5 controllers, two major updates are set to improve the experience for players of all levels: a legend-based progression system and a new limited-time mode (LTM) that accelerates the BR formula. Both directors assert this latest Season is a new arc, and in the spirit of Drew McCoy’s statement in 2019, the design process continues to spotlight transparency. An overhauled Match Summary (post-game report) is a testament to this, revealing the behind-the-scenes scoring system for Ranked and informing competitors about why they won or lost their matches. Asynchronous tournaments also roll out later this year, giving players more ways to compete at all skill levels. For Respawn, transparency seems to be synonymous with approachability.
+
+According to lead progression designer Chris “C4” Cleroux, Ranked’s new “Challenger” and “Top 5 Streak” bonuses will up the stakes
+
+POWER TRIP: Evolving With Legend Upgrades
+
+POWER TRIP: Evolving With Legend Upgrades
+
+Metas across all prominent shooters are in constant flux, and they should be. Apex Legends is no stranger to the multiplayer-centric phenomenon, as surges in character, weapon, and strategy combinations are often strong indicators of mechanical depth and experimentation. As lead legend designer Devan McGuire and game designer John Larson explain the philosophies behind Apex’s latest features, I immediately recall Nikolich’s fascination with designing alongside players.
+
+Since launch, Respawn has played an active role in meta alterations, removing popular weapons like the R-301 carbine and Wingman revolver from the standard loot pool and placing them in rare care packages or Replicators (crafting machines) to encourage the usage of other neglected firearms. Even legends with skewed win rates got modifications, leading to more diversified and dynamic battles. Some changes, however, were more extreme than others. Revenant, a legend first introduced in 2020, was the subject of a total rework in Season 18 that saw his pick rate increase by over 90 percent. Balancing updates might not be unique to Apex Legends, but this Season is slated to shake up future patches in unconventional ways.
+
+Only healing items can be crafted now. Thankfully, the process is instantaneous and free of charge, but once you've used a Replicator, you’ll need to track down another one to make more gear
+
+McGuire tells me Season 16’s major class updates laid the groundwork for Season 20’s new progression system. Legends fall under five distinct classes—Assault, Skirmisher, Recon, Controller, or Support—and class-specific perks expand upon these categories with new abilities. Recons, for instance, gain access to Survey Beacons scattered around the map, revealing enemy locations for 30 seconds. Support capabilities, on the other hand, are two-fold. Legends like Gibraltar and Newcastle can open hidden shelves in blue-colored supply bins, gifting their squad extra healing items in a pinch, while their invaluable ability to craft Respawn Banners increases the chance of late-game comebacks. Season 20 will build upon this blueprint by introducing bite-sized skill trees.
+
+“Class upgrades reinvigorated the meta and changed the way people thought about the game strategically,” McGuire says. “We wanted to take another stab at getting more intimate with the characters themselves, diving into the types of builds that can be made.” Larson doubles down on this: “Legends remain relatively static amidst all the variables in a BR. You pick them at the start of the match, and that choice is constant throughout. So, we recognize that people express themselves or have playstyles with a certain legend. We wanted to explicitly lean into that a bit more in terms of allowing players to make these choices that scale across the course of a match. That felt compelling and worth exploring.”
+
+Shoot For The Stars, Aim For The Moon
+
+Skulltown, Capitol City, Bonsai Plaza, The Pylon – places of friction, as lead map designer Ran Stayer aptly puts it, riddled with deathboxes. All locales are built with engagements in mind, but a select few inspire trepidation. Promenade, one of the latest sites from Season 15’s Broken Moon, literally slices the map in half. It’s a veritable death trap, which is to say it’s a hell of a lot of fun. “You always want to design with intent; you have goals in mind for every space,” Stayer tells me. “One goal I have when making essential POIs [points of interest] like Promenade is to promote the sense of fear when going to the middle of the map. I wanted to give players a particular challenge to overcome, and I think it’s a conscious choice of, �?Are we going to risk dying, or do we have time to go the long way around?’ In that vein, I think it’s successful.”
+
+Broken Moon itself is a sprawling environment of celestial proportions, boasting shell-pink, psychedelic clouds and industrial depots reclaimed by nature. Resorts with draconic topiaries, the last few vestiges of civilization, are repurposed arenas for all-out war. Stayer mentions that all maps begin as hooks. In Broken Moon’s case, there were several: cosmic catastrophe, heaven and hell, Monet paintings, English garden vibes, zip rail traversal, and even low-gravity mechanics during conceptualization. Some of these motifs were left on the cutting room floor, but from an artistic standpoint, Broken Moon is a feast for the eyes. Thankfully, subtle visual cues keep players focused on the task at hand.
+
+“Some of our gameplay assets have a certain saturation level that we maintain so you know where the loot bins or doors are,” world director Ed Agostini says. “And then sometimes we’ll use warm light to guide you towards doorways or chokepoints. We try to landmark or set some kind of visual path to the next POI. We're always trying to get the best composition.”
+
+As far as design challenges go, Agostini acknowledges the difficulties that come with making each map unique and delightful for players as the team gets deeper into the BR’s lifecycle, “You want to find things that people can relate to, yet you also want to create this surreal universe that's sci-fi and exciting and aspirational. We’re always trying to find that balance.”
+Their efforts paid off. During my playtest session, I hopped into a game as Wattson, spotted the blocky frame of a new, work-in-progress map location, and glided down to see what treasures (and brawls) awaited. While grabbing a Flatline assault rifle from a nearby bin, I overheard the pitter-patter of Lifeline’s boots and tracked the pesky medic down to a nearby pyramid. A few well-timed crouch-strafes and auto-bursts later, I found myself standing over her deathbox. Suddenly, a “You Leveled Up!” notification flashed across my screen, and I was greeted with two enticing upgrades. My eyes glazed over excitedly until I realized the catch: I could only choose one. And later, after barely overcoming a particularly sweaty squad, another tier of skills populated my HUD. In a matter of a few clicks (and rounds of heavy ammo), my Wattson had transformed into a one-woman army, sporting two shield – and health – recharging Intercept Pylons and an affinity for spawning Arc Star grenades. I’ve been in my fair share of gunfights across ten-thousand matches, but these new upgrades make combat, and the legends themselves, feel fresh again.
+
+Ground-loot shields are gone. You must dole out damage or find EVO Harvesters/EVO Caches to increase armor tiers
+
+“The ability for a character to not just remain static means that you can take this idea of what an early-game interaction might be and play off the abilities that you can upgrade in those first tiers,” McGuire says. “Then think about the positioning you have on the map, who's in your squad, and what those next upgrades are that you want to take to end game for those final rings. And I think that can influence the competitive scene or how you play with particular squad comps. I think that can impact the meta in a pretty huge way.”
+
+Beyond simply eliminating the opposition, an array of basic in-game activities, like scanning care packages, hitting Beacons, and opening bins (to name a few), trigger XP gains and make the legend-leveling process more user-friendly. An underdog bonus even kicks in when squads with modest equipment (lower-tier armor) defeat combatants with more valuable gear. McGuire and Larson confirm that these design choices should help ease beginners into the gameplay loop by limiting sensory overload and prioritizing readability.
+
+FAST & FURIOUS: Going Turbo With LTMs
+
+FAST & FURIOUS: Going Turbo With LTMs
+
+In a way, experimental limited-time modes (LTMs) function as large-scale public playtests, pushing the boundaries of BR mechanics to new heights while also offering much-needed breaks from the occasional losing streak in the base game. Lead battle royale designer Joshua Mohan tells me that Season 20’s new mode, Straight Shot, is known internally as “Nitro,” and for good reason.
+
+“We’re constantly playtesting, and sometimes you can’t get a full group of 60 together,” Mohan says. “So, the design team will launch a mode called Nitro. You start the match randomly positioned on the ground in a smaller ring with fewer players. And we've been playing that for years and thought, �?Can’t we bring this to the players? We have fun playing this; will they enjoy it, too?’ That's why we added the drop ships, so you have some idea of where you are in the world. We got rid of attachments so that you can just run, pick up a kitted weapon, and go. So, you still have this sense of progression. Then we just kept adding things to make it faster and more arcade-y.”
+
+A Control (Capture the Flag)/Team Deathmatch hybrid called Lockdown also launches alongside Straight Shot. And a new limited-time mode map, Thunderdome, awaits Mixtape enthusiasts champing at the bit
+
+Legends Aren’t Born, They’re Made
+
+If combat is the soul of Respawn’s frenetic shooter, the legends are the heart. And that heart shines through in every personalized kit, animation (who didn’t chuckle at Wraith’s pre-patch ninja run?), cosmetic, and voice line. Lead legend designer Devan McGuire, narrative director Amanda Doiron, and lead character concept artist Brett Marting reveal that the legend creation process, from prototype (humanoid dummies, like the ones you might find in the Firing Range) to final iteration, can take years to complete. No one character is the same, but the tried and tested design methods are.
+
+“We have three core sets of pillars,” McGuire says. “Apex Legends is a weapon-first game, a squad-based game, and a BR at its core. So, if we make abilities that break the rules – like playing with the ring or usurping the loot pool – those are fundamentals of the BR that we don't want to hit on. We don't want our abilities to just do damage; weapons are king. And a single character should never be the answer to every problem.”
+
+Doiron agreed, stating respectful representation is also key, “We focus more heavily on character-based stories, rather than plot-heavy ones. And that's all the more reason to have these deeper characters. As far as authenticity, we do a lot of checks and balances by including people who have those backgrounds. We also hire authenticity editors. Relatability and humanity – if that's not done well, legends don't feel grounded.”
+
+As the game’s roster grows, fans should feel empowered to project themselves onto or identify with their favorite prizefighters. But this special player-to-legend connection is acutely felt by everyone, devs included. “Seeing yourself in the character,” Marting remarks. “I think that's one of the things we tried to get: Being able to embody the fantasy. That's the aspiration. And it doesn't matter who the character is necessarily. If you can feel a little bit like them while you're playing, then I think our job has been accomplished.”
+Trim the excess to underscore the facets of Apex that matter most: strategic movement and combat. This might seem like a step back, but Mohan assures me Straight Shot is a more streamlined way to play that makes it easier for casual players to “find the fun” in the legend-upgrade system and then bring their learnings back to the base battle royale mode.
+
+My squad and I load into Olympus, and the dropship automatically ejects us toward the boxing-themed area, Fight Night. I barely make out the multicolored dive trails of one other team as we touch down. The ring feels practically on our heels, and only 10 squads populate the map, but this is intentional – Straight Shot rounds are supposed to be quicker/shorter, after all. I pick up a gold RE-45 auto pistol, but my time with the valuable weapon is cut short as Mad Maggie drops down from a ledge and decimates me with a few shotgun pumps. My friends are eventually hunted and finished off. I prepare to return to the lobby, but my squadmate reminds me we can now queue into the next match from the spectator screen. We only play for a little longer, but as a naturally aggressive player with over thirty-thousand lifetime kills, I appreciate the lack of an overlong mid-game. Instead of landing, looting, and spending a sizeable portion of the match looking for adversaries, the compactness of Straight Shot’s arenas means action is a guarantee. The LTM feels like a smart blend of approachability and what Mohan calls “competitive integrity.”
+
+“I think one hallmark for us is focusing on making Apex a great competitive shooter because that's our identity in a lot of ways,” he says. “The funny thing we found is the needs of the casual players and the highest-level players sometimes meet back around at the end. Battle royale has this sort of roguelike feeling – you never know what you're going to get; you play the cards you're dealt. But on the most casual end, people sometimes experience randomness as overwhelming or frustrating or arbitrary, and they bounce off the game as a result. Then on the highest end, you have people feeling like it's unfair. You shouldn't feel like randomness determines the outcome. So, that's the goal in the coming year.”
+
+Welcome To The Big Leagues
+
+It’s the final day of the Apex Legends Global Series (ALGS) tournament, and not even BR’s most storied shot-caller, ImperialHal, could have predicted his team would hoist the championship trophy. Senior brand marketing manager Jasmine Chiang fondly remembers sitting in the starstruck crowd when TSM clawed its way to the top from 15th place. Confetti and pyrotechnics appropriately capped off a groundbreaking tournament as ALGS Year 3 amassed a total watch time of 47.9 million hours. The numbers are staggering, but commissioner John Nelson tells me he knew Apex would bear a successful competitive circuit from the very first playtest – the implementation of a Match Point system early on was the esport’s biggest differentiator. “In ALGS Finals, teams must reach a 50-point threshold and then win a match to win the tournament,” Nelson says. “When we introduced Match Point in 2019, it took what were often anticlimactic endings to battle royale tournaments and turned them into an edge-of-your-seat sport.”
+
+In addition to hosting several inclusion initiatives, like amateur competitions that give up-and-comers a platform to reach pro status, the team is sweetening the pot for Year 4. Chiang talks about supplying financial stipends and exposure opportunities to partnered pro teams, bolstering the competitive ecosystem while giving players the stability they deserve. And Nelson lists some big changes coming to the ALGS format, including Bonus Points which offer opportunities for teams to earn “extra credit” when performing at a high level. “We’re committed to continually raising the bar in service of our players and fans,” Chiang concludes.
+LAST MAN STANDING
+
+LAST MAN STANDING
+
+The sun dips low, casting long shadows across a series of empty cubicles. It’s closing time, and people are slowly filing out of the office. Back by the L-shaped couch, leadership reflects on Season 20’s biggest takeaways and what comes next.
+
+“Season after Season, we’re constantly challenging what we believe to be the core of the game,” Nikolich says. “How do we change core systems while still making it feel like Apex? In the coming year, our goal is to bring new players in, because they’re the lifeblood of the game. But also keep our diehards, people who’ve been with us since Season 0, engaged, because they’re the champions of the game.”
+
+After more discussion about taking risks and making meaningful changes, Nikolich declares nothing is sacred. I can’t help but think about how that mindset applies to the future content I briefly saw during my playtest session – namely, the next Skirmisher legend and map in Respawn’s ever-growing lineup. “Apex is still a very young universe,” Agostini adds. “And we're just getting started.”
+
+This article originally appeared in Issue 363 of Game Informer
+
+      Products In This Article
+
+Apex Legends
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC
+
+Release Date:
+
+February 4, 2019 (PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC), March 9, 2021 (Switch)
+
+Purchase
+More Info
+

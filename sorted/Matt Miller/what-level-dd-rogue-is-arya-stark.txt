@@ -1,0 +1,57 @@
+
+  What Level D&D Rogue Is Arya Stark?
+
+
+
+
+
+
+Arya Stark, seen here silently judging you for reading this article
+
+The following contains spoilers for Season 8, Episode 3 of Game of Thrones, The Long Night.  
+
+It might be the most pressing issue of the week. If Arya Stark were a D&D character, what level would she be? How many experience points would she need to have earned to accomplish her most heroic of acts? It's a tough conundrum, but together, we can solve for it, so we can all find the peace of mind we so richly deserve. Come with me on this thought exercise, which as I'm sure you'll see, is completely accurate, without logical fault, and both definitive and authoritative.
+
+We’re going to assume 5th edition rules here; George R.R. Martin likely still plays 1st edition, but I don’t think the showrunners do.
+
+So, the first dilemma here is the Night King, who fails to line up with any familiar templates. The most likely match-up is the Death Knight, a Challenge level 17 medium undead monster with an AC of 20 and 180 hit points. While the Death Knight has access to a broader array of spells and spell-like abilities than the Night King, it’s a fairly even trade given the Night King’s powerful (shall we say 200’ radius) raise undead ability, which has pretty impressive applicability. I think we can also conclude that the Night King has significant damage resistances in effect, but more on that later.
+
+Now, Arya’s youth clearly belies a pretty significant pool of experience, but we’ll need to work backward to determine her actual likely level. Her hit point total coming into conflict with the Night King would normally be irrelevant, except it’s clear that he managed to roll a successful hit against her immediately after she missed her first strike. The fact that she’s still alive after the Night King’s attack gives us some info to work with. We have to assume that while he didn’t get to roll his normal slashing damage (1d8+5, plus 4d8 necrotic) with his longsword, he was able to bring his hands to bear after noticing her incoming attack, so the 4d8 still applies when he snags her by the neck. Thus, to have survived the attack, assuming average damage (18), she couldn’t have been at death’s door coming into that fight.
+
+An earlier head wound from the door frame (presumably from a failed Dexterity save) clearly knocked Arya around a good bit, probably something in the range of 20 points of damage. Stack on at least a few stray skeleton strikes, and we can guess at a grand total of 30 hit points of damage before reaching the Night King. Add on the 18 from the successful necrotic grab, and Arya has likely suffered nearly 50 points of damage before her final strike. While it’s possible that her max hit-point total might be quite variable, if we assume some average numbers and a Con bonus of +1 (which seems fair, I think), then we need to set a minimum level that would leave her alive to successfully stab that final blow. If, for instance, she was 8th level, we’d expect her to have a max of 51 hit points. That’s cutting things very close, but it’s not impossible.
+
+But how can we confirm? The better arbiter for her rogue level is likely the actual sneak-attack damage. To get there, we need to back up and figure out where the Night King was at HP-wise. Even with some potent armor bonuses in play, it seems highly unlikely that the Night King walked away from his midair fight with Dany and Jon, as well as a sustained blast of dragon breath weapon, completely unscathed. I’m going to say the midair battle likely inflicted 20 points, and the fall another 42 (they were very high – the DM certainly wouldn’t be out of line calling for 12d6 fall damage for 120 feet).
+
+Dany’s Drogon steed is clearly house-ruled. At only a few years of age, he would barely be large enough to fly extended distances, much less carry a rider. Let’s give the DM the benefit of the doubt that he’s figured out the logistics for his own setting, and presume that Drogon’s age category is an adult red dragon (the appropriate analogue, given the fire breath weapon). With that assumption, Drogon’s breath weapon inflicts an average of 63 points of damage (18d6 fire). The Night King presumably could have rolled a Dexterity save for half, but he’s too badass for that, so he just stood there and took the brunt. With that said, as Dany learned to her dismay, the Night King clearly has fire resistance, which halves the damage (appropriately rounded down) to 31.
+
+The Night King has taken 93 damage before Arya makes her back stab attempt. He has 87 hit points remaining.
+
+Arya is wielding a Valyrian Steel dagger. As has been established many times up to this point in the story, White Walkers (including the Night King) are vulnerable to Valyrian Steel. That means any damage from that damage type is doubled. Unfortunately, while Arya clearly (and somewhat miraculously) managed to succeed at her stealth check for moving past the other nearby Walkers in the Godswood, she failed the stealth check against the Night King. He still has his full AC bonus as her initial round standard action comes swinging in. She rolls well, but not well enough to hit that 20 AC (her player chalks it up to the earlier head wound).
+
+While the Night King did detect her initial attack, her player pitches the DM on an innovative use of the Rogue’s Cunning Action feature, to get a bonus action in which she can make a Sleight of Hand check to switch weapon hands, which would be an exception of the standard uses (Dash, Disengage, or Hide). It’s a clever piece of role-playing in a clutch moment, so the DM allows it. With a successful role, Arya manages to drop her dagger into her other hand, and the DM rules that the quick thinking provides a brief moment of surprise. Luckily, Arya took the roguish archetype of Assassin some years ago during her stay in Braavos, so any successful hit during surprise is automatically a crit.
+
+If we presume a more by-the-book DM, then all of Arya’s clever role-playing doesn’t mean much here; in that case, we have to assume she just rolls a natural 20 for a crit on her second round of combat. And, in addition, she gains advantage (and thus her sneak attack) because at least one of her allies (Bran) is adjacent to the Night King on the opposite side from her. Either way, it’s hard to read the strike as shown as anything but a critical hit.
+
+So, Arya’s second strike hits, and hits hard. But the Night King still has 87 hit points. That’s a lot of damage to have to do in a single strike with one dagger.
+
+The dagger does 1d4 damage, and Arya would be foolish to not be taking advantage of the dagger’s finesse property, letting her use her Dexterity (rather than Strength) as a bonus to damage. And I’m going to go ahead and say it’s certain that Arya is rocking an 18 Dex (have you been watching this show, or not?), so she’s going to get that extra +4 damage there. So, 1d4+4 for an average of 6 damage, if that was all there was to the strike.
+
+Luckily for her (and Westeros), it’s not. The crit doubles the damage (but not the ability bonus), and also doubles her sneak-attack bonus, and the whole attack comes from Valyrian Steel, so all damage inflicted is doubled.
+
+At 8th level (as previously surmised) there’s simply little chance for her sneak attack of 4d6 bonus damage to cross the necessary threshold of the Night King’s remaining health. But sneak attack damage increases to 5d6 at level 9. At that value, she might just make it.
+
+Let’s do the math. With the crit, we’re looking at rolling twice for the dagger and sneak-attack damage for a total of 2d4+10d6, and adding in an extra +4 Dex bonus to damage. That gets us to 44 damage, but remember that all damage is doubled, since the Night King is vulnerable to Valyrian Steel. In a single strike, Arya inflicts 88 damage, enough to barely deplete the Night King’s pool of hit points. The players erupt in applause and excitement. The Night King is destroyed.
+
+Arya Stark is a ninth-level rogue. Though I think we can all agree that she just passed to 10.
+
+Curious about this particular breed of nonsense? Check out Top of the Table for more on role-playing games like D&D, along with a wealth of other board, card, miniature, and role-playing games. 
+
+            .
+
+Matt Miller
+Senior Previews Editor
+Matt Miller has been with Game Informer since 2004. He has a special interest in the evolution of game design, the tabletop hobby, and the crafting of interactive narrative. 
+
+Email
+Twitter
+

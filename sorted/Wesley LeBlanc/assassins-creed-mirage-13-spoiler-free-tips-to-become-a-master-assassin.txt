@@ -1,0 +1,124 @@
+
+  Assassin's Creed Mirage: 13 Spoiler-Free Tips To Become A Master Assassin
+
+
+
+
+
+
+            Ubisoft revealed Assassin's Creed Mirage during a special celebratory event for the franchise's 15th anniversary. After several trailers, gameplay videos, and even a Game Informer cover (check out our hub here for exclusive behind-the-scenes content and more), the game is finally out for everyone. 
+
+If you've kept up with Mirage, you know it's a bit of a return to the series' roots. After completing the game, it's safe to say that's definitely the case, with Mirage falling somewhere between where this franchise began and the modern RPGs of late. It feels modern but ditches the RPG mechanics and nature of the open-world games and instead embraces series tradition: a singular city to explore, a focus on stealth and parkour, one-hit assassinations, and more. 
+
+You can read Game Informer's Mirage review here for a fuller look at the overall experience, but if you've made your mind up and are ready to jump into ninth-century Baghdad with assassin Basim, we have some tips and tricks for you to read first. 
+
+Here are 13 tips and tricks for Assassin's Creed veterans and newcomers to master the ways of the Hidden Ones in Mirage: 
+
+1
+
+            Pay Attention To Your Last Known Location
+
+            Pay attention to your "Last Known Location." This is represented in-game by a yellow-golden outline of Basim that looks as if it's made of sand. When you see it, that's Mirage telling you that you're technically out of the sightlines of guards who might be chasing you. That Last Known Location outline is the last guards have seen of you, which means it's where they will look. They'll also cautiously look around the area to see if you're nearby, but hopefully, you aren't – let that Last Known Location appear and then disappear.
+
+2
+
+            Bypass The Pickpocketing Minigame With Sleep Darts
+
+            In Mirage, to pickpocket an individual, you must complete a minigame. A diamond shape appears on screen with an outline that grows smaller toward the center of it. Along its path to the center is a blue diamond outline. You must hit the pickpocket button when the moving diamond outline is inside the blue diamond outline. Do this for a successful pickpocket; fail, and the would-be victim will alert local guards. You'll want to run away if you fail.
+
+Some pickpocket attempts are quite challenging, and if you aren't good at the pickpocket minigame, all attempts will likely be difficult. But you can make it much easier by using a sleep dart (upgrade your Blow Dart Tool to Tier 1 to unlock this). Once hit, the target will briefly fall asleep, and you can easily pickpocket them, bypassing the minigame altogether.
+
+3
+
+            Look For White Sheets
+
+            Mirage's Baghdad is a parkour paradise for Basim. There are pathways in and out of the city, every which way you look. But if you don't know where to look, you might struggle to identify more optimal paths from here to there. Fortunately, developer Ubisoft Bordeaux has included an easy-to-spot indicator that essentially says, "I am the start of a nice freerun parkour path." That indicator is a white sheet. It might appear hanging off a ladder, on a building, up a slanted ramp, on some crates to climb, and more. If you need a speedy getaway or want to find a fun path on the rooves of Baghdad, look for a white sheet.
+
+4
+
+            Gallop Efficiently 
+
+            Basim's horse or camel can gallop at great speeds. However, it can only do so if it has stamina. Galloping on the streets and clear paths of Baghdad and the surrounding wilderness will not deplete your mount's stamina at all, so if you're trying to get somewhere as fast as possible, stick to the roads. If you gallop off the streets, the mount's stamina will deplete.
+
+5
+
+            How To Earn Skill Points Fast
+
+            Skill points primarily come through mission/contract completions, not XP for killing enemies or other actions. Watch for contracts that show skill points as rewards, as that's the fastest way to get those additional skills. In one of our editor's playthroughs, they focused 90 percent of their time in Baghdad on main missions, with the other 10 percent going toward contracts and general exploration. When they rolled credits, they had obtained all but four skills, which is to say, by the time you roll credits, you'll have most of the skills unlocked. Of course, if you want a specific skill as soon as possible, completing contracts alongside story missions is the fastest way to make that happen.
+
+6
+
+            Upgrading Offense And Defense
+
+            Basim's armor doesn't improve his survivability; it only grants a related special ability unique to that armor. As such, Basim will always feel more squishy and vulnerable than many other recent Assassin's Creed protagonists. Plan accordingly. However, upgrading his dagger and sword can help improve Basim's defense and offense, as both weapons see these stats increase with subsequent upgrades. It's important to note, though, that you can't upgrade weapons and armor whenever you want. You must first obtain the associated schematic in Baghdad to upgrade. These can be found in fortresses on tables, in specially guarded chests that require token payments, and more.
+
+7
+
+            Focus On Stealth
+
+            Mirage is far more focused on stealth and tool usage than other recent installments, which may shock players used to controlling a Viking warrior or Greek hero. In general, you should avoid outright conflict. If you find yourself in conflict with numerous individuals, either flee or use tools like the smoke bomb to even the odds. Fortunately, Ubisoft Bordeaux built Mirage around this premise of stealth and avoiding conflict as much as possible. You'll find that when invading fortresses, garrisons, and other guarded areas, there's plenty of cover for Basim to remain in stealth, be it tall grass or bushes, prayer cabinets, or just a good old-fashioned crate. 
+
+8
+
+            Lowering Notoriety
+
+            Don't be afraid to pay the vendors (in the appropriate token currency) in the world who can reduce your notoriety/wanted level. Having additional scrutiny can make things much harder, especially ahead of a complicated or challenging contract or mission. But if you don't have the required token currency, run around a bit – you’ll find Wanted Posters all around Baghdad when your notoriety is high with your face plastered on them. Tear them down (wait for the coast to be clear, though, because if a citizen sees you do this, they will try and alert guards), and your notoriety will drop one tick. The max is four, so at most, you’ll only need to find four Wanted Posters.
+
+9
+
+            Use Enkidu Often
+
+            Enkidu is a special eagle Basim has at his disposal. Narratively, it's a rite of passage for assassins and a friend to Basim. Mechanically, Enkidu works like a drone, or eyes in the sky, that can give you a view of the surrounding area from above, and even mark enemies and locate objectives.
+
+Use Enkidu before almost every infiltration, and tag guards ahead of time. In some instances, marksmen will try to shoot Enkidu out of the sky, but those marksmen are then tagged. Getting to those high points quickly and clearing them is a good idea so you can get Enkidu out again. If you really take a liking to Enkidu's abilities (and you probably will), there are various worthwhile skills to prioritize in Basim's skill tree. You can expand Enkidu's range and sight visibility and even make it so that guards marked by Enkidu have their walking paths revealed, making it easy for Basim to see where they're going.
+
+10
+
+            Focus On Upgrading Tools
+
+            Tool upgrades are immensely valuable in improving your overall power and ability to control a situation. Watch your resources, and target the tools and tool upgrades that will most benefit your playstyle. We mentioned completing contracts earlier to obtain additional skill points. While completing standard story missions will net you a healthy amount of skill points, the same can't be said for resources. As such, if you want to upgrade each of your tools to their fullest potential, you need to complete contracts often.
+
+11
+
+            Don't Forget To Refill Your Resources
+
+            Make a point of regularly refilling your elixirs and tools at the merchant. It is a worthwhile investment to pay the tokens to item merchants to lower the costs of items, up to a max of 30 percent reduction, as you'll be refilling all the time. Assassin's Bureaus also often have a chest near the door that includes at least a partial refill of some of your tools. If you're wary of spending tokens to reduce item prices, collect Dervis Artifacts scattered around Baghdad instead. After obtaining enough of these (3, 6, 9, and so on), you can turn them into Dervis to lower his prices by 10 percent each time. He sells the same materials, dyes, tool resources, and elixirs as other merchants around Baghdad.
+
+12
+
+            Sell Your Trinkets
+
+            At those same merchants, don't neglect to sell your trinkets. You don't need to hold onto any of these. Sell them as soon as possible to get money for other purposes. And there's even a button to sell every trinket you have at once.
+
+13
+
+            Sync Up At Every Viewpoint
+
+            While opening up every fast-travel viewpoint is unnecessary (unless you enjoy doing so), we recommend opening up strategic spots in every region of the map. Put another way, if you are close to an unlockable fast-travel point that is relatively far away from your other unlocked fast-travel points, it's worth completing the climb. The missions and contracts of the game will inevitably send you back to locales you've already visited two or more times, and it's easier to return if you already have a tower unlocked.
+
+            If you're curious what we thought about the game, be sure to read Game Informer's Assassin's Creed Mirage review. 
+
+What tips and tricks do you have for other Assassin's Creed Mirage players? Drop them in the comments below!
+
+      Products In This Article
+
+Assassin's Creed Mirage
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, PC, iOS
+
+Release Date:
+
+October 5, 2023 (PlayStation 5, Xbox Series X/S, PlayStation 4, PC), June 6, 2024 (iOS)
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

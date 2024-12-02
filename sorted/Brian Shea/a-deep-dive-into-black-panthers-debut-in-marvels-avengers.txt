@@ -1,0 +1,114 @@
+
+                                                                              Marvel's Avengers - War for Wakanda
+                                                             & Marvel's Avengers
+                              
+
+
+  A Deep Dive Into Black Panther's Debut In Marvel's Avengers
+
+
+
+
+Platform
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Stadia, PC
+
+Publisher
+Square Enix
+
+Developer
+Crystal Dynamics
+
+Release
+August 17, 2021
+
+Rating
+Teen
+
+            Next week marks the release of War for Wakanda, the largest content drop Marvel's Avengers has received since it launched in 2020. Ever since it was announced in Crystal Dynamics' 2021 roadmap for the game, it has been the entry many players have circled on the calendar as the primary destination. We haven't had a chance to go hands-on with the new expansion quite yet, but we did get to see it in action and speak with the team to learn more about Black Panther's introduction to the game.
+
+Wandering in Wakanda
+
+In addition to adding new story campaign missions in the new Wakanda biome, players can also look forward to exploring the area to find iconic Wakandan locations like Shuri's Laboratory and the Wakandan War Room in the Royal Palace outpost. New enemy types, two named villains, drop zones, and villain sectors round out the expansion to give players more content than any previous addition to Marvel's Avengers.
+
+My video tour of War for Wakanda showcases the first two missions of the single-player story campaign, as well as the Birnin Zana outpost. After a brief cutscene giving the backstory of Wakanda and its source of Vibranium, we hear Zawavari plead with T'Challa to reopen the borders so he can help in the ongoing fight against AIM. However, it might not be necessary for Black Panther to re-enter the world to take part in the fight, as Ulysses Klaue has brought the fight to Wakanda.
+
+Klaue enters Wakanda in search of Vibranium, and it's up to the Black Panther to disrupt his plans to bleed the isolated nation of its most precious resource. The jungles of Wakanda are lush and beautiful, but Klaue's forces aren't exactly respectful to the natural splendor. Their first appearance features them setting charges to explode. Thankfully, Black Panther arrives just in time and prevents the explosives from detonating. 
+
+After a confrontation with the mercs, the player takes control of T'Challa as he roams through the jungles. Black Panther is nimble, with ample jumping and wall-running capabilities. T'Challa may not be as talkative as his quip-ready counterparts like Tony Stark, but Christopher Judge (best known as the current voice of Kratos in God of War) delivers the Black Panther's lines with conviction. 
+
+"We were thinking of who our T'Challa was: We knew we wanted him to be older, a more experienced king, a more experienced Black Panther, and we had this wishlist of actors who we thought, 'We want that caliber. These people won't say yes, but that's what we're going for,'" writer Hannah MacLeod says. "And Chris Judge was number one. We were like, 'There's no way he's going to do it,' but that's what we were looking for. But we were like, 'Maybe we'll ask. I mean, you never know! The worst he can say is no,' and then he said yes! And I lost my damn mind."
+
+As T'Challa arrives on the scene, we get our first glimpses of him in action. It turns out Black Panther is just as quick in combat as he is in transit. By pouncing and parrying, Black Panther shows he is more than capable in battle and looks to be a ton of fun in fights. Combining ranged and melee attacks, Black Panther eliminates a group of enemies with the agility of the big cat from which he takes his name.
+
+Throughout Wakanda, corrupted Vibranium clusters pop up, a result of Klaue's mining of the resource. While Black Panther doesn't know exactly what the cause is right off the bat, he knows one thing: the corrupted spires must be destroyed to prevent them from spreading. The next sequence has him taking on several enemies while trying to destroy three of these clusters. After completing this combat sequence, T'Challa activates a shortcut to the heart of the city, where he hopes to meet up with Okoye and Shuri. Along the way, he encounters loot chests, secret tunnels, and a ton of scenic vistas. Unfortunately, he returns to a city under attack and doesn't exactly receive the welcoming party he was hoping for.
+
+Without going into too much detail beyond this point, T'Challa continues working with his fellow Wakandans to uncover the mystery of exactly what Klaue is up to. As you play through, you not only get a ton of banter between the characters but also lots of backstory about the nation. I left my video demo excited to see where the story goes from here. It also quickly becomes apparent that while Black Panther is certainly the star of this expansion, this is still a game about the Avengers.
+
+"It's sort of, what are the themes of Wakanda that we wanted to explore, and then how does T'Challa fit in with the rest of the Avengers?" MacLeod says. "Whenever we're adding new characters, our discussion always is, 'What were they doing before A-Day? Where were they on A-Day? And then what was their reaction to it?'"
+
+Prior to the events of Marvel's Avengers' main story, T'Challa was in talks with Captain America about potentially forming an alliance with the Avengers, but after A-Day, where Captain America was thought to have been killed, the King of Wakanda severed talks and closed the borders. "The one person that he trusted – the designated adult in the group – was gone, and so they thought they were better off protecting themselves and closing Wakanda's borders," MacLeod says.
+
+Showing Its Klaue
+
+Wakanda is impressively detailed and distinct from any other biome in the game, but for players who are tired of fighting endless AIM employees and robots, the highlight is the opportunity to take on some new enemy types. "The benefit of it being a games-as-a-service and something we can continually update is we can look at new mission designs, new objectives, and add ways to vary that play experience for people," senior game designer Scott Walters says. "With the enemies, we get to introduce new combat requirements that change how the fight plays out. [...] We wanted to add new enemy archetypes to the Wakanda mission. It made sense because there was a new villain who has his own faction, his own recruits underneath him."
+
+The primary characters T'Challa faces in War for Wakanda are the Klaue Company, a band of mercenaries with abilities players haven't seen before. These enemies don suits of corrupted Vibranium, which can become unstable if they deal a chain of successful hits. When this happens, they take less damage, and hit reactions are downgraded. The Bruiser carries around a huge ax, while the Strategist is a support enemy that deploys small drones around the battlefield to buff other mercs in the area. Meanwhile, some sonic-themed mercenaries have an ability called Sonic Aura, which protects the shielded merc from projectiles and melee attacks. Standard mercs with guns also help round out the roster of enemies you take on.
+
+On top of those enemies, players can look forward to facing off against two new named villains. While everyone knew Klaue was going to make an appearance since the first trailer, another villain players will recognize from both the comics and the MCU shows up. Crossbones, a brutal adversary who has history with multiple Avengers, joins the fight alongside Klaue.
+
+"I think what's really fun about the sheer amount of Marvel villains on our roster is we get to really dig into what would be the most interesting twist and turn from what we've done previously," MacLeod says. "Crossbones has some of the most iconic comic dialogue ever because he just enjoys himself so much, but he's also got some interesting tricks up his sleeve. There's always a lot of discussion of who we think our villains should be. Klaue doesn't really get his hands dirty in the same way as other villains might, so we needed him to have a character who would have no problem with that."
+
+Fit for a King
+
+Black Panther is one of the most dynamic characters on the Avengers. Not only is he fast and powerful, but his skill tree allows him to perform acrobatic abilities to take out enemies. "When we started looking at the design for what his movement and his combat was going to be like, we knew we really wanted to capture that very agile, acrobatic nature of his combat, and still celebrate the strength and power that his has," senior game designer Scott Walters says. "We looked at reference footage from the movies, we looked at reference comics. We had Gee Alexander, who was the stunt double for Black Panther in the movies, come in and do motion capture for us."
+
+Whether you're spamming the light attack button to perform a series of spinning and somersaulting strikes or launching that enemy into the air and slashing away at them, King T'Challa's move set empowers you to take on all challengers easily. He can even pounce on human-sized enemies and hold them down while beating them up. 
+
+On the ranged side of his skill tree, you toss daggers, which can be upgraded to be heat-seeking, piercing, or rapid-fire. However, the real powers come into play with Black Panther's intrinsic skills, which involve the kinetic energy capabilities of his suit. By blocking incoming attacks, he builds up the intrinsic meter. Using the energy in that meter, he can perform powerful finishers, unleash a blast of energy that knocks back enemies and increases damage for 10 seconds, or use devastating heavy attacks.
+
+Once you get into Black Panther's heroic abilities, he starts to shine. With beads that let him heal allies and stun enemies, his support heroic is versatile. His assault heroic constructs an upgradeable Vibranium spear that can pierce and pin targets. Finally, his ultimate heroic summons Bast, the panther protector, to attack enemies on the team's behalf.
+
+The Road Ahead
+
+Crystal Dynamics' foray into the Marvel Universe received praise for its single-player story content. However, the multiplayer portion, where the studio hoped would sustain the game for players long term, has been harshly criticized over the course of its first year. To the team's credit, it has continued adding new content and various improvements to the title over its first 12 months, with story content alone now topping the 25-hour mark. But it remains to be seen what will be the tipping point or tentpole content release that could bring a large community of regular players back into the fold.
+
+To this point, players have received various free content releases, including Kate Bishop's Operation: Taking AIM, Hawkeye's Operation: Future Imperfect, and the Scientist Supreme's Cosmic Cube event. The most anticipated content players still have to look forward to following this release is the PlayStation-exclusive Spider-Man, which still does not have a release window beyond "2021." Besides that, players will still have the new Patrol mode and a new Omega Level Threat, but Crystal Dynamics isn't quite ready to talk about anything except what was already announced.
+
+War for Wakanda is available on August 17 at no additional cost for all players of Marvel's Avengers. If you've been out of the loop on the game, you can check out our breakdown of the 2021 content roadmap here to see what has been added recently, or see the full list of all playable characters in Marvel's Avengers here.
+
+      Products In This Article
+
+Marvel's Avengers - War for Wakanda
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Stadia, PC
+
+Release Date:
+
+August 17, 2021
+
+Purchase
+More Info
+
+Marvel's Avengers
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Stadia, PC
+
+Release Date:
+
+September 4, 2020 (PlayStation 4, Xbox One, Stadia, PC), March 18, 2021 (PlayStation 5, Xbox Series X/S)
+
+Purchase
+More Info
+
+    expand for more
+
+Brian Shea
+Online Content Director
+Brian has written about video games for more than 15 years across multiple publications. Brian is also the host of All Things Nintendo, a weekly podcast focused on the news and games of Nintendo.
+
+Email
+

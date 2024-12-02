@@ -1,0 +1,60 @@
+
+  Diving Deep Into Sea Of Stars’ Nostalgic Soundtrack
+
+
+
+
+
+
+            One of Sea of Star’s most compelling selling points is the involvement of Chrono Trigger composer Yasunori Mitsuda. To know that a game heavily inspired by Chrono Trigger will feature music from the man behind its score is exciting. Still, it is worth being excited for the soundtrack that Mitsuda will not be directly involved with, as well.
+
+The majority of Sea of Stars’ soundtrack is in the hands of the talented Eric W. Brown, who also composed the soundtrack for The Messenger. Brown’s musical history started with playing drums in metal bands. “I've been a drummer since I was a kid and I'm still a drummer now, but, you know, I got into music production via chiptune essentially,” Brown says.  Around 2006 he decided to focus on making music on his own in the chiptune genre, primarily on Game Boys. When the opportunity to work on The Messenger came along, he graduated to making NES, Super Nintendo, and Sega Genesis-flavored music.
+
+ You're missing out!Normally this is where something cool would show.  Your browser is blocking third-party cookies so we're unable to display this content.Try clearing your browser cache, disabling ad blockers, and verifying that cookies are allowed: Verify cookie preferences
+
+Brown enjoys working within the confines of the 16-bit era, and even takes advantage of an online database various musicians have coordinated over the years to figure out exactly what sorts of samples and tools video game composers used back in the day. Composers like Brown use it to track down specific sound modules and even specific keyboards used to make the music of the past. With that said, though, Brown is not placing many self-imposed restrictions on himself for Sea of Stars’ soundtrack.
+
+Like the game's visuals, it is undeniably inspired by 16-bit RPGs, but Sea of Stars is not a game that could exist on a Super Nintendo, and the same can be said of the music. “I definitely could have done that, and that's what we did with The Messenger,” Brown says when asked if the music could conceivably come from a Super Nintendo.“For this, during the pre-production phase, I was experimenting, and I think initially, I wanted to do a more hi-fi type of thing. But ultimately, what we landed on was something that doesn't take you out of the moment, in a retro sense. It's the same thing that we're doing with the visuals. None of that would work on a Super Nintendo, necessarily. Not the way that it looks.”
+
+One instance, however, where Brown did go out of his way to simulate the limitations of the Super Nintendo intentionally was with how the sound effects would sometimes interrupt the music. Because the Super Nintendo only had so many sound channels, often when a player activated a sound effect by looking through a menu, for example, that sound would overtake the drum or some other element of the music track. Ironically, it took more work for Brown to implement that sound interruption in Sea of Stars, but he wanted it in the game. “It's really subtle, but I think anyone who would recognize that from Super Nintendo will appreciate it. And that's why I did it.”
+
+ You're missing out!Normally this is where something cool would show.  Your browser is blocking third-party cookies so we're unable to display this content.Try clearing your browser cache, disabling ad blockers, and verifying that cookies are allowed: Verify cookie preferences
+
+For the music, Brown wants it to recall Super Nintendo without faithfully emulating it. Part of that is focusing on making the soundtrack more impactful with melodies and hooks. Most contemporary soundtracks effectively focus on setting a subtle mood in the background, but that wasn’t the case in the past. “I think part of the reason that retro soundtracks were so catchy is because they had so little to work with. The hardware was a very limited sound palette. On the Super Nintendo, for instance, you only had eight channels. Whereas nowadays, you have essentially infinite channels,” Brown says. “To me, it just feels like the compositions were so much stronger because they had such limitations – the classic saying that ‘limitation breeds creativity.’ But yeah, I think that a staple of retro games was just really strong hooks.”
+
+And when it comes to RPGs, the strongest hook is often the battle theme. Arguably the most heard and repeated music. “Well, that's the ultimate question,” Brown says in response to how you make a battle theme not get repetitive. Sea of Stars has several themes for different bosses, but for the core, standard combat, there are only two – one for day and one for night. They are essentially the same, but Brown says the night version features more shiny bells and other subtle rearrangements. “I think. Personally, I had an easier time with battle themes because they're more upbeat and exciting,” Brown says, but the fear of it becoming repetitive was pervasive. Brown toyed with making myriad themes depending on the scale of the fight but acknowledges that writing too much music is its own challenge. Brown says he has composed about 150 tracks for the game, and then there are about ten more coming from Mitsuda.
+
+ You're missing out!Normally this is where something cool would show.  Your browser is blocking third-party cookies so we're unable to display this content.Try clearing your browser cache, disabling ad blockers, and verifying that cookies are allowed: Verify cookie preferences
+
+Along with music, Brown works on the larger soundscape, creating all the game’s sound effects. A deceptively important one for RPGs is the menu beeps. Those sounds end up being heard the most, often more than the combat sound effects. But how do you make an iconic menu sound effect? “To be perfectly honest, I just tried stuff,” Brown says. “My thought process was… I don't want it to sound retro. But I want it to sound pleasing.”
+
+One type of song Brown says isn’t in Sea of Stars yet, but was in Chrono Trigger, is a legally distinct but remarkably similar song to Rick Astley's Never Gonna Give You Up. “[Laughs] Not yet, but I feel like that would be a pretty good opportunity.” I suggested a different 80s hit song that has been similarly involved in many memes: Toto’s Africa.
+
+The combat theme might be the most pervasive music in the game, but Brown’s favorite themes to create are for the bosses. “I think those come the most naturally as like a metal guy,” Brown says. But Brown leaned on his metal roots for more than just making intense, upbeat battle music. He also leaned on his vocalist friends for some of the monster sound effects. “I called up a lot of my vocalist friends, and I got them to just record a voice memo,” Brown says. “I had no direction for them other than, ‘I just want stuff to add to the pile that I can chop up and process.’ And they're like, ‘Yeah, cool.’ So they just send it over, and so I have like a stockpile.” You would never be able to pick them out individually, but Brown says Riley McShane of Allegaeon fame, Patrick "Admiral Nobeard" Henry from Swashbuckle (of which Brown played drums), and others are all mixed into the game in subtle ways.
+
+ You're missing out!Normally this is where something cool would show.  Your browser is blocking third-party cookies so we're unable to display this content.Try clearing your browser cache, disabling ad blockers, and verifying that cookies are allowed: Verify cookie preferences
+
+Sea of Stars is coming to PlayStation consoles, Xbox Series X/S, Xbox One, Switch, and PC on August 29. For a lot more on the game, you can check out the most recent issue of Game Informer magazine.
+
+      Products In This Article
+
+Sea of Stars
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC
+
+Release Date:
+
+August 29, 2023
+
+Purchase
+More Info
+
+Kyle Hilliard
+Magazine Content Director
+Kyle plays entirely too much Picross. He once wrote a whole book about The Legend of Zelda.
+
+Email
+Twitter
+

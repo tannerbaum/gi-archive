@@ -1,0 +1,54 @@
+
+  Diablo Fans Should Pay Attention To Warhammer: Chaosbane
+
+
+
+
+
+
+            In its 20-year history, developer Eko Software has experimented with a number of genres. Its catalog of nearly three dozen games includes endless runners, sports titles, top-down shooters, and puzzle platformers – and now the studio is once more trying something new with Warhammer: Chaosbane, its first loot-centric hack n’ slash game, set in the Warhammer fantasy universe. I had a chance to play the private beta, experimenting with its deep loot and progression systems, dabbling with online multiplayer, and learning the nuances of two of the game’s four playable characters.
+
+Warhammer: Chaosbane is an isometric action/RPG that feels immediately familiar to anyone who’s played a Diablo game. In both games, you and some friends explore twisted dungeons, cut swaths through hordes of demons, collect and equip loot to enable you to defeat tougher enemies, and repeat. Character progression is at the center of both games but Chaosbane sets itself apart with its Warhammer title. It’s set in the long-running Warhammer fantasy universe, which spans novels, tabletop RPGs, and video games, so Chaosbane’s world, and the forces of Chaos that threaten it, are a treat for franchise fans.
+
+To fight back against the Chaos hordes, players start the game by choosing from one of four character classes – Konrad Vollen is the Imperial Soldier whose abilities emphasize close-quarters gameplay; Prince Elontir is the High Elf Mage whose arcane powers – ranging from hurling fireballs to calling down bolts of ethereal lightning on foes – encourage ranged attacks; Bragi Axebiter and Elessa are the Slayer and Wood Elf Scout classes, respectively, although they were locked during the private beta. Each character has their own backstory, but character development ends after the game’s expository opening cutscenes, taking a backseat to Chaosbane’s moment-to-moment gameplay. It’ll be interesting to see if each of these characters changes throughout the game’s campaign.
+
+Chaosbane’s plot stays the same for each of the classes you can choose from: Your character serves Magnus, a soldier who has united the world’s warring factions and leads the fight against Chaos. At the beginning of the game, a sorceress puts Magnus under a curse, and players are tasked with tracking her down in order to reverse it. You complete the same missions regardless of which class you chose at the start, a design decision that supports the game’s multiplayer (see sidebar). In the game’s early hours, your task is to exterminate a cult that’s set up shop in the sewers beneath the city. There is plenty of enemy variety here: swarms of gremlin-like creatures dance around you like flies, often serving as distractions from slower, heavier-hitting enemies that lumber out of the shadows. Just as combat begins to feel comfortable, a mission doles out new enemy types that made me sweat a little and forced me to try out new attack combinations.
+
+Warhammer: Chaosbane is also a multiplayer game, giving players the option to play in local and online co-op with up to four players. The difficulty spikes during co-op sessions with enemy health bars scaling to the number of players in the game. Loot seems to be fairly distributed during co-op sessions – items drop for all players, so you don’t have to worry about someone stealing your hard-earned gear. There’s incentive for playing online, too, as each additional player in the session boosts the amount of experience earned at the end of a quest.
+
+We tried jumping into online co-op during the private beta, but our first session ended abruptly when our random co-op partner lost connection, which froze our own game, forcing us to restart the dungeon. Subsequent attempts to join games with other players ended in failure. We enjoyed romping around the sewers with our online friend – so hopefully this is a feature that gets ironed out for launch.
+Harder enemies, like a large Cthulhu-inspired sewer monster that spits poison gunk at you, require dodging out of the line of fire. Without a designated dodge mechanic, though, these enemies aren’t as fun to encounter; with so many enemies on screen, it’s easy to accidentally click a bad guy instead of an empty space, leading to a handful of deaths when I couldn’t move out of harm’s way. This is a minor grievance, but it occurred more frequently the longer I played, as the game pits you against increasingly larger hordes of enemies.
+
+While the plot and missions you embark on remain the same for each character, both classes I played had enough nuance in their skill trees that made starting over with a new character feel worthwhile. Prince Elontir, whose passive ability allows you to guide a ball of damage-dealing mana with your mouse, played very differently from Konrad Vollen, who baits enemies into close-quarters with an ability that increases damage within a certain radius around him. I’m excited to see if both the Slayer and Wood Elf Scouts offer experiences unique from each other, as well.
+
+There are more than 180 skills to mix and match in Chaosbane, but the number of skills you can have active at a given time is locked to your character’s level. At first, we made Prince Elontir a jack-of-all-trades magician, kitting him with a mixture of low-level elemental spells, but once we’d unlocked a few stronger versions of spells, we replaced a few of our weaker abilities with a high-level fire power. High-level spells require more skill points to equip, and your character has an exhaustible number of skill points to allocate, so choosing which spells to equip and which to bench is always a hard choice.
+
+Chaosbane’s skill trees and character progression are deeply tied to its loot systems. Just like in Diablo, there’s a lot of loot in this game, which you find in chests and enemy corpses as you explore dungeons. I expected to find item sets, which you typically expect from a loot-centric game, but I didn’t come across any during my time in the beta. Each piece of gear does have its own unique attributes, though, like ability cooldown reduction and increased drop rate for high quality gear, that offer a healthy variability in customization. You need to equip your best items early and often: even in just five hours of play, the difficulty ramped up significantly, so making sure I had the best loot equipped before and during missions became a critical part of my gameplay loop. 
+
+That said, inventory management isn’t always breezy. New items are starred on the inventory screen, and while there’s a handy feature that allows you to compare highlighted gear to your currently equipped gear, the interface frustratingly lacked an option to organize loot by type. 
+
+After a few hours of play, I felt that cutting through hordes of enemies in the sewers, gathering loot, and speccing out my characters was fun... but it started to feel easy. So easy that I didn’t really have to think about numbers as I made progression and gear choices. 
+
+That’s when we realized I was playing on normal mode. 
+
+Chaosbane offers nine levels of difficulty, and normal is third from the easiest. Higher difficulty levels were locked for the beta, but for fun, I kicked it up one notch from normal to hard. The spike in challenge is significant. Smaller enemies hit harder, and mini-bosses feel like actual threats. It’ll be fun to play the game when those higher difficulty levels are unlocked, where paying attention to stats and skills will likely reward numbers-focused players.
+
+For a studio that’s never developed a loot-based dungeon crawler before, Chaosbane’s beta is a strong indication that Eko Software is prepared to take on the challenge. I enjoyed its progression grind, and I expect to spend dozens more hours experimenting with new gear and abilities once the full game is available. 
+
+Warhammer: Chaosbane launches on June 4 for PS4, Xbox One, and PC. If you need something to scratch your itch for monster-hacking and loot-snatching, Blizzard just re-released an upgraded version of the original Diablo on PC. Last year, the company revealed Diablo Immortal, a sequel to Diablo III for mobile devices. Blizzard hasn't announced a release date yet.
+
+      Products In This Article
+
+Warhammer Chaosbane
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC
+
+Release Date:
+
+June 4, 2019 (PlayStation 4, Xbox One, PC), November 10, 2020 (Xbox Series X/S), November 12, 2020 (PlayStation 5)
+
+Purchase
+More Info
+

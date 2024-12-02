@@ -1,0 +1,42 @@
+
+   Interview: Inside The Development Of Xenoblade Chronicles 3DS
+
+
+
+
+
+
+We recently interviewed Nintendo, Monolith Soft, and Monster Games about their enhanced 3DS port of Xenoblade Chronicles.
+[Note: This interview was done via email by Game Informer's Kim Wallace, who is traveling at the moment. The questions were divided up amongst the three companies. Nintendo and Monster's answers are credited to the companies themselves, while Monolith Soft's were answered by game lead Tetsuya Takahashi.]
+
+Why was the decision made to bring Xenoblade to the 3DS instead of creating a HD version for the Wii U?
+Nintendo: With this project, we considered what kind of new value we could provide with the port. The result of this debate was that we chose the New Nintendo 3DS XL platform. Going with New Nintendo 3DS XL allowed us to add two new and valuable features to Xenoblade Chronicles. You can play the game anywhere, giving the ease of accessibility you only get with a portable system, and you can enjoy the game's large open areas in full 3D.
+What conventional aspects of RPG design were you most interested in improving with Xenoblade?
+
+Mr. Takahashi: Japanese RPGs are faced with a reality in which, with just a very few exceptions, they're mainly built with small-scale budgets targeted for the internal Japan market. The non-inclusiveness of this market has slowed the advancement of the RPG genre, bringing it into stagnation. With this game, the first priority as we considered the design was how to channel our limited budget and resources to create something gamers not just in Japan - but around the world - would seek out. Along those lines, we scrutinized all the game aspects we needed, assigned priority levels to each one, and carefully built it up from there. With this game, we devoted everything we could to satisfy gamers.
+How did the idea come about to see into the future and have it be an element in used in battle?
+
+Mr. Takahashi: From a story perspective, the theme of the heroes trying to overcome a predestined future was always there, so that idea came out from the ensuing feedback among the designers. It'd be weird if you could do certain things in the story but not in battle, as well. So when you're faced with the danger of death in battle, you're able to unleash that ability, making it important to use your assorted Battle Arts to change the future and avoid that fate.
+What were the discussions like for placing Shulk in the new Smash Bros? Did the idea for the Shulk bathing suit skin come from Monolith or Mr. Sakurai?
+
+Mr. Takahashi: New characters for Super Smash Bros. are determined by Mr. [Masahiro] Sakurai. Nintendo had released several new RPG games around 2010, but it sounds like Xenoblade Chronicles stuck out to him in particular due to its high quality and popularity. He also had the idea that Monado Arts can be used to change Shulk's nature in battles, allowing him to add new and completely different elements to the character that other fighters don't have. The Shulk bathing-suit skin was also an idea from Mr. Sakurai.
+What's the biggest piece of feedback on Xenoblade that you're incorporating into Xenoblade Chronicles X?
+
+Mr. Takahashi: In terms of technical aspects, the feedback we received was all pretty obvious things, so none of them are worth particular note here. The biggest feedback we received came in terms of the stances and frames of mind each member of the team brought to the project. I think the fact that we were able to devote time and attention to things like not giving up on what you want to make, and figuring out what gamers want and how to make, that happen instead of pushing your own likes forward had a pretty big effect.
+
+Xenoblade was such a massive game. What features did you find the most difficult to implement and also what features were you most proud of after finishing Xenoblade? Were there any ideas that you wanted to include but didn't manage to implement?
+
+Mr. Takahashi: In terms of a functionality or engineering perspective, there wasn't anything particularly difficult. Xenoblade Chronicles is certainly a game running on huge, massive specs, but the tech used to create each individual feature and aspect was all pretty universal in nature, the kind of thing that any publisher or developer the size of Monolith Soft would have.
+
+What isn't so easy, however, is taking all these aspects and gathering them together into a single, well-balanced game. Many developers have faced setbacks and failures concerning this particular point. With this game, too, the hardest part was just trying to mold all these massive elements into a single whole. Following from that, the thing I'm the most proud of is that we managed to pull it off. As far as ideas we couldn't implement, the two that come to mind first was the ability to fly and to string all of Bionis' body together into a single open world. These ideas were both brought into and implemented in Xenoblade Chronicles X.
+
+Since Monster has done two [Monster ported Donkey Kong Country Returns to 3DS - Ed.]  so far, are most Wii games technically capable of being ported to the New 3DS?
+
+Monster Games: We can't speak about most Wii games, since the source code and game data for all games are different. What we can say is that we think that more ports are possible with the additional RAM and CPU speed of New Nintendo 3DS XL. Our initial plan was to port the game to the original Nintendo 3DS, but the results were not positive. Fortunately, we learned about the specifications of New Nintendo 3DS XL hardware, and suddenly the project became possible. We still had to rewrite the graphics engine, rebuild all the game assets and convert all the source code and game data.
+What lessons from Xenoblade Chronicles 3D can Monster apply to future projects? 
+Monster Games: We learn lessons from every project that we do. After our experience with the Donkey Kong Country Returns 3D project, we knew that we wanted to convert the game-play logic as early as possible with minimal changes. This is especially true with Xenoblade Chronicles since it is a huge game. We had the game running before the graphics were completely converted and the UI redesigned. The game looked very rough, but it was playable. With most of the team testing the game early in development, bugs were found sooner and the game became very stable. This allowed our team to focus on optimizations and new features at the end of the project. If we do another conversion, we will try to use the same technique.
+How hard was it bringing such huge open worlds to the New 3DS and getting them to run smoothly? Which environment from the game specifically was the toughest to get up and running on the new hardware?
+
+Monster Games: The huge open worlds presented our biggest technical and artistic challenge. The views were so long that even the New Nintendo 3DS XL hardware could not render them correctly and the performance was very slow at first. We had to design a new graphics engine with a custom visibility culling system and a complex level of detail system. As for the art assets, all of the worlds were rebuilt and optimized while keeping the same look and feel.
+Surprisingly, an indoor location, Agniratha, was our toughest environment. The level had many places where the screen contained the highest polygon count in the entire game.  Our artists and designers had to rebuild that level several times to get it to finally perform well.
+

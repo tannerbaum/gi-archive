@@ -1,0 +1,185 @@
+
+  Here Are The List Of Games You Can't Play On Steam Deck
+
+
+
+
+
+
+            Not long after Nintendo revealed its Switch OLED handheld, Valve came out and said, "hold my beverage of choice," and revealed its Steam Deck machine. A larger and clunkier version of the Switch, at least in appearance, the Valve machine's library opens up far beyond Nintendo's library, giving players a chance to check out games like Baldur's Gate 3 and other library picks from anywhere they choose with the handheld. That being said, not every game is playable on the newly revealed platform, so here is the list of games you can't play on Steam Deck. 
+
+Games You Can't Play On Steam Deck
+
+Before we dive into the "why" you can't play these games on the Steam Deck, let's first look at the games themselves: 
+
+Apex Legends
+Black Desert Online
+DayZ
+Dead by Daylight
+Destiny 2
+Fall Guys
+Hunt: Showdown
+Paladins
+PlayerUnknown's Battlegrounds (PUBG)
+Rainbow Six Siege
+Smite
+
+As a dedicated Destiny 2 player myself, that Bungie inclusion hurts a little bit because I smacked down a pre-order as soon as the broken Steam Store finally opened up the floodgates. While disappointing, there is actually an understandable reason why certain games couldn't make that final stretch. 
+
+Why Can't You Play These Games? 
+
+According to Protondb (via PC Gamer), some games aren't compatible with the Steam Deck because of how they are developed for consoles and how the Deck is Linux-based. Valve did make it to where Windows-based games can run on the Deck, though not everything could be made to work properly. You'll also note that the games listed share one thing in common: online multiplayer experiences. With certain MP games and the anti-cheat software they employ, the choice of going the Linux route is a double-edged sword. That's where the cut games list comes in.
+
+With the above multiplayer games just not doable, that doesn't mean that the library is small. Indie games, PC-only titles, and the majority of your Valve library can be played in the palm of your hand. It's also important to remember that even though these games can't run on the Steam Deck, that doesn't mean they necessarily will be off the table forever. Who knows, maybe Valve will look into a Windows option in the future? For now, let's just focus on the release, which is now slated for Q1 2022 for many that pre-ordered. 
+
+You can learn more about the Steam Deck machine right here. 
+
+Thoughts on the Steam Deck and what it can and cannot run? Sound off in the comment section below, even if it's just to lament the no Destiny compatibility. 
+
+      Products In This Article
+
+Destiny 2
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Stadia, PC
+
+Release Date:
+
+September 6, 2017 (PlayStation 4, Xbox One, Stadia, PC), December 8, 2020 (PlayStation 5, Xbox Series X/S)
+
+Purchase
+More Info
+
+Apex Legends
+
+Platform:
+
+PlayStation 4, Xbox One, Switch, PC
+
+Release Date:
+
+February 4, 2019 (PlayStation 4, Xbox One, PC), March 9, 2021 (Switch)
+
+Purchase
+More Info
+
+Rainbow Six Siege
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC
+
+Release Date:
+
+December 1, 2015 (PlayStation 4, Xbox One, PC), December 1, 2020 (PlayStation 5, Xbox Series X/S)
+
+Purchase
+More Info
+
+PUBG: Battlegrounds
+
+Platform:
+
+PlayStation 4, Xbox One, Stadia, PC, iOS, Android
+
+Release Date:
+
+December 20, 2017 (PC), March 19, 2018 (iOS, Android), September 4, 2018 (Xbox One), December 7, 2018 (PlayStation 4), April 28, 2020 (Stadia)
+
+Purchase
+More Info
+
+Dead by Daylight
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, Stadia, PC, iOS, Android
+
+Release Date:
+
+June 14, 2016 (PC), June 20, 2017 (PlayStation 4, Xbox One), September 24, 2019 (Switch), April 16, 2020 (iOS, Android), October 1, 2020 (Stadia), November 10, 2020 (Xbox Series X/S), November 12, 2020 (PlayStation 5)
+
+Purchase
+More Info
+
+DayZ
+
+Platform:
+
+PlayStation 4, PC
+
+Release Date:
+
+2014
+
+Purchase
+More Info
+
+Smite
+
+Platform:
+
+Xbox One, PC
+
+Release Date:
+
+March 25, 2014
+
+Purchase
+More Info
+
+Fall Guys
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC
+
+Release Date:
+
+August 4, 2020 (PlayStation 4, PC), June 21, 2022 (PlayStation 5, Xbox Series X/S, Xbox One, Switch)
+
+Purchase
+More Info
+
+Paladins
+
+Platform:
+
+PlayStation 4, Xbox One, PC
+
+Release Date:
+
+September 15, 2016
+
+Purchase
+More Info
+
+Black Desert
+
+Platform:
+
+PlayStation 4, Xbox One, PC
+
+Release Date:
+
+March 3, 2016 (PC), March 4, 2019 (Xbox One), August 22, 2019 (PlayStation 4)
+
+Purchase
+More Info
+
+Hunt: Showdown
+
+Platform:
+
+PlayStation 4, Xbox One, PC
+
+Release Date:
+
+August 27, 2019 (Xbox One, PC), February 18, 2020 (PlayStation 4)
+
+Purchase
+More Info
+
+    expand for more
+

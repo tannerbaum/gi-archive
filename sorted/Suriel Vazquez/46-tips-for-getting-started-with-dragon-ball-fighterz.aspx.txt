@@ -1,0 +1,238 @@
+
+  46 Tips For Getting Started With Dragon Ball FighterZ
+
+
+
+
+
+
+Dragon Ball FighterZ is out this week, but if you’re just now playing it for the first time, you’re already a little behind. Between two betas and tons of online footage breaking the game down, lots of players will have a decent grasp of what they’re doing, and although it's easier to get into than most fighters, there are still a lot of systems and features to dig into.
+To help get you up to speed for the game’s release, we’ve complied 57 tips to help you get through the story mode, learn the combo system from the ground up, and not immediately get Kamehameha’d to Snake Way when you hop online. If you're looking to unlock the game's hidden characters, check out our quick guide.
+Story Mode1. Leveling up characters in story mode offers new link
+events, which are short conversations with each fighter. The level requirements
+are different for each character, but each of them have seven conversations,
+and as a general rule, you’ll unlock one every ten levels (with some
+exceptions).
+2. The best way to level characters is to tackle every
+possible fight in the story mode, then start over on hard difficulty and
+re-clearing the maps on hard mode.
+
+3. You can also boost the amount of experience you get per
+fight by equipping experience boosters in the skills tab of the story mode’s
+party menu (you can access this by pressing Square/X on the map screen). These
+bonuses drop randomly after fights, so be on the lookout for them.
+
+4. In general, you won’t need the other power-ups for most
+of the story mode since your A.I. opponents tend to be pushovers, so feel free to
+equip three experience boosters to minimize grinding.
+
+5. Later opponents will begin testing you, and if you want to change up your tactics, a combination of health regeneration, defense, and special attack powerups should help you out in most fights.
+
+6. The final boss of the entire story mode has an attack where they gather energy and will decimate you if you don't cancel the attack in time. You can do this by using a Dragon Rush (R1/RB/light attack+medium attack).
+
+7. If you’re really only interested in leveling one
+character, you can remove everyone else from your party and duke against enemy
+teams solo. This does carry a risk, however, since losing forces you to restart
+the current map.
+
+8. You probably won’t 100-percent the story mode on your
+first time through. In order to do that, you have to unlock every possible
+conversation and story sequence.
+
+9. While most scenes come naturally (the main and
+sub-plot scenes will unlock if you finish the story mode and rescue every
+single party member along the way), the special events will take a bit of
+work. In order to unlock one, you have to pick the right members for your party
+and pit them against the right enemy.
+
+10. You can see which scenes you’re missing by checking out
+the “Arc Gallery” option on the story mode’s main menu, then scrolling down the
+the special events tab. For those you haven’t unlocked, you can see silhouettes
+(silver for party members, red for enemies) of every character you need to
+unlock the scene.
+CombosDragon Ball FighterZ makes it pretty simple to perform basic
+combos, but gets more fun when you start branching out.
+
+11. FighterZ has three kinds of auto-combos: One for mashing
+the light attack button (Square/X by default), one for the medium attack button
+(Triangle/Y) and the heavy attack button (Circle/B).
+
+12. The light and medium auto-combos flow into each other
+pretty well; starting a combo by mashing light attacks can punish unsafe moves,
+then following up with the some medium attacks can transition that combo into a
+super move.
+
+13. Once you have the general flow of those combos down, you
+can transition to a basic combo that goes something like this:
+
+Light >
+medium > crouching heavy (done by holding down and the the heavy attack
+button) > heavy (in order to rush towards your opponent to continue the combo)
+light > medium > heavy.
+
+14. That combo not only deals more damage than those from
+auto-combos, but will spike the opponent down at the end, preventing them from
+recovering quickly and giving you time to set up a new offense.
+
+15. You can also end this combo with a super move, as long
+as your opponent is dragging along the ground as you land.
+
+16. Once you have that basic combo down, you can elongate it
+further by combining standing and crouching attacks (done by holding down during
+and an attack button).
+
+17. A basic combo that strings together standing and
+crouching attacks goes something like this:
+
+Standing light attack >
+crouching light> standing medium > crouching medium > crouching qheavy
+> heavy (follow-up dash) > light > medium > heavy.
+
+This won’t work
+for some characters, but it will for much of the cast.
+
+18. You can augment your air combos with a jump cancel. It
+sounds tricky, but it’s really as simple as pressing up-forward after the
+mid-air medium attack. This lets you restart the light-medium-heavy string in
+the air. You can also start with the air combo with light-medium-light. This
+combo would go something like this:
+
+Standing light > crouching light>
+standing medium > crouching medium > heavy > heavy (follow-up dash)
+> light > medium > light > jump forward > light > medium >
+heavy.
+
+19. You only get one jump-cancel in combos like this, so you
+can’t extend the aerial part of this combo forever.
+
+20. The last basic way to extend a combo is launching the
+opponent into the air without using a heavy attack. You can do this by swapping
+the standing and crouch medium attacks while you’re grounded in that previous
+combo, then jump-canceling while on the ground.
+
+21. You only get a limited number of Smashes (heavy attack hits that cause the camera to shift and let you follow up with a Super Dash) per combo, and because you didn't use a Smash when you launched your opponent into the air, you will be able to use two more Smashes in this extended
+combo, as long as you make sure you press down+heavy instead of just heavy the first time,
+then follow up with a super dash. A combo using all these additions goes like:
+
+Standing light > crouching light > crouching medium
+> standing medium > jump forward > light > medium > down+heavy
+> heavy (follow-up dash) > light > medium > light > jump forward
+> light > medium > heavy.
+
+You can extend this with a super or use the
+extra time to set up an offense once the opponent gets back up.
+
+22. There are several ways to change up this combo depending
+on which character you’re using (as well as using your team’s assist attacks),
+but I found this was a fairly simple combo to that deals decent damage without
+using any meter.
+
+23. Learning this (or any long-winded) combo in FighterZ
+will take some time (especially for those who don’t play many fighting games), so the best way to learn it is to instill it into your muscle
+memory by practicing it over and over in training mode.
+
+24. Once you’re ready to stop using auto-combos, you can
+start holding backwards while performing these combos to disable them during
+the combo. This lets you use multiple light attacks in a row quickly without
+the combo transitioning into an auto-combo.
+
+25. Like most of Arc System's fighting games, combos in Dragon Ball FighterZ don't always end just because the opponent didn't input the right move at the right time. When the combo counter is red, that means there's nothing the person on the receiving end can do about it. However, many combos put the opponent in a state where they have to press the light attack button in order to recover. If they don't, the opponent has a chance to continue the combo hitting them again. This will turn the combo counter blue, meaning that, between the last red and the first blue hit, the opponent could have broken free from the combo. Keep an eye on your character and be sure to press the light attack button when you see your character fall out of a combo.
+
+26. As the attacker, your can also use this to your advantage. You can mix up the opponent by ending a combo early, then going for a Dragon Rush if you want to swap out your opponent's character, for example.
+
+General Strategy27. Don’t charge your Ki (light +special attack) in a real
+match. In the dozens of matches I’ve watched and played, no one has really
+gotten away with it. It’s possible to gain about half a bar of Ki with it after
+a hard knockdown, but there are much better things you can do with that time.
+
+28. Many characters can spam fireball attacks by mashing the
+special attack button (X/A). This works well enough to pressure opponents, but
+can be beaten in several ways: Super Dashes (R2/RT/Heavy Attack+Special
+Attack), Vanishes (medium+heavy attack), and supers all counter this basic
+attack.
+
+29. You can also deflect fireballs by pressing back+special
+attack.
+
+30. In fact, you can deflect just about any attack by
+holding back and correctly timing the the special attack press.
+
+31. You’re likely to see Super Dashes in online play quite
+often, as learning to punish one can be tricky. The simplest way to punish one
+before it lands is with heavy attack, since that will give you the easiest way
+to start a combo.
+
+32. Many characters have special moves done with
+quarter-circle forward+special attack that fill the screen quickly. These can
+also punish longer-distance Super Dashes, but won’t work against close-range
+Super Dashes.
+
+33. Most supers also punish Super Dashes, though your
+mileage will vary on this and it costs one full bar of Ki.
+
+34. If you weren’t able to see it coming but were able to
+block it, you don’t have too many consistent options for punishing it. However,
+I found many players tend to follow up a blocked Super Dash with additional
+pressure, and I found that a low medium attack tends to be a decent way to
+punish someone getting too aggressive.
+
+35. On the offensive, Super Dashes make for great combo
+starters if they land, and you can perform most of the aerial half of the
+simple combos listed in the previous section of this article if you land one.
+
+36. During a Dragon Rush (R1/RB/light+heavy attack), you can
+hold down one of the assist buttons to force your opponent to swap their
+character, depending on which assist button you pressed. If your opponent
+manages to swap out a low-health character in order to heal them, you can swap
+them back in, eliminating their entire stock of blue health (the health they
+would recover if they stayed swapped out).
+
+37. In order to do this mid-combo, you’ll have expend a bar
+of Ki. The easiest way I found to do this is to start a combo like the ones
+listed in the Combos section, but after the heavy attack that would usually end
+the combo, using a Vanish to bounce the opponent off the edge of the screen.
+You can combo those wall-bounces into a Dragon Rush, letting you swap your
+opponent’s character.
+
+38. If you continue holding down that button (or hold down
+the other assist button), you can make a swap of your own. This leads to a
+hard-to-read situation where your opponent may not entirely sure what’s
+happening on-screen, which makes for a potential combo opportunity, since your
+character will perform a Super Dash on the way in.
+
+39. If you have three bars of Ki and are looking to end a
+combo with a super, tagging in your other team members deals more damage than
+using a single Meteor Attack (which uses three bars of Ki) with one of your
+characters. You can do this by holding down one of the assist buttons as a
+super move is going off, then holding down the other one.
+
+40. Speaking of which, if you happen to have five bars of Ki, you
+can call in one of your partners to perform their Meteor Attack instead of
+their normal super move by holding back and their corresponding assist button.
+
+41. Make sure this the last partner you call in, however,
+since you can’t swap into another super move once the Meteor Attack starts.
+
+42. Use your assists! They can help cover the approach of a
+Super Dash, force people into blocking before you mix them up with a Dragon
+Rush, and more. Don’t get too assist-happy, though: if your opponent manages to
+hit them before the assist attack starts, they can potentially combo two
+characters at once.
+
+43. Air dashing (double-tap forward while in midair) is a
+great maneuverability tool, but done quickly enough, they can act as a lead-in
+to a combo that starts with a jumping attack.
+
+44. Sparking Blast (L2/LT/All four attack buttons) is great
+for enhancing the damage of all of your combos and healing fast,
+but is stronger the fewer characters you have, so use it wisely.
+
+45. Summoning Shenron is a difficult process to pull off in a real match. In order to do so, you (and/or your opponent) must complete a combo between 10 and 19 hits for the one-star Dragon Ball, 20-29 hits for the two-star Dragon Ball, and so on. Once all seven have been collected, the first character to land the light attack auto-combo to its second Smash (when the camera angle changes) while having 7 bars of Ki will get to summon Shenron.
+
+46. Summoning Shenron doesn't happen often, and in most matches it doesn't seem worth gambling a win on evoking him unless you happen to amass most of the Dragon Balls over the natural course of the match. However, should it happen, you generally want the activate the bonuses Shenron offers according to this priority:
+
+A. If the health of your characters is fine (with everyone 80 percent health or more), choose "Make me immortal!" which will slowly heal the blue health character you are currently controlling when they are not taking damage. This lasts for the rest of the match.B. If none of your characters are down but you need to heal someone a large amount immediately, choose "Restore my health!"C. If your characters are in good condition and you decided to use your character's Sparking Blast early in the match, choose "Give me the ultimate power!" which grants an additional Sparking Blast.D. If one of your characters is down, choose "Bring back my ally!" to bring them back with a small amount of health, since having a third character can be a huge help to your team's damage output and chances of survival.
+
+47. This is more of a tip for Arc System Works, but it should really put Arale from Dr. Slump in this game. She is 100-percent canon in the world of
+Dragon Ball and very strong.
+

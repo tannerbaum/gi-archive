@@ -1,0 +1,20 @@
+
+  Hacker Steals 43,000 Files From Microsoft And Nintendo, Narrowly Avoids Prison
+
+
+
+
+
+
+Zammis Clark, a 24-year-old security researcher, avoided prison today after pleading guilty to a London Crown Court to hacking into and appropriating files from both Microsoft and Nintendo.
+
+As The Verge reports, the former employee at internet security company Malwarebytes gained access to a Microsoft server in January 2017 and stole nearly 43,000 files related to unreleased versions of Windows. Later, he gave server access to other hackers around the world. Authorities finally caught Clark after he uploaded malware to Microsoft's network in June 2017, but Clark was able to accept bail without any restrictions on his computer use.
+
+Then, in March 2018, Clark hacked into Nintendo's confidential game developer servers and stole 2,365 usernames and passwords before Nintendo discovered the breach two months later.
+
+The courts sentenced Clark to a total of 15 months imprisonment this week, but the sentence is on suspension for 18 months. Considering Clark is an autistic person and has face blindness, the courts found the hacker to be highly vulnerable to violence if admitted to prison.
+
+"Everything I have heard and been told leads me to believe this is a young man who would suffer disproportionality if he went to prison," said the judge. "I am trusting this will be a lesson from which you will all learn."
+
+[Source: The Verge]
+

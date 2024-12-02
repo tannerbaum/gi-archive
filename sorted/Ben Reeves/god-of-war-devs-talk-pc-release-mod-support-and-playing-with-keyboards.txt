@@ -1,0 +1,81 @@
+
+  God Of War Devs Talk PC Release, Mod Support, And Playing With Keyboards
+
+
+
+
+
+
+            God of War was one of the best games released in 2018, and it will probably be one of the best games to release in 2022 because it’s now coming to PC. To find out what made that game great in the first place, be sure to read our original review. To learn what the developers think of playing the game with the mouse and keyboard or why they might not offer mod support, we spoke to Sony Santa Monica’s creative director Cory Barlog and senior manager of technical production Matt DeWald.
+
+Let’s cut to the chase. Why do you think people should check God of War out now that it’s on PC? 
+Cory Barlog: Because it’s a giant smokescreen to sell you on the fact that Silent Hills is secretly inside the game? Totally kidding. Honestly, I think for us, it’s really exciting that there’s a new potential audience of people who haven’t played the game who get to experience it and show it off on their beefy machine. I don’t have a 3090 [GeForce graphics card], but I’m sure they all have a 3090. But also, even if you have experienced it, I’ve played the game a few times, but playing it on my ultra-wide is a pretty awesome experience.
+
+Matt DeWald: We’ve sold almost 20 million, like 19.5 million copies on console, but it’s surprising to hear that there are still people out there that have never played it. And if they haven’t played it on console by now, they’re probably not going to play it on console. So this gives them an opportunity to play it on a platform they might play. As Cory mentioned, we added widescreen, and we pumped it up so you can play at 4K. You can increase the rest of the graphics resolutions and really accentuate how awesome the content looks.
+
+Does the 60 frames per second or the ultra-widescreen or any of that new tech make it easier to beat the Valkyrie queen?
+DeWald: Yeah, I mean, it depends on how good you are. But I think that having more frames definitely helps the reaction time a bit. We added Nvidia Reflex, which decreases some of that reaction timing as well. I still haven’t beat Sigrun, so I don’t know. I’ve tried for four years, and I’ve kind of given up. She owns me.
+
+Looking back, now that you’ve all had a few years of perspective, do you have any new thoughts or emotions about God of War?
+Barlog: I still have those pangs of the – I don’t wanna say trauma, but I really don’t have a better word, so I’m gonna say the trauma of going through making all that. It was definitely a really long process, so it’s nice to look back on it this far away and really see it clearly and criticize the hell out of everything I did and the decisions I made. I don’t think that ever stops. Honestly, I feel proud of it, but I constantly look back and second-guess all the decisions I made and wonder, “Oh, did I do that right? Was I smart to push for that? I probably should have made this other decision.” It’s maddening because I just want to be able to look at it and enjoy it, but I can look at it now knowing new people are gonna play it, so I’m excited about seeing and hearing new reactions of people who are like, “I don’t normally play console games, and you know, I gave this one a shot and was pleasantly surprised.”
+
+Were you guys tempted at all with this PC release to tweak things or go back and adjust something?
+DeWald: I asked whether we should, and what did you say, Cory? “Han shot first?”
+
+Barlog: Right? Yeah, I definitely didn’t want to go back and edit anything. Like put the flashlights in the soldiers’ hands or make, you know, Greedo shoot first or anything, but there is always that temptation. And I have to back off from that because I know that’s not a good thing, for me at least. If there are things that are legitimately broken, totally all about that, let’s go in there and fix that, but to go into anything else and change any of it, it feels like it just takes on a different tone to do something like that. I feel like we’re always just looking ahead and going like, “Okay, let’s fix that in the next thing. And then let’s look forward into this thing and do this.” But most of the things we’re addressing are how can we make this look amazing? How can we provide the features to people who are like, “I spent five grand on my PC. I want this to look awesome.”
+
+How much insight do you guys have into how Sony decided that the PC was a market they wanted to push this on to? Was that something you were championing early on? 
+Barlog: I think it was the collective of studios all over saying this is a really good idea. We should be looking into this. Eventually, I think it reached that tipping point. When we had sent so many suggestion box suggestions that they were like, “I’m tired of hearing all this. Fine, we’ll do this.” It’s a process. We’re still figuring it out as a company and as individual studios how to do this and what the process and strategy will be.
+
+So, do you think that we might see Ragnarok on PC sooner than four years after its console release? 
+Barlog: I have no idea. Right now, we’re taking it one game at a time, kind of looking at each one and determining, “Okay, is this the best thing?” And we’ll gauge how it does. Do people enjoy it? Did we do it right? Is there anything we did wrong? What can we do better in the future if we do this again? But at the end of the day, ultimately, it’s Sony’s decision.
+
+How much did you think about mouse and keyboard controls for God of War?
+DeWald: Quite a bit, because right away we knew that, coming on a PC, we’re gonna have to focus on that. We’re gonna have to figure out what that looks like. One was building a customizable interface that you can change all the keys. That’s not something that existed on the console. There’s a lot of work just doing that. But then figuring out what is that default setup? And does that feel natural? One of the learnings that we found was, for instance, the traversal modes that you usually do on console, you press circle. As you jump across things, you lift up barricades, and you crawl through cracks and things like that, it was all just circle. One PC we had E for interact, which is a pretty common system, but we found that, when we had people testing, they always tried to press space to jump across gaps, even though the pop-up thing was saying press E, crossing the gap with space was more natural for the keyboard. So we had to go back through and find all those traversal points that had some sort of jump mechanic and add in the option for space to be able to work there too. And that’s just not something you do on the consoles. Now I have two buttons, E and space, that both do the same thing. But it just felt natural for people to do that.
+
+Barlog: I’m just gonna play on my Bongo controllers.
+
+That’s a real war drum. Do you guys think it plays well on the mouse and keyboard, or do you still prefer a controller?
+DeWald: I actually play most of the time on mouse and keyboard now just because I’ve been working on it for two years, and it’s just been my default. It feels super natural to me to play it on mouse and keyboard.
+
+Sorry, this video is not available
+
+A lot of people use their Xbox controllers to play on PC. How do you guys feel about people playing God of War with an Xbox controller now?
+DeWald: Awesome. We even put in all the glyphs for you so you don’t get confused by the button press. Yeah, we have no problems with that. You can even use a Switch controller here as well. You can definitely use any of the third-party controllers. We tried to add as many options as possible because why limit people who want to play the game?
+
+How do you guys feel about people modding the game? 
+DeWald: Obviously, we’ve all seen the like Yoda as God of War and Grogu as Atreus. I think it’ll be interesting to see what people put together. We didn’t add modding support. It’s not something we developed time to create tools. Everything we have is custom, so it’s really hard to build some of that stuff. But I’m sure some very smart people out there are going to do some very cool things, and we’ll see what comes of it.
+
+Barlog: Yeah, when I play games on PC, I use mods when they’re available. I think it’s cool. It’s fun. One of the cool parts of playing PC games is the feeling that other people can add something to it or improve upon it and enhance your experience. GTA and Skyrim are two fantastic examples of games that just keep getting better because people are like, “I just want to try this.” You don’t really have that level of interaction on the console, so the fact that that’s a possibility, I think it’s cool. But you know, I don’t really speak for everybody else in the company.
+
+Do you have any plans down the road to add more modding support and make it easier for people to create mods?
+DeWald: It’s not currently on the plans, but I mean, anything could happen. It’s a fairly complicated process to get our assets from Maya into the game, and so to try to build user-friendly tools to do that – it takes months to train up our own artists to get some of those processes in place – so to try to build a tool that’s going to be intuitive enough for an end-user to be able to do some of that stuff would be quite a bit of work. Out tools are very much built on our processes in the way we build content.
+
+Barlog: Our tools are difficult. That’s just how we roll. We like to have difficult tools. Our engine wasn’t really built to support that. Our tools are super custom and inherently complicated. So I don’t think that’s something that will probably happen in the future, but who knows.
+
+Any final thoughts? Anything we missed? 
+DeWald: The big thing is just that it’s coming out soon. I’m just super nervous and excited for what happens when it hits because there’s a ton of different permutations of PC hardware and software out there, and I’m interested to see how that works. But we’ve spent a lot of time trying to make sure it was performing, and I hope that comes across.
+
+Barlog: You guys did a great job. I am super excited about this.
+
+DeWald: Can you quote him in your article saying that we did a great job?
+
+Barlog: And that’s why I said it here just so I only have to say it this one time, and then it will be in print forever, so I never have to say it again.
+
+God of War releases on PC on January 14. Read our full review of the original PlayStation 4 version or watch our video preview of the PC version here.
+
+      Products In This Article
+
+God Of War
+
+Platform:
+
+PlayStation 5, PlayStation 4, PC
+
+Release Date:
+
+April 20, 2018 (PlayStation 5, PlayStation 4), January 14, 2022 (PC)
+
+Purchase
+More Info
+

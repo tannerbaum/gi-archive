@@ -1,0 +1,63 @@
+
+                                          Infamous Second Son
+                  
+
+
+  How Sucker Punch Photocopies Pedestrians For Infamous Second Son
+
+
+
+
+Platform
+PlayStation 4
+
+Publisher
+Sony Computer Entertainment
+
+Developer
+Sucker Punch Productions
+
+Release
+March 21, 2014
+
+Rating
+Teen
+
+Creating crowds of people to inhabit a virtual world has never been easy, but as consoles continue to advance, creating digital 
+denizens to populate virtual worlds is becoming a more detailed process. 
+Take a photo tour of how Sucker Punch Xeroxes an extra's face and puts him into Infamous Second Son. 
+Sucker Punch began the process of digitizing people by recruiting real life extras. The developer put out the call to friends, family, and casting agencies that they were looking for extras to appear in the game. Using an advanced 3D scanning process, the company was able to scan over 75 people in just three days. This means that nearly every citizen you see walking around Sucker Punch's digital version of Seattle is based off a real person. Here's how that process works.
+Sucker Punch uses to high definition digital cameras to capture a 3D model of each face
+
+Extras sit down and are told not to move or smile. Even subtle movements will screw up the scanning process, and the process will have to be redone
+
+Once the cameras fire up, they send out strobe light patterns that help the camera capture the volume and shape of each face
+
+Here we can see the cameras capturing associate editor Dan Ryckert's soul (Sucker Punch later commented on how small it was)
+
+This is the view from the hot seat. The lights aren't even on yet. Feel the terror
+
+Sucker Punch also uses a 360 camera setup to capture the movements of the extras, but mannequins are also useful for capturing different clothing styles
+
+Sucker Punch's designers take all of the data and begin filling in any holes to compile a complete picture of each extra's face
+
+Here is the grey polygon model of Dan's face. These models are composed of approximately 1.4 mil polygons
+
+Since Sucker Punch can't have every character model constructed out of over a million polygons, this data is compressed into a model that will work in the game. Here's the finished product.
+For the secret origins of Infamous and a deeper look at Second Son's new protagonist Delsin, don't miss our Infamous Second Son cover hub. 
+
+      Products In This Article
+
+Infamous Second Son
+
+Platform:
+
+PlayStation 4
+
+Release Date:
+
+March 21, 2014
+
+Purchase
+More Info
+

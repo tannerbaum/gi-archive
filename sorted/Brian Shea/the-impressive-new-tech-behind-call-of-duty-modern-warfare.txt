@@ -1,0 +1,80 @@
+
+  The Impressive New Tech Behind Call Of Duty: Modern Warfare
+
+
+
+
+
+
+            With Call of Duty: Modern Warfare, Infinity Ward is showcasing impressive tech through a new engine that is able to deliver photorealistic character models and gorgeous scenery within gameplay. The engine has been slowly making itself apparent through Infinity Ward's recent games like Call of Duty: Infinite Warfare and Call of Duty: Modern Warfare Remastered.
+
+In fact, seeing the early parts of this engine through those games was one of the main motivating factors for current studio art director Joel Emslie's return to the studio. "I looked at Remastered and I looked at Infinite Warfare and I was like, ‘Man, the production value of this game," he says. "There’s so much potential and this new engine was five years in development. Parts of that engine were alive and well in Infinite Warfare, and you could see it.”
+
+We spoke with Michal Drobot, principal rendering engineer at Infinity Ward Poland, about the tech his team created for Call of Duty: Modern Warfare.
+
+Game Informer: We understand the Call of Duty series’ engine is always evolving. Can you explain what’s different here? Are things being rebuilt from scratch or is this just a big leap?
+
+Michal Drobot: We need to go back in time, before our previous release. At that time, the Infinity Ward team realized that the engine, in its form, could not really scale further as is. New features, or systems, were resulting in cumbersome bolt-ons, and not always playing very well with the rest of the existing tech. It is not even about so called tech debt (where a development team consciously decides to sacrifice robustness in favor of performance or bug fixes under time pressure), but rather some fundamental design decisions, that served their purpose well.
+
+I was brought on board, along with many great engineers, with a task of taking care of long-term Infinity Ward engine rendering architecture – to make sure it will be able to scale and excel in the future. It became clear quite quickly that we needed to scrap or fundamentally rewrite pretty much everything rendering related and as you can imagine, this is not something you can do quickly, while shipping a game of this franchise’s scale. Certain parts of the engine went through a full rewrite for Infinite Warfare – such as the lighting engine, while others were retrofitted to somewhat still work with new pieces. That was the moment when you could see the big leap in quality, but we had so much more to do.
+
+The initial plan was to hit infliction point at the 5-year mark, exactly for the launch of Modern Warfare. After Infinite Warfare, we focused on re-architecture of all the other systems, essentially rewriting them from scratch, while letting the production team prototype and rely on the foundation built for our last shipped title. Then we reached critical mass, when technology could finally evolve fast. It is fantastic when you see it. You wait for years, meticulously recreating some basic things in the engine, and then suddenly at a specific point, it all starts to work together, and you jump years ahead of what you could have achieved before. It is truly a revolutionary moment for the whole team. And Modern Warfare is the first fruit of that revolution.
+
+What’s the oldest bit of code you’ve noticed in Call of Duty’s engine prior to this game?  
+
+It is more of an anecdote, but for many years we had this one rendering system responsible for setting some low-level data variables for draw calls (singular rendering subroutines). It was extremely efficient, but somewhat risky to extend and very rigid. It actually had a comment in code, that read something like "Please rewrite this right after ship." I believe it stayed in code for way more than a single project, until finally for Modern Warfare we had to man up and rewrite it for real. Basically, the amount of data we are pumping right now into each draw call was significantly beyond that system’s capabilities. Now it is way more flexible and much faster due to working better with new engine architecture.
+
+Will this tech also be used by all other Call of Duty studios moving into the future?
+
+We are currently 100% focused on Modern Warfare, therefore it is a bit too soon to talk about what comes next.
+
+It seems odd to reinvent so much of Call of Duty’s tech right before the next generation of hardware, are you confident this technology will be future-proof?
+
+Our technology horizon is quite far ahead and ever adjusting to whatever comes next. The whole point was to rely on highly scalable technology, where algorithms, hardware insight and quality engineering comes first, as opposed to being overly reliant on specific platform features. Obviously during the optimization phase for any shipping title, we do highly focused optimizations to make sure we are taking the best approach for specific hardware, but that is the final polish pass, not the foundation. With this approach, we are very confident in our engine's ability to adapt to any future hardware.
+
+Can you talk about the biggest challenges in shaking up Call of Duty’s tech? How difficult is it to reinvent the technology when the series never stops moving and you have a concrete ship date in mind?
+
+I think you hit the nail on the head here. Reinventing the technology that drives Call of Duty, while making a new Call of Duty game, is the biggest challenge. It requires excellent planning, trust between departments as well as a group of extremely talented people who are not afraid to change the course when they see an obstacle ahead. I think this process of balancing out tech development and production is the biggest challenge. From my experience, I’ve seen it go sideways so many times before in my career. "You guys go out there and make a new engine. Come back in a few years and let’s ship a game." When you hear this, you know there will be a year of excitement, followed by a year of tears, and maybe even canceled projects. Technology can't evolve in isolation, without constant iteration cycles with production teams. Also, it can't be fully driven by production, because then it will end up rigid, tightly fitted to the one and only title it is supposed to ship, sometimes being not flexible enough to even elevate the project to its potential heights right before the finish line. Striking a balance here is a tough act, that requires everyone to be on board – and I truly believe we hit that mark for Modern Warfare.
+
+Did you worry about shaking things up too much and slowing down development?
+
+There is always a risk of slowdown due to the initial cost of progress. Therefore, it was crucial to make sure that all planning for the project content development was well understood ahead and matched different pushes on engineering. To give you an example, we would do the riskiest changes affecting art production when the project was mostly in pre-production, thus the number of affected artists was minimal. This would go hand-in-hand with Tech Art research and development to make sure all effort put into the engine will translate into better visuals and efficiency once the main production team hits the floor running. At the end of the day, what is important is the throughput of the team throughout the production years, and that was always the main focus for us.
+
+Can you give examples of the communications you regularly have with the development team in California?
+
+I think it would be unfair to distinguish communications as something happening "between teams." We operate as one big team, we are just spread out in terms of physical location. Obviously, there is an additional hurdle of operating in multiple time zones, but this actually works to our advantage, as the engineering team can provide almost 24/7 coverage and support. Furthermore, we have a lot of people flying back and forth between all our locations, which definitely helps in team building and guarantees everyone feels like part of the same big family.
+
+What’s the single biggest difference players will notice about the new tech when they get their hands on the game?
+
+I think the general bar for photorealism has been pushed really far. It is just that the scenes feel very much alive, and make a great impression as a whole picture. This drastic improvement is therefore mostly driven by material and lighting systems, so I would bet that those would get the first spotlight.
+
+What does the new tech mean for A.I. in the game?
+
+This is more of a question for A.I. team. However, on the pure rendering side of things, we have some very significant improvements to how A.I. actors perceive lighting in game. In short, A.I. can "see" light and shadows exactly the same way as players do. This leads to significantly more reactive A.I. as well as more emergent behaviors when dealing with light and shade situations, where visibility would play a significant role in gameplay experience. You can clearly see this when using NVG (night-vision goggles) or fighting against NVG-equipped A.I.
+
+Call of Duty: Modern Warfare launches on PlayStation 4, Xbox One, and PC on October 25.
+
+To learn even more about Call of Duty: Modern Warfare, click on the banner below and check out our month of coverage.
+
+      Products In This Article
+
+Call of Duty: Modern Warfare
+
+Platform:
+
+PlayStation 4, Xbox One, PC
+
+Release Date:
+
+October 25, 2019
+
+Purchase
+More Info
+
+Brian Shea
+Online Content Director
+Brian has written about video games for more than 15 years across multiple publications. Brian is also the host of All Things Nintendo, a weekly podcast focused on the news and games of Nintendo.
+
+Email
+Twitter
+

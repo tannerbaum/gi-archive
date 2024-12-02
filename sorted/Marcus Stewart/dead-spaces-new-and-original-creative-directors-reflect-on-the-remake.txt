@@ -1,0 +1,92 @@
+
+  Dead Space’s New And Original Creative Directors Reflect On The Remake
+
+
+
+
+
+
+            Remakes can offer new creative minds the chance to inject old ideas with fresh reinventions. Dead Space is a great case study, as Motive Studios smartly updated Visceral Games’ successful template while preserving its most beloved elements (here’s our review). To learn more about how the remake came together, we had a conversation with Motive Studios’ Roman Campos-Oriola, the creative director of the Dead Space remake, to reflect on the game’s development and success. However, there’s an added twist. 
+
+Joining the discussion is Bret Robbins, creative director of the original Dead Space. The ex-Visceral designer has beaten the remake multiple times and shares the standout elements of Motive’s version. Additionally, he reveals the limitations Visceral faced while developing the original that the remake overcame and whether or not he was contacted to help with the project. We also ask Campos-Oriola about the possibility of a Dead Space 2 remake.
+
+Game Informer: Roman, what’s your personal history with Dead Space prior to this project?
+
+Roman Campos-Oriola: [...] I’m a big fan of Dead Space. Like, when the original came out, I was working in a different company at the time and working on some first-person shooter. And when Dead Space came out, it was like, a blast [laughs]. Some of how the core gameplay was working, but also more especially around the level of immersion. And the level of immersion that [Visceral Games] were able to achieve through a third-person shooter. And at that moment, that level of immersion only [appeared] in FPS games, and they really managed to push that level of immersion inside not only a third-person game, but also inside of survival [horror]. And I think that also made the survival horror genre evolve. Like, after that survival horror starts to be much more immersive [...]. And I think that's part of Dead Space's legacy. Personally, that's why I love that game so much. That's why it was so scary to me.
+
+How long has the remake been the works, and when was it decided that Motive would tackle it?
+
+Campos-Oriola: The remake was decided just after when [Star Wars] Squadron was finishing. The boss of Motive, Patrick Klaus, was trying to figure what's next for the studio. And so there was discussion in the studio, and a lot of people in the studio used to work at Visceral Montreal on the collaboration of Dead Space 2 and Dead Space 3. And one of those [people] was the art director of the Dead Space remake, Mike Yazijian, [who was] the art director at the time at Visceral Montreal. And he said, “Dead Space?" [...]. Also, a lot of people in the studio were like, “Dead Space? Dead Space?” And that's where the idea came from. So they built the pitch behind reviving Dead Space. And that's how the project got [the] greenlight. And that's when, just after the green light of the project, that's when I joined Motive. 
+
+Bret, as the creative director of the original game, how did you initially react to the announcement of the remake?
+
+Bret Robbins: I was excited to hear that it was going to be made. You know, Dead Space was just a very important project for me and for my career, and I just had a lot of good memories of working on it. And so, I was happy that there was still interest and life in that franchise. But then I was also a little trepidatious about it being a good version of the game. I was hoping that they would honor it and maintain the things that made it great in the first place. And, thankfully, they did; I'm very, very happy with the remake.
+
+How does it feel to watch another studio remake a title you had such a big part in creating? 
+
+Robbins: It's kind of crazy because when I'm playing it – and I'm still playing it, I'm on my third playthrough – it's a walk down memory lane. I remember all the arguments, all the debates, all the decisions that we had to make during the first one. And there was a lot. We were working from a blank page. So seeing it realized again, it looks great, it plays like the old game. And it's some combination of nostalgia and pride. And it feels great to know that Roman and his team really did care about it. They made a lot of really smart decisions, I thought. The areas they chose to improve the game were the right areas, and the areas that they chose to leave and to maintain from the original were also the right areas. So yeah, it's certainly a thrill to see how it all came together. I couldn't be happier with it, to be honest.
+
+Roman: When approaching a remake, did you contact anyone else who worked on the original for advice? I know Motive has some ex-Visceral employees, but did you guys ever reach out beyond that?
+
+Robbins: No one called me. [laughs]
+
+Campos-Oriola: It's always a bit complicated because it's sometimes different companies or stuff like that. So there's not a clear process. Personally, I joined EA, and a lot of people inside the team also joined EA [to] work on that project, was because they were fond of that game. And so our approach was not necessarily to recreate it as it was, but as we think we remembered it.
+
+So what we did is, we work more with players, with what we call the community council for players that were a diehard fans of Dead Space that were under NDA. And then among those people, there was one original dev from Visceral, the UX director, Dino [Ignacio] who was part of that of that community council, but more because he was still involved in that community and survival horror genre [...]. But there was not a specific process in place to reach to original developers, which is unfortunate sometimes. [...]
+
+Robbins: Yeah, also, I'll say that there weren't a lot of paper design documents. We were moving pretty fast and loose when we were creating Dead Space, and most of the design was just in the game. So yeah, I think the best document you could have had was just playing the original. But yeah, Roman and I have talked about this, the pillars of being as immersive as possible, which is where things like the holographic HUD came from, single camera cinematics – really very little cinematics – never really kind of breaking player control very often, not pausing the game on your map or your inventory so you're always feeling like you're under threat. All those things were, those were pillars we used and we actually had to fight hard to sort of get them right, because they weren't necessarily easy things to do. 
+
+The pillar of dismemberment as a core combat mechanic, which influenced all the creature behaviors, all the weapon design, the player abilities, that was very tricky to do back in the day. And so, I started playing the new game, and the combat felt right because they didn't break those things, those pillars that were really important to the original. The room design, the room feels were all intact, which was awesome. And then the things that they improved on, which were a lot both large and small details, honestly, some of it was stuff that I wish we had done on the original. The first thing I noticed was the Ishimura was much more of a continuous space, and you can revisit previous decks at will and it all kind of connected together in a great way. I absolutely wanted that on the original. We didn't have the time or the budget to really do it well. My version was much more of a linear experience, so right away I was like, “Oh, that's awesome.” They were thinking the same way I was 15 years ago.
+
+Campos-Oriola: Our goal with the changes or improvements and enhancements we make were not to change just for the sake of changing, it was really to reinforce all of those elements. And one of those for us was unbroken immersion. He mentioned Dead Space was really big on immersion, we were like, “Okay, how can we push that further?” [...] That's where we started to think about “let's make Ishimura more interconnected.” Because also, it's improved that kind of meta-character that the Ishimura is inside the game. It makes it more real in the player's mind, like it's becoming an even more real place. 
+
+On that note, Bret, what other technical or budget limitations prevented Visceral from achieving a vision for the original Dead Space that the remake realizes?
+
+Robbins: Well, Dead Space, the original, did not have a huge budget, especially compared to AAA budgets these days. So we had to be scrappy with everything we were doing. And we, I think, ultimately turned a lot of those disadvantages into advantages. The fact that the whole game largely takes place on the Ishimura, which shares a similar look and feel across across it, that was necessary for the budget but ended up, like Roman said, it created another character. It made the Ishimura a character and gave the game a certain consistency and a certain focus to it. 
+
+Certainly the graphic fidelity improvements on the remake are huge. And we'd always want to make the game the best looking thing we possibly could. I think some of the mechanics changes [like] adapting the Dead Space 2 zero gravity mechanic for Dead Space 1, I think was a smart choice. I think our Zero G mechanic in the original, it was good, but it was a little bit disorienting and a little tough for players to navigate. And so being able to incorporate the newer version of that just feels better, and also speaks to something Roman's talked about before, which is creating sort of what people remember of Dead Space. I think if you asked a lot of people they might think “Oh, yeah, the Zero G mechanic was the same,” well it actually wasn't, it was very different in the first game versus the second game and very different in the remake. 
+
+So yeah, I think all those things are improvements and the game’s better for it. I think the original stands on its own as an experience, but decisions that we made in 2006 aren't the same decisions you would make in 2023. The fact that Isaac talks in the remake and didn't talk in the original is another example. That wasn't really a budget concern, it was just a design decision. But back in 2006, I think there was more of a debate in the AAA space around having the main character talk. You had games like Half-Life 2 or the original Bioshock where you didn't have a protagonist that spoke. In 2023 for a third-person game, I think it would be more unusual to do that now. So they made the right choice to have him be a character.
+
+Roman, now that the game is out and has been well-received, what changes made you most nervous in terms of whether or not fans would accept it?
+
+Campos-Oriola: So definitely giving a voice to Isaac was highest on that list. But there were other choices that we we made that were stressful, either at the moment of launch or [after] our launch. Like, for example, changing the Zero G. It felt like yes, it's making sense, because when people remember Dead Space, they remember it as a franchise and not necessarily that one game. But like Bret mentioned, Zero G, there is specific elements within the original that's not present in the other games around the orientation and it reinforced that sense that you're in danger. Some of that have been changed in the remake; how [are people] going to react to it? [...] And yeah, the last thing is, we kind of change the ending twist and some of that end story [...].
+
+Bret, what change has surprised you the most in addition to impressing you?
+
+Robbins: Well, I think it's important to mention that what isn't changed is just as important, if not more important, than what has been changed. And so those design decisions around keeping the combat and the dismemberment feeling right, largely keeping the weapons as they were intended. The room layout, the story, like generally, the way the story unfolds, and everything. I'm sure there was a lot of debate and angst around doing all those things. But you know, definitely give them credit for having not changed the things, not break the things that they shouldn't break.
+
+Campos-Oriola: We tried to change more stuff than we ended up shipping, actually. [We] tried changing stuff, and then we pulled back because we're like, “No, we're losing the experience.”
+
+Robbins: Yeah, I’m sure there was a lot there. What surprised me, I think, there were some story things that were elaborated on, and the world changed a bit. All of which I liked, I thought it was good. Also, coming purely from like a, I suppose, a selfish point of view; I, as a player, I didn't necessarily want to experience everything beat by beat. I want to have a good time playing the remake, I need something new that's going to surprise me as well. So I was happy to see that there was some changes along the way that I was like, “Oh, that I didn't know that was going to happen, that’s good.”
+
+I think the thing that I really liked, the one thing that stands out that I really liked, it’s sort of related to the fact that you could backtrack and that the Ishimura was a continuous space, is I think they call it the intensity director. This feature of the game is going to try to still scare you in a more programmatic way. You know, making a horror game generally is a very scripted, choreographed experience. You really need to get your timing perfect to get the audio and the visuals and the lighting and everything to work together to create a feeling of fear. The fact that they're able to do that sort of on the fly as I'm exploring around, the fact that it still created some jump scares and some surprising moments that weren't scripted was pretty impressive. And I, especially playing Dead Space, I don't scare very easily. I know what's around every corner because I designed what's around every corner, and that's when I jumped the most was when it was something just totally unexpected that the game was doing on its own.
+
+The game’s secret ending paves the way for a Dead Space 2 remake. Is that on the table, Roman? And Bret, what would you like to see in a remake of the sequel?
+
+Campos-Oriola: I don't know. Like, we just finished [laughs]. We're still doing some final [touches] for the game. And then holidays going on – I go on vacation next week, actually. After, we'll see how the game performs, what the company wants, what the studio wants, what we as a team we want to do, and we'll figure it out from there. But for the moment, there's no specific plan defined.
+
+Robbins: I'm not gonna lie, when I started playing again, I couldn't help myself but start thinking about ideas. I'm a huge survival horror fan. Like I said, Dead Space was a really important moment in my life. It was probably one of the most fun projects I've ever worked on. It's certainly the game that I get the most questions about, and seems to have the most legacy. You know, it seems to have the most legacy, and I've worked on Call of Duty and some big franchises. I definitely started to think about things that I'd like to see in a sequel. Hopefully, we'll be able to have a conversation with Roman about that at some point and talk about it. But right now, I think it's enough just to enjoy the fact that the game is still alive, the franchise is alive and well, and people are enjoying it again. I think that's pretty awesome.
+
+      Products In This Article
+
+Dead Space (Remake)
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PC
+
+Release Date:
+
+January 27, 2023
+
+Purchase
+More Info
+
+Marcus Stewart
+Associate Editor
+Marcus is an avid gamer, giant wrestling nerd, and a connoisseur of 90's cartoons and obscure childhood references. The cat's out of the bagel now!
+
+Email
+Twitter
+

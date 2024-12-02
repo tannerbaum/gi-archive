@@ -1,0 +1,32 @@
+
+  Oculus Quest Review – The Next Step For VR
+
+
+
+
+
+
+            Oculus Quest is the virtual-reality headset I’ve been waiting for. All of the hardware is built into the headset, meaning you don’t need a computer, phone, or console to run it. You also don’t have to worry about tripping over cables since it isn’t tethered to anything and is entirely wire free. Setup is easy and you can start playing games within just minutes of removing the headset and controllers from the box. It’s basically virtual reality’s equivalent of the console experience, and it comes packing a hefty library of games.
+
+Virtual reality is still in its infancy, and while it’s great that companies like Oculus, Samsung, and Valve continue to make significant breakthroughs in hardware and games, a new headset is almost obsolete by the time it launches. Oculus just released the Go, and now here’s the Quest, which is releasing on the same day as the cable-connected Rift S (an option we have yet to get our hands on). The Rift S and Quest hit on May 21.
+
+Even if you already have a nice VR setup, or want to adopt to the most powerful solution, which the Quest is not, its mobility makes it attractive. You can wear this thing almost anywhere, as long as you have roughly seven feet of clear space around you for the room-scale experience (or four feet if you want to sit).
+
+When you boot up the Quest, the passthrough cameras give you a good look at your surroundings, and your first task is to create your play space, which Oculus calls the “Guardian” boundary. Using one of the controllers, you simply point at the floor and draw a ring or square around you. I started out making a relatively tight ring around me in my office, but was able to create a huge play space of roughly 20 feet in larger areas (and even in my backyard). Once a suitable area is determined, you’re ready to play games, watch movies, Chromecast stream, or do whatever it is you want to in VR. All of the games must be downloaded from Oculus' store.
+
+If you are near the perimeter you established, you’ll see a blue wireframe alerting you of the safety zone. If you break the perimeter, the grid turns red, alerting you to back up a bit. If you spend too much time outside of the boundary, the passthrough cameras come to life to show you where you are, and a message will eventually appear telling you to remove the headset. Thanks to these safety parameters, I never once collided with anything I didn’t want to. Nothing was broken.
+
+The Quest is launching with 50-plus games that offer six-degrees of freedom, and are powered by the Snapdragon 835 processor with 4GB of RAM. The headset, which features OLED lenses with 1440x1600 resolution for each eye, is joined by two Touch controllers that you can see visually when the headset is on. The resolution still isn't at the crystal clear quality we want to see, but is mostly noticeable in text, which can pixelate at a distance.
+
+The controllers are similar in design to the Rift’s Touch controllers, but the tracking rings now face upward, a change that was made to improve the tracking made by the sensors on the headset. I ran the battery dry three times during my tests of various games. The average battery life appears to be about two and a half to three hours.
+
+I found the headset to be comfortable, outside of the somewhat odd pull of the weight from the screen, which is a problem with every VR option out there. The padding around the lenses is a nice touch, and the strap placement is easy to find when adjusting the fit blindly with the headset on.
+
+The Quest’s launch line-up of games plays out a little bit like a highlight reel of VR gaming, offering older experiences like Superhot, Beat Saber, Moss, and Angry Birds VR: Isle of the Pigs, but there are also some new experiences designed exclusively for the Quest such as the competitive shooter Dead and Buried II. Odds are, most games coming to the Rift in the future will also head to Quest, but nothing is guaranteed.
+
+Superhot and Beat Saber are immediate standouts on the Quest, not just since they are great games, but in showing just how precise the motion tracking is. I felt like my motions were all landing perfectly. I did run into the occasional moment where the headset would lose tracking of a controller, but only for a split second and then it would rematerialize and I’d be back in the groove of playing. I used a combination of analog stick movement and room-scale movement in Journey of the Gods, and didn’t have any issues at all, and also used warping in Apex Construct to move around a sprawling 3D space and it worked well. I also found the built in speakers did the trick, although if you use them, everyone can hear what you are. You can always plug in headphones to isolate the sound, but that adds a wire to the equation.
+
+Apex did have a little bit of chop to it during an elevator sequence, which brings into question the overall performance of the machine – not so much for the launch lineup, but for the games that come in the months and years ahead. Yes, it’s plenty powerful, but the hardware can’t be upgraded like a typical PC rig, again drawing a parallel to console gaming. How long will it be supported? That’s not an answer we’ll know any time soon, but I have a feeling Oculus will keep this great VR experience in its sights as long as people are playing it.
+
+Along with the headset and controller, the box comes with a frame spacer for people who wear glasses (co-workers who wear glasses said that the experience was indeed comfortable), two double a batteries for the controllers (these didn’t even come close to losing juice), and a 15W USB-C power adapter for the headset. The $399 entry price point is a bit intimidating, but I think it’s a steal for what the Quest has to offer right out of the gates. You can also get a slightly beefier 128 GB model for $499. The mobility and ease of setup make it a game changer in the world of VR. This is the VR option made for the masses, and Oculus knocked it out of the park.
+

@@ -1,0 +1,33 @@
+
+  The FTC Pushes Back Against Xbox Game Pass Price Increases
+
+
+
+
+
+
+            Last week, Xbox announced it was introducing new Game Pass tiers and raising its subscription prices for existing members on September 12. The Federal Trade Commission (FTC) took issue with these changes in a filing yesterday to the US Court of Appeals for the Ninth Circuit.
+
+In case you missed it, Microsoft revealed a new tier called Xbox Game Pass Standard, a $15 monthly subscription for new members that excludes day-one releases, EA Play, PC Game Pass, and cloud gaming. Xbox Game Pass Ultimate, which includes those perks, will have its monthly price raised from $17 to $20. Xbox Game Pass Core, which only offers online play and a smaller library, is raising its yearly sub from $60 to $75 (the $10 monthly fee remains unchanged). PC Game Pass is increasing from $10 per month to $12. 
+
+Additionally, the $10.99 Game Pass for Console is no longer be available to new subscribers as of July 10. If existing subscribers fail to renew their membership, they will be permanently locked out of this tier and must subscribe to another, more expensive membership. 
+
+In the filing, the FTC blasts Microsoft’s discontinuation of Game Pass for Console, stating that users must pay a substantial price increase (81%) to switch to Game Pass Ultimate. Those unwilling to do so must settle for Game Pass Standard, which the FTC describes as a “degraded product” since it excludes day-one releases. 
+
+“[Game Pass Standard] costs 36% more than Console Game Pass, and withholds day-one releases," says the FTC in the filing. "Product degradation—removing the most valuable games from Microsoft’s new service—combined with price increases for existing users, is exactly the sort of consumer harm from the merger the FTC has alleged."
+
+The FTC was the primary opposition against Microsoft’s acquisition of Activision Blizzard and sees this move as proof of its concerns over the purchase, stating: 
+
+“Microsoft’s price increases and product degradation—combined with Microsoft’s reduced investments in output and product quality via employee layoffs[…]—are the hallmarks of a firm exercising market power post-merger.”
+
+The FTC goes on to call the price increases "inconsistent" with the case Microsoft made during the Xbox FTC trial last year. It states, "Microsoft promised that 'the acquisition would benefit consumers by making [CoD] available on Microsoft’s Game Pass on the day it is released on console (with no price increase for the service based on the acquisition).' Microsoft’s post-merger actions thus vindicate the congressional design of preliminarily halting mergers to fully evaluate their likely competitive effects, and judicial skepticism of promises inconsistent with a firm’s economic incentives."
+
+That last portion references Call of Duty: Black Ops 6's (the first new entry to release post-acquisition) October 25 launch on Game Pass Ultimate, roughly a month after the subscription tier's price increase. 
+
+Marcus Stewart
+Associate Editor
+Marcus is an avid gamer, giant wrestling nerd, and a connoisseur of 90's cartoons and obscure childhood references. The cat's out of the bagel now!
+
+Email
+Twitter
+

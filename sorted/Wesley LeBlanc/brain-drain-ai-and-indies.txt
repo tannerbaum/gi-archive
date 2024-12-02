@@ -1,0 +1,147 @@
+
+  Brain Drain: A.I. And Indies
+
+
+
+
+
+
+            Introduction
+
+I woke up this morning and put on a white Hanes t-shirt mass-produced by a machine able to produce clothing at a rate no human ever could. But shirts like this used to be made by humans. While making coffee, I ask Siri on my iPhone what the weather will be like today and what my day’s schedule looks like, and a few seconds later, an artificial intelligence-powered voice gives me the answers I’m looking for. After sitting down at my work computer to write this, I opened Spotify and checked out my Discover Weekly playlist, hyper-curated to my tastes based on the other music I’ve listened to over the past week.
+
+On Instagram, my ads feel uncannily targeted to me, and on X (formerly Twitter), I see a new batch of posters for Amazon’s upcoming Fallout streaming series called out for using A.I. None of this is possible without machine learning, which is what powers A.I. in other, more automated interactions some people use in their life and work, be it the chatbot ChatGPT, image creator Midjourney, or something else. But, as things like Siri, targeted ads, and curated playlists on Spotify settle A.I. into our lives in such a way we might not realize, there’s a war brewing between humans and A.I. (and the people developing it and advocating for it) in the games industry.
+
+Caves of Qud uses Markov chains, a type of generative A.I., as a tool for statistical prediction
+
+“We’ve elevated as a species – we have the idea of creative art as personal expression,” Brian Bucklew, co-creator of the popular sci-fi roguelike Caves of Qud, tells me. “Generative A.I. is extremely transgressive because it’s not only displacing jobs, it’s displacing humans from a space where we’ve decided, ‘This is about personal expression.’ We’re looking at it and saying, ‘Can [A.I.] be good art if there’s fundamentally no expression underlying it?’ Nobody has an answer to that. [A.I. in creative spaces like art] is totally new, and I don’t think we’ve reckoned with that at all.”
+
+A.I. in Independent Spaces
+
+A.I. in Independent Spaces
+
+Bucklew is one of the many independent developers – solo and within studios outside the triple-A publishing machine – I spoke to about A.I. and its use and effect on game development. Bucklew’s Caves of Qud has been in development for more than 15 years. He says he’s watched functions and jobs previously held by humans get replaced by automation and A.I. throughout his career. Even things he used to code by hand are now automated in game development engines like Unreal. He also says Caves of Qud is in a sub-genre that explicitly uses generative systems.
+
+“These aren’t [language learning models (LLMs)]; this is not Midjourney,” he says when I ask if he uses A.I. in the game’s development. “This is not some of the new attentional-based A.I. that is getting a lot of the press right now, but this is absolutely machine-based generative systems. So the answer is no if you’re asking if we use LLMs to generate code, but the answer is yes, we use, for example, Markov chains [generative A.I. that uses current events to analyze the predictability and production of subsequent events] to generate books. And these really aren’t that different except, again, in scope.”
+
+He says LLMs and Markov Chains are different but that both are statistical predictors; the latter is more primitive than the former, however. In either use case, he says good results come from hand authoring on top of the generative use of A.I. Javi Giménez, the CEO of Moonlighter and Cataclismo developer Digital Sun, agrees, noting there is no top-down mandate at the studio to use A.I. but that various developers there use it as a tool alongside their creative output.
+
+Cataclismo
+
+“What has happened naturally is that some people at the studio – sometimes it’s artists, sometimes it’s programmers, sometimes it’s designers – use some of the tools for specific tasks,” Giménez tells me. “Some artists, for example, might be using it to create compositions based on images they already created to explore things fast. [What] I see is that professionals on the team are adopting A.I. as something that empowers them [...] and that’s something happening naturally.”
+
+Guillaume Mezino, founder and developer at Kipwak Studio, which is working on a 3D wizard school sim called Wizdom Academy, says he first made the use of generative A.I. programs like Midjourney mandatory. Instead of using Google Images to search for references to creatures for players to encounter, developers at Kipwak used Midjourney.
+
+“I said to all my team members, ‘Try to use it as best you can in every way you can and let’s see where we can go from that,” he says. “After a few days, it was the best decision ever. The artists saw it as a good ally to help them make decisions and open their minds to new possibilities.”
+
+Wizdom Academy
+
+Of course, it’s important to note there’s an inherent relationship between Mezino, the studio's founder, and the employees there that might prevent said employees from saying otherwise. After all, he mandated A.I. to begin with. Would these developers want to use A.I. of their own volition? Anecdotally, within the wider games industry, I’d say no.
+
+When I ask Mezino about A.I. replacing jobs at the studio now or in the future, he says most of the work A.I. does for Kipwak is work that a human would never have done. For example, he says Wizdom Academy features a lot of artwork. “If I had to pay humans, if I had to pay people to do 150-plus artworks, we would have never been able to do it,” he says. Instead, someone at the studio used A.I. to create those artworks. I ask if Wizdom Academy would exist without A.I. He says it would – just not as fast or as good. There’d be less art, fewer conversations (also powered by A.I.) to have with teachers at the school, and overall, “We would have gone for something way simpler, so less appealing, and I don’t think anyone wants that.” But that begets another question: Do people want the version of this game that uses A.I.?
+
+Wizdom Academy
+
+Even though Giménez’s studio uses A.I. in its processes, he still feels there’s a legitimate concern about where A.I. gets its information from. He believes more substantial intellectual property and copyright legislation is necessary to protect human creatives. He doesn’t know the catch-all solution, though. Mezino says his team only gives A.I. work that people at the studio have created by hand.
+
+“We are not comfortable with the idea of work being used to train A.I., work that was not paid for by companies,” Mezino says. “We do what we can and for us, it means we always have to give it what we do first – to give it our job, our work, and we ask it to do something with it, and we take it back and work on it again. That’s the best we can do.”
+
+Mezino, like Giménez, wants to see stronger legislative protections placed on how A.I. is used to protect original artists.
+
+Wizdom Academy
+
+A.I. and Ethics
+
+A.I. and Ethics
+
+Hilary Mason, machine learning expert and CEO of A.I. entertainment start-up Hidden Door, agrees. She wrote a book, Data Driven, with the Obama administration’s chief data scientist, DJ Patil. It centers on this topic and the questions and methods those interested in using A.I. should adopt to do so ethically.
+
+She’s not immediately concerned with A.I., adopting the mindset that humans are still in control. But 20 years from now, she understands why communities are worried. “It’s not unreasonable to imagine a future in which you can describe a movie you want [...] and there wouldn’t be technical limitations in the way of it being created for you right there,” she says. “And it might actually be great. How do we, today, set up the foundation so that when we have that capability, we will value human energy and creativity?”
+
+Hilary Mason, machine learning expert and CEO of Hidden Door, an A.I. entertainment startup, in a video for Wired
+
+She says there are activists and communities big and small, loud and quiet, working to make this happen. But she also admits it’s impossible to know what A.I. and the surrounding conversation looks like 20 years from now. For her part, Hidden Door strictly licenses the properties and IPs it uses to bring A.I.-created D&D campaigns to users. Not ready to share specifics, Mason says Hidden Door is partnering with a number of fiction authors to make these campaigns happen. She envisions a world where someone could watch a new Star Wars movie and immediately go home and whip up a D&D campaign set within the movie’s world, laws, and physics using Hidden Door and its A.I. dungeon master. And it would do so ethically thanks to licensing agreements that ensure the right people get compensated and share Hidden Door’s revenue.
+
+Of course, Star Wars might be a pie-in-the-sky property, but Mason is excited about some of the book authors already on board.
+
+Bridging the Gap
+
+Bridging the Gap
+
+For someone like Cameron Keywood, founder, director, and solo developer at DragonCog Interactive, A.I. was the only way to turn his vision of a game into something people can play, he says. “I have used it in development, but that was from a budgetary point of view because I’m a start-up studio, and artists, while they do good quality work, are quite expensive for the work I am doing, which is a visual novel,” Keywood tells me of his upcoming sci-fi game, Baskerville, that reimagines 1902’s The Hound of the Baskervilles. “I needed 30 backgrounds and 18 characters, and that would have cost a lot. For projects like that, I think it’s okay.”
+
+Keywood says he questions where A.I. gets its learnings from, and while he appreciates that A.I. has allowed him to create a game he can’t otherwise make, he’d prefer to hire an artist. But financially, it’s not possible for him. He ponders using A.I. to create something like Baskerville that could earn enough money for a future project where he hires artists to create the art. Ultimately, he hopes A.I. remains the assist tool he feels it is today, but he could see it going a more disruptive route that ends with humans losing jobs.
+
+Matt Wyble, COO of Marvel Snap developer Second Dinner, positions A.I. in a similar vein. “[A.I.] is unlocking our ability to make experiences that we couldn’t have made before,” he tells me via email. “It’s not replacing team members but rather, empowering our small but mighty team to create like they never have before.” Wyble’s coworker and Second Dinner vice president of A.I., Data, and Security Xiaoyang Yang likens A.I. tools in the workplace to building a “mech suit” for developers.
+
+Baskerville solo developer Cameron Keywood used A.I. as an assist tool for background art in the visual novel
+
+“Imagine A.I. as this ally that can play Marvel Snap across countless scenarios, mimicking players of varying skill levels using decks of different archetypes,” Yang writes to me via email. “Overnight, the A.I. tool analyzes all the games played and generates insights on game balance, spotlighting overpowered elements or underutilized strategies, which is invaluable for designers. With this new ‘Mech Suit,’ designers no longer had to release a game, knowing it might have balance issues, relying on player data post-launch to make adjustments, which often led to suboptimal player experiences. Now, designers in this mech suit can significantly reduce these instances by identifying and addressing balance issues even before the game hits the market.
+
+“It’s a protective, rather than reactive, approach to game balance, ensuring players get a more polished experience from day one.”
+
+Baskerville solo developer Cameron Keywood used A.I. as an assist tool for background art in the visual novel
+
+When asked how A.I. could disrupt creativity within game development, Yang says it’s crucial to remember that the human element is at the heart of every game. He posits that games without a human’s touch don’t have fantasy, achievement, emotion, storytelling, and connection.
+
+“It’s like what [Apple co-founder Steve Jobs] said about computers being the bicycle of the human mind,” Yang says. “In today’s context, A.I. is the e-bike of human creativity in game development. It empowers designers to explore wild new ideas, pushing the boundaries of what’s possible in game design.”
+
+Ultimately, he sees a future where progress in A.I. is not merely about leveraging technology for efficiency tasks like coding but also about embracing it as a tool and partner in the creative process. Of course, that line, the separation between a tool or partner and the loss of a job, grows thinner by the day. And in a world where executives continue to squeeze pennies on the dollar out of everything in game development, it’s not hard to see the day when leaders cross that line in the name of cost-cutting.
+
+Kohlrabi Starship solo developer Katja Wolff opted not to use A.I. art or audio
+
+Solo developer Katja Wolff of WolKa Studio, which is developing sci-fi farming sim Kohlrabi Starship, has primarily opted not to use A.I., even if she understands why someone in a position similar to hers might.
+
+“I tried a lot of A.I. tools, but in the end, I decided not to use it beyond sometimes brainstorming,” Wolff tells me. “So basically, it’s zero A.I. art, zero A.I. audio, but sometimes I use ChatGPT for brainstorming in the English language because it’s not my mother tongue.”
+
+As for why ChatGPT is as far as she’s gone with using A.I., she simply wasn’t impressed with the options for A.I. art and audio development, noting that programs like Midjourney can’t create the homogenized visual style one might want in their game. She thinks it’s a matter of time before these programs catch up, though. And as A.I.-powered technology grows more competent, she hopes legislators will work harder to protect creatives. She likes Steam’s approach: requiring developers to indicate A.I. usage on the game’s page but only after the developer proves the game doesn’t use copyright-protected data.
+
+Kohlrabi Starship
+
+Like Wolff’s use of ChatGPT, RoboSquad Revolution developer Zollpa utilizes the program to streamline the studio’s organization. CEO Aaron Jacobson says Zollpa uses ChatGPT to organize notes after meetings, something that might take hours to do by hand but is done in minutes by A.I. “It’s something that we probably would pay a secretary a full salary to do for us and [ChatGPT] is just able to do that, and in a very short period of time with just a few clicks of a button.”
+
+That’s one secretary job lost to A.I. at Zollpa.
+
+Kohlrabi Starship
+
+He says it uses ChatGPT to brainstorm new character classes, weapons, and names for the robotic characters in RoboSquad Revolution, which began as a blockchain idea that uses NFTs before sentiment around that technology soured (and funding money largely disappeared in that sector) and the team scrapped the idea. Jacobson says that technology might be integrated into the game one day.
+
+Jacobson says Zollpa built RoboSquad Revolution narratively on the premise of A.I. Twenty years from now, A.I. robots have taken over and are “walking versions of Siri or something like that,” that you control with third-person shooter gameplay. Jacobson says that despite using ChatGPT to brainstorm ideas that make their way into the game, “the development of the characters in the game is absolutely 100 percent created by humans,” except for the voices; those are created by A.I., which Jacobson justifies narratively by explaining the robots in-game are powered by A.I.
+
+Looking 20 years into the future of our real world, Zollpa marketing and brand specialist Richard Henne thinks the game development landscape will be a lot more competitive because of A.I.
+
+Robosquad Revolution’s robot characters are voiced by A.I.
+
+“I imagine that bigger companies who are squeezing for over-the-top profits are going to try to use this for everything from character models to generative levels, which again is already happening, to voice – all that stuff, I’m sure is going to be attempted to be fully replaced,” Henne tells me during the same conversation he and Jacobson explain the robots in their game are voiced by A.I. “My hope is that companies do not fall for that. But if we’re actually talking 20 years from now, I do think it’s probably going to be a lot more of a competitive landscape, there will likely be layoffs, there will likely be protests and social movements, and I would be very surprised if this doesn’t happen.”
+
+But like Mason, Giménez, and everyone else I speak to, Jacobson and Henne want to see stronger legislation created to help regulate A.I., a technology that, by all accounts of those I talk to, is one where Pandora’s Box has been opened. Unfortunately or fortunately, it’s here to stay, depending on where you fall in this conversation.
+
+The Problem on the Horizon
+
+The Problem on the Horizon
+
+Bucklew feels the issue at the heart of the A.I. discourse, the rightful concern that people will lose jobs to the technology, strikes at a problem with society itself: We do not protect those affected. He says using copyrighted content to train A.I. models is unethical and should not be allowed – you should have to compensate users. “The other side of it, which is just using automated systems to replace human labor, that to me – whether or not that’s ethical – we’ve decided as a society that’s what we do, right?”
+
+The shirt I put on this morning was once a product created by human hands until the Industrial Revolution in the 19th century turned it into a more automated process. People lost their jobs. But time advanced, and jobs were created around the new emerging markets, jobs that hopefully the jobless picked up. Bucklew says the same happened with car manufacturing, construction, and many other workforce sectors. With proper transition management, he thinks these massive changes in how society works can be smoother.
+
+Cataclismo developer Digital Sun does not mandate use of A.I., but various individual developers use it as a tool to bolster their output
+
+“I think we’re in the middle of a [transition] now, and so it’s extremely painful for a particular alignment of laborers who are visual artists, musicians, or voice actors,” he adds. “And they don’t have a job to go to, and we don’t have any kind of safety net in society to say, ‘Well, you’re going to be fine. We’re going to allow you to move to this new constellation of labor,’ but nothing’s going to stop this constellation of labor. [The] cynical business lines of force are going to force that new constellation of labor because everyone else will simply not be able to do business on a competitive level without it.”
+
+Cynically, Bucklew is not confident the cat can be put back into the bag, though. And he’s not confident we’re adequately prepared for the A.I. transition we’re barreling toward. He ponders whether we should focus more on what happens afterward when people lose their jobs rather than what’s happening today.
+
+Caves of Qud
+
+“To the extent that we allow capital to drive these systems, I don’t think there’s any route where all the labor that can be replaced by automated systems isn’t replaced by automated systems, and the questions we’re going to have to be asking in 5 or 10 years are ones that just seem bizarre to us,” he says. “[That’s] obviously disastrous for the way society’s stood up right now, where you should have a job and pay your bills with the money you earn.
+
+“I think that alignment is failing quickly and will fail more quickly than we can figure out how to get people into new jobs. And so, we have a real problem over the next 50 years as these systems continue to take off.
+
+This article originally appeared in Issue 365 of Game Informer.
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

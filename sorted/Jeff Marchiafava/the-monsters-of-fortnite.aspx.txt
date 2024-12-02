@@ -1,0 +1,91 @@
+
+  The Monsters Of Fortnite
+
+
+
+
+
+
+Last week we took a look at the characteristics and abilities of three of Fortnite's starting classes: the heavily armed commando, the melee-focused ninja, and the fort-building constructor. Today we're focusing on some of the deadly monsters you'll be up against.
+
+Epic is crafting a rogues' gallery of unique beasts to complicate your adventures in Fortnite's procedurally generated world. These monsters originate from The Storm, the mysterious purple clouds that form at night and during certain level objectives. While there might not be a whole lot of backstory behind The Storm, this nebulous menace allows Epic to flex its creative muscles when designing enemy types. "We started off with ultimately what feels like a stylized zombie," says Fornite's art director, Pete Ellis. "And then we felt, 'Well, we don't just want zombies. We want some cool ethereal creatures as well.'"
+
+Unlike the enemies you find in most action games, each monster type in Fortnite has been designed with its own purpose and technique for breaching your strongholds and causing havoc. Here are some of the first monsters Epic has lined up for the launch of Fortnite.
+
+Name: Husk
+
+The husk is the most basic enemy in Fortnite. These zombie-like creatures appear to be emaciated humans. While it's difficult to tell from the above character render, the husk's face has been pulled back behind the creature like a hood, with its skull protruding from its own sagging mouth.
+
+Like zombies in other games, the standard husks are melee enemies, and swipe at players with their claw-like fingers. Husks will charge you on sight, but only really pose a threat in larger groups. However, they'll also attack your fort during level objectives; in the missions where we had to activate and defend a portal from waves of enemies, the run-of-the-mill husks proved surprisingly adept at exploiting the weaknesses of our improvised strongholds and making their way to the vulnerable core.
+
+Threat Level: Low
+
+Name: Pitcher Husk
+
+Fortnite's pitcher husk serves as a basic projectile enemy type, albeit with a tongue-in-cheek twist. These sporty foes carry a baseball helmet full of bones, which they throw at players and structures to deal long-range damage.
+
+Although pitcher husks aren't a huge threat, they do make players prioritize their attacks. They can be a particular nuisance to ninjas; as the melee fighters take on swarms of invading husks with their trusty katanas, pitcher husks will hang back and dish out pain from a distance. Commandos perched on the roofs and balconies of their forts are also at risk, though once they identify the source of the incoming attacks, they won't have much trouble stopping them.
+
+Threat Level: Low
+
+Name: Exploding Husk
+
+These rotund monsters pose a significant threat to ninjas – the propane tanks they carry on their shoulder will explode upon their death, causing major damage to anyone caught in the blast. As you might expect, commandos can use this to their advantage by targeting the tank to also take out nearby enemies.
+
+While exploding husks may not sound all that dangerous, it's worth stressing how hectic the battlefield is during Storm invasions. Epic is using the extra power of its Unreal Engine 4 to throw large numbers of enemies at players; it's easy to overlook one of these self-destructing enemies when you're cutting down swathes of charging husks outside of the safety of your base.
+
+The exploding husk's propane tank can also damage your fort when it explodes, so players should try to take down these enemies from an elevated position before they get too close.
+
+Threat Level: Moderate
+
+Name: Flinger
+
+During our hands-on time with Fortnite, many of the missions we attempted involved building a stronghold and defending it against waves of enemies. Usually there was also an environmental object such as a portal or radar dish that we had to protect from the encroaching enemies as well. Our method for completing these tasks was often the same: Build a large fort out of the resources we collected from the environment, complete with a series of reinforced walls and floor traps.  
+
+The flinger poses a unique challenge for well-fortified teams. The towering creature spawns husks of various types and hurls them over the defenses of your base. During one session, our seemingly invincible fort proved to be less secure than we thought once a flinger started launching enemies over our walls. We had left the stairway on our roof completely unguarded; once the airborne enemies landed, they rushed down the steps, which provided a straight shot to the portal.
+
+Despite their size, flingers are relatively easy to take down at close range. However, they force players to think about the structural integrity of their entire fort – not just the areas vulnerable to The Storm's invading ground forces.
+
+Threat Level: Moderate
+
+Name: Lobber Husk
+
+The svelte lobber husk might not be the biggest of Fortnite's monsters, but she's one of the most destructive. This deadly foe lurks in the distance and lobs flaming heads at the player's base in a high arc. The fiery projectiles explode on contact, dealing massive damage capable of collapsing roofs and walls. 
+
+Our introduction to the lobber husk was decidedly unforgiving. During a particularly taxing invasion, a lone lobber husk rained down death on our three-story fort, directly over the portal that was located on the ground floor. The explosive projectiles cut through our stronghold's ceilings and floors with ease, and started dealing direct damage to the portal. Eventually, our crew was forced to split up, with two teammates heading out on foot to track down and stop the menace, while the other two frantically patched up the fort. This gave the rest of the invading monsters plenty of time to overrun our defenses and finish off the severely damage portal. Constructors will want to be on their game whenever this dangerous foe emerges on the battlefield.
+
+Threat Level: High
+
+Name: Smasher
+
+All of the buildings and environmental objects in Fortnite are destructible, and as such Fortnite's enemies won't hesitate to break their way through any wall or structure that gets in their way. Tearing down the walls of your fort will take weaker husks a significant amount of time – but not smashers. As their name implies, these hulking enemies use their oversized club arm to smash through walls and players alike with ease.
+
+Smashers come in two varieties: those that attack you, and those that attack your base. Neither is preferred; head-to-head encounters with smashers are often deadly, but nothing is worse than watching one of the massive beasts breach your perimeter and lead a stream of smaller enemies right into your base. Regardless of which type appears on the battlefield, teams should work together to take it down as quickly as possible.
+
+Threat Level: High
+
+In addition to the monsters outlined above, we ran into a number of other enemy creatures during our hands-on time with Fortnite, each of which provides its own twist to the gameplay. Ninja husks can dodge enemy attacks and climb up walls; beehive husks are surrounded by a swarm of stinging bees that damage players who get too close to them; and husky husks burp poisonous orange clouds that cause area-of-effect damage.
+
+Each monster is stylized enough that you can tell what they are from a distance, which facilitates making quick decisions on the battlefield. The art style also strikes a unique balance between horror and humor. "We didn't want them to be grotesque," Ellis says. "They're sort of like adorable abominations. They're pretty creepy, but they're not the type of thing where they're repulsive."
+
+The fun art style and lighthearted tone of the game also give Epic plenty of leeway for crafting creative new enemy types in the future, part of the studio's plan to support the ambitious free-to-play title for years to come. "Right now we have sort of a cohesive palate of monsters in the game," Ellis says. "They feel like they came from the same world. But maybe someday – what happens if we put something totally off-kilter in there? That will happen eventually. I don't know when, but we'll see."
+
+Come back later in the week for more information on Fortnite's procedurally generated world. To see all of this month's bonus Fortnite features, click the hub banner below. Want to play Fortnite for yourself? Sign up at Epic's site for a chance to be included in the upcoming alpha.
+
+You can also follow our Fortnite updates and other stories by following Game Informer on Twitter, Google+, and Facebook.
+
+      Products In This Article
+
+Fortnite
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC, Mac, iOS, Android
+
+Release Date:
+
+July 25, 2017 (PlayStation 4, Xbox One, PC, Mac), April 2, 2018 (iOS), June 12, 2018 (Switch), August 9, 2018 (Android), November 10, 2020 (Xbox Series X/S), November 12, 2020 (PlayStation 5)
+
+Purchase
+More Info
+

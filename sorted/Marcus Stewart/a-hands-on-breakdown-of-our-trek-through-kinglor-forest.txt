@@ -1,0 +1,94 @@
+
+                                          Avatar: Frontiers of Pandora
+                  
+
+
+  A Hands-On Breakdown Of Our Trek Through Kinglor Forest
+
+
+
+
+Platform
+PlayStation 5, Xbox Series X/S, PC
+
+Publisher
+Ubisoft
+
+Developer
+Ubisoft Massive
+
+Release
+December 7, 2023
+
+            Avatar: Frontiers of Pandora is the next canonical chapter of the Avatar mythos. Set during the one-year gap in Avatar: The Way of Water on the other side of Pandora in a new area called the Western Frontier, players control a Na’vi raised and trained by the Resources Development Administration (RDA) who finds themselves taking the fight to the corporation. That requires, quite literally, getting back to their roots as they reconnect with Eywa while learning what it means to be a Na’vi by ingratiating themselves with the game’s three new clans. 
+
+In a recent preview event, I spent about two hours playing four early story missions. Here’s a breakdown of the world, combat, and exploration mechanics I sampled during my stay on Pandora. 
+
+Combat and Stealth
+
+My demo begins a few hours into the game in the Kinglor Forest, a rainforest-like area home to the Aranahe, one of the new clans and the first one players encounter. The Aranahe largely consists of artisans and weavers, and they rely on silk produced by large moth-like creatures called Kinglor (hence the forest’s name). However, this symbiotic relationship has been disrupted by the RDA, and it's up to me to restore balance.
+
+As a first-person game, controls are familiar to modern shooters. Due to their background, the customizable protagonist wields Na'vi and human weaponry. The former consists of several bows, such as ones suited for short and long-range, with various arrow types, including fire and poison. The most unique weapon is the Staff Sling. Resembling a lacrosse stick, it's used to lob various explosives. 
+
+The RDA weapons I used included an assault rifle, shotgun, and stun grenades. In general, Na'vi weapons are quiet and great for stealth. Arrows can also be crafted by collecting plants growing in the environment, meaning ammo was rarely an issue. Conversely, guns are more powerful but louder, and you can only replenish them by finding ammo at RDA outposts or on dead soldiers, making bullets a scarcer resource. All of the weapons have a good feel and pack a punch, though I generally favored the Na’vi tools due to my proclivity for stealth and roleplaying the fantasy of being a Na’vi. 
+
+Though I engaged in a few skirmishes with RDA platoons patrolling the world, the most combat-heavy sequence was a mission tasking me with shutting down a large outpost. These facilities can be found all over Pandora and pollute the environment. Thus, getting rid of them is vital.
+
+Players have the option of going loud, but I opt for sneaking. Being a 10-foot tall creature makes sneaking around somewhat odd, as human-sized barriers don’t conceal me quite as well, meaning I have to get a bit more creative and quiet. Picking off foes with my massive arrows feels good, as does performing melee attacks that send their comparatively smaller bodies flying. The base is crawling with AMPs, the walking mech suits from the films, which provide a more evenly-matched adversary due to their size, armor, and more powerful weaponry. 
+
+Taking these down can be a struggle, but you can circumvent that by using your SID (Systems Interrogation Device), a hacking device that, after finishing a minigame where you guide nodes through an obstacle-laden maze, can temporarily disable AMPs, leaving them vulnerable to attack if you choose. 
+
+This section was tough due to the sheer number of enemies. Alerting them sends the entire base after you, with even aerial reinforcements arriving in the form of the RDA Wyverns (those fancy helicopters from the films). I managed to complete my checklist of objectives mostly quietly, in which I had to shut down or outright sabotage multiple key points across the sprawling facility. When I was caught, the RDA maintained some form of mild alert status even after I evaded their gaze for a good while, which I appreciated as a touch of realism – they didn’t totally forget I existed.  
+
+Platforming and Flight
+
+Since Na’vi have superhuman agility, I have a standard jump and a more powerful vertical leap by holding down the jump button. My Na'vi senses, activated by holding the right bumper, serve as an enhanced view of the surroundings by revealing animal scent trails (great for tracking and hunting, more on that later) and highlighting targets through the thick foliage.
+
+Platforming has elements of parkour, showcased best in a mission where I must scale the suspended islands of the rookery to tame my flying mount, the ikran. Sprinting across its massive vines, climbing up platforms, and grabbing objects such as climbing vines can all be done while running, creating an enjoyable flow of movement and momentum. The level design also feels natural; climbing points aren’t obvious, but I can still get a good sense of where I need to go. 
+
+Along the way, I encounter the ikran of my fancy and attempt to soothe it by slowly approaching and whispering sweet reassurances. Each time it ignores my advances, it flies off, triggering another round of platforming. When I finally reach the top and earn its trust enough to perform the ceremonial bond, the ikran becomes my mate for life, meaning it becomes my permanent flying mount (and can’t be killed). I also give my ikran a name from a preset list – Carol, if you’re wondering – and outfit it with adornments such as a saddle and mask. 
+
+Ikran can be summoned by hitting Up on the d-pad, and the perspective changes to third-person while mounted. Flying generally feels good as I’m able to boost flight speed at the expense of my mount’s energy bar. I replenish this by feeding it food, which is done on the fly via an item wheel. In addition to performing tricks like barrel roles, flight opens up fun combat opportunities. I come across several Wyverns and engage them with my bow or guns, both of which can reduce a chopper into a fiery heap. It’s generally easy to aim and shoot while steering the ikran, though the real fun comes in messing around with some creative stunts. My favorite trick is to dive off the ikran in midair, initiate a free fall, pull out my Staff Sling to lob bombs at targets on the ground, then command my ikran to catch me and take off as explosions rattle below. 
+
+Ikrans also make for good distractions. At the RDA outpost, I called it to the area, which attracted the soldier’s attention. As they opened fire at it, it gave me a window to slip by unnoticed. As your bond with your ikran grows through the adventure as you reconnect to Eywa, you can use them to travel to the game’s other two regions – Upper Plains and Clouded Forest – once they become available through the story. 
+
+Exploration, Hunting, Crafting, and Cooking
+
+Kinglor forest is huge, vibrant, and teeming with life. Best of all, the map isn’t littered with icons. Frontiers of Pandora avoids this pitfall of many Ubisoft open-world games for a less-is-more approach. Only key locations are highlighted, and objectives tasked me with identifying elements of the scenery in a general area or cardinal direction (such as a stone pillar covered in willow trees in one mission)  to find my location instead of shoving a waypoint exactly where I need to be. This way, I’m able to keep my eye on the game instead of on the menu and feel better connected to the world as a result. 
+
+Like in the films, the world feels alive thanks to the dynamic interactions with the alien plant life. Some are playful, like watching orange funnel plants shoot into the ground upon approach. Others are beneficial, such as blue flowers that release speed-boosting pollen when stepped on. Some flora are dangerous; keep an eye out for large, volatile egg bulbs that explode in close proximity. The most beneficial flower I found was the Tarsyu. This large, pink flower rewards a skill point once you connect to it. They tower above the ground and usually require traversing elevated platforms or terrain to reach them, but they’re worth stopping what you’re doing to visit if you see one. 
+
+As I explore, I harvest some of these plants for materials used in crafting and cooking. This feature is more involved than I expected. Conditions such as time of day and weather determine the quality of the yield. A flower plucked in the afternoon may be of lower quality than if it were picked at night, as a basic example. A brief minigame accompanies harvesting as I rotate the angled stick to find a sweet spot before yanking or cutting stems. You can scan plants, animals, and other objects by clicking the right analog stick, which saves all of their information, such as location and their ideal conditions for harvesting, to a menu database. 
+
+Hunting is similarly involved. Animals sport weak points, and targeting them will not only drop them faster but result in cleaner kills. That's important as the quality of the meat and hides depends on how much ammo you dump into them and what type. Arrows are great for this due to their precision and power. A couple of well-placed shots can preserve the meat while hitting weak points results in a merciful kill, adding a bonus to your overall yield quality. Killing creatures with guns renders them totally unharvestable - Na'vi abhor metal, after all. Thus, when confronted by more aggressive beasts, the choice of killing them more quickly with guns and losing out on the reward is constant and adds weight to battles.
+
+A cooking system reminiscent of the recent Zelda games lets you turn hard-earned ingredients into a variety of dishes. Combining ingredients results in unexpected combinations. Some plates bestow temporary buffs. Bad combos result in gross dishes unfit for eating. Recipes are automatically saved to a database for easy reference.  You can use harvested materials to craft new weapons and armor at a weapon bench. Armor has color-coded rarities, though are nuanced with specialized perks. 
+
+Outside of crafting and consuming goods, one particular recurring sidequest involves donating requested goods to a tribe’s communal basket. Most villages I visited had one of these, and each requested a certain type of plant, food, or item of a specific quality or rarity. Fulfilling these requests filled portions of a spiral meter. I didn’t fill it up during my session, and the Ubisoft representative didn’t clue me in on what happens when you do when I asked. We’ll just have to wait and see how you’re rewarded for being a generous giver. 
+
+Everything you do feeds into leveling up, which unlocks skill points to spend on five skill trees: Survivor, Warrior, Hunter, Rider, and Maker. Survivor dictates stats for health energy (basically stamina) and increases your inventory size. Warrior pertains to all things combat, letting you raise proficiency with weapons. Hunter unlocks more skills to improve your tracking and identify higher-quality materials. Rider provides skills for your ikran, such as barrel rolls or catching fish when flying close to water. Lastly, Maker improves cooking and crafting attributes. 
+
+Overall, I largely enjoyed my time with Avatar: Frontiers of Pandora. On one hand, it’s familiar in the sense that it channels games like Far Cry in its open-world combat and exploration. On the other hand, it remedies criticism of Ubisoft’s open-world design, such as getting rid of icons and letting players explore using the pretty sights. The game admirably captures the spirit and identity of the IP, especially since exploring and poking around is entertaining on its own. It remains to be seen how the storytelling holds up, but we won’t have to wait too much longer. Avatar: Frontiers of Pandora launches on December 7 for PlayStation 5, Xbox Series X/S, and PC
+
+      Products In This Article
+
+Avatar: Frontiers of Pandora
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PC
+
+Release Date:
+
+December 7, 2023
+
+Purchase
+More Info
+
+Marcus Stewart
+Associate Editor
+Marcus is an avid gamer, giant wrestling nerd, and a connoisseur of 90's cartoons and obscure childhood references. The cat's out of the bagel now!
+
+Email
+Twitter
+

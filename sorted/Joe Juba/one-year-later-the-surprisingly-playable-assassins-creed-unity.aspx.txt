@@ -1,0 +1,25 @@
+
+  One Year Later: The Surprisingly Playable Assassin’s Creed Unity 
+
+
+
+
+
+
+Assassin’s Creed Unity was a complete mess at launch. That fact can’t be sugar-coated; an array of technical issues prompted an outcry from gamers – resulting in an apology from Ubisoft and the discontinuation of the planned season pass. The release of barely functional games is not something to be taken lightly or excused, but in the case of Unity, the backlash may have scared players away from what eventually became a decent game. 
+In fact, I was one of those fans deterred by the problems surrounding Unity’s launch. After playing a few missions, I decided to wait until the dust settled before diving in – but that took so long that I just moved on to other games. Plus, I had already gotten my AC fix for the year thanks to Rogue. But now, with the release of Assassin’s Creed Syndicate only weeks away, I decided it was time to finally revisit Unity on PlayStation 4. To my surprise, I’m playing a fun (and functional) game! 
+If you’ve been avoiding Unity because of the prevailing sentiment that it’s a broken trainwreck, you should know that it’s safe to come back. The following is a rundown of common problems from the launch window that I’ve found to be improved or fixed completely during my time with Unity.
+
+Bugs
+The most high-profile issue with Unity was the array of glitches and bugs. From characters with missing faces to cutscene-interrupting pedestrians, these errors are distracting at best, and game-breaking at worst. I didn’t play much of the game last year, so I can’t say how pervasive they were then, but I’ve encountered no serious glitches so far in this playthrough. Some of the object collision is weird sometimes, and the physics can act up, but these are well within the expected range in terms of severity and frequency. I haven’t even fallen through the world yet – something that seems to happen to me at least once in every Assassin’s Creed title. Of course, I haven’t finished the game yet, so there’s still time.
+Crashes
+Unity crashed on me once in my first two hours. “Oh, great, here we go,” I thought.  But I’ve played about 10 hours since then, and I haven’t run into another crash. In the months following release, the game received five different patches addressing various issues, and they apparently did their job. However, some of the loading screens are so long that I was afraid the game had crashed…so that problem was never fully addressed.
+
+Locked Chests
+This one is a big deal. Originally, opening certain chests required players to use AC Unity’s companion app and the AC Initiates website. These blue and gold (respectively) chests would appear on the map to tempt (or taunt) completionists, containing lots of money and cool alternate costumes. However, the practice of holding these rewards hostage ultimately felt kind of scummy; Ubisoft shouldn’t have dangled these bonuses in front of players so blatantly, then locked them behind boring periphery content that no one cared about. Thankfully, the publisher clearly heard fans’ frustration. With the last major patch to Unity, these chests can all just be opened with the press of a button, with no outside effort required.
+Framerate
+I can understand an occasional framerate dip, but the reports of Unity’s performance problems at launch went beyond a few isolated instances. This flaw has clearly been addressed to some degree. It's still not ideal, but it doesn't render the game unplayable. Unity generally tries to maintain 30 fps at a resolution of 900p; it was never planned to run at 60 fps in the first place, which is discussion for another time and place.
+
+Co-OpIt's a shame the co-op functionality was such a buggy mess at launch, because it's a neat concept. Not only that, it's also fun. I recently played a few co-op missions with fellow GI editor Matthew Kato, and we had no issues apart from one short stretch with a chuggy framerate. The idea of working together and coordinating an infiltration is a more natural fit for the franchise than the competitive multiplayer in previous entries, and I enjoyed this approach much more. Plus, it feeds into your single-player progression, so you actually have a reason to try it out. I had no crashes or significant roadblocks in the process of joining up, starting the missions, and completing the objectives. You may have trouble finding random players to fill out a group at this point in the game's lifecycle, but I'd definitely recommend hopping in with a few friends.
+With the way Ubisoft has removed the various roadblocks over time, now players have the opportunity to experience Unity as intended. It still isn’t a perfect game (here’s our original review), but at least we are free to enjoy it for what it is without all of the technical distractions. A lot of people are understandably approaching Syndicate with trepidation due to the Unity debacle, but my less-disastrous experience has me optimistic. Assuming we don't see a repeat of last year, I'm excited to see what elements of Unity get pulled out, revamped, and otherwise improved for Syndicate.
+

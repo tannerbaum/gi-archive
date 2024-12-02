@@ -1,0 +1,21 @@
+
+  Introducing Rainbow 6 Patriots
+
+
+
+
+
+
+Creative director David Sears unveils a prototype video of the revamped tactical series. 
+When pitching projects internally, development teams frequently create a target video to illustrate their vision for the game. Rarely does this footage see the light of day outside the confines of the publisher, but today you get a chance to see a prototype of the bold approach Ubisoft Montreal is taking to moving single-player shooter campaigns away from the Call of Duty "follow me" template and into uncharted territory. Watch the video and you'll understand why we chose to feature the game on the cover of our December issue.
+Video Player is loading.Play VideoPlayMuteCurrent Time /Duration Loaded: 0%Stream Type LIVESeek to live, currently behind liveLIVERemaining Time - 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions settings, opens captions settings dialogcaptions off, selectedQuality LevelsAudio TrackFullscreenThis is a modal window.
+      The Playback API request failed for an unknown reason
+        Error Code: VIDEO_CLOUD_ERR_UNKNOWN
+        Technical details
+        : Unknown catalog request error.
+
+      Session ID: 2023-06-30:d0c4ef12391b2e24fe9c9eb9 Player Element ID: vjs_video_3
+          OK
+        Close Modal DialogBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.This is a modal window.Close Modal DialogThis is a modal window. This modal can be closed by pressing the Escape key or activating the close button.PlayMuteCurrent Time /Duration Loaded: 0%Stream Type LIVESeek to live, currently playing liveLIVERemaining Time - 1xPlayback RatePicture-in-PictureFullscreen
+For more information about Rainbow 6 Patriots, check out our cover story reveal here or visit our hub by clicking on the link below.
+

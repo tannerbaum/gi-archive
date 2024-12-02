@@ -1,0 +1,48 @@
+
+  The Most Fascinating Tools In Dreams
+
+
+
+
+
+
+            Media Molecule's Dreams has an eclectic and vast set of tools in its impressive creative suite. With so many detailed mechanisms at your disposal to make your dream game, it can be overwhelming at first, especially for non-designers. However, plenty of tools are still accessible to beginners after some practice. Here are some of the stand-out ones we loved to toy with during our cover story trip.
+
+Trigger Zones
+Media Molecule describes Dreams' tools as "visual programming," where you work with sliders and visual cues instead of staring at lines of code. Trigger Zones are the perfect example of this, where you place a block in your world which then turns into a force field. When an object or character enters a Trigger Zone's force field, you can set it up so that this action has a consequence. For example, a character's health can be programmed to lower when inside the force field, or a camera can shift its view. It's a fascinating and friendly approach to game design's more complex systems.
+
+Sculpting
+This is one of my favorite features in Dreams. With the sculpt tool, you can mold and form different shapes similar to how you'd shape clay in pottery. During our visit at Media Molecule's studio, much of the development team used Move controllers to sculpt, giving the impression of using paintbrushes with a canvas. Small gestures, like tapping the Move controllers together, can change the shape of a sculpt. You can also use the DualShock 4 controller, which may not feel as natural as the Move controllers but seems just as efficient to work with. During a demo, we saw the team create a giant skull cave in 10 minutes by sculpting, which you can see in the image above.  
+
+Cloning
+Similar to copy and paste, cloning lets you duplicate or multiply objects quickly. We watched Media Molecule make a gorgeous mountain that looked natural. This was accomplished by simply cloning a cluster of rocks, changing their proportions by stretching them in different directions, and placing them at different angles. You can also create bridges, structures, and platforms easily.
+
+Animation
+Coupled with cloning, animation can be particularly helpful with creating moving platforms or moving obstacles in a game you make. When in animation mode, you can hit record then grab hold of an object to move it in different directions. Once that's completed, a dotted line shows the path you created. It's visible in edit mode, showing how the object will move around your world.
+
+Combing
+Combing is just one of the quirky, detail-oriented methods you can use to make an aesthetic look just right in your game. Similar to how a brush is used to comb hair, this smooths out and affects the direction of the strokes on objects. For example, it can even work with bodies of water and change which direction they flow in. You can add other styles, too, such as a painterly "impasto" effect as seen in Van Gogh's Starry Night.
+
+Puppets
+In Dreams, your cursor takes the shape of a small customizable imp, which is used not only to grab things or navigate the world, but it also lets you possess items and characters. To create a playable character, one of the best methods is using the puppet tool. Here, you can work with a premade construct that looks vaguely human and build a character however you like. You can add joints to make elbows and knees bend naturally, even throw in a stylized walk so that you can add some spring to your step or bring some sass to how the character holds themselves. Much of this is accomplished with sliders to make it easier.
+
+Music Tool
+Dreams' music tool is so expansive it feels like a separate entity entirely. Similar to the depth you'd find in a professional program like GarageBand, you can create a musical theme for your game, sound effects, voice-overs, and more. With the PlayStation Camera or with your own USB microphone, you can record real-world sounds and place them into your virtual universe. For example, Media Molecule pointed us to an old piano in their cafeteria, saying that tunes created on that instrument are heard in the main campaign. If you don't want to use real-life instruments, a plethora of ready-made sounds can be remixed and toyed with inside Dreams. You can use the perform tool to choose the right notes and build a song.
+
+For more on Dreams, click the link below to check out our hub which is filled with exclusive interviews, videos, and more.
+
+      Products In This Article
+
+Dreams
+
+Platform:
+
+PlayStation 4
+
+Release Date:
+
+February 14, 2020
+
+Purchase
+More Info
+

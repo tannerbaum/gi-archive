@@ -1,0 +1,92 @@
+
+  Pikmin 4's Creators On Why Development Isn't Only About Making Miyamoto Happy
+
+
+
+
+
+
+            The Pikmin series has always been well liked, but even with its solid track record, Pikmin 4 surprised us with its quality and fun. To get some insight into how the game came together and learn about working with Shigeru Miyamoto, we spoke with chief and programming director Yuji Kando and planning director Yutaka Hiramuki over e-mail.
+
+Game Informer: In 2015, Shigeru Miyamoto said in an interview that Pikmin 4 development was “very close to completion.” Was that statement inaccurate at the time?
+
+Kando: After the development for Pikmin 3 ended, we started development for Pikmin 4 as a small team.
+
+As we made several attempts and tried out various things, there were moments when we could see the game take shape, but since we had to prioritize other projects, we weren't able to create the development team framework needed to complete the game. But the fruits of our labor during that time lead to the result of what Pikmin 4 is today.
+
+Hiramuki: We know the fans were worried since Pikmin 4 was taking a long time, but thanks to their patience, we were able to make a game that is enjoyable for many people.
+
+Oatchi makes the game much more approachable by putting all the Pikmin on his back. Was there a fear Oatchi would make the game feel less like a Pikmin title since he makes managing so many Pikmin easier?
+
+Kando: The essence of Pikmin is as described in the Japanese word “Dandori,” which is the ability to “organize tasks strategically and working effectively to execute plans.” With that in mind, the key point of the game is to decide what tasks to assign to the Pikmin to execute your plans effectively. So, we were not at all worried about losing any “Pikmin-ness” by making it easier to manage the Pikmin. Even with Oatchi, you are still deciding tasks for Pikmin to achieve Dandori.
+
+We developed Oatchi to have two different aspects: he is a "super Pikmin" but also a playable character. So his presence lowers the control barriers for beginners, but also expands the decision-making and Dandori gameplay for experienced players.
+
+Hiramuki: Further, in terms of maintaining the balance between Oatchi and the Pikmin's abilities, we spent a lot of time making adjustments throughout development. I remember how it was hard to get the members outside of the team to see how great Oatchi is and we struggled to explain it early on. But, they got it once they actually played the game, and as a team, we believe that we were able to enhance the gameplay while still maintaining its Pikmin-ness.
+
+Do you think Oatchi from Pikmin 4 and Poochy from Yoshi’s Island would get along? Has development already begun on a game starring the pair?
+
+Hiramuki: Ha! Oatchi wasn't designed with Poochy in mind, so that thought never crossed my mind until you mentioned it just now. I have nothing further to share about any potential future games.
+
+Early concept art for Pikmin from Nintendo
+
+Each Pikmin game feels more and more like it is taking place on Earth, or a version of Earth. What is the intent behind making the games feel less alien with every entry?
+
+Hiramuki: Well, while it's true that the planet is very similar to the Earth we know, I want to clarify that we have never actually referred to it as "Earth."
+
+Kando: In this game, we wanted to make the Pikmin feel more realistic. For that reason, we added many elements that are familiar to players. But, on the other hand, I believe we were able to also widen the gap in values between the player and the aliens.
+
+Also, with the appearance of many aliens other than Hocotatian and Koppaite as well as the depiction of new technology, I think we in fact expanded on the game's element of “outer space” beyond what players already know and feel about Earth or any similar planet.
+
+Why is Olimar so loyal to his employer when they keep forcing him into dangerous scenarios away from his family to clean up their messes?
+
+Kando: While I'm not sure about the loyal part, Olimar seems to always get caught up in challenging situations, so maybe he just attracts trouble.
+
+Hiramuki: Olimar works as a delivery ship pilot in order to earn a steady income to support his family rather than becoming an adventurer that makes no money. I’ll also point out that Hey! PIKMIN includes a story about Olimar shortly after he joins the company where he is given a delivery assignment from the President. The delivery destination leads Olimar to his wife, and upon opening the package, he finds his bonus inside. So it seems that from then on, Olimar has vowed to follow the President.
+
+Pikmin has a subtle darkness to it where you are essentially defeating enemies and dragging their corpses to your ship to turn them into fuel, but in practice, the game is light and fun. How do you approach this balance of light and dark?
+
+Kando: One of the themes of this game is the depiction of realistic living creatures, not fantasy, so I think it is inevitable that the game feels that way.
+
+In nature, it's not about which side is the enemy and which side is the ally because from one perspective, something can be seen as light, but from another, it can be seen as dark. Since the first series title, these perspectives have been important to us, and we also aim for a design that is both cute and creepy and try to be ambiguous about the intentions of the Pikmin.
+
+Hiramuki: Olimar also mentions this in the game, but it may be that the idea of Pikmin being allies is just a convenient assumption, when in actuality, us humans (the players) are the ones being played by them.
+
+In the Ask the Developer interviews for Pikmin 4, Shigeru Miyamoto said, “My words carry a lot of weight, people would get flustered if I said something even remotely random.” Do you have an example a strange or random bit of feedback Miyamoto offered during Pikmin 4’s development? I imagine it is scary to have Miyamoto look at your game and offer feedback. How do you feel about that process of working with a legend like Miyamoto?
+
+Kando: I always feel honored to be able to work with Mr. Miyamoto. With that said, I hope people don't take this the wrong way, but we don't work on a game with the goal of “to make Mr. Miyamoto happy.”
+
+The important thing is how deep of a discussion we can have about the game, and those discussions are the times when we see how thoroughly we thought through the game design. So in that sense, yes, we do get nervous going into a discussion with Mr. Miyamoto.
+
+Hiramuki: So, here are some examples of Mr. Miyamoto's feedback for the game:
+
+The scene where Captain Shepherd slides down after she's rescued, and the dialogue between Collin and her in the beginning of the game, both of those incorporate some of Mr. Miyamoto’s ideas.
+
+Lines like "Collin... You look different since the last time I saw you. Did you do something new with your hair?" or "And you're sure we have enough emergency rations, Collin? We have no idea how long we'll be stuck on this planet" is some of that dialogue that came from talking with Mr. Miyamoto.
+
+Also, the scene where the first treasure, a GBA, drops and pops open was something that Mr. Miyamoto put a lot of care and thought into.
+
+You can read Game Informer's Pikmin 4 review by following the link.
+
+      Products In This Article
+
+Pikmin 4
+
+Platform:
+
+Switch
+
+Release Date:
+
+July 21, 2023
+
+Purchase
+More Info
+
+Kyle Hilliard
+Magazine Content Director
+Kyle plays entirely too much Picross. He once wrote a whole book about The Legend of Zelda.
+
+Email
+Twitter
+

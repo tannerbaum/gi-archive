@@ -1,0 +1,106 @@
+
+  New Horizon Forbidden West Patch Improves Visuals, Fixes Quest Progression, And More
+
+
+
+
+
+
+            Guerrilla Games is hard at work at making Horizon Forbidden West the best it can possibly be, fixing bugs and progression blocks, improving its visuals, and more. 
+
+Today, Patch 1.08 went live and like the patches before it, it brings a wealth of fixes to the open-world RPG alongside some graphical improvements. As usual, the patch notes also include issues Guerrilla Games is aware of but still working to fix.
+
+“Hello everyone, we’ve just released Patch 1.08,” Guerilla Games writes in the patch notes. “Thanks to everyone who has used the Support Form to share their issues with us. Please continue to do so for any bugs you come across in Horizon Forbidden West.” 
+
+Here are the fixes and improvements live in Patch 1.08:
+
+Main Quests
+
+Fixed an issue in main quest ‘To The Brink’ where using Silent Strike on a quest-specific Bristleback would teleport the player to Chainscrape.
+Fixed an issue in main quest ‘The Dying Lands’ where Varl and Zo would sometimes idle outside of Plainsong and block progression.
+Fixed an issue in main quest ‘The Dying Lands’ where Aloy’s companions would not lead the way after restarting from a specific save.
+Fixed an issue in main quest ‘The Broken Sky’ where reloading a certain save could sometimes disable fast travel unintentionally.
+Fixed an issue in main quest ‘Cradle of Echoes’ where loading a save created on the previous patch would cause Aloy to be stuck in the Base.
+Fixed an issue in main quest ‘Thebes’ where Aloy’s breathing sounds were playing during a cinematic sequence.
+Fixed an issue in main quest ‘All That Remains’ where restarting from a certain save would cause Aloy to spawn in the Base and unable to leave.
+
+Side Quests
+
+Fixed an issue in side quest ‘The Bristlebacks’ where Ulvund didn’t get the memo and stuck around in Chainscrape after the quest was completed.
+Fixed an issue in side quest ‘What Was Lost’ where Kotallo would sometimes become unresponsive when reloading from a specific save.
+Fixed an issue in side quest ‘Blood For Blood’ where Kavvoh and Arokkeh could not be interacted with in specific circumstances, blocking progression.
+Fixed an issue in side quest ‘Forbidden Legacy’ where fast traveling during the Slitherfang encounter would cause the machine to not respawn, thus blocking progression.
+Fixed an issue in side quest ‘The Roots that Bind’ where the quest objective "Go to the Drumroot" would not complete after damaging the Widemaws from a large distance.
+Fixed an issue in errand quest ‘Call And Response’ where killing the enemies before receiving the objective to do so could block progression.
+
+World Activities
+
+Fixed an issue in Gauntlet Run, where passing the finish line in last place would result in a win in specific circumstances.
+Fixed several issues with specific Firegleam and Metal Flower icons not being displayed on the map.
+Fixed an issue where Firegleam icons would not be correctly removed from the map once the related activity was completed.
+Fixed an issue where fast travel would be disabled in specific circumstances when loading a save made while playing Machine Strike.
+
+UI/UX
+
+Fixed an issue where the Machine Strike UI would briefly flicker at the end of a game.
+
+Graphics
+
+Fixed an issue where Aloy wouldn’t appear wet anymore after being in water.
+Multiple graphics fixes and improvements in cinematics.
+Multiple visual improvements in shadows and clouds.
+Fixed an issue where Photo Mode controls would be frozen when initiating Photo Mode during a swan dive.
+
+Performance and Stability
+
+Multiple crash fixes.
+Multiple performance and streaming improvements in cinematics.
+Removed multiple unintentional loading screens and black screens.
+Fixed multiple instances of streaming and visual popping.
+
+Other
+
+Made several improvements to the NPCs’ movement and animations in settlements.
+Made it easier to tag individual components when using motion aiming and scanning machines.
+When picking up potions or tools that don't fit in your toolbelt anymore they are now moved to the stash.
+Several balancing changes to weapons and enemies.
+Fixed several instances where Aloy could get stuck in geometry.
+Fixed an issue where the ‘All Machine Types Scanned’ trophy could be easily missed during the final main quest ‘Singularity’.
+Fix for the mount call sometimes causing the flying mount to be spawned in undesirable positions and in rare cases be unreachable.
+Several datapoints that are located in areas that the player could not return to are now automatically unlocked upon the player leaving that space.
+Fixed multiple instances of specific music tracks getting stuck and repeating.
+
+And here are the known issues Guerrilla is looking into: 
+
+"We are currently looking into several issues reported by the community. Please note that these issues are not yet fixed in this patch, but our teams are investigating them with high priority."
+
+The team are continuing to investigate and tweak the reported graphical issues regarding shimmering, sharpening and screen saturation.
+Some players have reported multiple issues with various types of traversal after the player fast travels to any campfire while gliding inside of a tornado.
+Some players have reported an issue with receiving the reward after completing the Black Box Collectibles activity.
+
+For more, read about Patch 1.07 in Horizon Forbidden West and then catch up on this update that fixes many community-reported issues in Horizon Forbidden West. Read about why Aloy is one of Game Informer’s favorite heroes this generation after that. 
+
+Are you still enjoying Horizon Forbidden West? Let us know in the comments below!
+
+      Products In This Article
+
+Horizon Forbidden West
+
+Platform:
+
+PlayStation 5, PlayStation 4
+
+Release Date:
+
+February 18, 2022
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

@@ -1,0 +1,54 @@
+
+  All The New Graphics Cards Revealed Today By AMD, Intel, And Nvidia
+
+
+
+
+
+
+            Nvidia, AMD, and Intel all had PC graphics-related reveals for today’s Consumer Electronics Show presentations, and as expected, the latter showcased more of its Arc GPU while the two former showcased multiple graphics cards that will soon hit the market (although who’s to say if buying them will be any easier).  
+
+CES is an annual technology-focused conference where all kinds of electronics companies announce new products both for the mass market and for those more interested in experimental ideas. It’s where Samsung announced its new line of 2022 TVs that will feature Stadia, Nvidia GeForce Now, and NFT support and integration, and it’s also where Nvidia, AMD, and Intel pulled back the curtains on some heavily-rumored GPUs. 
+
+Let’s talk Nvidia. The company announced two new GPUs, the RTX 3050 and the RTX 3090 Ti. The RTX 3050 is the company’s most budget GPU, coming in at just $249, and is capable of features like raytracing and DLSS. It features nine shader-TFLOPS, 18 RT-TFLOPS, 73 Tensor-TFLOPS, 8GB G6, and it will be available for purchase later this month on January 27. 
+
+The RTX 3090 Ti is Nvidia’s new flagship GPU, and while the company simply teased it, we have some additional details regarding it, courtesy of The Verge. 
+
+This new card will include 24GB of GDDR6X running at 21 gigabytes per second, which is the same amount of VRAM as the standard 3090 but almost 8 percent faster on the memory clock side of things. The Verge writes that this will provide additional performance boosts to 4K gaming and AI tasks. This card will also feature 40 teraflops of GPU performance, which is 11 percent faster than the 3090’s 36 teraflops, and an additional 78 teraflops for ray tracing and 320 teraflops for AI tasks. That’s a lot of flops. 
+
+Nvidia did not reveal a price for the new 3090 Ti, nor did it reveal a release window for it. Considering the 3090 runs for about $1499 (when you aren’t looking at prices set by resellers), this 3090 Ti is almost certainly going to cost more. The Verge reports that Nvidia says more details about this new card will be revealed later this month. 
+
+The company also announced new RTX 3080 Ti laptops and RTX 3070 Ti laptops. 
+
+On the AMD front, the company revealed its new Radeon RX 6500 XT graphics card, which features “breakthrough AMD RDNA 2 architecture” and is “engineered to deliver great gaming performance and remarkable efficiency.” AMD says the 6500 XT’s clock is one of the fastest in a gaming card, with 16 complete units and ray accelerators, 305 gigabytes per second of effective bandwidth with AMD Infinity Cache, 4GB of GDDR6, and a game clock with speeds as fast as 2610 MHz. Designed to be a budget GPU for desktop computers, this card will hit the market on January 19 with a $199 price tag. 
+
+AMD also revealed a new line of RX 6000S chips for gaming laptops. This chip will come in three designs: the RX 6600S, the RX 6700S, and the RX6800S. Prices for these chips and associated laptops were not revealed, nor was a release date. 
+
+And finally, Intel revealed that it is now shipping Intel Arc GPUs, otherwise known as Intel's Alchemist GPUs, to laptop and desktop makers. Sadly, there's no word on when players will be able to get their hands on these, but it at least sounds like we're inching closer to that day. Intel says its Arc GPUs will feature ray tracing and XeSS, which is the company's own AI-based supersampling.  
+
+Intel also revealed that Death Stranding: Director’s Cut, a game previously exclusive to PlayStation 5, is coming to PC, and it’s going to use Intel’s XeSS supersampling technology to beef it up. You can read more about that announcement here. 
+
+Are you excited about these new GPUs and graphic cards? Let us know in the comments below!
+
+      Products In This Article
+
+Death Stranding Director's Cut
+
+Platform:
+
+PlayStation 5, PC, Mac, iOS
+
+Release Date:
+
+September 24, 2021 (PlayStation 5), March 30, 2022 (PC), January 30, 2024 (Mac, iOS)
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

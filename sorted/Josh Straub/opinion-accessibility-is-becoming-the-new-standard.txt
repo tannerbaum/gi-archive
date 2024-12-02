@@ -1,0 +1,77 @@
+
+  Opinion: Accessibility Is Becoming The New Standard
+
+
+
+
+
+
+            In 2018, one of my favorite game series of all time received the remaster treatment with the release of the Spyro Reignited Trilogy. However, much of the nostalgia was quickly killed with the stark realization that not only did Activision exclude the deaf and hard of hearing by not including subtitles, but it also made the ill-advised decision to defend its position on social media with the following statement:
+
+While there’s no industry standard for subtitles, the studio and Activision care about the fans’ experience especially with respect to accessibility for people with different abilities, and will evaluate going forward.
+
+If there wasn’t an industry standard, there wouldn’t have been an uproar, and their presence wouldn’t have been missed. However, this is just one situation that proved accessibility is now becoming the new normal for video games. In fact, the outcry from fans asking for subtitles was so widespread and effective that within four months of launch developer Toys for Bob released a patch that implemented some very impressive subtitles. They are color-coded to ensure clarity and presented with speaker tags and letter boxing.
+
+Games like Spyro, Sekiro, and Red Dead Redemption 2 make headlines for lacking basic accessibility features. It’s a trend that highlights the state of the industry: gamers expect some level of accessibility. Many accessibility features are so ubiquitous that not only are they expected, but developers are now putting the same amount of effort into making them useable as they would for many other core elements of gameplay. When you say game accessibility to the average gamer, most immediately think about subtitles. This is because they are one of the features that are the easiest to implement that have the broadest impact. Yet, just because they’re easy to implement does not mean that they don’t require effort.
+
+Ubisoft in particular has taken steps to perfect its subtitles. Assassin’s Creed Origins’ subtitles feature speaker tags, letter boxing, and a large, readable font, which is especially impressive considering the first Assassin’s Creed released with no subtitle options whatsoever and is often credited with being one of the first games to show the need for widespread accessibility education. This is because it was one of the first games with major accessibility oversights reviewed by the folks at AbleGamers. The AbleGamers Charity was among the first to offer widespread accessibility education to the public. Before 2007, there were plenty of inaccessible games released, but thanks to the work of Mark Barlet and Steven Spohn, the original Assassin’s Creed was publicly called out for its accessibility missteps.
+
+Before this, games would occasionally be criticized for lacking accessibility among the colorblind, but only incidentally if the game reviewer happened to be colorblind. In fact, I often trace the beginnings of the current accessibility renaissance to the inclusion of colorblind filters, specifically in the 2013 Maxis SimCity release, which received a lot of press from the mainstream media for including multiple color blind filters that were tied to specific medical diagnoses.
+
+It was to fill the void around accessibility education that I started DAGERS, a company dedicated to providing disability reviews for games and other accessibility resources. My personal journey with accessibility started with quick-time events (QTEs). For developers, QTEs are usually used as a method for keeping players engaged during longer cinematics. In order to ensure engagement with the story, developers sometimes require players to repeatedly and quickly tap a button in order to progress through the cinematic. Some developers even used QTEs to physically tax the player in order to emulate on-screen struggle. For many disabled people, it is physically impossible to complete these interactions due to muscle latency caused by impairments. Since then, we’ve seen an evolution in the way the industry uses quick-time events. Once the industry took notice of accessibility, the common implementation shifted from rapid button taps to a simple button hold, and has finally evolved into making QTEs optional, as seen in Marvel’s Spider-Man by Insomniac.
+
+I had the privilege of working on Spider-Man, and its QTEs aren’t the only thing that indicates how far we’ve come in a relatively short span. My time consulting with Insomniac was eye-opening, not just because of the mechanics the developers were implementing but also because of their truly impressive culture. When I started consulting with companies on accessibility, it was the norm for developers to contact me late in the development process with no idea how to start making their game accessible. When I got to Insomniac a couple months before Spider-Man’s launch, much of the heavy lifting was already done. The QTEs and puzzles were already skippable. The subtitles were in place and well done. This allowed me to spend what limited time I had addressing specific accessibility needs unique to Spider-Man. We discussed making the web-slinging traversal easier for gamers with fine motor impairments, working on how the UI contrasts with the background, and very specific accessibility improvements such as captions that indicate that instrumentals are playing. On the whole, I left my time at Insomniac profoundly encouraged by the commitment the studio showed toward making an experience many can play.
+
+In addition to these features, I was also impressed Insomniac was willing to allow players to skip the game’s many puzzles if they proved inaccessible. As a child, I loved The Legend of Zelda, but most of the time, I could only watch because the puzzle elements required a level of dexterity I don’t have due to my cerebral palsy. This has been the case for many action/adventure games throughout my career as a gamer: I could understand the puzzles but lacked the dexterity to execute them. What makes the puzzles in Spider-Man so noteworthy is that you receive the experience points for completing them regardless of whether or not you use the skip feature. This means disabled gamers aren’t punished for being unable to complete them.
+
+Accessibility is also becoming the standard when it comes to hardware. Sony launched the Yukimura update for the PS4 in 2015. The Yukimura update was the first time a hardware manufacturer allowed gamers to customize their controller layout regardless of whether or not individual titles allowed controller remapping. Xbox followed with a similar patch just a few months later, only to outdo themselves in 2018 with the release of the Xbox Adaptive Controller.
+
+Much of the push behind hardware accessibility was kicked off when the FCC denied the video game industry an extension on the deadline to comply with the 21st Century Communications and Video Accessibility Act (CVAA). This meant in-game chat services in video games and hardware released after December 31, 2018 have a distinct set of rules they must follow to ensure access to communication. The individual requirements vary based on the type of game, but the general idea is all the elements required to effectively use in-game communication are reasonably accessible to players with a wide range of ability profiles. This could be as simple as ensuring the U.I. does not use color to communicate critical details or as complicated as offering a speech-to-text function that displays what your teammates are saying on screen. My expectation is most of the major developers are only meeting the minimum requirements until the new hardware generation is released, since many of the CVAA features will rely on the capabilities baked into the individual systems.
+
+With the greater emphasis on accessibility in both hardware and software, there is a third area that has changed. The whole video game culture is more informed about the issues surrounding accessibility. Just since February I’ve been interviewed twice by the Hollywood Reporter, and I’ve seen accessibility articles pop up everywhere from Forbes magazine to IGN. There was a time in the very near past when Game Informer seemed to be the only major outlet interested in accessibility, and while I’m thankful it continues to give these issues a platform, it’s encouraging to see more discussion. The best way to strengthen accessibility is by broadening the scope to include more people in the conversation and to give gamers with disabilities the same consideration as other minorities. We live in a time where games make headlines for being inaccessible, which shows how far we’ve come since I started my career as an accessibility educator.
+
+To learn more on making games accessible to everyone, head here.
+
+      Products In This Article
+
+Marvel's Spider-Man
+
+Platform:
+
+PlayStation 5, PlayStation 4, PC
+
+Release Date:
+
+September 7, 2018 (PlayStation 4), November 12, 2020 (PlayStation 5), August 12, 2022 (PC)
+
+Purchase
+More Info
+
+Sekiro: Shadows Die Twice
+
+Platform:
+
+PlayStation 4, Xbox One, PC
+
+Release Date:
+
+March 22, 2019
+
+Purchase
+More Info
+
+Red Dead Redemption II
+
+Platform:
+
+PlayStation 4, Xbox One, PC
+
+Release Date:
+
+October 26, 2018 (PlayStation 4, Xbox One), November 5, 2019 (PC)
+
+Purchase
+More Info
+
+    expand for more
+

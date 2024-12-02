@@ -1,0 +1,119 @@
+
+  Hidden Treasure - The Making Of Tchia
+
+
+
+
+
+
+Platform
+PlayStation 5, PlayStation 4, PC
+
+Publisher
+Awaceb, Kepler Interactive
+
+Developer
+Awaceb
+
+Release
+March 21, 2023
+
+Rating
+Teen
+
+            The propellers spin down, and I step off the puddle-jumper plane onto the tarmac of the tiniest airport I’ve ever visited. Instantly, I’m overcome by the scent of greenery – lush and humid, with a hint of maybe mint. Jungle surrounds this strip of paved runway in every direction. And I’m here, of all things, to see a video game.
+
+But first, I must explore a place on the other side of the world I hadn’t even heard of a month earlier – a narrow island called Lifou, part of a French territory known as New Caledonia, which sits some 750 miles east of Australia. I’m meeting a small team of game developers who have chosen to find inspiration for their new game in this remote locale. The team is toying with a big idea: Craft a game that’s rewarding in its own right but simultaneously introduces players of the world to a place most of them have never seen.
+
+Thierry Boura and Phil Crifo grew up in New Caledonia. Co-founders of the studio Awaceb, the childhood friends eventually moved to France to work in gaming. It’s clear their childhood home left an impression. When determining a direction for the team’s debut game, vague allusions to their island home weren’t going to be enough. Instead, that game, Tchia, began to take shape as a love letter to their birthplace.
+
+Tchia is one of those indie games reaching beyond the limits of how that descriptor is often applied, with a scope and ambition that belies the small team size. Players take on the titular role of Tchia, a young girl living in relative isolation with her father on a tiny but idyllic island paradise. Interrupting their peaceful life, a supernaturally powered being kidnaps her father, and Tchia is forced to set out on a grand adventure to save him.
+
+At first glance, it’s easy to see why Tchia has drawn comparisons to Nintendo’s Zelda franchise. Mechanically, the game draws undeniable inspiration. Tchia’s actions, like climbing mountains and gliding down from high vantage points, are governed by a stamina meter, like in Breath of the Wild. Tchia plays the ukulele with magical tunes that alter her surroundings, like changing the time of day, recalling Ocarina of Time. And she freely sails between islands on a ship in sequences that evoke Wind Waker. While acknowledging the connections, creative director Phil Crifo thinks the true inspiration lies more in shared goals between the two.
+
+“Miyamoto once said that he was inspired by exploring caves when he was a kid,” Crifo says. “And what we’re doing is trying to show what it was like exploring New Caledonia when we were kids.”
+
+At the same time, after diving into hands-on time with the game, it’s clear that Tchia’s journey of discovery also veers from Link’s adventures in Hyrule in crucial ways. Tchia is far less focused on combat. It’s a frequently quieter game punctuated by moments of childlike whimsy and action – diving from a cliffside into seawater far below or tumbling headlong down a hill at breakneck speeds. Even with elements of magic and wonder, it’s a game that feels rooted in a real place and authentic people.
+
+After arriving on Lifou Island, I join members of the Awaceb development team in their rental cars as they venture deeper into the island. The roads here are tight and often covered in dirt; the jungle encroaches close on each side. Pedestrians wave in a friendly manner from the street sides. Scattered family homes represent breaks in the wilderness, a carving back of the trees, often creating a set of small, interconnected, covered spaces for dining and sitting, set alongside sturdy conical traditional huts, sometimes with small modern buildings nearby.
+
+You wouldn’t call Lifou heavily developed. While the native people don’t appear to be living affluently, there’s a clear sense of community, interconnection, and shared joy in living intimately within a bountiful nature while relying on one another.
+
+Lifou is a cultural hub for the native Kanak culture, a refuge from the more urbanized mainland of New Caledonia. The area hosts dozens of native languages, but the most common here is Drehu, a beautiful, vowel-rich, and flowing tongue that’s fascinating to listen to, even though I don’t speak a word. I find it especially intriguing as some individuals move between French and Drehu with ease, comfortable with the duality.
+
+No matter where you might eventually play it in the world, Tchia plays out that duality through recorded and spoken dialogue using the same mix of Drehu and French. Awaceb went to great pains to find fluent voice actors to get Drehu script sections to sound right. Most estimate overall fluency in the language is only in the tens of thousands. “It was super hard,” Crifo says. “There were no professional actors. So it was just wild guessing. Someone knows someone who has done commercials? Sure. And you find them and have lunch with them, and you go to their place, and sometimes they have no idea what a video game is.”
+
+The resulting vocal tracks, accompanied by an especially moving musical score, pay off remarkably well. The game feels grounded by the unconventional language decision, furthering the sense that you’re visiting a place you’ve never been.
+
+Almost the entire development team from Awaceb has made the trip to New Caledonia; only a couple team members are absent as they tour far-away Montreal for an impending studio move to that city. For those who have come, this trip serves multiple purposes. It’s a chance for individuals to see and experience the place they’ve been building a game around for years. It’s a reward for that hard work. But it’s also meant to serve that essential task of showing the game to local residents who helped inspire it and affirming their approval.
+
+I’m standing outside one of Lifou’s cultural hubs, a meeting hall for significant events for the Kanak people. Today, the interior has been given over to posters and artwork depicting Tchia and her exploits. A monitor has been raised that plays an extended trailer of the game. Tables are set up for the local kids to complete art projects.
+
+Outside, Phil Crifo is anxious; he says he’s more nervous to do what comes next than when he presented Tchia at Gamescom. In addition to the slowly gathering crowd of families, official representatives of the Kanak people have come to hear from Crifo and see Tchia. Crifo is expected to perform the Coutume, a deeply valued ritual within the culture that serves as a gesture of respect for helping or hosting, which includes exchanging gifts and a heartfelt expression of mutual appreciation from both parties. It’s fair to presume that, in this instance, ignorance of the tradition would not be a good look for the studio or the game.
+
+Inside, a surprising influx of kids has overwhelmed the art tables, laughing and painting. A small gathering of curly-haired girls sits on a rug in front of the monitor. They’re watching the curly-haired girl on the video go on a thrilling adventure in a place that looks much like where they live. The girls follow it on repeat, rapt.
+
+As the main hall grows quiet for the ritual, Crifo launches into the Coutume. After saying his part, Kanak representatives respond in kind, thanking him and recognizing the developer’s work. Afterward, Crifo seems flustered, like he messed it all up. But the indigenous Kanak leaders he was speaking to seem happy. Everyone looks pleased about how Tchia is presenting elements inspired by their homeland.
+
+Smaller, more intimate instances of the ritual follow in subsequent days – in a high school classroom, at a hosted dinner for the team, and so on. But even without the language expertise to parse the words, it always comes across as a heartfelt, if formal, expression of gratitude and shared appreciation. The Kanak people seem to view humility and thankfulness as profoundly valued traits. I find the observance refreshing and welcoming.
+
+In the game, the Coutume ceremony is represented with a similar level of importance and frequency. Tchia is regularly tasked with finding appropriate gifts to bring to a particular Coutume, and we see the abbreviated versions of the ritual play out in cinematic sequences. In one instance, the game’s chief villain appears to be perverting the Coutume by simply using it to get richer and get the gifts he wants; the message is clear that he has entirely missed the point.
+
+In my hours playing Tchia, it’s clear that the messages of the Coutume and the attitudes of the Kanak people extend to broader themes in the game. Tchia is a quiet and humble hero with a shy smile and a playful spirit. “She’s very curious and a bit naïve because she’s discovering the world as we go,” Crifo says. “She’s lived all her life on a small island and is now sent on this adventure without being really prepared for it.” The missions she undertakes are often about bringing people together – like two villages that are each convinced the other hates them, but Tchia helps break those walls down. She’s joyful as she sails along coral reefs and explores shady forests, interacting with the natural world as she goes.
+
+That sense of harmonious reciprocity extends into the game’s most prominent supernatural mechanic – soul-jumping. Tchia can transfer her consciousness into animals and objects around her, from rocks to birds, and have brief periods where she perceives the world through their eyes, and acts as they do, enabling new forms of locomotion, exploration, and discovery. “Like pretty much everything we design in the game, we cross-reference it to cultural stuff from New Caledonia,” Crifo says. “A lot of local folklore is about shapeshifting, like animals and people taking the forms of trees, rocks, snakes, and things like that. So, first and foremost, it was a gameplay mechanic, but it was shaped by the culture.”
+
+The most unusual and interesting person I meet on my trip is a man named Thoane. He’s immediately welcoming and friendly, with deep smile lines around his eyes and a jovial nature that invites conversation. A native Kanak who lives here on Lifou, he’s pulling multiple duties in his involvement with the Awaceb development team. Thoane is a chief cultural consultant, helping to ensure the team members accurately present aspects of Kanak life and language. He also plays a significant voice-acting role in the game, speaking and singing as Tre, a family friend to Tchia and her father. And for this trip, he’s our guide on Lifou, taking us on expeditions into the wilderness and even welcoming us to his home for traditional meals.
+
+On the day after the big Coutume ceremony, Thoane takes us on a hike into the jungle. He’s barefoot despite the rough terrain and carries a machete to chop back overgrowth as we go. He pauses from time to time to share ancient Kanak mythology with the development team – stories of creation and life birthed from trees and islands that spring from cakes of earth thrown into the sea. We descend a winding path over roots and past banyans to a hidden bay near the tip of Lifou and a set of temporary shelters that serve as a home base to a popular snorkeling destination. The coral reefs are beautiful, but it’s a windy day on the water; I manage to get thoroughly scraped up against sharp rocks and coral while I swim. As I emerge onto the beach, bloodied from numerous cuts, Thoane calmly gathers a handful of distinct leaves from the jungle. He starts a fire, heats the leaves to near-blackening, and motions for me to lay the leaves over my cuts. The bleeding stops. Afterward, with sea sounds in the background from the nearby shoreline, I have a chance to chat with him about his involvement with the game.
+
+“The fact that the game has Drehu in it is very special,” Thoane says through translation. “The project has a vision that projects beyond what is happening on the island to reach a worldwide audience. Kanak culture really values respect and unity. I take big pride that the world gets to experience some of that culture through the game.” Thoane also seems especially keen on how the game can speak to a younger generation in the Kanak culture. “I’m hopeful that this project will spark young folks from the island to go ahead and create stuff inspired by this culture as well.”
+
+It would be a mistake to presume his perspective is necessarily representative of everyone in the broader Kanak people. But as an individual, there’s a genuine joy in how Thoane talks about Tchia and how it surfaces his cultural background to people who may have never encountered it.
+
+When I ask him about his voice role and singing in the game, he unabashedly launches into a hushed lullaby-like version of one of the songs from the game that his character sings. The lapping waves and nearby bird chirps are his accompaniment. As his hypnotic acapella winds down, a long moment of silence falls. I spot tears in the eyes of some of the Awaceb team members.
+
+Tchia takes strong inspiration from the Kanak culture and the broader lands and French culture of New Caledonia. While the spoken language and some of the rituals directly nod to those places, Awaceb has carefully crafted a fictional world of its own. A city locale might be inspired by the urban capital of Nouméa on the main island, but it won’t carry that name in the game. Like it is for the Kanak people, yams and fish are staples of Tchia’s diet, but she won’t be eating fish drawn from a real-life seaside or yams from a real farm. Tchia’s world is a sort-of condensed and exaggerated take on New Caledonia, with its pink sunsets coloring the ocean, and heavy mists rising in the mornings. After less than a week in the actual place, I can sense how much Crifo has dug back into his childhood to capture what was special about his first home.
+
+After several hours wandering the game, I’m struck by how much Tchia seems to reject many accepted pillars of modern gameplay convention. Objective markers are rare. The map offers a “where am I?” function, but Tchia simply circles a general area on her map and declares that she’s “probably somewhere around here.” If I need to find a pearl to give to someone, it’s up to me to figure out that I need to dive into the nearby ocean and find a clam.
+
+Minions of Meavora, the big bad guy of the game, are weirdly animated strips of cloth called Maano. They gather in small camps, like Bokoblin gatherings in Breath of the Wild. Clever power manipulation can take them out – like soul-jumping into an oil lamp and setting them alight. It’s a flash of combat excitement in an otherwise relatively peaceful playthrough.
+
+Most of my time in Tchia is spent exploring. Multiple islands are filled with activities to uncover, from races to treasure hunts. I pause to complete a slingshot target shooting range. I pull out my analog camera to take pictures. As I skim along the water in my sailing ship, I regularly leap into the blue water and deep below to find a chest of goodies. New costumes, ship decorations, and other cosmetic options open as rewards almost constantly, giving me new ways to style Tchia’s hair or clothes.
+
+The story progresses gradually, and lengthy spoken sequences are rare. Many characters seem to rely on shared experiences and music to relay emotion rather than overdone dialogue exchanges. When Tchia meets a girl at a rancher’s village, few words pass between them, but they meet on a nearby mountaintop and sing together to cement their friendship. In moments like that, the game regularly relies on a simple but enjoyable rhythm game mechanic, in which Tchia can play her ukulele and strum different chords to play along with other musicians and singers.
+
+“You cannot lose; you’re not scored; we want them to be like mood setters,” Crifo says. You can even skip those interactive musical events and watch them as cinematics. It’s purely there to get you into the right frame of mind and relaxed into a slower pace of play. As a game, Tchia is not a sprint to the finish; it virtually demands that you take your time and let go of the frenetic pacing of many other interactive experiences. Multiple times when things run a bit late during my trip to Lifou, someone reminds me that everyone is on “island time.” Tchia is a bit like an extended contemplation of the concept; everything moves at its own pace.
+
+On my last night in New Caledonia, we’re back on the main island, and Awaceb is hosting a party for local talent who participated in the game. Thoane performs with his partner and another local act of talented musicians who also have music in the game. The mood is celebratory.
+
+Afterward, much of the team and musicians converge at a local outdoor bar. It’s late and dark, but there’s no hesitation as the musicians pull out their guitars and mandolins and start an impromptu jam session. They’re delighted when they learn I know some English songs they recognize, and I find myself in the surreal circumstance of singing lead on some Beatles tunes as the talented professionals back me up and play along.
+
+As the evening wears on and the music and drinks make everything a bit hazy, my mind shifts back to the memory of the girls at the cultural hall, clustered together, fascinated by the video game lead that looks like them on the big screen. It’s an enduring image that sticks with me on the long flight home over subsequent days. There’s something special about this little game from a little studio about a little girl on a big adventure. It has something to do with what those kids saw on that screen and how they recognized something real in the fantasy. It also has something to do with a developer creating their own fantasy by looking back to their childhood and finding something equally real to add to the mix.
+
+Sorry, this video is not available
+
+This article originally appeared in Issue 351 of Game Informer.
+
+      Products In This Article
+
+Tchia
+
+Platform:
+
+PlayStation 5, PlayStation 4, PC
+
+Release Date:
+
+March 21, 2023
+
+Purchase
+More Info
+
+Matt Miller
+Editor-in-Chief
+Matt Miller has been with Game Informer since 2004. He has a special interest in the evolution of game design, the tabletop hobby, and the crafting of interactive narrative. 
+
+Email
+Twitter
+

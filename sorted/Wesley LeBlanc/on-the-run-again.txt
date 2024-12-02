@@ -1,0 +1,85 @@
+
+                                          Citizen Sleeper 2: Starward Vector
+                  
+
+
+  On The Run, Again
+
+
+
+
+Platform
+PlayStation 5, Xbox Series X/S, Switch, PC
+
+Publisher
+Fellow Traveller
+
+Developer
+Jump Over The Age
+
+Release
+2025
+
+Rating
+Teen
+
+            Citizen Sleeper took me by surprise in 2022, giving me a rare new video game experience, both mechanically and narratively, and my dice-centric role-playing adventure has stuck with me since. I still think about my Sleeper and what they're up to now. In a year where Elden Ring didn't release, it would have been my game of the year with a bullet – read my Citizen Sleeper review here to find out why. Now, a little more than two years later, I've played parts of the opening hour of Citizen Sleeper 2: Starward Vector and find myself desperate to play more. It brings back its incredible sci-fi score, cyberpunk (yet distinct) visual style, and thought-provoking and stress-inducing writing. It infuses everything I love about the first Citizen Sleeper with new mechanics that fuel the game's central decision-making processes. 
+
+Like the first game, I assign my Sleeper one of three classes. I go with the Operator, which the game describes as physically fragile but great at working in interfaces and computer systems. Immediately, I notice the selected class plays a more significant role in how your experience will play out because the Operator lacks access to an entire skill. This means I'm automatically at a disadvantage with any action requiring said skill. However, I have access to the Reboot skill that allows me to reset my system, which mechanically means I gain a dice reroll. It's a risky skill, as I could roll an even lower number, putting whatever action is at hand further into jeopardy. I could also roll a significantly better number, too, though. 
+
+The story picks up after my Sleeper has been helped by their friend Serafin. I've recently rebooted my entire system, ending my dependence on the Stabilizer drug that plays a major role in Citizen Sleeper and the gang leader Laine, who supplies it to me. It's these types of touchstones to the first game players will find in the sequel, which is its own standalone story. However, the reboot was just a partial success. Sure, I no longer need Stabilizer, but my artificial body is malfunctioning. Serafin and I flee on a ship called the Rig, which we steal from Laine and take to Hexport. 
+
+Laine, unhappy with everything we've done, is after us by way of gang members, bounties, and more. He's someone my Sleeper once saw as a protector, a savior even, but now, they know him as "a pursuer, a tormentor, a nightmare." I can't help but notice the setup for Citizen Sleeper 2 is nearly identical to the first game – a Sleeper whose body is fighting against them is on the run from someone bigger than them. Gareth Damian Martin, the sole developer at one-person studio Jump Over The Age (though Martin has some help in developing Citizen Sleeper 2), says that's intentional. 
+
+"I'm a big fan of noir storytelling," Martin tells me. "I guess it's a bit of old-fashioned storytelling, but I like the idea about an ordinary person who's getting sucked into extraordinary circumstances trying to improvise their way through it."
+
+They say they wanted to change it up a bit for the sequel – instead of running from a corporate conglomerate, you're running from a singular person and his gang of underlings. Martin says they feel the result is a story that's a "bit more intimate and intimidating, and in a way, weirdly scarier because it feels a little more dangerous." 
+
+Laine
+
+After selecting my Sleeper, I'm thrown right into the dice action that returns from the first game. Serafin is going to check on something, so they task me with going to the Hexport Docks to pick up some small gigs. I put a 5-dice (the higher the number, the more likely the action I assign the dice to ends up with a positive outcome versus a neutral or costly negative one) on a "Chat to Crews" function here to get some tips on potential crew recruits and contacts. However, despite the high positive chance with a 5-dice, I get a neutral outcome and only get material. From here, I explore the area more and eventually unveil a new location after completing enough actions at a different spot. It's "The Bends," and I can gamble some Cryo (currency) in the Star and Stoker game or buy some fries to restore my energy. 
+
+You lose one segment from your energy bar for each cycle or day of action (largely determined by your running out of dice). If this bar is empty, you starve and gain one stress bar per cycle. It's here I learn Martin has taken a recurring feeling from the first game – the stress one experiences while playing and its effect on your decision-making – and turned it into an actual in-game mechanic aptly named stress. This dictates how much damage your dice will take when rolled. Damage a dice three times, and it breaks until it's fixed. 
+
+Stress joins another new mechanic called Glitch, which I don't experience in my hands-on demo but witness in a hands-off preview played by Martin. If you roll your dice while you have some Glitch, which, like Stress, is represented in the U.I., you can roll Glitch dice. These have an 80% chance for a negative outcome but a 20% chance for the best possible outcome, once more playing into the risk-and-reward feel permeating the game. You gain Glitch based on how you repair or heal your body – scrap parts might yield more Glitch, whereas more premium resources yield little to none. Together, these mechanics add an exciting but stressful new layer to each decision you make with dice. 
+
+"When you look up there [at your U.I. bar], there's this kind of game of plates spinning,"  Martin tells me. "The big part of those plates is actually you dealing with the facilities and capabilities of your body. Even when you heal one of your dice slots, you're having to deal with the fact that you're taking on Glitch, and therefore, you've got to think about, 'Do I go on a job right now when I've got this level of Glitch or do I rest a bit?' In general, this is connected to me adding a bit more mechanical heft to the game, especially when it comes to players who aren't necessarily drawn to the role-playing without some kind of mechanical support for that." 
+
+Martin hopes these additional layers of mechanics provide new pathways for role-playing. With Citizen Sleeper, they noticed some players would lean into the role-playing aspect, making money and decisions based on how their Sleeper might. However, some players said, "I like to make money wherever I make the most money." It was strictly mechanical for them. 
+
+"I always felt like, 'Oh, that's a shame because I want you to engage with this character that you're playing and the story they're telling,' so this time around, if I want players to think about how they have to deal with something, there's a mechanical effect," Martin says. 
+
+As there's no point in spoiling the narrative events that transpire in this preview build, given how narrative-focused the series is, I'm going to jump ahead to another new mechanic: Contracts. After picking one up at the Hexport contract board, I learn these high-risk, high-reward jobs greatly expand the scope of Citizen Sleeper 2. Unlike the first game, which primarily takes place on a singular space station called the Eye, Citizen Sleeper 2 gives players access to a large star map with various points of interest. 
+
+Before embarking on this contract, the game warns me to ensure I have enough fuel to travel to the contract, supplies to keep my Sleeper and crew going, and that I take the opportunity to scout out new freelance crew members to join. Your crew plays a significant role both in the main narrative of Citizen Sleeper 2 and these contracts, which Martin describes as vignettes or episodes inspired by, for example, sub-arcs in series like Firefly, Cowboy Bebop, or other sci-fi greats. They say you might do two or three contracts and see the same character repeatedly, or there might be contracts where you meet a character for the first and last time. Regardless, it's about the "little story" you get from these contracts. Some are high intensity, others are more laid back, Martin says. The one I do in my preview falls into the former. 
+
+After traversing across space to a security drone with something inside I need, I learn that said drone is rigged to blow. Four mistakes and the contract could be over on account of an explosion. As such, I must disable parts of the drone in a semi-sequential order while maintaining a balancing act of dice, supplies (and energy), and more. Supplies, of which I can carry a maximum of five at this point and do before leaving for this contract, automatically replenish energy after each cycle during a contract. When you run out of supplies, your energy will deplete each cycle, and as your energy depletes, your dice get worse, jeopardizing the mission at hand. That's why preparing ahead of time for a contract is essential. 
+
+However, with a drone rigged to blow after four mistakes, I can't risk using low-number dice with high chances of failure or my low-number crew dice, which, like mine, take into effect our skill proficiencies and can be used alongside my own Sleeper's dice. Not wanting to risk the low-number dice, I end cycles prematurely, crossing my fingers that I roll some higher-number dice the next day. Fortunately, I do and complete the contract. Some intriguing story stuff happens when I return to Hexport that I won't spoil here, and my demo is over. 
+
+During the preview Martin plays, I see even more of the mechanical and narrative synergy (and stress) of Citizen Sleeper 2 at play. You can utilize Push to get dice bonuses, but doing so immediately adds to your Stress meter. The skill tree is more expansive and customizable, designed with freedom in mind rather than guiding players toward a specific build. Everything I see excites me. 
+
+Martin says they're halfway through developing the game and already at 120,000 words – Citizen Sleeper and its DLC totals 180,000 words, promising a rich storytelling experience in the sequel. There's a larger push from Martin to lean into Citizen Sleeper's tabletop inspirations and its cyberpunk themes. Citizen Sleeper 2 is, on paper, a classic example of more story, more systems, more to do. But critically, Martin isn't just going bigger, instead carefully curating an experience that strikes sharply at the heart of what made the first game work so well: the oh-so-fine balance between success and failure and the stress that lives between the two. If the heart-pumping I felt during my hour with the game is any indication, Martin has rolled a strong set of dice in this first preview cycle for this sequel.
+
+      Products In This Article
+
+Citizen Sleeper 2: Starward Vector
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, Switch, PC
+
+Release Date:
+
+2025
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

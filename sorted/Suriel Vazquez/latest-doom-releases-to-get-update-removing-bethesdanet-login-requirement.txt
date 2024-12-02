@@ -1,0 +1,16 @@
+
+  Latest Doom Releases To Get Update Removing BethesdaNet Login Requirement
+
+
+
+
+
+
+Yesterday saw the surprise release of the first three Doom games on PlayStation 4, Xbox One, and Switch, was is a good thing! However, players quickly reported that they had to log into Bethesda proprietary account system, BethesdaNet (which requires an internet connection) to play the games at all. Bethesda is working to remedy that soon, however.
+
+The most recent versions of Doom, Doom II, and Doom 3 require a one-time login and connection to play, but it's still an unnecessary hurdle to have to go through. This is especially bothersome on Switch, where, due to the system's portability, players might have downloaded the game at one time while hooked up to Wi-Fi, then started it up for the first time somewhere without an online connection.
+
+Bethesda is aware of the issue, which was not intentional. "The BethesdaNet login requirement was included for the Slayers Club, to reward members for playing the classic DOOM games," the company said on Twitter. "The login should be optional, and we are working on changing the requirement to optional now."
+
+The company plans to release a fix in the near future. However, if you've just downloaded the games, make sure to update them after the fix is deployed, or log into BethesdaNet after launching the games, to make sure you can play them offline for now.
+

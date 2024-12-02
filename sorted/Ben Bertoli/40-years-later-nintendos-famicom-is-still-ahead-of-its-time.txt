@@ -1,0 +1,76 @@
+
+  40 Years Later, Nintendo's Famicom Is Still Ahead Of Its Time
+
+
+
+
+
+
+            Introduction
+
+As 1983 came into focus, the future of video games in North America looked bleak. Store shelves were crowded with poorly made games, and consumer interest waned substantially. Developers that ushered in the “golden age” of arcades and the first two generations of home consoles began to crash and burn at an alarming pace. In no time, the once billion-dollar industry was reduced to rubble.
+
+In the summer of that same year, in Japan, gaming giant Nintendo released its first-ever home console with swappable cartridges. With its striking red and gold design, the Family Computer, better known as the Famicom, brought arcade hits like Donkey Kong and Mario Bros. into Japanese homes.
+
+While the Famicom would go on to revitalize the North American gaming market as the VHS-inspired Nintendo Entertainment System, or NES, many of Nintendo’s quirky games and accessories were forever locked in its home country. With the Famicom’s 40th anniversary at hand, there’s never been a better time to look back on the bizarre and surprisingly innovative experiments Nintendo unleashed on Japanese players throughout the console's celebrated run.
+
+Famicommunication
+
+Famicommunication
+
+Unlike the NES, the Famicom came with its two blocky controllers wired directly to the console. While one might think this tethered design was to keep players from losing controllers, it was actually a simple cost-cutting measure – one Nintendo would soon regret as more and more players sought out replacements. Aptly anticipating a future filled with wacky accessories, Nintendo also included a 15-pin connector on the front of the Famicom, ready for anything the future might hold.
+
+The most surprising addition to the Famicom’s original design was on the console’s second controller – a minuscule microphone, complete with a volume slider. The microphone’s inclusion was spearheaded by Nintendo Research and Development lead architect Masayuki Uemura, who felt younger players would enjoy hearing their own voices crackling out of TV speakers. Though his prediction wasn’t exactly wrong, the Famicom microphone was notoriously underutilized by developers, mostly lending itself to a handful of iconic Easter eggs in single-player games.
+
+While a few early titles did make use of the microphone, most Japanese players wouldn’t be hollering into their second controller until 1986’s The Legend of Zelda. The 8-bit masterpiece featured a slew of unique enemies for protagonist Link to defeat on his quest, but few so wily as Pols Voice. Depicted as blobby rodents with enormous ears, the instruction manual explained that the monsters “hate loud noises.” With a deafening roar into the Famicom’s microphone, which could only be found on the second player controller, all Pols Voice on screen would be thoroughly eradicated. This was a far superior method to attacking with normal weapons, as the enemies' nimble movements and high health made them especially annoying.
+
+Strangely, the description of the Pols Voice hatred of loud noises was included in the manual for the English release, despite the fact developers had retooled the dungeon-dwelling baddies to now be weak to arrows. Zelda fans outside Japan wouldn’t feel the thrill of shouting an enemy to death until 2007’s Phantom Hourglass for the Nintendo DS, which allowed players to once again obliterate Pols Voice with a well-placed shriek.
+
+Other notable examples of the Famicom microphone include Kid Icarus and the infamously difficult Takeshi’s Challenge. The former allowed players to verbally haggle down the price of items with shopkeepers by yammering on about whatever they liked, while the latter, starring comedian, actor, and director “Beat” Takeshi Kitano (Battle Royale, Violent Cop), had players using the microphone for a variety of tasks, such as bringing up a map and singing karaoke.
+
+Famicomputing
+
+Famicomputing
+
+When Uemura and his team were first tasked with designing the Famicom, they envisioned a gaming device with a 16-bit CPU, a keyboard, a modem, and a floppy disk drive. With costs considered, none of these superfluous features made it far into the planning stage, each launching as their own separate accessory in the years to come. The first to resurface, released in the summer of 1984, was the boxy Family BASIC Keyboard bundle, a collaboration between Nintendo, Sharp Corporation, and Hudson Soft.
+
+Included with a taller-than-average black cartridge and a hefty user manual, the Family BASIC Keyboard and its accompanying software were intended for the blossoming home computer crowd. At the time, BASIC (short for Beginners' All-purpose Symbolic Instruction Code) was seen as the ideal programming language for novice developers and casual players alike. Family BASIC tried to make things even easier by including extra support for character sprites (including preset Mario and Donkey Kong models), backgrounds, controls, and music. Famed Mario composer Koji Kondo even got in on the action, penning a section in the user manual on how best to program chiptune melodies.
+
+Though the bundle cost a hefty ¥14,800 at launch (the same price as the Famicom itself), the kit didn’t come with a way for players to save their creations or share them with others. For this top-of-the-line feature, Nintendo suggested purchasing the Famicom Data Recorder, a device that saved one’s game directly to a standard cassette tape – for an additional ¥9,800. Ironically, sharing games and rampant piracy of Famicom titles had become a huge issue for Nintendo by this time. The problem got so out of hand that various media associations across Japan lobbied to update the Japanese Copyright Act, essentially banning all video game rentals countrywide. The ban, which does give individual developers the ability to allow rentals of their games (though they rarely do), still exists to this day. Despite its price point, the Family BASIC bundle sold well enough to warrant an updated sequel – Family Basic V3.
+
+Nintendo even toyed with the idea of a keyboard for the NES, to be included in a never-released collection called the Nintendo Advanced Video System. Shown off at the 1984 Consumer Electronics Show, the NES keyboard was featured alongside prototype controllers, a joystick, a cassette recorder, and a zapper that looked more like a robotic wand than a gun. Amazingly, every accessory in the Advanced Video System was wireless, connecting via infrared technology.
+
+Famicompatible
+
+Famicompatible
+
+With the rental ban in full effect and piracy levels dipping, Japan’s general gaming public was feeling the sting of video game pricing. Nintendo, hearing the grumbles of its audience, researched ways of producing a cheaper option than its colorful cartridges. Enter the Famicom Disk System – a floppy disk add-on that both plugged into the top of the Famicom and sat below it. Though introducing an expensive new accessory (one that cost more than the console itself) to promote cheaper games might seem counterintuitive, Nintendo did just that in 1986.
+
+Similar to floppy disks of the time, the games for Famicom Disk System were housed in a hard plastic shell and dubbed “Disk Cards.” Commonly produced in a brilliant yellow casing, the double-sided Disk Cards were impressed with a large NINTENDO logo at the bottom. This impression allowed Nintendo a form of physical lockout it hoped would help quell piracy. This wasn’t the case, as many clever bootleggers produced their own case molds with the proper inlays, often springing for misspellings like NINFENDO and NINIENDO to trick the Disk Drive. Regardless of their manufacturer, Disk Cards were considered too fragile by most players and poorly designed, with many prone to errors due to dust buildup.
+
+Though games for the Disk System were cheaper, the true appeal was the ability to download new titles to endlessly-reusable Disk Cards via one of the 10,000 Famicom Disk Writer kiosks found at toy, game, and hobby shops across Japan. The process cost a paltry ¥500 (¥100 extra for an instruction sheet), or roughly a sixth the price of purchasing a new cartridge-based title. Not only could players download new games, but they could use each store’s dedicated “Disk Fax” machine to submit high scores directly to Nintendo for various tournaments. With player data in hand, Nintendo awarded tournament prizes ranging from Famicom branded stationary to gold Punch-Out!! cartridges, predating Mike Tyson’s $50,000 deal to lend his likeness to the series.
+
+Nintendo’s hardware team was hard at work developing a different kind of add-on, one that would only work with the Disk System – 1987’s Famicom 3D System. Unlike the well-known glasses-free 3D of the 3DS, the 3D System used shutter glasses and alternate frame sequencing to create an illusion of depth. While the effect worked, the system was a substantial failure, with only six games ever produced. The most notable was Famicom Grand Prix II: 3D Hot Rally, considered by many to be the first Mario racing game and precursor to the Mario Kart series.
+
+With Nintendo pushing all its newest first-party games to the Disk System to boost sales, the peripheral soon became the only way to play era-defining hits such as The Legend of Zelda, Castlevania, and Metroid, as well as Japan-only cult favorites like The Mysterious Murasame Castle and the Famicom Detective series. Despite their longer load times and flimsy housing, many consider Disk Card games a step above their cartridge counterparts, as the Disk System allowed for save features and a much richer audio experience. Though Nintendo would eventually return to cartridges with the Super Famicom, the Disk System was still a respectable success, with 4.4 million units sold in its four years on the market.
+
+Famicommerce
+
+Famicommerce
+
+In North America, many think of the Sega Dreamcast as the first home console with online connectivity. But in Japan, every single Nintendo home console, from Famicom to Switch, had some form of internet compatibility. It all started in 1988 with the release of the infamous Famicom Modem, another clunky add-on, brimming with potential, that struggled to find a long-term audience.
+
+The idea for the Famicom Modem came not from a desire to let players connect and play games together, but rather from something more dull – the stock market. As Famicom flourished, financial service company Nomura Securities approached Nintendo about using the system for people to check on stock prices in real-time and possibly even buy, sell, and trade stocks at home. Working closely with Nomura Securities, Uemura and his team developed a modem that worked with an online service dubbed the Famicom Network. Like the Famicom Disk System before, the Famicom Modem was plugged into the top of the console, allowing players to insert credit-card-sized cartridges for different types of transmissions. Lacking a dedicated keyboard, a special controller with a full number pad was included to help users navigate the number-centric software.
+
+In July 1988, a test run of 1,500 prototypes produced outstanding results. With the Japanese stock bubble growing larger by the day, more and more investors were obsessed with checking market prices and making trades on the fly, an ideal situation for Nintendo. Unfortunately, this success soon evaporated when the Famicom Modem hit store shelves two months later. Nintendo was shocked to find its circuit system was unstable, leading to widespread circuit failure, and many users were less than thrilled with the modem’s cord-heavy set-up. Coupled with the inevitable burst of Japan’s stock market bubble in 1989, most were left uninterested in the add-on’s specific services – even those who owned it.
+
+While the Famicom Modem flailed, Uemura and his team still tested the system’s gaming capabilities. Five prototype games were developed, the most prominent based on the ancient board game Go, but all were deemed failures in the end. “We were unable to realize our dream of using the modem to augment Famicom games,” Uemura told Nikkei Electronics magazine (via Glitterberri blog) in 1995. “The game would require players to be connected to the phone line for an extended period of time. If the problem of data transmission fees wasn’t enough, we were also faced with the risk of users monopolizing the phone line.”
+
+The modem’s saving grace, outside of providing horse racing bets and results to diehard fans, was its ability to let toy and game stores share an online database. By inserting the Super Mario Club cartridge, stores could post reviews and communicate sales to one another, sharing what games were top sellers. Nintendo could also peek at this database, allowing the company to better understand the market consumer demand.
+
+As with most of its promising technology, Nintendo toyed with releasing the Famicom Modem in the United States with a slight twist. If Japanese users could place bets on horses through the Famicom, Minneapolis-based company Control Data Corporation was confident American users could use an NES Modem to play the lottery. In 1991, with Nintendo on board, Control Data announced its plans to test a subscription model, wherein users could pay $10 a month to play all Minnesota-based lottery games via their NES. Unsurprisingly, it wasn’t long until the concept of adding unsupervised gambling to a home console aimed at children raised a few eyebrows in parent groups and the political sector – squashing dreams of an NES Modem before its initial tests ever began.
+
+It’s easy to look back on the Famicom and focus solely on its iconic games, but looking deeper into the hardware and accessories that give it personality helps bring its influence and legacy into perspective. Like today, the Nintendo of the 1980s was willing to aim its resources towards innovative and silly concepts, striving to find the next niche in the gaming market. It stumbled from time to time, but there’s no doubt that even its failures brought a sense of wonder and joy to thousands of players along the way.
+
+This article originally appeared in Issue 358 of Game Informer
+

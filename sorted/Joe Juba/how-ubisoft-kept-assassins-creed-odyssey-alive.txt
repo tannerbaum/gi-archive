@@ -1,0 +1,64 @@
+
+  How Ubisoft Kept Assassin’s Creed Odyssey Alive
+
+
+
+
+
+
+            A single-player, story-focused game like Assassin’s Creed Odyssey can be a refuge for gamers who don’t want to play theoretically infinite battle royales, MMOs, or team-based shooters. If you invest enough time in Ancient Greece, you can complete every quest, get every reward, and explore every location. While that concept is comforting, it doesn’t place Odyssey in a completely different space from service-driven titles; regardless of the game, keeping players immersed and excited is important to sustaining interest. Developing a post-launch strategy tailored to the needs of a massive open-world RPG, Ubisoft has spent the months since Odyssey’s release rolling out an impressive array of improvements and new content to continually surprise players – and along the way, the process turned a good game into a great one.
+
+Developing and releasing Odyssey required hundreds of people spread across multiple studios. The game is staggeringly large, so even though you can technically see everything it offers, completionists can easily spend 200 hours exploring the far corners of the map. So even though Odyssey isn’t a multiplayer live-service game, its audience behaves similarly, coming back regularly to continue making progress.
+
+Sorry, this video is not available
+
+“We knew we had a different type of game, and that people could stay with it and engage with it, so we did approach it a little bit like a multiplayer game in that sense,” says creative director Jonathan Dumont. “Every time you return to Odyssey, we wanted there to be changes, new things. We needed a super-strong live structure to support that.”
+
+After the game launched on October 5, 2018 (read our original review), Ubisoft transitioned to a different development model to execute its post-launch roadmap. That meant one group focused on creating the Lost Tales of Greece quests, one on quality-of-life changes, and one on the episodic DLC arcs (which are the only paid aspects of the post-release content). Not only did these teams produce plenty of compelling content to expand Odyssey, but they did so at a consistent pace, ensuring fans’ attention wouldn’t drift for long. 
+
+The content roadmap Ubisoft released prior to Odyssey's launch
+
+Sticking to a regular update schedule seems like common sense; it’s the goal for just about every team making a live game. Pulling it off is difficult (just look at what happened to Anthem), but the Odyssey team had the agility to make it happen – and some other Ubisoft success stories to learn from. “One of the things we took from the other Ubisoft games that are doing very well – For Honor, Rainbow Six, The Division – is a predictable cadence,” says post-launch associate producer Andrée-Anne Boisvert. “At first, every three weeks we were pushing out new title updates with new features, quality-of-life [improvements], bug fixes. Instead of waiting to have a big offering and push it out, that was something relatively new for us.”
+
+The contents of the updates come from a mix of deliberate planning and community feedback. In September, prior to Odyssey’s launch, Ubisoft released a roadmap that gave timeframes for what would launch and when. But some of the most substantial changes happened outside of those announced milestones, like New Game Plus, an increased level cap, and cosmetic gear customization. Many of those additions were already on the team’s radar, but input from players also made a big difference. “Between each of the features, sometimes community suggestions would come in, like the auto-crafting of the arrows, that was not on the roadmap,” Boisvert says. “But because the community felt strongly, we would add them earlier than some other features. So the important thing is having an idea of what you want, but then being flexible.”
+
+Characters and locations that didn’t get enough attention in the main game had additional time in the spotlight through the Lost Tales of Greece. Accessibility features made it easier for all players to customize their experience. Weekly and monthly events (like new mercenaries and epic ships to take down) provided new goals to chase. With all of these updates, Dumont struggles to think of any additions that were completely off the table … but then he remembers one. “I wanted a Kraken in the ocean, but it was too complicated,” he laughs. “It was too complex for the ship to handle.”
+
+Apart from the episodic DLC, all players have access to Odyssey’s improvements for no additional charge. However, the game has a storefront in which players can purchase costumes, boosters, and maps with real money. The team aimed to make these microtransactions unobtrusive and optional, and Dumont says the game was not designed with an agenda of driving players toward them. “The thing we did to start with is we made a super-long adventure,” he says. “I wanted this to feel like an endless odyssey when you’re playing it; I wanted you to be able to lose yourself … but if people want to shortcut it, it’s there if you want to do it. The game is not built for microtransactions – it has a lot of length and reward schemes [on its own].”
+
+Also noteworthy is the fact that Ubisoft has stuck to the previously announced roadmap, so the success of microtransactions one way or the other seems to have little impact on the support Odyssey receives. “Either way, we have a plan, and we try to stick to it and push new content to our players at a regular cadence,” Boisvert says.
+
+With almost a year of continuous support, Odyssey’s ongoing life is beginning to wind down; Ubisoft has made no announcements about extending it beyond the initial roadmap. The final DLC episode released on July 16, wrapping up the official story. “For Kassandra and Alexios, for Odyssey, it’s the last chapter of what you’ll be experiencing as them,” Dumont says (You can check out our complete impressions of the first and second DLC arcs). The Discovery Tour – an educational mode that essentially turns Odyssey’s version of Ancient Greece into an interactive museum – is slated to release sometime this fall. But even if official updates slow down, players can continue to get new content thanks to the recently released story creator. This online tool allows players to create and upload their own quests, effectively turning Odyssey into a community platform going forward. Assassin’s Creed Odyssey isn’t perfect, but its flaws seem to have grown smaller with time, shrinking relative to the volume of smart features and amenities the team has added. Not only do the updates make an already-huge world even bigger, but they highlight Odyssey’s strengths and give players new ways to interact with its gorgeous setting and intense combat. Though Assassin’s Creed Origins also had post-launch support, Odyssey represents Ubisoft’s fully realized strategy to improve a game and add value for months after release. “If you bought Odyssey, we wanted you to be there as long as possible for our single-player journey,” Dumont says. “The results are there for us, and we’re really happy with the engagement of people with the game.”
+
+The Big Changes
+
+Almost every update to Assassin’s Creed Odyssey contains a variety of small tweaks and fixes, but they aren’t the star attractions. The changes that have the biggest impact are the ones that give players new options and content to enhance their experience. Of everything that has been added to the game since launch, these are the most significant improvements.
+
+Legacy of the First Blade (paid DLC): An episodic tale that chronicles the player’s interaction with a Persian assassin and his family.
+The Fate of Atlantis (paid DLC): The final story arc dives deeper into the modern-day plot and reveals much about the series’ precursor civilization.
+The Lost Tales of Greece: A series of (sometimes irreverent) quests that help flesh out the characters and world.
+New Game Plus: Start the story over while retaining your level, gear, and bonuses. You can also re-select your hero for a different perspective.
+Cosmetic gear customization: Keep the stats of your best weapons and armor, but make them look like any corresponding piece of gear.
+Button remapping: An accessibility option that lets you customize your layout and decide which buttons perform each action.
+Level cap raised to 99: Enemy scaling helps maintain an appropriate challenge as you continue gaining levels and ability points.
+Storage chest: Declutter your inventory by stowing what’s too good to sell, but not good enough to carry around constantly.
+Mastery levels: When you’ve invested in all the abilities you like, mastery levels let you put your points into a series of passive bonuses.
+Multiple gear loadouts: Create equipment setups for different situations, then swap among them from the inventory menu.
+Story creator: Create and share your own quests with this online tool. You can also play what other community members have made.
+[This feature originally appeared in Game Informer issue 317]
+
+      Products In This Article
+
+Assassin's Creed Odyssey
+
+Platform:
+
+PlayStation 4, Xbox One, Stadia, PC
+
+Release Date:
+
+October 5, 2018 (PlayStation 4, Xbox One, PC), November 19, 2019 (Stadia)
+
+Purchase
+More Info
+

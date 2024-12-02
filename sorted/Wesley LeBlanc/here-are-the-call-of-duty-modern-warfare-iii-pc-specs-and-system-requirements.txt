@@ -1,0 +1,92 @@
+
+  Here Are The Call Of Duty: Modern Warfare III PC Specs And System Requirements
+
+
+
+
+
+
+            Call of Duty: Modern Warfare III, the latest in the long-running FPS franchise and the first back-to-back sequel in years, is due out later this week, kind of. If you preorder a digital version of the game, you can play through its campaign early, starting November 2. That's eight days before the full game's release on November 10, which is when its multiplayer suite goes live. Ahead of that early campaign launch, publisher Activision Blizzard has released the PC specs and system requirements to play Call of Duty: Modern Warfare III. 
+
+If you've played recent Call of Duty entries, you likely already know what you're in for, and this year's is not all that different. But if you're new, or curious if you need to upgrade before this year's entry, we've got you covered. 
+
+Call of Duty: Modern Warfare III PC Specs And System Requirement
+
+Below, we'll list the minimum, recommended, and 4K Ultra requirements alongside the different OS', CPUs, and more needed to run the game. 
+
+Minimum, Multiplayer Only: 
+
+OS: Windows 10, 64-bit
+CPU: Intel Core i3-6100 or AMD Ryzen 31200
+RAM: 8GB
+Storage Space: SSD with 79GB
+Hi-Rez Assets Cache: Up to 32GB
+Video Card: Nvidia GeForce GTX 960/GTX 1650 or AMD Radeon RX 470
+Video Memory: 2GB
+Minimum:
+
+OS: Windows 10, 64-bit
+CPU: Intel Core i5-5600 or AMD Ryzen 51400
+RAM: 8GB
+Storage Space: SSD with 149GB
+Hi-Rez Assets Cache: Up to 32GB
+Video Card: Nvidia GeForce GTX 960/GTX 1650 or AMD Radeon RX 470
+Video Memory: 2GB
+Recommended (for 60 FPS with options set to High):
+
+OS: Windows 10, 64-bit or Windows 11, 64-bit
+CPU: Intel Core i7-6700K or AMD Ryzen 5 1600X
+RAM: 16GB
+Storage Space: SSD with 149GB
+Hi-Rez Assets Cache: Up to 32GB
+Video Card: Nvidia GeForce GTX 1080Ti/RTX 3060 or AMD Radeon RX 6600XT
+Video Memory: 8GB
+Competitive/4K Ultra (high FPS with 4K resolution):
+
+OS: Windows 10, 64-bit or Windows 11, 64-bit
+CPU: Intel Core i7-8700K or AMD Ryzen 7 2700X
+RAM: 16GB
+Storage Space: SSD with 149GB
+Hi-Rez Assets Cache: Up to 64GB
+Video Card: Nvidia GeForce RTX 3080/RTX 4070 or AMD Radeon RX 6800XT
+Video Memory: 10GB
+
+Click to enlarge
+
+Activision Blizzard has also listed a few notes alongside these PC specs to take into account:
+
+Specs are valid for product at launch and may be updated in the future
+All specifications require a broadband connection and DirectX12 compatibility
+Additional storage space may be required for mandatory game updates
+Hi-Rez assets cache is optional disk space that can be used to stream high resolution assets – that option can be turned off in the game's settings
+Only Intel/AMD processor (with AVX instruction set) are supported at this time
+149GB of available space required for initial download of Modern Warfare III (78GB if COD HQ and Warzeon are already installed)
+Content can be uninstalled to access COD HQ + MP only
+And those are the PC specs and system requirements needed to run Call of Duty: Modern Warfare III. 
+
+For more about the game, read Game Informer's breakdown of everything we learned from a recent Call of Duty Next livestream, and then check out this story about how Modern Warfare III won't be coming to Xbox Game Pass this year, even though Xbox now owns Activision Blizzard. 
+
+Are you excited for Call of Duty: Modern Warfare III? Let us know in the comments below!
+
+      Products In This Article
+
+Call of Duty: Modern Warfare III
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC
+
+Release Date:
+
+November 10, 2023
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

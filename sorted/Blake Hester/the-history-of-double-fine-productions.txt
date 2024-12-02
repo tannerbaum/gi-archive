@@ -1,0 +1,161 @@
+
+  The History Of Double Fine Productions
+
+
+
+
+
+
+            Introduction
+
+As part of our Psychonauts 2 cover story, we had the chance to talk to more than a dozen people who had a hand in the history of Double Fine Productions. This article originally ran in Game Informer issue 336, but we're republishing it on our website in anticipation of Psychonauts 2's upcoming August 25 release. To see more of our exclusive coverage, make sure to check out our rapid-fire interview with Double Fine founder Tim Schafer, a new Psychonauts 2 level, and our inside look at how the game is handling conversations around mental health.
+
+Tim Schafer was on a glacier somewhere in Nepal, thinking he was going to die, when he decided to quit his job and found his own company.
+
+Not too long before, some friends (he doesn’t say who) suggested they all leave their positions at LucasArts, the game division of Lucasfilm, to start a new company. But Schafer, who doesn’t like “worrying about buying printer paper and toilet paper,” says he was hesitant to take them up on the offer.
+
+“I just want to make the games; I don’t want to worry about the building and all that stuff,” he says, laughing.
+
+Three weeks in Nepal later, after a “grueling journey,” as he puts it, Schafer started to change his mind. “Something on that trip, I was like, ‘I think when I get back, I’m going to quit and I’m going to start my own company,’” he says. “It was also maybe because I was sick, and I lost 30 pounds on that trip, and I was just marching all day long.”
+
+There was also the fear of death, a quick help in the decision-making of any person.
+
+“I thought I was gonna die on this glacier because we took this pass you’re not supposed to take in the winter and it was snowing,” Schafer recalls. “We’re on this glacier that had these sinkholes in it. It was like, ‘I guess we’re gonna die up here.’ But we made it. And then I was like, ‘Okay, I’m going to start my own company.’”
+
+Whether or not the story is embellished, 20 years later, it’s a fitting origin for the company Schafer founded: Double Fine Productions, which has had its fair share of close calls with closure over its two-decade history. But it’s also become a mainstay in the game industry, consistently putting out cult classics, such as the original Psychonauts, Brütal Legend, Broken Age, and nearly two dozen other games. While Double Fine has never released a quote-unquote blockbuster – quite the opposite, in a lot of cases – it’s made a name for itself creating quirky, inventive, and off-beat titles. And it did all that while remaining independent. That is until 2019, when Microsoft purchased the company.
+
+To tell the storied history of Double Fine, we talked to over a dozen people from the company, including Schafer himself, the people who have been with the studio since its inception, and the newer employees. This is the often-rocky story of Double Fine, as told by those who were there.
+
+[Ed. Note: To avoid confusion with other articles, all job titles reflect people’s current positions on Psychonauts 2]
+
+Monoxide
+
+Monoxide
+
+In numerous ways, the creation of Psychonauts, the first game Double Fine developed and released, was hazardous to the developers’ lives.
+
+Double Fine didn’t begin in an office, but rather a garage made into an office in the SoMa district of San Francisco, Calif., in 2000 (after a four-month stint in a “haunted” clog shop). It wasn’t great. Rats filled the space. It was below sea level, so when it rained excessively, the sewer would overrun, overflowing the toilets. While working in a garage provided employees with parking, according to people that worked there, it also meant constantly breathing in carbon monoxide.
+
+Photo Credit: James Spafford // Double Fine Productions
+
+“You would drive into the office, and like, pull up right next to somebody’s desk and turn your car off,” says Nathan “Bagel” Stapley, a senior concept artist for Double Fine.
+
+“There was no heat, either,” says senior animator Ray Crook. “And so, in the wintertime, we would just hang up big sheets of plastic and had these little space heaters that would blow the circuits if you had more than, like, three of them going.”
+
+The neighborhood, at the time, wasn’t always safe, either. Writing in a 2015 postmortem for Gamasutra, Caroline Esmurdoc, Psychonauts’ executive producer, described the office as what “started as punk-rock charm soon became depressing, disgusting, and dangerous.”
+
+“One night, a woman from the transient hotel next door jumped out a fifth floor window and landed on our roof, breaking her leg and knocking a hole in our ceiling,” Esmurdoc wrote. “Another day, there was a dead body in the doorway across the street, apparently the victim of an overdose.”
+
+They weren’t ideal – or perhaps even always legal – working conditions, but with the bad is also the good. Talking to developers that were there at the time, there’s an almost garage-band quality to the early days of Double Fine. They threw parties in the office, decorated the walls with interesting art, and overall enjoyed the company of their coworkers. For a little while, Schafer even made and painted every employee’s desk. “That seemed like a cool startup thing to do,” he says.
+
+Predictably, the interview process at Double Fine was also atypical. Lead programmer Kee Chi says that when he interviewed with the company, he talked about Zelda for an hour rather than answering any technical programming questions. Instead of going through the process of talking to recruiters and human resources, Levi Ryken, now a senior artist with Double Fine, had to speak to every single person at the company – to get hired as an intern.
+
+“Obviously, these things are all nicer to think about from a distance,” Chi says. “And now that we have functioning toilets, we can look at it [like], ‘Ah, remember the time when things were like that?’ But it’s also a time when all of us got to know each other and parts of the game came together. There was a lot of DIY feeling at the old office, that the new offices [don’t] quite have. But it also could either be just fond memories of different times or the carbon monoxide poisoning we got at the time. It’s one of those things.”
+
+Coincidentally, Psychonauts was initially being developed for Microsoft, which was getting ready to release the original Xbox around the same time as Double Fine’s founding. While pitching the game, Schafer gave a talk at the annual Game Developers Conference about character design. It caught the ear of Ed Fries, then vice president of game publishing at Microsoft, who signed the game. At the time, Microsoft handed out ping pong balls with the Xbox logo on it, which Fries gave Schafer when they first met. Two decades later, Schafer says he had the ball sitting on his desk when he signed the paperwork for Microsoft’s acquisition of Double Fine in 2019. “I had it on a table in a little stand like a little ceremonial thing to bring the whole thing full circle,” he says.
+
+Inspired by the team’s love of games such as Rayman and Super Mario 64, Psychonauts is a 3D platformer telling the story of Razputin “Raz” Aquato, a 10-year-old psychic in attendance at Whispering Rock Psychic Summer Camp. Raz goes into the minds of various people, confronting their problems and helping them work through their issues. Psychonauts was also made to harken back to the team’s memories of summer camp, being kids exploring the woods and stumbling upon unexpected discoveries.
+
+“We had those childhoods,” Schafer says. “Back when you’re, like, free-range kids, where you’d just wander into really dangerous locations and explore. A lot of those memories got into the first game.”
+
+But Psychonauts’ development was brutal, and the developers we talked to quickly brought up how hard the company crunched while making the game. There were a few reasons why. For one, Schafer, who wrote and directed the game, had spent the last decade making point-and-click adventure games at LucasArts; he had no experience with 3D platformers. Neither did numerous members of the team. Compounding issues, this was at a time when developers typically made their own engines in-house from scratch. And this was all on top of the fact that Double Fine was a new studio and it had to grow, staff up, and learn how to be a real company. It had to invent all its development pipelines and processes. There was a lot to be done, forcing the team to crunch continuously.
+
+“Back then, you guys were rolling your own engine with a small studio on a new IP with a brand-new team in a f---ing automotive garage,” says principal artist Lee Petty. “So yeah, that’s gonna be hard.”
+
+“All processes that you would think a more mature [studio] would have then, we were just all figuring it out,” Chi says. “But I also think this naive optimism that we had in making the game also made it so that we could make the crazy game that we did [in] Psychonauts, even though it came with a lot of growing pains [because] we made it in the way that we did.”
+
+Psychonauts was in development for around five years. In that time, Double Fine learned how to operate as a team and make the game it wanted to make. But it came with some high costs. There was, of course, the crunch. “It was terrible,” Crook says. But also, Microsoft was going through its own internal changes. In January 2004, Fries left the company. Around the same time, Microsoft was beginning its transition to the Xbox 360 in preparation for its November 2005 release. This halted funding for original Xbox games planned to launch after 2004. Expensive and behind schedule, new management within Microsoft opted to cancel Psychonauts – even though, by this point, Double Fine felt it was finally making real progress.
+
+“In February 2004, at what seemed to be our peak productivity, a time when we felt most confident about shipping on schedule, Microsoft decided to discontinue its development of Psychonauts,” Esmurdoc wrote in her postmortem. “Microsoft had funded years of mistakes, course corrections, and learning curves, but it drew the line at underwriting the remaining game development now that Double Fine was finally on track. When Ed Fries departed Microsoft, the new management seemed to think that we were expensive and late. The assessment was accurate, though it did not reflect the progress we were finally making toward shipping the game and recovering the development investment.”
+
+2004 was a rough year for Double Fine – one it nearly didn’t survive. In multiple past interviews, Schafer has even admitted to telling his team Double Fine was shutting down, and that the next paycheck would be the final one. Luckily, however, a loan from SimCity creator Will Wright was able to keep the company afloat before a late-stage deal with Majesco saved both the project and the studio. But despite all the hard work Double Fine put into getting it made, when Psychonauts came out, it was a commercial failure. It got great reviews, but no one was buying it. Psychonauts sold less than 100,000 copies in 2005.
+
+“It was one of those situations where if we’d known, like most games, if you really knew how hard they were going to be by the time they were done, you probably wouldn’t have started any of them,” Schafer jokes.
+
+But the lessons Double Fine learned on that first game would continue to shape the company for years to come – even if its following projects were far cries from summer camp.
+
+"Is Heavy Metal Worth Risking The Whole Company?"
+
+"Is Heavy Metal Worth Risking The Whole Company?"
+
+In preparation for its next project, Double Fine went back to the drawing board. From the ground up, it rethought how it approached development – and crunch.
+
+Double Fine’s next game, Brütal Legend, released in October 2009, was incredibly ambitious for its time. Part action-adventure, part real-time strategy game, with multiplayer sprinkled on top, the game tells the story of heavy metal roadie Eddie Riggs, voiced by actor Jack Black, as he tries to save humanity. This time around, EA signed on as publisher, a deal Schafer describes as getting enough money to finish the project correctly while avoiding a big crunch.
+
+“People say, ‘Well, that’s just an inevitable part of games.’ But it’s not,” Schafer says. “After Psychonauts, we all just got a bunch of books on production methods and [a software development technique called] Scrum. All these things we had never done before. Like, ‘How do we plan better? How do we do better software planning?’”
+
+“Even though it was a really long development, like Psychoanuts, I think it was four years or five years,” says senior designer Gabe Cinquepalmi. “Definitely much better hours for most people on the second game. Not having done the first one, just hearing the stories.”
+
+Brütal Legend received positive reviews, and to this day, is still Double Fine’s best-selling game. “But what’s a big hit for Double Fine and what’s a big hit for EA are different scales,” Schafer says. For EA, Brütal was not a financial success, selling just over 200,000 copies in its first month (in a 2011 interview with Gamasutra, Schafer said the game had gone on to sell 1.4 million copies over time). Regardless, it didn’t stop Double Fine from beginning work on a sequel. But again, EA thought otherwise, canceling Brütal 2, despite the fact Double Fine had invested most of its resources to the project.
+
+“The Brütal [cancellation] was gnarly because we didn’t get paid for, like, a month,” Stapley says.
+
+“Wasn’t that Psychonauts?” Crook asks.
+
+“That was both,” producer Malena Annable replies.
+
+Up to this point, Double Fine was a one-game studio, so losing any project was a major blow; the studio’s previous games hadn’t made enough money that it could afford to coast. When Brütal 2 was canceled, Double Fine was essentially on borrowed time. The studio had to pivot its plans. Fast.
+
+Twice during Brütal’s development – once in the middle and once at the end – the team stopped working to participate in what Double Fine calls “Amnesia Fortnight.” For two weeks, the studio breaks into smaller teams, tasked with developing a small game under a short time span. It’s meant to be a palate cleanser, an internal break that gives the team some time to think about and focus on something other than the game it needs to ship. However, with Brütal 2 canceled and Double Fine at risk of closure again, the projects developed during this two-week game jam became the studio’s lifeline.
+
+Four games – two from the first Amnesia Fortnight, two from the second – were selected to pitch to potential publishers. This included Stacking (THQ), Costume Quest (THQ), Iron Brigade (Microsoft), and Sesame Street: Once Upon a Monster (Warner Bros.). Four games, Schafer says, that probably wouldn’t have been made if fate hadn’t forced the studio’s hand. But also, by circumstance, four games that now needed to be made quickly.
+
+“We got back from Thanksgiving break, and Tim’s like, ‘By the way, they canceled Brütal Legend 2, and we need to get some more money,” Petty, who directed Stacking, recalls. “So, how would you feel about pitching Stacking starting next week?’”
+
+Effectively, this turned Double Fine into a multi-project studio; it no longer had all its eggs in one basket. It also gave employees at Double Fine other than Schafer the chance to direct their own games, pitch projects to publishers, and lead teams. It’s an approach Double Fine has continued, often releasing multiple projects per year.
+
+“It takes away some of that ‘betting the farm’ feeling that you have when you’re a single company making a single game,” Schafer says. “It’s like, ‘Is heavy metal worth risking the whole company?’"
+
+More than 10 years later, smaller projects now make up the bulk of Double Fine’s catalog. This move not only saved the company after Brütal 2’s cancellation, but it became the studio’s primary development and financial model, creating a diverse portfolio full of genres, publishers, and art styles. It wouldn’t be the last time Double Fine experimented with how it funded projects.
+
+In 2012, Double Fine launched its first crowdfunding campaign, using the site Kickstarter, asking for $300,000 (the lowest budget the company would have ever worked with) to make a small adventure game and $100,000 to film the process with documentary crew 2 Player Productions. The campaign raised $3,336,371, making it the most-funded Kickstarter campaign up to that point. What began as a small project transformed into a much larger, point-and-click adventure game called Broken Age, a well-reviewed game, but one that took three years to develop and had to be split into two episodes to secure more funding.
+
+The trials, tribulations, and development of Broken Age have been chronicled in exhaustive detail (a product of 2 Player following the entire multi-year process for the Double Fine Adventure documentary), but it’s still an important piece of Double Fine’s history. On the one hand, it proved there is still an audience for the types of games Schafer made at LucasArts. A fact that wasn’t lost on Double Fine. After Broken Age, the studio acquired the rights to some of Schafer’s old games, such as Grim Fandango and Full Throttle, remastering them for modern consoles. “That helped stabilize the studio financially as well,” Petty says. 
+
+It also moved Double Fine towards the level of transparency it’s now known for. Including Broken Age, 2 Player has also documented numerous Amnesia Fortnights, the development of the aforementioned remasters, and produced a retrospective on the original Psychonauts. The crew’s still at Double Fine, too, filming the development of Psychonauts 2. Everything at the studio is for show. Inadvertently, it’s created a unique situation, where potential employees can learn about Double Fine to a degree most people can’t about possible future jobs.
+
+ You're missing out!Normally this is where something cool would show.  Your browser is blocking third-party cookies so we're unable to display this content.Try clearing your browser cache, disabling ad blockers, and verifying that cookies are allowed: Verify cookie preferences
+
+“It was a great way to see what type of people worked at Double Fine and Double Fine’s philosophies,” senior systems programmer Aaron Jacobs says. “Having watched that, it made it very clear that it would be a great place to work. It just seemed like a really enjoyable place to be. And so yeah, when I then graduated college, it was just like, a no-brainer. It made sense to come to join this place that just seemed like a fantastic place to work at.”
+
+While it is hard to have cameras constantly in the studio, most staff we talked to say the Double Fine Adventure documentary is like a yearbook or journal for Broken Age, allowing team members to relive the experience on YouTube at any time. That said, Double Fine offers all employees the option to opt-out of being featured in its documentaries.
+
+“I’ve had a lot of team members being like, ‘I never wanna be that exposed again,’” Schafer admits about Double Fine Adventure. “I had some people be like, some programmers, ‘I just wanna work on tools from now on. I don’t wanna face the public anymore.’ Because it’s raw and it takes a toll.”
+
+The development of Broken Age stands as an inflection point for Double Fine. It provided the studio with a level of autonomy over what projects it works on, bypassing the traditional publisher model, going directly to fans. It wouldn’t be the only project Double Fine crowdfunded. All of this would combine for Double Fine’s newest, and biggest, project yet: Psychonauts 2.
+
+Still Here After All These Years
+
+Still Here After All These Years
+
+In 2021, Double Fine is a known quantity. While it still hasn’t released a blockbuster per se, the developer has been a consistent source of interesting and unique games throughout its two decades. Now 20 years after its first employees breathed in carbon monoxide in a parking garage with no heat, its catalog is full of cult classics and fan favorites. Double Fine has a better, safer office, too.
+
+It’s also a great time of change for Double Fine. In 2015, the studio announced Psychonauts 2. Again, it turned to fans, this time through the crowdfunding/investment site Fig, founded by Double Fine’s former COO, Justin Bailey. Schafer also serves as an advisor for the company. By the end of the campaign in January 2016, Double Fine raised over $3.8 million for development. While it’s also released numerous other games since, such as Headlander, Grim Fandango Remastered, and Rad, and dipped its toe into publishing, Psychonauts 2 is Double Fine’s largest project. 
+
+Perhaps too big – at least for crowdfunding. While it’s allowed the game to exist in a way that it might not have otherwise, Schafer admits that Psychonauts 2, now a five-plus year project, is too much for the model. “One year,” he says. “One year’s the max.” In 2017, Starbreeze also invested $8 million into the project’s development, acquiring rights to release the game digitally on consoles and PC – though that’s since been assigned to Microsoft.
+
+This leads in many ways to Double Fine’s most recent and most significant change: It’s no longer an independent studio. In 2019, onstage at E3, Schafer revealed that Microsoft had purchased Double Fine. In the immediate term, this move helps the production of Psychonauts 2; Schafer told GamesIndustry.biz in 2020 that before the purchase, Double Fine had removed the game’s boss fights for budget reasons but was able to add them back in once Microsoft got involved.  
+
+Double Fine summer picnic (2019)
+
+In the long term, it means Double Fine no longer must tour around pitching its games, looking for funding from different partners, trying to strike deals to stay alive. Being under the Microsoft umbrella is a security blanket for Double Fine – even if there are still unknowns and anxieties from people at the studio.
+
+“For me, it was just, I was scared but I was also relieved,” Crook says. “I had both those things. Because we’d been through so much, and so much of it was financial. And then I was thinking about the burden that it would take off of Tim, and that felt good to me, knowing what he’s gone through and what a lot of us have gone through. But then there’s always – you’re scared, right? Is this going to change everything? Is Double Fine, what it is, just going to be no more? Is it going to be different?”
+
+“I was very much like, ‘I don’t want to be acquired,’” Schafer says. “But when they started talking about what they had learned from acquiring Minecraft [developer] Mojang [...] how to honor what makes a company successful as you acquire it, I felt like that was really true, that they had figured out a different model for acquisition that is non-destructive.”
+
+Comparing the production of Psychonauts to its sequel reveals apparent growth for Double Fine. For one, talking to newer members of the team, crunch and labor expectations are far better than they were on the first game. While it’s not perfect, there’s always room for improvement; according to the people we talked to, Double Fine makes a concerted effort to keep hours realistic and manageable. The same can be said about amplifying the creativity of its employees. Just because someone works in one department doesn’t mean they can’t contribute ideas to another.
+
+“I think prioritizing people is something that Double Fine does a good job at,” says environment artist Janice Bell. “Because it just feels like a lot of other studios see their people as assets, where Double Fine is the first studio I’ve worked at where they actually see you as people, important parts of the studio with views that matter and input that matter[s].”
+
+Where Double Fine goes next remains to be seen. It’s an interesting time for the company, though, as it might be one of the only times in 20 years that it’s had some amount of solid financial security. Through ups and downs, near misses, and close calls, Double Fine has made it through a lot of tumultuous times, and somehow never abandoned what made the company special in the first place. It might not be the last time Double Fine falls on hard times, but at the very least, it has stability now.
+
+“I joked that Double Fine was really – the one thing that we truly excelled at was circling the drain,” Annable says about Double Fine’s future with Microsoft. “So, if this put a few more inches in the tub, it was perfect for me."
+
+Blake Hester
+Senior Associate Editor
+Blake Hester writes about the people who make video games. Before joining Game Informer, he freelanced for outlets such as Polygon, Vice, USG, and Rolling Stone. 
+
+Email
+Twitter
+

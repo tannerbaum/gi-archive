@@ -1,0 +1,74 @@
+
+  BioWare On Returning To The Dragon Age Series, 10 Years After Inquisition
+
+
+
+
+
+
+            With 10 years between 2014's Dragon Age: Inquisition, the most recent release in the series, and the upcoming Dragon Age: The Veilguard, the latter has much riding on it. It's both a follow-up to a beloved game from a decade ago in one of BioWare’s most beloved series, and it's the first BioWare game since the launch of 2019's Anthem, a live-service multiplayer effort EA sunset less than two years later. 
+
+Curious about the pressure surrounding the release of Veilguard, I spoke to BioWare about lessons learned from following up on Inquisition and what it's been like returning to this series so many years later. 
+
+"We start out in pre-production," BioWare general manager Gary McKay tells me when I ask about BioWare's guiding principle for developing Veilguard. "We spent a lot of time iterating, experimenting, and innovating on different things. At one point, it was multiplayer – we did a hard look at multiplayer, but we felt we really couldn't return to our roots. And when we asked ourselves, 'What is the game that we want to develop,' we really wanted to get back to our roots, which is amazing storytelling. It's about those unforgettable characters. And it's about having the opportunity to influence the world. 
+
+"And we really felt multiplayer wouldn't do that. But single-player RPG is really where we wanted to spend our time, so after spending that time in pre-production, really honing in on what the vision of this game is, and [being] afforded the opportunity to deliver on the creative promise of this game, [now] we're really excited about what's coming out."
+
+McKay says Veilguard blends seasoned veterans with new voices and perspectives, and "that's really important for this game." For example, people like former Dragon Age producer Mark Darrah, who left the studio in 2021 but is now consulting for Veilguard, and creative director John Epler together have decades of experience at BioWare. They work with people like game director Corinne Busche, who joined BioWare shortly after the launch of Anthem (but brings in a love of Dragon Age from the series' 2009 start), every day to develop the game we'll be playing this fall. 
+
+"[You] want to have different perspectives, different backgrounds," McKay says. "If you bring a bunch of people together that have only known one thing, that's not where you see creativity. That's not where innovation comes from. Innovation comes when you have [...] that past history and blend it with some new voices and perspectives." 
+
+Darrah has been attached to BioWare in some capacity since its early Baldur's Gate days, and when I ask him about the studio's progression from that series to the next Dragon Age, he says it's been amazing. "The thing that is so amazing about Veilguard is this is the game where we finally said out loud that BioWare's greatest strength is telling stories through characters. If you go all the way back to Baldur's Gate 1, Baldur's Gate 2, these games are telling stories through characters, but there wasn't an intentionality behind that. And in this game, we're finally putting that intentionality first and foremost, putting the characters first, building the game around that, around those character moments, which is really the best way that BioWare knows how to tell stories." 
+
+I ask Darrah if there's anything Veilguard is doing that BioWare wanted to do on previous games but couldn't, and he says, "Storytelling through animation." In previous games, each character moves in "exactly the same way," and everyone is homogenous in that way, he says. "If you put on a suit of armor, and you put it on Alistair, you looked exactly the same standing right beside each other.
+
+"Now, we're able to keep the character coming through in the visuals and the motion, even as you're customizing them, which just wasn't possible in the past." 
+
+He also mentions BioWare's confidence in its game development engine for Veilguard, which, like Inquisition, uses EA's proprietary Frostbite. "Dragon Age: Origins and Dragon Age II were doing what they could with the technology they had; Dragon Age: Inquisition did a good job of using Frostbite respective of the engine," Darrah says. "But with this game, there's a better understanding of the engines over a lot more time, but also, the technology of the hardware that the game is going to be played on moving forward [is] able to do a lot more stuff [and] execute it visually to a degree that just wasn't possible in the past." 
+
+On Inquisition
+
+With 10 years between Inquisition and Veilguard, BioWare has to balance satisfying longtime fans of the series with newcomers jumping in for the first time. Epler says the studio worked hard to ensure Veilguard is respectful and referential to previous games without feeling like you need to have played Inquisition, Dragon Age II, or Origins to fully understand what's going on. 
+
+"So while there are references, there are moments that we have callbacks, it really is its own story, its own continuation with a different cast, with different characters," he says. "Historically, Dragon Age has always had a different cast per game, so that gives us a lot of freedom in terms of what we want to lean on in the past and what we want to really bring in that’s new and forward-facing." 
+
+Darrah adds that Veilgaurd's events play out with a storytelling goal for the future of the series. "This is a game which takes the ball that Inquisition had, puts its own spin on it, has its own characters, takes its own direction, but continues the path forward into the future," he says. 
+
+"Dragon Age has always been about change. Every game has had a new protagonist, and it's been exploring its own space all the time, and this game is no different. [Veilguard] does a good job of bridging that gap. The really super fans of Dragon Age have actually made a lot of really educated guesses, and some of them are pretty right about where the franchise is going. The thing we need to make sure is that people who may have only played Inquisition are understanding what the franchise is really about – it's about a new protagonist, it's about change, it's about evolution – and don't come in expecting a direct sequel to a game they played and then are disappointed. This game is something new, something that evolves, something that is greater than what came before, the same as each game [...] before it." 
+
+For Busche, balancing newcomers and fan expectations in Veilguard is about managing assumptions. She says Veilguard takes place in a part of Thedas BioWare has only hinted at. The team has hinted at the Grey Warden fortress of Weisshaupt, the depths of Arlathan Forest, the Rivain Coast, the Grand Necropolis of Nevarra, and Minrathous, but now players will finally go to these stories' locations. 
+
+"We have a rich history of world-building within the IP, so existing players will be familiar with these places and very excited to go to them and explore their mysteries," Busche tells me. "But for our new players, we're not assuming you know anything about these locations. I would say that also extends to the characters; we've taken great care in how we introduce each and every single companion and major story figure within the game [with that in mind]."
+
+Epler tells me that Veilguard differs from Inquisition and other Dragon Age games in the way that Rook, the player character, can't save the world without the characters they meet on their journey. 
+
+"Dragon Age has always been about characters but to some degree, it's almost felt like we've lucked into that," he says. "Inquisition is a story that ultimately, you, the main character [...] have the biggest part to play. We wanted to tell a story this time where you literally cannot save the world without these characters. Beyond that, though, we also wanted to give them their own arcs that can run parallel to the main story and really give them that kind of deep storytelling our fans really enjoy." 
+
+Though he's biased for obvious reasons, Epler says Veilguard is his favorite Dragon Age game he's worked on (and he's worked on all of them, starting as a quality assurance tester on Origins). He says one reason for this is the storytelling in the characters, companions, and relationships. 
+
+"They have their friendships, they have their rivalries, and lean into that concept," he tells me. "You're not just pulling together a bunch of people who will do whatever you say. You're assembling a family, and that becomes the core of what the Veilguard is all about. It's about taking this group, this found family, and saving the world, side by side with them." 
+
+For more about the game, including exclusive details, interviews, video features, and more, click the Dragon Age: The Veilguard hub button below.
+
+      Products In This Article
+
+Dragon Age: The Veilguard
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PC
+
+Release Date:
+
+2024
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

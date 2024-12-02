@@ -1,0 +1,71 @@
+
+  How Blizzard Is Updating Warcraft III’s Fiction For Reforged
+
+
+
+
+
+
+            Thanks to the most popular MMO on the planet, WarCraft III’s lore has experienced a great deal of iteration and expansion. With Warcraft III: Reforged, Blizzard returns to the classic RTS that launched Word of Warcraft, but this remake gives the developer the opportunity to smooth over some of its rough story beats and ensure the lore remains up to date. While visiting Blizzard’s campus for our month of coverage, we sat down to talk with senior writer Christie Golden and editor Justin Groot about how they’re taking a red pen to Warcraft III’s original script.
+
+How are you adding to or changing Warcraft III: Reforged’s story in light of what’s happened with World of Warcraft? Is there going to be any revision?
+Golden: I would say it’s more like augmentation. There’ll be some revision. I wrote Arthas: Rise of the Lich King in 2009 and that was essentially a novelization of his arc through Warcraft III. Within novelizations you’re able to give a lot more backstory and take a scene and expand it. So when I was invited to participate in this remake, I said, “Hey I got this. What do you think about going back through the book and adding a few key lines?” So we went through it, and sometimes we would pick just a few key lines that would add this whole new layer of context.
+
+Groot: When Warcraft III first came out and the story was being put together, I don’t think there was a master plan of knowing exactly where everything was headed, especially for some of these characters who became very prominent. Especially for characters like Sylvanas or Jaina. These characters have room to be expanded on. Their roles and thought processes have been explored to a greater degree in World of Warcraft and the novels, so we can bring some of that context back into Warcraft III: Reforged. We’re not trying to quadruple the length of the cinematics, but we are trying to make everything feel like a cohesive, coherent whole.
+
+So all the dialogue is being rerecorded?
+Groot: Yeah, it’s my understanding.
+
+What’s the biggest alteration you’ve made so far?
+Groot: It is still a work in progress, but one thing that comes to mind is, there is a moment in the Frozen Throne’s Orc campaign where Jaina’s dad shows up – and general Proudmoore is the big bad in that situation – and that is a pivotal moment for Jaina because she comes to the conclusion that her dad cannot be stopped, so she signs off on allowing the Orcs to assassinate her dad. The way it was originally written, there is not a lot of what Jaina is thinking about. It almost seems like she signs off in this cursory manner. “Oh yeah, you can kill my dad.” So we really want to take that part and expand it and treat it in the way that lines up with our understanding of Jaina today.
+
+Golden: We actually revisited the realm of torment cinematic where Katherine Proudmoore comes across and sees what Jaina has been living with her whole life, so we were able to make sure that the dialogue in the game links back to what people have seen recently in World of Warcraft.
+
+So what is your process like in revising that script?
+Golden: I’ve been basically going back to my book, and I have the script up on one side and my notes up on the other, and I’ll go through and find a scene and try to update it. Some of the lines are a little clunky and feel too modern. Those kind of bring you out of the story.
+
+Groot: What’s the line? There’s a moment where Thrall frees Grom Hellscream from a cage and says, “Great, because we’re getting out of here.”
+
+Golden: Yeah, we’re trying to smooth out a lot of stuff like that.
+
+Is there anything particular from the novel that you want to bring into the game?
+Groot: Well, in the game, Arthas starts out on foot and then in the switch from the Human campaign to the Undead he suddenly has this horse. The game never explained where the horse came from, but Chrissy knows where the horse came from.
+
+Golden: That was something I explored in the novel. I think a character who is really pure and never fails is not interesting. I think Arthas is more interesting because his fatal flaw was that he felt like he needed to do everything in his power to protect his people. I wondered what made him like that. Well, there is a scene in the novel where Arthas has a horse that he names Invincible, but he’s reckless when he rides this horse. He takes it riding one day, and there is a jump that he wants to do. It’s a jump he’s made a million times before, but this time he feels the horse slip from under him and they tumble down this ravine. The horse’s front legs are broken and it’s screaming in pain, and the snow is coming, and Arthas knows there’s no way he can get help in time, because his own ribs are broken. So he has to kill his own horse to put it out of its misery. He does it, and gets up and says, “This is the last time. This is the last time I am ever going to fail anyone.” Then when he becomes the Lich King, the very first thing he does is he goes back to Invincible’s grave, and he raises the horse as an undead. Arthas thinks, “I didn’t mess up. I did everything right. If Invincible wasn’t dead, he’d be afraid of me, but now he and I are going to live forever. I did not screw up.”
+
+Groot: I love that story, and it tells you so much about him, so then we were like, should we fit this into the game? That’s the kind of thing were still juggling. I don’t know for sure if that’s going to make it, but we’re exploring things like that.
+
+So, at this point, you guys have basically done the first pass and will tighten everything up going forward?
+Groot: We’ve basically done a pass on everything, so now we’re just going back through and adding extra polish. A lot of these lines were written back in a different environment. They had a smaller team and they were doing things in rapid-fire. But some of that stuff that didn’t have the same level of polish that we’re giving it today has become iconic and beloved in its own way. We keep saying, “Yeah, maybe we would’ve written that exactly that way today, but is this iconic? Is it beloved?” We’re trying to respect the source a lot.
+
+Golden: Do people use it a lot in their Twitter posts?
+
+With that in mind, how are you updating unit barks?
+Groot: We’re looking at how to adjust some lines and add new lines that take into account some of the new lore that’s come in. Some of them are almost Easter eggs.
+
+Golden: Some of the jokes are very old. Sometimes they’re like a riff on an old commercial that everybody got back then but wouldn’t make any sense anymore.
+
+Groot: There are references to very old songs. There are references to I Love Lucy. There are references to dial-up modems, Star 69, and all those old telephone things.
+
+Golden: We’re trying to find the ones that will really bump people out of the game, and the stuff that really doesn’t land anymore. My particular favorite is, “Me not that kind of Orc.” It reads differently today, but it’s really funny, because he’s a big green Orc. It still lands. It’s still funny. Maybe we wouldn’t have written that now, but that is something that people get even now.
+
+When you went back to read the original Warcraft III script, did anything stand out or surprise you? Was anything more interesting than you remembered?
+Groot: I think the game is really interesting. The story has really resonated with people for a reason. One of the reasons I’m excited about this, is that this game will feel more like part of the World of Warcraft universe. Especially for WoW fans who haven’t played Warcraft III, this will be the definitive origin story for a lot of the heroes that are now critical in World of Warcraft. Everything that happened in this game set the stage for everything that happened since, and those reverberations are continuing. One of our goals is to speak directly to those World of Warcraft players. This is familiar to you, but it might be new too. It’s part of the story you know, but maybe it’s part of the story you’re not that familiar with.
+
+Be sure to stick around this month, because we’ll be posting various video interviews with the teams and doing a deep dive into the lore of Warcraft III. Click on our banner hub for more on Warcraft III: Reforged.
+
+      Products In This Article
+
+Warcraft III: Reforged
+
+Platform:
+
+PC
+
+Release Date:
+
+January 28, 2020
+
+Purchase
+More Info
+

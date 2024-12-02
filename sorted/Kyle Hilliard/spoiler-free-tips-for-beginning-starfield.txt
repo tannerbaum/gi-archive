@@ -1,0 +1,114 @@
+
+  Spoiler-Free Tips For Beginning Starfield
+
+
+
+
+
+
+            Starfield is a massive, intimidating video game that, for better and worse, doesn't spend a lot of time tutorializing its gameplay and systems. It means the opening hours of the game can be particularly confusing, but the tips below, gathered by the Game Informer staff, should help alleviate at least some confusion you might be experiencing early in the game.
+
+Stay On The Main Path, At Least For Awhile
+
+Starfield lets you loose pretty quickly, and it is tempting to just start planet hopping right away, but you will do yourself a favor by sticking to the main path for at least a few hours. Our suggestion is that you play at least enough Constellation missions to find a mysterious temple. It may feel restrictive to hold yourself back, but you will be grateful to give yourself the time to learn the game, find good weapons, and build up your inventory.
+
+Fast-Travel Is The Primary (And Often Only) Way To Explore
+
+Unlike previous Bethesda games where you could quite literally see the entire game by walking around on foot and never using fast-travel, Starfield heavily relies on fast-travel from the opening moments. The game is functionally a number of disconnected locations that can only be reached by fast travel, which is atypical for a Bethesda RPG, but that is fundamentally how Starfield works.
+
+In the pause menu, you can use the "set course" button on the star map to quickly move between relevant mission areas, and when you are exploring, you can enter scanner mode with the left bumper, bring your ship into your field of view, and fast travel back to your ship without entering a menu. For missions, you can also set a course directly from the missions menu.
+
+Hotkey Your Favorite Weapons
+
+The d-pad on a controller gives you access to a number of quick-select options, but it's not immediately clear that you must select what you want to appear in those quick-select slots. Your best bet is to fill it with various types of weapons to handle every situation so you'll be able to quickly jump to a different gun if you run out of ammo. In the inventory menu while looking at a weapon, you must press the favorite button (Y on an Xbox controller) to place it in one of those slots.
+
+Have A Gun For Each Ammo Type
+
+Ammo isn't the most scarce consumable in Starfield. The game is not in the survival horror genre, but running into enemies you are somewhat under-leveled for is not uncommon. What this means is you will be shooting a lot of bullets. The best way to be prepared for this situation is have different weapon types so you can take advantage of all available ammo.
+
+Here's How To Sell Items
+
+Even if you're following the tip below, it won't take long to be overburdened with stuff you want to sell. Nearly every merchant and store will buy items, but most are specialized in some way. The easiest place to sell a wide range stuff is at the Distribution Center, which looks like the building seen above. You should see street signs for it in New Atlantis.
+
+When in a shop that is willing to buy things from you, you can sell from your personal inventory or your ship's inventory, but you won't be able to sell anything your companions are holding. If you gave someone a particularly valuable gun that you want to sell, for example, make sure to get it back from them before you start the conversation with the merchant.
+
+Don't Hoard
+
+We've all been there. You start a Bethesda RPG and suddenly your fingers become impossibly sticky. You pick up every wrench and cheese wheel that isn't locked down, and for the items that are locked down, you figure out a way to get it anyway. You can do this in Starfield. There is stuff everywhere, but we suggest avoiding the temptation to grab everything. None of it is as valuable as you want it to be, and you will become over-encumbered quickly, which thankfully doesn't slow you down, but will cause you to use more oxygen. Selling that wrench for just a handful of credits isn't worth the effort necessary to carry it to a store, we promise.
+
+Use Your Ship And Companions To Carry Your Stuff
+
+If, however, you simply cannot stop grabbing stuff, you can lean on your companions and your ship to help. If you walk up to a companion and discuss exchanging items, you can give them stuff. This is also a way to improve their equipment and change their look.
+
+Sharing with your ship's inventory is a little trickier. If you're on your ship looking at the cockpit (at least on the starter ship, The Frontier), your ship's inventory menu is a little behind the pilot's seat, on the wall to the left. From there you can press X to transfer and press left bumper to switch to your own inventory so you can select what you want to add to your ship's.
+
+Invest In The Boost Pack, Stealth, And Persuasion Early
+
+Dozens of upgrades are available to your space adventurer at the start, but the three listed here –boost pack, steal, and persuasion – are particularly useful early on. The boost pack allows you to use your jetpack, which is great for combat, but also fun for just walking around. Why take the stairs when you can fly up to the second floor? You won't even be able to see a stealth meter without upgrading at least once and persuasion is just a particularly useful ability to have when you're not strong or confident enough to make every conversation devolve into a gunfight.
+
+Keep Your Spacesuit On, But Make It Invisible
+
+In Starfield, you need to wear your spacesuit on planets that don't play nice with human anatomy. You can put it on and off as needed, but the easiest way to deal with whether or not to have a spacesuit on is to secretly always be wearing one. The spacesuit inventory screen has an easy-to-miss option to make it so that your spacesuit disappears when you're in settlements with breathable air. The same option exists for the helmet, too, if you want to get more granular.
+
+Take Naps
+
+Resting on your ship or in your bed in any other domiciles you find or create is valuable beyond just restoring your health. You also get a temporary 10% experience boost. It's a good idea to just take a quick nap before heading out on any big excursions.
+
+Aim For The Weak Spots
+
+Aiming for the weak spots is shooter 101. It's not so much a tip as much as it is something every video game fan is born knowing. The wrinkle with Starfield, however, is the weak spot isn't always apparent. The game doesn't tell you where they are, but when you hit them, you'll see a critical hit marker on screen by the enemy. For the most part, they are where you'd expect: headshots on human enemies, but for robots, like the quadruped dog robots you will encounter, aiming at their legs is what results in critical hits.
+
+Docking Is Easier Than You Realize
+
+One of the simple joys in Starfield is flying up to a friendly ship and docking with them to make a new friend. Or steal everything. It's up to you. I made the mistake of ramming more than one ship I was trying to make friends with, so just know that you don't need to be that close. If you see a ship you want to dock with while flying, get in your crosshairs, press A, and then slowly approach. You will see the option to hold down X and dock with that ship sooner than you expect.
+
+Here's How Lockpicking Works
+
+It's not just you – lockpicking in Starfield is confusing, largely because it doesn't really tell you how it works. For starters, don't bother with any lock that says advanced or expert early on. You aren't even allowed to attempt picking these locks until you spend some perk points on the lockpicking perk. But locks marked with "novice," for example, are free to pick. Be mindful of where you're performing a lockpick because if you're spotted doing something illegal, like lockpicking, by someone with authority, you could end up with a bounty on your head. 
+
+Once you're actually picking a lock, you'll see a few circles on-screen with gaps, and to the right of those circles, a few more circles. What you see on the right are the rings or fragments that perfectly fit into the gaps of the circles to the left of them. You need to correctly place them in such a way that every gap is filled. However, it's not as easy as just slipping fragments into gaps. Just because one ring fits into the gap doesn't mean that's the right ring for it – that might be needed for a different gap. When this happens and you realize it, you can reverse course but doing so essentially ruins your digipick, a precious commodity early on. I recommend mapping out which rings go where before actually placing them as a result. Once you've filled each gap in the circles in the middle of the screen, the lock will be successfully picked and you're free to take whatever's inside.
+
+Ship Customization Is A Late-Game Activity
+
+One of the major selling points of Starfield is the ability to have a ship and customize it, build one from scratch, purchase a new one, or maybe just steal one. Unfortunately, the high-levels of ship customization do not really make themselves apparent until late in the game. Yes, you can customize a ship, but don't expect to be creating your masterpiece spaceship during the opening hours. It's going to take some time and a whole lot of credits.
+
+Get Away With Stealing (Sometimes)
+
+You can steal in Starfield. I personally was once arrested for stealing a plate of slider hamburgers. They looked delicious. But unlike me, you might be able to get away with a robbery by simply putting the item you lifted back where you found it. It's not a foolproof method, but it will sometimes get the police off your back.
+
+Do The Side Mission "Grunt Work" Early
+
+If you're a Fallout fan, maybe give this mission a look when you come across it.
+
+Take Photos
+
+Photo mode is easy to access. You press the left bumper to enter the scan mode and then R3. You will find familiar options related to lighting and the ability to change your pose. The fun unexpected thing the game does, however, is if you press A to take a photo (as opposed to just using the screenshot button), it will add those photos to the load/tip screens.
+
+Try Everything (Once You Have Your Feet Under You)
+
+The very first tip on this list is to take things slow. Stay on the main path. Play it safe... initially. Once you have a basic understanding of how things work, we highly suggest getting out of your comfort zone. The game is not really designed for you to find your favorites early and stick with them. You will be much better off if you are not precious about, well, basically anything, and move out of your comfort zone whenever the opportunity presents itself. Try new things constantly. Swap out your weapons, ships, companions, and even the types of missions you're doing. It will lead to a more rewarding experience.
+
+For more, you can read Game Informer's Starfield review right here.
+
+      Products In This Article
+
+Starfield
+
+Platform:
+
+Xbox Series X/S, PC
+
+Release Date:
+
+September 6, 2023
+
+Purchase
+More Info
+
+Kyle Hilliard
+Magazine Content Director
+Kyle plays entirely too much Picross. He once wrote a whole book about The Legend of Zelda.
+
+Email
+Twitter
+

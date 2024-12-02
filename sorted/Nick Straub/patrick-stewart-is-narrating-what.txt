@@ -1,0 +1,67 @@
+
+  Patrick Stewart is Narrating What?!? 
+
+
+
+
+
+
+            That’s Right! None other than Sir Patrick Stewart is narrating the feature filled, holiday update for Plants Vs Zombies: Battle for Neighborville. The new update brings not only the beloved thespian to the scene, in a delightfully Dr. Seuss-esque role, but also a bevy of new modes and maps. 
+
+First, players get to look forward to a new map, Oozevoir. This Splatoon-like map is filled with bouncy ink bringing some light aerial combat to Plants Vs Zombies.
+
+Second, players get access to cooperative free-roam maps: Weirding Woods and Olde Town Hunt-A-Gnome. The former is a combat-oriented jolt through whimsical woods replete with talking enemy trees, while the latter offers puzzles to solve and treasures to find.  
+
+Third, this feature-filled update adds new two new festivals, Feastivus and Snowday, along with three new activities in Giddy Park: Treasure hunt, Bounty, and Coin Capture. 
+
+Finally, the update offers numerous small patches, listed below (text from EA). 
+
+Updates Giddy Park’s loading screen to a winter-themed version
+Adds new Grandmaster Ranks to the game so character levels now go up to 50 (current top rank is 20)
+Update the Social Tab to show the Grandmaster Ranks of all players in Giddy Park
+Update the Player Rank plates to make them easier to read
+Moves completed Free-Roam Region Medals to the bottom of the screen
+Updates the last Weekly Challenges so they now give Rainbow Stars instead of coins
+Adds a Vanquish/Vanquished Ratio to the end-of-round scoreboard for multiplayer games
+Adds new UI icons for Character Perks, including attack, defend, speed, and character-specific perks
+Patches to Turf War include decreased capture time for certain objectives and easier to hit targets on the final objective in Goopy Gully 
+The last player standing in Battle Arena will now get a spotting and 10% speed increase buff to help them fight the enemy team
+Changes to Rux’s Emporium includes the ability for players to now purchase Costumes, Gestures, Emotes, and much more. Also, adds the ability for players to purchase Rainbow Stars.
+Fixes the Scoreboard so that it can now be viewed when the player is vanquished
+Adjusts mouse sensitivity options to have a wider range, allowing the user to adjust them to a much finer extent
+Fixes the heal beam so that it’s no longer canceled when its target sprints 
+Fixes the issue where players could get a completed challenge after re-rolling
+Increases max aim acceleration
+Reduces scale factor (ramp up) for aim acceleration
+Adjusts assist settings when set to low
+Adjusts acceleration thresholds
+Reduces multiplier when facing aim assist targets
+Reduces aim assist when pushing sticks to extremes
+Reduces base aim assist area when aiming at a target
+Extends our max value for controller sensitivity
+Extends our max value for controller aiming sensitivity
+Extends our max value for controller aim acceleration
+Adjusts ranges and step values for mouse sensitivity
+Adjusts min mouse sensitivity value
+Increases disarm time in Gnome Bomb
+Reduces max time to be revived in Team Vanquish
+
+Be sure to check out our review of the base game and sound off in the comments. Are you excited for Patrick Stewart's inclusion?!? 
+
+[Source: YouTube, EA]
+
+      Products In This Article
+
+Plants vs. Zombies: Battle for Neighborville
+
+Platform:
+
+PlayStation 4, Xbox One, Switch, PC
+
+Release Date:
+
+October 18, 2019 (PlayStation 4, Xbox One, PC), March 19, 2021 (Switch)
+
+Purchase
+More Info
+

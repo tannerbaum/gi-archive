@@ -1,0 +1,85 @@
+
+                                          Persona 3 Reload
+                  
+
+
+  A Final Hands-On Session
+
+
+
+
+Platform
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC
+
+Publisher
+Atlus
+
+Developer
+Atlus
+
+Release
+February 2, 2024
+
+Rating
+Mature
+
+            Ever since I got my hands on Persona 3 Reload over the summer, I've described it to folks as "Persona 3 redone in the form of Persona 5 Royal." While that may be a gross oversimplification, it's also pretty high praise. Longtime fans of the Persona series point towards Persona 3 as the entry that changed the course of the series, pointing it down the path it's been on for nearly the last two decades. While Persona 3 may be the most important entry from a mechanical perspective, Persona 5 has the most mainstream relevance, particularly in 2024.
+
+Back to Top
+
+The mainline Persona series has since made the leap from being largely a PlayStation franchise to finding a home on multiple platforms, with Persona 3 Portable, Persona 4 Golden, and Persona 5 Royal available now on PlayStation, Xbox, and Nintendo consoles. That opened the series to massive new audiences, but though the newer Persona 4 Golden still feels remarkably playable by modern standards, Persona 3 Portable – by far, the oldest of the trio – sticks out like a sore thumb amidst that collection of classic RPGs as having aged the worst.
+
+While Persona 3 Portable is the PSP version of the title, even the other versions of the influential RPG would feel outdated in several ways by today's standards. "[Persona 3] came out 18 years ago; a lot has changed in 18 years in terms of how you make a game and how you make a game entertaining and increase its usability," Persona 3 Reload producer Ryota Niitsuma says. "Obviously, we've learned a lot over the years from making our other games; we picked up a lot of know-how and information on how to make a game more entertaining to play. We put all of that, without hesitation, into the game."
+
+"Persona 3 Reload is a title that takes all of the elements and things we've learned from [Persona 4] Golden and onwards and puts them into an accumulation of all of our knowledge to the title," Persona 3 Reload director Takuya Yamaguchi adds. "I think in terms of playability and fun, this is a great place to get into the series."
+
+Fans made it known that a remake was highly sought after, and when the team wrapped up work on Persona 5 Royal, it heard these requests from players and decided it would be the studio's next project. It quickly began discussing what approach it should take. "There were people that said we should just make a one-to-one remake and there were some people who said we should make big changes and kind of redo everything," Yamaguchi says. "After a lot of discussion, we decided to mainly go with a one-to-one approach to recreate the original game. However, that's for the major core of what makes the game it, and for small kinds of changes and powering the game up for a modern audience, that's what we decided to focus our efforts on for the remake."
+
+While those changes were necessary to make to appeal to modern players, Atlus took great care not to disrupt the core tenets of the game, characters, and story. The focus on death, grief, and contemplating how to proceed with your remaining time continues to permeate this remade experience. 
+
+Hands-On
+
+While my previous demo was a more guided tour of the game, with a section dedicated to exploring Tartarus followed by a section devoted to a boss battle, this final hands-on session feels more organic. I'm dropped into the game in the month of June and can choose what activities I want to pursue outside of one day when I'm required to go into Tartarus.
+
+I spend my first day exploring two new social link activities, one with Junpei and one with Akihiko. First up, during the After School timeframe, Junpei asks if we could go to the arcade. While there, he talks about how he thinks we could learn some moves from some of the fighting games there, and then challenges me to a competitive game. Following some friendly banter, I raise the level of his Hermes Persona.
+
+After parting ways with Junpei, I see a text from Akihiko, who asks me to go with him to get some food. Unfortunately, we're interrupted by a group of girls who view him as a celebrity thanks to his boxing win streak. He turns them down and we continue our walk. We walk a bit more but stumble upon that same group of girls cornered by a group of guys. They're aggressively hitting on the girls, but it's clear the girls just want to leave. Akihiko intervenes, allowing the girls to run while he confronts the guys. Just as a fight is about to break out, the police arrive. In this interaction, we learn that there's been gang activity in the area recently and to be careful with whom you start trouble. Akihiko and I jog back, increasing my max HP.
+
+As my character lays in bed after the eventful evening, he's visited by the Mysterious Boy. After a brief conversation, I form a bond with him and his Death Arcana. Then next day, I walk home with Chihiro, forming a bond with the Justice Arcana. However, the most monumental sequence of the day occurs in the evening, as Ikutsuki calls a meeting with the team.
+
+In this meeting, Ikutsuki provides special SEES equipment that allows the use of Theurgy, a new combat ability in Persona 3 Reload. Using characters' emotions, you can unleash super strong powers. The team enters Tartarus to test out the new equipment. After Fuuka scouts for a good floor to enter, she mentions it feels distorted for some reason. Still, we go in and proceed with the test. 
+
+The turn-based combat present in the series feels as good as ever. Taking on Shadows, exploiting weaknesses to earn 1 More attacks, and then executing an All-Out Attack always delivers a strong sense of satisfaction. But once I complete the floor, I finally get a chance to see Theurgies in action. Each character has a Theurgy gauge. Once that gauge is charged, you can unleash a powerful attack that doesn't cost HP or SP, and it often ignores resistances.
+
+Each character charges thanks to different actions, while each character's Theurgy move does different actions. For example, Yukari's Theurgy meter charges when she heals herself or her teammate, and her Theurgy attack deals severe wind damage that ignores resistance. Other characters charge their meters differently like Junpei landing critical hits or the protagonist summoning his Persona. Or, as Junpei puts it, "If we're fired up enough, we can really pop off!" You have to be careful, though, as the gauge stops increasing when you have a status ailment, and it drops by half when that character is KO'd.
+
+I love how this meter encouraged me to perform different actions with each character, giving combat a fresher, more varied feeling. "For me, this fits the Persona 3 Reload vibe very well and also updates the battle system of the game," Yamaguchi says. "We had the 1 More! system, but this is a really new evolution of that which I think works really well."
+
+I spend much of the rest of my hands-on session exploring social links, including shopping with Kenji, training on the track team with Kazushi, and walking home with track team manager Yuko. If you've played a Persona game, you have a great idea of what to expect as these social links continue to deepen, and I can't wait to continue exploring these relationships further in the full game. I also spend a little bit of time in school, including answering a question to improve my Charm rating and studying to improve my Academics rating.
+
+Before wrapping up my demo, I spend a bit more time exploring Tartarus. After fighting several Shadows, including a Rare Shadow, I learn about Fuuka's Oracle Theurgy, which can analyze the entire battlefield, apply status ailments to enemies, or buff the entire team. I bet that'll come in handy for boss battles, but in this scenario against standard Shadows, they don't stand a chance. After continuing for a few more floors, I find a Valuable Treasure Chest, which holds a Dekunda Gem, and my demo ends.
+
+After relinquishing my controller, I couldn't wait to start the adventure earnestly. I love the updates made to this version of Persona 3, and it truly feels like it could replace Persona 5 Royal as the best jumping-on-point for the amazing role-playing series. Persona 3 Reload arrives on PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, and PC on February 2.
+
+      Products In This Article
+
+Persona 3 Reload
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC
+
+Release Date:
+
+February 2, 2024
+
+Purchase
+More Info
+
+Brian Shea
+Online Content Director
+Brian has written about video games for more than 15 years across multiple publications. Brian is also the host of All Things Nintendo, a weekly podcast focused on the news and games of Nintendo.
+
+Email
+Twitter
+

@@ -1,0 +1,26 @@
+
+  Xbox Series X Shows Off More Specs & Details Backwards Compatibility
+
+
+
+
+
+
+Microsoft has pulled back the curtain more on the specs and capabilities of the Xbox Series X, which is coming out at the end of the year, including games backwards compatibility and the continuation of the Game Pass subscription service.
+
+In a blog post, Phil Spencer, head of Xbox, quantified the Xbox Series X's graphical power, stating that system's AMD custom processor with an AMD RDNA 2 GPU contains 12 TFLOPS of performance – eight times that of the Xbox One and double the Xbox One X. Spencer says this enables benefits such as higher framerates and "larger, more sophisticated" game worlds.
+
+Other aspects touched on in the blog post, include: Variable Rate Shading (VRS), DirectX Raytracing, and Dynamic Latency Input (DLI). These enable the console to deliver more stable framerates and higher resolution, high-quality lighting and acoustics, and precise controls, respectively.
+
+Spencer also introduced a new feature: Quick Resume. This feature lets you continue multiple games from a suspended state.
+
+On the topic of backwards compatibility, Spencer stated that all existing Xbox One games – including backwards compatible Xbox One titles from Xbox 360 and the original Xbox – will work on the Xbox Series X. These titles on the upcoming console will also "benefit from steadier framerates, faster load times, and improved resolution and visual fidelity," Spencer says. Xbox One accessories can also be used with the Series X.
+
+Microsoft's commitment to the Xbox Game Pass subscription continues on the Series X, meaning all first-party games (including launch title Halo Infinite) will be on the service when they release.
+
+Finally, Smart Delivery is a new cross-console feature that automatically selects the correct version of a game whether you play it on your Xbox Series X or Xbox One after your initial, one-time purchase. All Xbox Game Studios titles will utilize Smart Delivery, and it's available for third-party developers/publishers as well.
+
+The price of the Xbox Series X has not been announced yet, and Spencer closes his post by promising more details in the coming months.
+
+[Source: Microsoft]
+

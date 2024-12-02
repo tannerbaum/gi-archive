@@ -1,0 +1,33 @@
+
+  Unity CEO John Riccitiello Resigns
+
+
+
+
+
+
+            Unity CEO John Riccitiello has announced that he’s retiring from the company effective immediately. The news comes almost a month after the company announced plans to introduce a controversial install fee for developers, which resulted in an industry-wide backlash.
+
+Riccitiello is stepping down as CEO, president, and a member of the board of directors. In a press release, Unity states that James M. Whitehurst will take over as interim CEO while the board seeks a permanent replacement. Whitehurst is a tech veteran who served as president at IBM from 2008 to 2020 and as a senior advisor from 2021 to 2022. 
+
+“It’s been a privilege to lead Unity for nearly a decade and serve our employees, customers, developers and partners, all of whom have been instrumental to the Company’s growth,” Riccitiello says in a statement. “I look forward to supporting Unity through this transition and following the Company’s future success.” Riccitiello became CEO of Unity in 2014 following his tenure as CEO at EA. 
+
+“I am honored to join Unity as Interim CEO and President at this important time in its evolution,” says Whitehurst in the press release. “With the Company’s experienced leadership and passionate employees, I am confident that Unity is well-positioned to continue enhancing its platform, strengthening its community of customers, developers and partners, and focusing on its growth and profitability goals. I look forward to working closely with the Board and our talented global team to execute on our strategy, and I anticipate a seamless transition.”
+
+Additionally, Unity plans to release its third-quarter financial results after the market closes on November 9. A webcast will follow at 2 p.m. PT/5 p.m. ET. 
+
+Unity ignited a firestorm of controversy last month when it announced it planned to introduce a new Runtime Fee. Basically, developers of Unity-developed games would have to pay a fee after their titles were installed a certain number of times, per install. This mandate even applied to games that had been released prior to the program’s planned introduction on January 1, 2024. 
+
+Unity is an especially popular engine for indie developers, with many studios publicly blasting the decision. Some studios threatened to pull their games from sale once the Runtime Fee went into effect, while others announced plans to switch in-development titles to a different engine while rallying others to avoid using Unity for future projects. Unity even received death threats that forced its offices to close temporarily.
+
+The root of developers’ issue with the policy was that they would suddenly have to pay a potentially exorbitant amount of extra money on successful titles, even if they were released years ago. Developers also expressed anger at the lack of clarity and transparency in Unity's initial messaging, particularly at the company's methods of collecting install data and how that policy potentially violated the engine's original Terms of Service agreement.
+
+Unity eventually apologized in an open letter, promising to adjust its policy while clarifying some of its murkier elements. Although this messaging somewhat alleviated the ire, many developers have stated that their trust in Unity has been irreparably damaged, and others called for Riccitiello's resignation. While many have gotten their wish today, it remains to be seen if it will be enough to repair the damaged relationship between Unity and its clients. 
+
+Marcus Stewart
+Associate Editor
+Marcus is an avid gamer, giant wrestling nerd, and a connoisseur of 90's cartoons and obscure childhood references. The cat's out of the bagel now!
+
+Email
+Twitter
+

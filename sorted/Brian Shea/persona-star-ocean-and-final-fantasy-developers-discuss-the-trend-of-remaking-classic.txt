@@ -1,0 +1,159 @@
+
+  Persona, Star Ocean, And Final Fantasy Developers Discuss The Trend Of Remaking Classic RPGs
+
+
+
+
+
+
+            Every RPG faithful has that formative experience that turned them into a lifelong fan. But what if you could experience it again for the first time? Or if you could recommend it to those who haven’t played it without needing to explain away the parts that haven’t aged well? In today’s gaming landscape, remasters are common, but we’ve seen an influx of full-on remakes of classic role-playing games in recent years.
+
+While 1990’s Ys I & II is likely the earliest example of remade role-playing games, perhaps the most prominent early examples came in the form of the Pokémon franchise. Pokémon FireRed and LeafGreen, 2004 remakes of the series’ debut titles less than a decade after their initial release, showcased the technological leap from original Game Boy to Game Boy Advance. However, when those games were remade for a second time through Pokémon Let’s Go, Pikachu & Let’s Go, Eevee on Switch in 2018, it was an even bigger jump ahead.
+
+Final Fantasy VII Remake (2020)
+
+Despite their mixed reception, the Switch versions served a specific purpose for Game Freak, who had developed its mainline Pokémon titles exclusively for handheld platforms to that point. “The plan from the beginning was to use Let’s Go, Pikachu & Let’s Go, Eevee as our pilot projects on Nintendo Switch to research how to develop the game, like researching how to render the 3D graphics and do all the different event cutscenes within the Nintendo Switch hardware,” Pokémon director Shigeru Ohmori told us in 2019. “The Let’s Go, Pikachu and the Sword & Shield teams were working together from the beginning to really build that base knowledge.”
+
+But those remakes of Pokémon Red, Blue, and Yellow did something else beyond allowing Game Freak to ease into the development for a new platform through a familiar template: They made the first-generation Pokémon adventure available on a modern platform in some form. In talking with various developers who have worked on RPG remakes, making games available for a new generation serves as a primary motivation for them.
+
+“Some of the titles that are considered classics are rather difficult to obtain and play in the modern gaming landscape, so seeing those titles getting high-quality remakes and having the experience passed down to a newer generation of players is something that should be welcomed by both creators and players,” Star Ocean: The Second Story R producer Kei Komaki says.
+
+Star Ocean The Second Story R (2023)
+
+But even in an age where so many classic titles are re-released digitally, sometimes that isn’t enough to open the door to new players. In the case of the Persona series, 2023 welcomed Persona 3 Portable and Persona 4 Golden to current platforms. While the 2012 update to Persona 4 still feels modern enough, many felt Persona 3 Portable – a 2010 PSP release of the 2006 PS2 game – didn’t feel up to today’s standards.
+
+The result led to intensified calls from the fan base for a request that had already been prominent within the Persona community: a modern remake of Persona 3. Fan demand often plays a major role in pushing development teams to focus on a remake. For the Persona team at Atlus, it was the primary motivating factor when development started.
+
+“We had a lot of input from our fans and from players of our games and it seemed like everybody really wanted to see a remake of Persona 3,” Persona 3 Reload producer Ryota Niitsuma says. “Once we finished Persona 5 Royal, internally, we were ready for another title, and we were trying to figure out what it was, and it just seemed like the right moment. It seemed like all the stars had aligned.”
+
+Persona 3 Reload (2024)
+
+The community requests for a Persona 3 remake were focused and consistent, but fan demand was perhaps never higher for an RPG remake than in the lead up to the 2015 announcement of Final Fantasy VII Remake. It had become so overwhelming and persistent on social media that multiple members of the media brought it up with series producer Yoshinori Kitase during the team’s U.S. media tour for Final Fantasy XIII in 2009.
+
+“We just got a ton of questions from reporters asking when we are going to make the Final Fantasy VII remake,” Kitase recalls. “Just hearing that so many times, I did think we would do it one day, that’s for certain. […] People had really approached us as if remaking VII was just a given. We had so much of that sentiment.”
+
+Many remakes don’t have the luxury of involving the original developers in the creation of these new versions. But thanks to Square Enix’s long-tenured staff, the likes of Kitase, Kazushige Nojima, Motomu Toriyama, and Tetsuya Nomura – all of whom served crucial roles in the development of the original Final Fantasy VII – were still with the company and enthusiastic about being involved in a remake.
+
+Persona 3 Reload (2024)
+
+“Within Square Enix, gradually, remakes were being made, and these ideas for remakes were coming up in other departments, so if we weren’t going to do Final Fantasy VII, others were going to do it, so we had to rise up and do it!” Nomura says. “We had the sense that we really had to guard Final Fantasy VII and we have to be the ones taking this on or someone else was going to do it. I thought it may be a bit troublesome if other teams without us took on this project.”
+
+The team on Final Fantasy VII Remake and Rebirth is also composed of those who didn’t work on the original game, but grew up playing it as fans, including director Naoki Hamaguchi. “I would say the majority of the dev staff and production members for Rebirth are those who were players of the original, not creators,” Toriyama says. “I think that the members of the Rebirth development team that were players or fans of the original wish to kind of protect and stay true to the original as much as possible.”
+
+Persona 3 (2006)
+
+In fact, that seems to be an important task for all development teams working on remakes, as they attempt to balance appealing to the purists who grew up playing the game and the new generation who maybe wasn’t even born when the original launched. Those prove to be difficult conversations at the start of the project, as the teams balance old with new.
+
+“I believe that there are two critical elements to consider,” Komaki says. “The first is to ensure that you’re making the game for the fans that have supported the title thus far, and the second is to take the nostalgia and experiences held dearly by the fans and turn them into something engaging for the newer players, as a modern game.”
+
+Despite similar debates and conclusions happening at all the studios, the teams ended up at very different places. For the Star Ocean team, they created a pixel-based art style like that of the original game, but with HD elements and added effects. Meanwhile, the Persona developers opted for a more one-to-one approach, but in the style of its most recent game, Persona 5, complete with various modern amenities afforded by that format.
+
+Left: Final Fantasy VII (1997); Right: Final Fantasy VII Rebirth (2024)
+
+“There were a lot of people with a lot of different opinions.” Persona 3 Reload director Takuya Yamaguchi says. “After a lot of discussion, we decided to mainly go with a one-to-one approach to recreate the original game. […] It’s a new, modern game that has all the trappings that you would expect.”
+
+The Final Fantasy VII Remake team made the most sweeping changes, blowing out the story and gameplay experience to create a massive, modern trilogy out of the original game. Not only that, but everything was rebuilt from the ground up, including the visuals, world, characters, and battle system.
+
+Left: Final Fantasy VII (1997); Right: Final Fantasy VII Rebirth (2024)
+
+That last point was perhaps the biggest undertaking for the Final Fantasy VII Remake team, and the one most indicative of why remakes are such a hot commodity in today’s gaming landscape: they can adapt to modern trends to appeal to new audiences.
+
+“I do believe that not just for RPGs, but for other fantasy-type titles as well, the trend will be such that it’ll be moving towards incorporating more action elements and that will be the trajectory of games overall,” Hamaguchi says. “There’s this immediacy that brings about further immersion into the gameplay. Instead of viewing this fantasy world from the outside perspective as a player, to be fully immersed as if you are inside that world. That truly resonates with these players.”
+
+Left: Final Fantasy VII (1997); Right: Final Fantasy VII Remake (2020)
+
+Though the remakes mean different things for different developers, the trend seems here to stay. Star Ocean: The Second Story R and Super Mario RPG received high praise in 2023, and Persona 3 Reload and Final Fantasy VII Rebirth are among the most anticipated releases of the first quarter of 2024. Not only that, but remakes of classic games like The Witcher, Star Wars: Knights of the Old Republic, and Dragon Quest III are announced for future release, meaning there are no signs of this trend slowing down.
+
+And while there will always be those who bemoan so many developers working on remakes instead of all-new experiences, there’s no denying the power of making some of the greatest video games of all time approachable for a new generation of players.
+
+This article originally appeared in Issue 363 of Game Informer.
+
+      Products In This Article
+
+Persona 3 Reload
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC
+
+Release Date:
+
+February 2, 2024
+
+Purchase
+More Info
+
+Final Fantasy VII Rebirth
+
+Platform:
+
+PlayStation 5
+
+Release Date:
+
+February 29, 2024
+
+Purchase
+More Info
+
+Star Ocean: The Second Story R
+
+Platform:
+
+PlayStation 5, PlayStation 4, Switch, PC
+
+Release Date:
+
+November 2, 2023
+
+Purchase
+More Info
+
+Super Mario RPG
+
+Platform:
+
+Switch
+
+Release Date:
+
+November 17, 2023
+
+Purchase
+More Info
+
+Pokémon: Let's Go, Pikachu
+
+Platform:
+
+Switch
+
+Release Date:
+
+November 16, 2018
+
+Purchase
+More Info
+
+Pokémon: Let's Go, Eevee
+
+Platform:
+
+Switch
+
+Release Date:
+
+November 16, 2018
+
+Purchase
+More Info
+
+    expand for more
+
+Brian Shea
+Online Content Director
+Brian has written about video games for more than 15 years across multiple publications. Brian is also the host of All Things Nintendo, a weekly podcast focused on the news and games of Nintendo.
+
+Email
+Twitter
+

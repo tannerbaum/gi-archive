@@ -1,0 +1,36 @@
+
+  After A 7-Month Shutdown, Dark Souls 3 Servers Are Online Again
+
+
+
+
+
+
+            In February, we reported the server shutdown of Dark Souls 3 after a dangerous hack – Remote Code Execution – rendered affected PCs inoperable. Attackers "executed arbitrary code on a remote device, meaning they could take control of a player's PC." But thankfully, seven months later, the servers are back online. 
+
+The official Dark Souls Twitter account initially confirmed servers would remain offline beyond the release of Elden Ring. However, the extensive deactivation period that ensued couldn't have been anticipated. The RCE hack affected all three Dark Souls games. And now that the third entry's multiplayer modes are available again, hopefully, the other games in the franchise will see the light of day, too. 
+
+PC版『DARK SOULS III』におけるセキュリティの脆弱性調査と対応が完了したため、本日よりゲームサーバーを復旧し、オンラインサービスを再開しました。ユーザーの皆様にはお詫び申し上げますとともに、復旧をお待ちいただいたことへの御礼を申し上げます。 https://t.co/mPmnBK9Wbd
+— FROMSOFTWARE PLAYER SUPPORT (@fromsoftware_sp) August 25, 2022
+
+A translated From Software Support tweet (see above) reads as follows:
+
+"We have completed the security vulnerability investigation and countermeasures for the PC version of "DARK SOULS III," so we have restored the game server and resumed online services from today. We apologize to all users and thank you for waiting for the restoration.
+
+In addition, we are also working on the PC version of "DARK SOULS Ⅱ" and the PC version of "DARK SOULS REMASTERED," and we will inform you as soon as they are restored. We apologize for the inconvenience and inconvenience for all users, but we appreciate your understanding and cooperation."
+
+      Products In This Article
+
+Dark Souls III
+
+Platform:
+
+PlayStation 4, Xbox One, PC
+
+Release Date:
+
+April 12, 2016
+
+Purchase
+More Info
+

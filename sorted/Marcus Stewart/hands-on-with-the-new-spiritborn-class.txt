@@ -1,0 +1,83 @@
+
+                                          Diablo IV: Vessel of Hatred
+                  
+
+
+  Hands-On With The New Spiritborn Class
+
+
+
+
+Platform
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC
+
+Publisher
+Blizzard Entertainment
+
+Developer
+Blizzard Entertainment
+
+Release
+October 8, 2024
+
+Rating
+Mature
+
+            Vessel of Hatred ushers in a wave of change for Diablo IV. The game's first expansion takes players to the new jungle region of Nahantu and, most importantly, introduces the new Spiritborn class. I visited the Blizzard campus to go hands-on with the Spiritborn and speak to some of the designers about how it created a class unlike any other in the Diablo series. After spending a couple of hours playing, the Spiritborn may already be my new favorite class in the game. 
+
+Unlike other Diablo classes, the Spiritborn is not based on a traditional fantasy archetype like the Rogue or Mage. Rather, it’s a martial arts-inspired class hailing from the dense jungle region of Nahantu. Described as the apex predator of this region, a Spiritborn arises from a brutal ritual tasking them to survive the wilds of Nahantu. A Spiritborn character’s narration in a cinematic reveal trailer describes it best: 
+
+“Only a few among my people can become Spiritborn. As children, the most promising face judgment in the nest. Our trial begins and ends with pain. Those who are not called are culled. For the weak, all paths end here. For the worthy, that path leads to power beyond compare and a sacred charge to wield it well.”
+
+Succeeding in this ritual allows a Spiritborn to commune with the Spirit Realm to bond with and harness the power of four animal Spirit Guardians: jaguar, eagle, gorilla, and centipede. The Spirit Realm is described as a “byproduct of humanity” and a “ghostly reflection of Sanctuary” by associate narrative designer Eleni Rivera-Colon during a presentation. “The way that we like to see it is that the angels have the High Heavens, demons have the Burning Hells, and humans have the Spirit Realm.” 
+
+The four Spirit Guardians serve as manifestations of human beliefs. The Jaguar represents hunting and providing, while the Centipede represents the cycle of death, decay, and the resulting new life. The Eagle represents the precision and vision needed to navigate the jungle, and the Gorilla is a beacon of strength and protection. 
+
+“You can imagine that if you're a native of Nahantu if you needed one of these values, you would call upon those gods to embody that value,” game director Brent Gibson explains. “And one of the cool things about the Spiritborn is that they believe that if they devote themselves to this so much that one day when they cross over into the veil, they'll become Spirit Guardians themselves.”
+
+The Spiritborns sound pretty powerful, so where have these warriors been all this time? Gibson explains that Nahantu is intimately familiar with the Eternal Conflict; it housed Mephisto’s original soulstone during Diablo II. The terrible memories and traumas from that era remain fresh in their minds, so much so that they chose to sit on the sidelines during the various world-threatening events of previous Diablo games to avoid repeating history. But Lilith’s return has finally forced their hands to rejoin the fight. 
+
+According to Gibson, Blizzard began conceptualizing the Spiritborn before Diablo IV launched. Blizzard examined unique combat and power fantasies the existing classes didn’t provide, in addition to player feedback for each. This helped the team create the goal of making a class that sits at the core of its first expansion, as by doing so, it could tie its background and fighting style to a specific new location. 
+
+At first glance, Spiritborn draws inspiration from Central and South American civilizations, which Gibson confirms among other broad touchstones. Rivera-Colon adds that the team didn’t focus on a singular source but on the theme of humanity and what it means to be human. The answer was that humans possess spirits, which snowballed into discussions of how that would manifest.
+
+“The interesting thing is when you think of the concept of a spirit realm, in our research, many cultures have some version of that,” Gibson explains. “So we knew it would be very relatable to more than just the region we know. So one of the things we always take great care of is making sure that we're inspired by and don't lift from [...] It's like we're taking a look at the culture that's already established in the Diablo fiction, and then we're being inspired by Central American cultures, Asian cultures, and taking a look at the world as a whole and how we can make it as global as possible.”
+
+Each Spirit Guardian offers a specific playstyle. The jaguar emphasizes relentless fire-based offense and ever-increasing attack speed. The eagle provides lightning and maneuverability with abilities that let players move quickly while electrifying targets. The gorilla boasts defense, letting players absorb and reduce punishment, then retaliating by pummeling foes with mighty physical blows. The centipede deals with debilitating poison attacks, debuffs, and abilities designed to disrupt enemy mobs. 
+
+Additionally, you can further gear your Spiritborn towards a chosen animal using the Spirit Hall. This menu tab lets players gain bonuses based on the Spirit Guardians equipped in two slots. The first slot grants a themed mechanic based on the chosen animal; for example, the eagle lets players fire Storm Feathers when evading. When you kill an enemy, the second slot bestows a themed bonus, such as the jaguar gaining +1 Ferocity (a new mechanic representing attack speed). Purists can also put the same animal in both slots. A new skill type called Incarnate Skills allows the Spiritborn to equip and gain a passive trait based on one of the four spirit animals. 
+
+The Spiritborn doesn’t only rely on their animal companions. The class is a hyper-agile, demon-slaying machine on its own, thanks to its martial-arts-inspired playstyle. Blizzard developed the Spiritborn’s combat style by examining multiple disciplines, including muay thai, taekwondo, karate, kung fu, and jiu-jitsu. Art director Nick Chilano tells me the character hits home with several animators who practice some form of martial arts – Chilano himself trains in jiu-jitsu. By drawing from these real-life influences, the team created and animated a hybrid style molded around the setting and history of Nahantu. Chilano also says each Spirt Guardian’s playstyle helped narrow down the martial arts style associated with them. 
+
+“So if you think about the gorilla, we're looking at strong poses, strong attacks, blunt force,” says Chilano. “If you're thinking about the centipede, it's earthy, connecting to the ground. So we're looking at moves that represent that. The Jaguar is aggression: fast, multi-attacks, combo hits. So we start really trying to figure out what martial arts styles fit there. And the eagle is really about precision, repositioning, so we're looking at a lot of combat that can kind of make sense there.” 
+
+I spent over two hours playing with different pre-made specialized builds of the Spiritborn, and the class was thrilling. Having four animals to work with feels like having four smaller classes in one, and you can mix and match their abilities to form hybrid playstyles or create a “pure” build based solely on one animal. I rocked a jaguar build and incinerated foes with its litany of fire-based attacks. However, I also liked combining the gorilla and centipede skills, which turned me into a self-healing tank that poisoned everything in sight. There’s a ton of potential for experimentation, and I regularly respec’d the skill tree to tinker with various Spirit Guardian combinations. 
+
+The flashy abilities complement the Spiritborn’s base offensive prowess, creating a class boasting fast-paced, hand-to-hand butt-kicking that can quickly warp around a skirmish to take out surrounding mobs. Unleashing a Spirit Guardian’s ultimate attack summons them as a giant ethereal beast to eradicate adversaries, whether it's the eagle dive-bombing the field or the centipede emerging from underground to spew poison projectiles and streams. This spectacle makes watching the Spiritborn in action almost as fun as playing it. Almost. 
+
+Blizzard has designed weapons and armor to accommodate either approach, with the latter coming as themed armor sets. The Spiritborn are more concerned with function over protection, hence why their armor exposes so much of themselves, and they wear armor that represents the Spirit Guardian they’re devoted to. Weapons-wise, the class favors polearms, glaives, and quarterstaffs to complement its acrobatic playstyle. Blizzard is also cooking up new Legendaries, Aspects, and Uniques for the class. 
+
+The Spiritborn is a blast, and, best of all, newcomers won’t have to wait to start the expansion story to play it. Owners of Vessel of Hatred can choose the Spiritborn at the start of the base campaign so that you can battle Lilith as this ferocious new hero. We can’t wait to play more when Diablo IV: Vessel of Hatred launches on October 8.
+
+      Products In This Article
+
+Diablo IV: Vessel of Hatred
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC
+
+Release Date:
+
+October 8, 2024
+
+Purchase
+More Info
+
+Marcus Stewart
+Associate Editor
+Marcus is an avid gamer, giant wrestling nerd, and a connoisseur of 90's cartoons and obscure childhood references. The cat's out of the bagel now!
+
+Email
+Twitter
+

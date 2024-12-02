@@ -1,0 +1,52 @@
+
+  343 Reveals Halo Infinite's Co-Op Beta Launch Date And Details How Cooperative Play Works
+
+
+
+
+
+
+            As previously promised, Halo Infinite’s long-awaited campaign co-op takes its first steps towards launch, thanks to a network beta flight scheduled for July.  
+
+Much like the multiplayer beta that proceeded Infinite’s launch last fall, this co-op beta, which runs July 11 to July 22, allows registered players to tackle the entire campaign alongside a buddy to ensure everything works as planned for the full rollout. Because this is a new campaign build that players must download, 343 states that no previous story progress carries over, so players will be starting from scratch. Progress made during the beta will also not transfer back to the retail version. 
+
+In a Halo Waypoint blog post, 343 lead software engineer Isaac Bender and lead world designer John Mulkey discussed the co-op mode’s features. A fireteam of four players can create separate campaign saves for co-op, and progress – such as completed missions, acquired collectibles, equipment, upgrades, and achievements – count toward both players’ individual saves. That means you don’t need to be the Fireteam leader to retain your team’s accomplishments. For upgrade cores, if one player collects one, then the entire team gets it. However, players spend cores individually. 
+
+In terms of how the game accounts for each players' individual campaign progress, Mulkey states:
+
+"The way we are handling this is through something we internally refer to as 'No Spartan Left Behind'. When players join the Fireteam and choose their save slots to play on, the game aggregates the states of all missions across those saves and sets up a world state in which any missions completed by all Fireteam members are marked as complete while any missions not completed by all are marked as incomplete."
+
+Bender then adds: 
+
+"You can think of this system as creating a version of the world that’s like the 'lowest common denominator' (or 'intersection,' if you’re into set theory) of everyone’s Campaign progress. This way, no matter what you do, no one is completing missions out of order."
+
+Since Halo Infinite unfolds in an open world, 343 confirms that players can tackle various locations separately, governed by a system called Area of Operations. This term refers to the maximum distance Fireteam members can stray from each other; going too far triggers a warning to return to the team, or you’ll die and respawn near everyone else. 343 describes the radius of the AOO as having an 800 ft “warning radius” and a 1000 ft “kill radius.” 
+
+Players can redo missions thanks to the return of Mission Replay. Highlighting completed missions in the Tac-Map now displays a Replay option. You can choose the difficulty and activate any Skulls you and your teammates have found. This also allows you to revisit earlier stages using all the upgrades and weapons you’ve collected since then.  
+
+New achievements targeting co-op and replaying missions will also be implemented. Co-op also supports crossplay between Xbox, PC, and xCloud, with sessions hosted on dedicated servers. In terms of the characters each player assumes, everyone is Master Chief while playing together. 
+
+To participate, you’ll need to be part of the Xbox Insider Program or, if you’re playing on Steam, a Halo Insider. Xbox Game Pass members can join the Insider program by following these instructions. Steam players must sign up for the Halo Insider Program by July 5 to have the best chance of being chosen for the co-op beta. Invites will be sent via email, which will take players to Halo Waypoint to get instructions on how to download the campaign build. Surveys will be sent out after the beta concludes.
+
+      Products In This Article
+
+Halo Infinite
+
+Platform:
+
+Xbox Series X/S, Xbox One, PC
+
+Release Date:
+
+December 8, 2021
+
+Purchase
+More Info
+
+Marcus Stewart
+Associate Editor
+Marcus is an avid gamer, giant wrestling nerd, and a connoisseur of 90's cartoons and obscure childhood references. The cat's out of the bagel now!
+
+Email
+Twitter
+

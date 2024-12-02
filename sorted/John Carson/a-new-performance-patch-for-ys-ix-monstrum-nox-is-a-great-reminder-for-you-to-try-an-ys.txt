@@ -1,0 +1,53 @@
+
+  A New Performance Patch For Ys IX: Monstrum Nox Is A Great Reminder For You To Try An Ys Game
+
+
+
+
+
+
+            A surprise patch has dropped for the PC version of the action RPG that many missed out on last year, Ys IX: Monstrum Nox, which makes now would be a perfect time to get acquainted with the series.
+
+While working on the upcoming localization of Trails From Zero (another Falcom game you should keep your eyes on), PH3 developer Peter "Durante" Thoman discovered how to increase CPU performance in that game. After finding promising results in Trails From Zero, he brought the technique over to Ys IX. Lo and behold, there was an impressive frame rate boost with the same implementation, with a 25% increase in parts of the game where the CPU can bottleneck performance. The update proved stable enough in testing to push it live for everyone playing the Steam version.
+
+Here are the full patch notes from the PC performance patch: 
+
+Improved CPU-bound performance. The degree to which you will notice this depends on the specific in-game scene, settings, and your hardware GPU/CPU balance.
+Adjust the refresh rate selection algorithm to more reliably pick the available refresh-rate closest to the one desired.
+The game executables are now signed. This should hopefully reduce the antivirus false positives that sometimes pop up for some players.
+Fixed the English item description of the Holy Sword's Hilt accessory to correctly reflect its capabilities.
+
+While you're here and reading about these patch notes, now is as good of a time as any for you to continue on and learn a little more about Ys, and maybe I can convince you to check one of them out.
+
+Most Ys (pronounced like "geese" without the G) games follow an adventurer named Adol as he finds himself in all sorts of dangerous situations that he and the friends he makes along the way need to hack and slash their way out of heroically. Playing a handful of titles in this prolific series caused me to fall in love with it, and now I can't help but sing its praises and wonder why they aren't talked about more.
+
+My introduction to Ys was Ys Origin, a 2006 PC game that's now been updated and released on PlayStation 4, Xbox One, and Switch. Origin takes place 700 years before the first Ys and tells the tale of your choice between Yunica or Hugo, who have different weapons and playstyles, as they climb The Devil's Tower in search of twin Goddesses who have ditched their followers in the land of Ys. The gameplay is reminiscent of a mix of a fast-paced Zelda dungeon crawler with the camera in a fixed overhead perspective meets a dash of Castlevania exploration and progression. The moment-to-moment combat is fun and challenging, with boss fights expanding on those tenants further. If you like an old-school action game, Ys Origin is a good time and absolutely worth playing through with every character available.
+
+Ys VIII: Lacrimosa of Dana came next, which joins series protagonists Adol and Dogi as they ride on a ship that crashes ashore on an uncharted island. After finding he's still alive, Adol collects the survivors of the wreck, and together they explore the island for a way home or, at the very least, a way to survive just a bit longer. Ys VIII's narrative is full of memorable characters, gripping mystery, and plenty of grand adventure as you explore the expansive island. That's all topped by a dual storyline of a mystical maiden named Dana, who you take control of occasionally. Unlike Origin, Ys VIII adopts a colorful anime art style and is set in a 3D world full of stunning locals to visit. Adol isn't alone when he's adventuring around the island and is joined on the field by two other castaways who you can switch between at any time to take advantage of the rock-paper-scissors quality of their weapons, so you can quickly dispatch creatures in the wild. It's one of my favorite action games I've played in years and is available on PlayStation 4, Switch, PC, and PS Vita if you have one lying around.
+
+Following the events of Ys VIII (and Ys VI and VII, which also happen after following the island excursion), the adventures of Adol and Dogi continue in Ys IX: Monstrum Nox. In the prison city of Balduq, they come across and join forces with a band of outlaws with supernatural powers known as the Monstrum. These powers, which are also given to Adol, allow for new mobility options like gliding, teleporting, and running up walls to get around the larger open environments introduced in Ys IX. Everything here is an evolution of the action and combat found in Ys VIII, with the Victorian town of Balduq offering a refreshing change of scenery after spending hours on a tropical island and striking a darker tone aesthetically and narratively. Once again, the characters are a draw to play Monstrum Nox, with each member of the Robin Hood-like Monstrum troop having complex backstories worth seeing through and a mystery inside the prison walls focusing on Adol himself that drives intrigue throughout. Ys IX: Monstrum Nox is available on PlayStation 4 (with a very nice patch for 4K resolution on PS5), Switch, and the newly applied patch makes the PC version even better.
+
+If you still haven't given Ys a try, you're doing yourself a disservice. It deserves to be in consideration of the great action series of all time next to the big names like Zelda, Metroid, Castlevania, and Devil May Cry. I hope this little rant has turned some heads and convinced some of you to give one of these great games or one of the other 6+ titles in the series a fair shot the next time you're looking for something to sink some time into. If you're anything like me, you'll be very glad you did.
+
+      Products In This Article
+
+Ys IX: Monstrum Nox
+
+Platform:
+
+PlayStation 4, Switch, PC
+
+Release Date:
+
+February 2, 2021 (PlayStation 4), July 6, 2021 (Switch, PC)
+
+Purchase
+More Info
+
+John Carson
+Associate Editor
+John likes to think of himself as a gaming Jack-of-all-trades. He'll give any game a shot just to know what it is. In his free time he can likely be found shuffling up Magic cards or trudging through an RPG.
+
+Email
+Twitter
+

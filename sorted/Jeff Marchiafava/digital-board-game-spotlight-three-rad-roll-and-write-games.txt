@@ -1,0 +1,60 @@
+
+  Digital Board Game Spotlight: Three Rad Roll-And-Write Games
+
+
+
+
+
+
+            Usually when I play mobile games, I’m only looking to fill a few minutes of downtime, and as such tend to prefer something that’s fast, simple, and well-suited to solo play. Enter tabletop gaming’s roll-and-write genre, which offers a wealth of light and fun experiences built around a handful of dice and unique scoring systems. Roll-and-write games are perfect for mobile, and we’re already seeing some popular titles make the jump.
+
+Today I’m highlighting three games that may not offer the depth of crunchier strategy games, but still provide enough interesting choices and replayability to keep you busy well beyond those few minutes you were initially looking to fill – at least that's been my experience!
+
+Digital Board Game Spotlight is an ongoing series that highlights my favorite digital translations of modern board games. Unlike most modern mobile games, these selections feature traditional up-front pricing, without any time-gates, premium currencies, or ads to ruin the fun. If you're looking for your next mobile fix, look no further.
+
+Noch Mal!
+
+Publisher: Outline Development, Developer: Outline DevelopmentMultiplayer: Two-player Pass & PlayAvailable on: Android, iOS
+
+Noch Mal! is the German translation of “Encore!,” a well-known French exclamation whose less snappy English translation means “Once Again!” Whichever language you speak, it’s an apt sentiment for this clever spatial game that has you scratching off as many colored boxes as you can manage while contending with the luck of the dice.
+
+Players start Noch Mal! with an empty grid of colored boxes. A handful of dice – half featuring colors, the other half numbers – are rolled every round, and the player chooses one of each to fill in that many connected boxes of the corresponding color. The highlighted squares in the central column can always be selected, but anything beyond them can only be reached if an adjacent box has already been filled in.
+
+Each die also has a wild face, which allows you to substitute the color or number of your choice (depending on which die it is). However, you can only use wilds eight times during a game, and each one will cost you a point. Any of the scattered star boxes that aren’t filled in at the end will also cost you two points – a penalty you are distinctly reminded of, as you start the game with -30 points. Completing full columns is your primary scoring method, while filling in all the boxes of a given color also provides a healthy bonus.
+
+Noch Mal! doesn’t turn the roll-and-write genre on its head, but I appreciate the competing incentives you’re required to consider on any given turn. Sprawling out to negate those pesky star boxes is a must, but if you want to actually net some positive points, you’ll need to finish columns, which won’t be easy if you spread yourself too thin. You’ll also want to make sure the boxes you’re filling in touch as many other colors as possible – it’s surprisingly easy to roll two colors (or doubles of the same) that you don’t have access to if you aren’t planning ahead. What starts as a lackadaisical romp of putting down numbers wherever you please quickly becomes more focused and challenging as the rounds wear down and you realize you don’t actually have an open group for that five you just rolled. Huh.
+
+Outline’s digital translation of Noch Mal! may not be the flashiest board game port I’ve seen, but it’s remarkably well implemented: The bright colors pop off the screen, the precise and responsive touch controls let you snap through turns in a second (which in hindsight may be part of my problem), and the simple but effective sound effects elicit a Pavlovian response every time you rattle up a new dice selection or lock in your move with a satisfying ding.
+
+The digital version of Noch Mal! also comes with some welcome extras. Three bonus scorepad variations change up the layout of the colored areas, should the standard layout ever get old (it hasn’t for me, but I’ll take the extra variety!). You can buy three more layouts for an extra buck, which is the kind of additional in-app purchase I can get behind. The app can also be used as just a digital scorepad if you own the physical game but want to save yourself a score sheet (and automate the scoring process), or use it as a set of virtual dice if rolling the real ones would be inconvenient. A two-player Pass & Play option is also included, and the head-to-head view of your scorepads handles the action quite well – if you’re sitting across from each other. I still prefer solo play, and the short and snappy playing time makes it hard to resist one more attempt to best my high score – Noch Mal! indeed!
+
+Ganz Schön Clever
+
+Publisher: Brettspielwelt GmbH, Developer: Brettspielwelt GmbHMultiplayer: N/AAvailable On: Android, iOS
+
+Another German roll-and-write game that lives up to its title, Ganz Schön Clever translates to “that’s pretty clever,” and tasks players with considering a whole host of tantalizing scoring opportunities.
+
+Each round, the player rolls six differently colored dice, then selects one to score in its corresponding area (the white die is wild). The remaining dice are re-rolled – however, any dice lower than the number selected are first eliminated. After completing this process a second and third time (provided you still had dice to choose from) the whole group is rolled again and you can select one more of the three lowest dice to also be added to your scoresheet. If none of that makes any sense, the gist is that you’ll be selecting one die of a particular color at a time, while weighing the option of taking higher numbers against cutting into your remaining dice pool for the rest of the round.
+
+The real heart of Ganz Schön Clever – or what makes it so darn clever – is the various scoring areas, each of which earns you points in a different way. In the yellow area above, you’ll be crossing off columns to score points (somewhat like Noch Mal!), while completing rows provides you with one-time bonuses to help fill in other areas. The orange area simply nets the number you rolled along with some multipliers and bonuses the further down the track you get. The purple track does too – but each number you fill in has to be higher than the previous one (the numbers reset after you record a six, in case you’re wondering how you’re supposed to record 11 numbers).
+
+Like Noch Mal!, your attention in Ganz Schön Clever is hopelessly divided between multiple incentives. Each colored area offers a bounty of points and bonuses to attain, but with far too few rounds to do everything, you really need to focus in a specific track to attain the best of them. Play your cards dice right, and you’ll set off supremely satisfying scoring cascades – filling in the blue three in the image above would allow me to add a five to the orange track, which would let me fill in that last five in the yellow row, which would give me another four to add to the orange track, which would net me a +1 bonus, allowing me to score an extra die in a subsequent round. Granted, filling in the blue three isn’t actually a legal move in that example, but it would’ve been a sweet combo!
+
+There are a number of other rules and abilities to consider, but the bottom line is Ganz Schön Clever let’s you focus on a different scoring strategy every game, while never quite capturing the “perfect run.” The randomness of the dice is a major part of the fun and excitement here – you never know if your rolls will work with your master plan, and have to mitigate as best you can as the game progresses.
+
+Unfortunately, you’ll also have to mitigate a few shortcomings of Brettspielwelt’s implementation of Ganz Schön Clever; as far as I can tell, there’s no way to check the rules or back out to the main menu during a game, and if you switch out of the app, it doesn’t save your progress. The short duration of any given game minimizes these problems, but Brettspielwelt still has some work to do before it can compete with other topnotch digital board game developers like Asmodee Digital and Digidiced. Ganz Schön Clever still has earned a spot on my home screen, even if I don’t always feel so clever myself when my final score pops up.
+
+Doppelt So Clever
+
+Publisher: Brettspielwelt GmbH, Developer: Brettspielwelt GmbHMultiplayer: N/AAvailable On: Android, iOS
+
+My final roll-and-write recommendation is a short and sweet one! Brettspielwelt has already implemented a sequel (both physical and digital) to Ganz Schön Clever, and there’s more to it than just a few differently colored dice.
+
+The main structure of Doppelt So Clever (Twice As Clever) is the same as the original game, tasking to you pick out one colored die at a time from the group at the expense of eliminating any other dice with lower numbers. Instead, the changes lie in the scoring areas, and they play with the format in significant ways.
+
+The gray area allows you to check off any corresponding number with the gray die – but any other dice you eliminate by selecting it are also added to grid, creating an enticing incentive to give up more dice early in the round. In the yellow area, each number needs to be activated twice – the first time will net you the abilities associated for completing each row and column, but you won’t score any actual points until you cross them off the second time you bank them. The new green track pairs up numbers you record, subtracting one from the other to get your score, and boosting them with increasing multipliers the further you progress. Doppelt So Clever also introduces a new ability that lets you get back an eliminated die (helpful for those sweeping gray selections), and additional bonuses can be earned by using each ability half a dozen times – if you can manage to accrue them in the first place.
+
+As those ability bonuses may suggest, Doppelt So Clever focuses even more on activating big, satisfying combo chains than its predecessor, and you’ll have to plan around them if you want to achieve a high score. Doppelt So Clever is slightly more complicated, but once you understand the intricacies of each new area, you’ll be flying through turns faster than you probably should. On a technical level, the app suffers from all the same problems as Ganz Schön Clever, but if you’re a fan of roll-and-write scorefests, you’re guaranteed to get your entertainment out of the $3 asking price.
+
+For more digital board games that are worth your time, check out my write-ups of the fast and fun card trading of Jaipur, the streamlined but strategic auctions of Stockpile, and the tile-laying kingdom building of Isle of Skye. For physical board game recommendations, check out Matt Miller's bi-weekly column, Top of the Table.
+

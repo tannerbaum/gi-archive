@@ -1,0 +1,20 @@
+
+  How The 4A Engine Is Evolving For Metro Exodus
+
+
+
+
+
+
+Since its debut with Metro 2033  in 2010, 4A's in-house engine has proven to be a powerful piece of evolving software. Metro: Last Light launched five years ago, and many publications, us included, use that game as a benchmark test for new gaming PCs. Despite its dark setting, Metro has always boasted beautiful visuals and memorable effects, like water droplets collecting on Artyom's gas mask and impressive shadow effects as a lamp swings in the darkness. However, with Exodus moving into new environments and embracing new gameplay styles, 4A had to overhaul its engine to meet the team's ambitions.
+Exodus' version of the engine includes physics-based rendering, an overhauled lighting systems, as well as full-facial capture for cinematic sequences. Given Exodus' focus on its sandbox spaces, this engine also has to account for day and night cycles, dynamic weather, and simulated biomes for the inhabitants of each sandbox. Like everything else about Exodus, the graphics engine itself is an upgrade in ambition.
+"Hopefully we're able to keep the Metro games as a standard for everyone's benchmarking needs," says executive producer Jon Bloch, smiling. "We love blowing up video cards."
+If the final version of Exodus' graphical fidelity matches what we saw during our demo, 4A will likely hit that benchmark ambition. As someone who recently played through the Redux versions of both 2033 and Last Light, games that still look utterly fantastic, the jump in visual quality is still impressive. Take Moscow for example.
+Here's a shot from Metro 2033 Redux's version of Moscow:
+
+And here are two from Exodus' version of the capital:
+
+Notice the increased detail of textures on the objects on the ground? See how the light cuts through the radioactive fog of Moscow? This is because of what this new engine affords the game. In the gameplay demos we watched during our trip, the environments were lusher, the character models were more detailed, and there was a significant improvement in character and creature animation compared to the stiffer models in both 2033 and Last Light.
+While players with high-end PCs will definitely reap the most from Exodus' visual offerings, console players don't need to worry too much about missing out on eye candy. 4A says that the engine's power translates to consoles, and that the developer plans to have native 4K resolution as well as full HDR support for Xbox One X. The studio plans to also make use of the PlayStation Pro's extra boost in power, but didn't talk specifics during our trip.
+For more on Metro Exodus, be sure to check out our coverage by clicking on the banner below.
+

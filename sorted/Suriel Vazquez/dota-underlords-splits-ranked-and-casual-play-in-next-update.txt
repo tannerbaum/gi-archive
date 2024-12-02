@@ -1,0 +1,18 @@
+
+  Dota Underlords Splits Ranked And Casual Play In Next Update
+
+
+
+
+
+
+Auto battlers like Dota Underlords can hard to learn, and with hard-earned ranks on the line, it can be tough to reach out to your fellow players for help, or experiment with different strategies to help your understanding of the game. Valve is hoping to fix that issue soon, when it introduces the ability to play more casual matches.
+
+The next update for Underlords will add a new casual play option, which allows players to matchmake with friends, complete challenges and achievements, and still face opponents at their skill level (though the exact ranking won't be shown to keep things casual). In ranked play, players can only matchmake solo, and their official rank will be used to determine which opponents they face. In order to unlock ranked mode, new players will have to complete five matches in casual mode, though anyone who's already played a match before the update will already have unlocked ranked play.
+
+Rankings are also getting a face-lift that makes them more discernible. Instead of purely being based on ranks, the system now shows players how many points they earn per match based on their placement in matches, with 1st place netting them 100 points, 2nd getting them 75, and so on, until 8th place loses players 100 points. Ranks are then based on your point total, from 0 to 7600, with decreasing bonus points offered when you reach the next minor rank along the way. When the update hits, everyone will have their rank automatically converted – no need to work your way back up.
+
+For more info, check out Valve's full announcement. To get a look at Underlords, check out our breakdown on New Gameplay Today.
+
+            .
+

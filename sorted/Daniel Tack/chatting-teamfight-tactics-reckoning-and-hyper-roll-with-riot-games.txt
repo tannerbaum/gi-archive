@@ -1,0 +1,60 @@
+
+  Chatting Teamfight Tactics, Reckoning, And Hyper Roll With Riot Games
+
+
+
+
+
+
+            The auto battle genre lept into life, spurred on from the map modding scene like many explosive genres before it. Now, Riot Games looks to both the past and the future of this genre to determine the path ahead for Teamfight Tactics and its new expansions, lab modes, and more. If you’re not familiar with what makes this particular game style work, there’s a lot of strategy and decision making to engage with, but not a lot of micromanagement or twitch-reflexes to handle, making it an ideal candidate for chatting with viewers as a streamer, an on-the-go choice for mobile engagement, or something to kick back and watch some movies while you play. 
+
+The element of chance is also a pervasive factor, so there’s the excitement of seeing each new crop of characters pop up, something akin to peering down at pocket aces or kings in a game of Texas Hold’em. So what’s in store for the future of the auto battler? What can we expect to see in Teamfight Tactics? We caught up with Teamfight Tactics product lead TJ Bourus to talk everything about auto battlers.
+
+Game Informer: So Reckoning is the next expansion set. What’s different? What’s new?
+
+TJ Bourus: So Reckoning is going to be our fifth set of Teamfight Tactics. It's kind of positioned as good versus evil. There'll be forces of good fighting forces of evil and you'll be building a team comp that will allow for a mixture of the two to fight against the other players in TFT. We also have a new set mechanic we're dubbing the armory. The armory is a new system that allows you to choose items at certain phases in the game in your shop. So instead of having them randomly drop, you're presented with like one of three items you can choose from or one to five. In addition to that system, we're also adding new items that we're calling shadow items that are variants of existing components or items.
+
+Has there ever been any consideration toward giving players more information during the carousel phase? I always hear from new players that they have no idea what they’re picking.
+
+Yes, there is definitely consideration. We actually had a solve for this, we actually took it out of the game... I want to say when TFT first came out around set two actually so for the Rise of the elements, there were trade icons above the champion in the carousel. But we quickly removed that a few patches after because it was too noisy, especially as we were releasing mobile, it actually wasn’t the right solution. But we've talked many times about needing to get hover states or right click to inspect on the moving carousel. The reason it hasn't happened as quickly as it's a little tricky because they're moving targets. But that's kind of the solution we're thinking about right now.
+
+Where do we take this genre next to make it really breakout?
+
+Yeah, I think there are two two areas right now that are top of mind for us that we've talked about. New modes. So with the release of Reckoning we’re releasing our very first mode Hyper Roll. So these are alternate ways to enjoy the core strategic auto battler is what I'd say. You know, there's only been the one version that many folks have really played from TFT as well as the competitors. We want to kind of change up that formula and learn what else we can do within the genre very similar to how like TFT was created. It was created from within a MOBA and that was the same for the auto chess was created from within a MOBA. What can we do from now this new way to experience this like top down isometric character building game to make alternate experiences? I think that's where like the genre is going to find even more evolution is from its roots, evolving from a different type of gameplay. How can you now evolve that into many different ways to experience auto battle, like modes, and that's something we're super interested in. We'll start with things like Hyper Roll, which are just rule variants, but longer term we may consider even more dramatic changes.
+
+Additionally, I think eSports has like a lot of room to grow here. With TFT I compare it probably closer to poker, which there isn't really an eSports competitor that is very like that in this space, it is really on you versus the other eight players that you go into a game with. And you can then extrapolate that to a very large group of competitors playing against each other to then find the finalists to go to worlds and that's kind of what we're trying to shoot for. Lots and lots of people can go to qualifiers, can play, can sit down with a group of folks and climb up the ranks within an event to hopefully be eligible for that set’s finals. And I think that's something we want to invest more into and, and build out the scene around because it's unique within eSports.
+
+Alright, so who's the strongest unit in Reckoning?
+
+Vel’Koz. Vel’Koz. We've had him in the past and he shoots the laser, but this time when the laser is shot, it starts to widen the longer he casts. So a well-positioned Vel’Koz gets the right angle and spends enough time casting, there’s no one that’s not getting blasted by a ton of damage.
+
+So how do I get somebody into Teamfight Tactics today? How do I pitch them on it? Because in my experience, you're either already well versed in auto chess, and you like it and you play it or I can't get you into the genre at all.
+
+The way that I usually tell my friends, why this is such a fun game, is I reference it to games like Risk or games like Civilization or games where the strategy with decisions you make in the now are impacting things further down the line than you may be expecting. And that's kind of the fun of it. It's like you can make many decisions right now, but you need to think about how those will impact you later. And that's the fun of TFT. But also it’s a casual fun game. It's a game you can play while doing something else. I play a ton of games at the same time as Teamfight Tactics. And that's been like a pretty good selling point to me is like, hey, if you want to destress TFT is a great game for you. If you want to sweat and try hard. It's also a great game for that too, to be honest. And then I also highly recommend at least for now, the best way to get someone on board because it can be daunting at first, is to sit down in a game with them. There's no better way to teach someone than like just show them the ropes. I think once you play what we found is once you play about two or three games with Teamfight Tactics it really starts to click.
+
+You can play Teamfight Tactics on PC (Inside the League of Legends client), iOS, or Android.
+
+            .
+
+Daniel Tack
+PC Editor
+Daniel has been at Game Informer for seven years, specializing in multiplayer titles and PC games. When he's not speculating on the future of the industry, you can find him exploring vast online worlds — and probably streaming the experience.
+
+Email
+Twitter
+
+      Products In This Article
+
+League of Legends: Clash of Fates
+
+Platform:
+
+PC
+
+Release Date:
+
+October 27, 2009
+
+Purchase
+More Info
+

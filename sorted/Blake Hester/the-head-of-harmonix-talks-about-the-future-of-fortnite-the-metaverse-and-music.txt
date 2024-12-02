@@ -1,0 +1,135 @@
+
+  The Head Of Harmonix Talks About The Future Of Fortnite, The Metaverse, And Music 
+
+
+
+
+
+
+            A few weeks ago, I went to a Fortnite event where developer-publisher Epic Games unveiled its plan for the near future of its game: a Lego survival game, a racing game, and a music game à la Rock Band and Fuser. This is on top of the toolset allowing anyone to make and publish their own games within Fortnite.
+
+The whole thing was kind of weird.
+
+Not that any of the experiences are bad – the Lego thing is super not for me, but I really like the racing game (made by Psyonix, developer of Rocket League), and I think the music element has the potential to become something interesting down the road. 
+
+I'm just not so sure Epic's utopian vision of Fortnite as this everything app makes sense. I agree with the idea that Fortnite is a great social tool – but only in the way most online video games can be great social tools. However, if my friends stopped playing Fortnite tomorrow in favor of, say, Call of Duty, I'd never play Fortnite again. It's simply the loose glue that holds us together. We certainly aren't seeking out Fortnite for thousands of different experiences – we just want the mindless shooter that allows us to hang out and talk. And thus far, Epic's curation of user-created content on the Fortnite homepage does little to inspire confidence – it's full of copyright infringement and mobile game ripoffs, and I don't really want any part of it. 
+
+That said, I'm happy to be proved wrong – Roblox has certainly proven out this particular model, and even though it wasn't much of a success, I adore Dreams, which has a similar concept. And numbers speak louder than under-paid game journalists. Fortnite is undeniably one of the biggest games on the planet, so it has the user base to pull something like this off in a way Dreams never did. Epic's pitch is an admirable one – inspire anyone to create whatever they want and publish it within the Fortnite ecosystem. It's also acquiring fantastic studios to make high-end games for Fortnite (which I also don't love because Epic still lays off hundreds of people despite its success). Epic, in its hunt to make the metaverse, has also signed deals with dozens of IP across film, games, and so on, creating a mess of intellectual property – everyone knows that for more than a few dollars, you can play Fortnite as your favorite character from your favorite whatever. So, who knows? Maybe this whole thing is building up to Epic's grand utopian vision of a game full of thousands of other games where the entire world is brought together.
+
+I bring all this up to highlight my thoughts going into my single interview of the day. I talked with Alex Rigopolous, the founder and head of Harmonix, creator of Guitar Hero, Rock Band, and most recently, Fortnite's new music mode, Fortnite Festival, about what exactly a studio under Epic is doing to support Epic's vision. We only had 20 minutes to chat, so it didn't get as in-depth as I wanted, but I always enjoy talking with Rigopolous; I love Harmonix and want to see it succeed, and I think there's a lot of promise with its music modes in Fortnite – especially once plastic instrument peripheral support is added. I wish them luck.
+
+This interview has been edited and condensed for clarity.
+
+Game Informer: I feel when you all were updating Rock Band, it was kind of ahead of the curve looking at living games. But now you all are in this ecosystem within Fortnite with a bunch of living games, it feels like? How do you find yourselves trying to fit in when there's so much vying for attention in one executable?
+
+Alex Rigopolous: Sure. It's a big question. You know, there's several facets to the music experiences that we're working on at Harmonix as part of Epic. So, there's Festival, which is a new, big first-party game in the Epic first-party portfolio. And our job there is just, like, to try to build the biggest and best music game the world has ever seen. Because it's a live game, it's going to be evolving and expanding on a regular basis over time. Our goal there is just: make the best music game with the broadest reach that has ever been made. Meanwhile, we've created this jam system, which you can play in a special mode in Fortnite Festival on the Jam Island [on the] Jam Stage. But it's envisioned as an ecosystem-wide feature. So, you can also play with the Jam system inside of Battle Royale. Soon enough, you'll be able to play with it inside of creative islands. Hopefully, eventually everywhere in the ecosystem. So, the goal there is to just permeate the entire Fortnite ecosystem with music and social play experiences [with] music. 
+
+And then finally, the Patchwork system that I mentioned, which we also just released this past month, it's like an interactive music creation toolset for Fortnite Creative in UEFN [Unreal Editor For Fortnite]. That's all about empowering third-party creators to dream up their own music play experiences. So, you can use the Patchwork toolset not just for making original music but also as an adaptive soundtrack system. You can make whatever game – make up any game with Fortnite Creative – and then that music system will listen to what's going on in the game and adapt accordingly. Or you can set up a control flow in the opposite direction to have the music control the game systems – the animations and gameplay mechanics. So, we're empowering creators to just, like, dream up completely new kinds of music games. 
+
+With all the Guitar Hero stuff – you and I talked about this years ago – all the people who picked up instruments because of the game. Is there still that thrust within Fortnite?
+
+Absolutely. I think we're expecting to see a lot of that within the music game we're creating, as well as on the creative side with it with the jam system and with the patchwork toolset. We're putting very accessible tools for music creation into the hands of – whatever – 100-plus million people. And I think we're going to see people who maybe didn't consider themselves musicians at all developing new skill sets and emerging as music makers through some of these new places.
+
+How big is Harmonix these days?
+
+Well, it's funny. It depends upon what you count as Harmonix. Because, I mean, essentially, we operate as part of the greater Fortnite development team now. We still have our studio in Boston, which is our core. But about a third of our workforce now is remote in other locations. 
+
+If you look at something like jamming in Battle Royale, that's just a collaborative effort between us and the Battle Royale team. So, the lines between Harmonix and the greater Fortnite team are not so clear. But we're still a studio that's, you know, under 100 people.
+
+Rock Band – at some point, I think you all had every song under the sun. But Epic and Fortnite, specifically, are such cultural touchpoints. Is getting artists to send you stems of songs easier now? Do you still have hesitance from anyone? Or is Fortnite big enough that people are just sending you stuff?
+
+Yes. So far, we've had great success in putting deals together with our music partners, music industry partners. We're now starting to clear songs in very high velocity. As you saw in our history with Rock Band and Guitar Hero, et cetera, we do plan to be rolling out hopefully many hundreds of songs a year, growing to a library of thousands over time. The big difference now – this music will be free to play. We're going to be releasing new songs every week into the game – top-shelf hit music that is completely free to play, which has just basically never really been done before.
+
+How do you get artists to agree to that?
+
+Well, so, all the songs are free to play on a limited-time trial basis. So, when you go in as a player, there's always a selection of fantastic free music to play. But it's turning over constantly. If you play a song, you're like, "This is my jam; I love this song," then it's available for you to acquire in the store and add to your locker and build a collection. 
+
+Playing the Main Stage, the obvious missing thing is the instruments.
+
+The instruments, yes.
+
+I've heard whispers it's in the works.
+
+Yes, it is. I won't even whisper it, I can affirm that. At launch, you won't be able to use instrument peripherals, but it is a priority for us, and we are already actively working on it. 
+
+ If I have a Rock Band guitar, I can play in Fortnite?
+
+The intent is to support as many legacy peripherals as we possibly can.
+
+Those were not made with Unreal Engine, right? The early Rock Band games. Does that present issues?
+
+No, that won't be a blocker for us.
+
+Any plans to make new ones?
+
+We don't have plans to manufacture new ones. But I won't be surprised if some of the companies that do make peripherals when they see the groundswell around this game – for the first time in a decade, there will be a reason for these companies to start making instrument peripherals. 
+
+I mean, does Epic wanna get into that? Have you all ever done a physical plastic peripheral before?
+
+Dana Cowley [communications director of technology at Epic Games]: We've never done hardware. 
+
+Alex Rigopolous: I don't think so. Yeah, Epic has never done hardware. And I don't think we plan to. But there are plenty of companies that do, and suddenly, for the first time in a decade, there's a reason for them to make peripherals again. So, it won't surprise me to see some start to [make peripherals].
+
+I mean, is that exciting? 
+
+Absolutely. As I said early on, what's most exciting is just the scale at which we get to do it now. I mean, not just the free-to-play format, which makes it super accessible, but also the fact we're on every platform. You know, we're on consoles and PC and mobile devices with crossplay between them. The fact that you can just have – I'll be at home in Boston online jamming with a teenager in Brazil and a middle-aged housewife in Malaysia on a mobile device, all in the same jam session together. It's this incredible thing. Kind of only in Fortnite is that possible. 
+
+The Jam Session has a creative element to it, which seems like the thrust of Lego, and then there's all the creative modes. Fortnite feels like it's becoming an everything game to me. I don't know where that eventually lands, but do you see Fortnite as a tool for creativity? 
+
+Yeah. I would say, even stepping back a bit, Epic's core DNA is all about empowering creators through tools, you know? So, in addition to games like Fortnite Battle Royale that Epic has created, they also make the best engine in the world. [...] Every year, the toolset is getting deeper. There's now an economic model where the creators in Fortnite can actually make real money. I think that theme of empowering creators is just core to who Epic is and what Fortnite is all about and is becoming.
+
+In terms of the music experiences, we're trying to reflect that as well. So, of course, there's performance simulation experience like Main Stage [with a] familiar type of gameplay. But it was really important for us to have a creative dimension to it as well.
+
+ Wasn't that the original idea of The Axe?
+
+ [Laughs] That's right! You remember. Going all the way back – that's, like, 27 years ago. 
+
+The last time I talked to you, you were not owned by Epic. Was that creativity angle in the original conversations when you all were talking about being acquired?
+
+It came about organically in large part because – well, first of all, on our side, we were already working on some new music game projects that had a heavy creative element. On their side, several of the people at Epic were intimately familiar with Harmonix's entire history. I mean, they had been playing our stuff way back to the '90s. So, they knew what we do, what we're about. And I think to their credit, a number of the Epic execs were like, "We want to give you guys a platform to do what you do but on a world stage." So, it's a privilege, and we're excited about it.
+
+You're the only interview I have, so you're the only person I have to ask this to. Being here and seeing everything, and now having played Fortnite for years and mostly being a battle royale player – I shouldn't say this in front of Epic people, I've never played Creative Mode at all. Seeing everything going on with Lego, I've been wondering to myself and I'm curious what you think, like, what is the identity of Fortnite at this point?
+
+Well, I mean, this is Epic's step into the metaverse. Setting the buzzword aside, it's not a game. It's not just Battle Royale. It is a universe of games, and it's a universe of games that are all connected with each other in this way that has never been done in gaming before. So, for example, if you acquire an outfit or a skin, that's an identity you can take with you through all of these games. If you acquire music to play in Fortnite Festival, well, you can also use that music in the jam system, which you can take anywhere through the ecosystem. Or, in the future, we're going to be empowering creators to make their own music games that can also access the music that [is] in players' collective libraries. 
+
+So, this whole idea of a universe of games, of all different kinds for all different types of players, where they can all interact with each other socially, and then the property that they acquire in this world is valuable across the ecosystem – no one has ever even attempted anything like this before. That's the universe that I think Epic's trying to create.
+
+I feel like the cynical response to that would be, "What happened to an authored or curated experience?" What is the response to that? If people push back, what is the answer?
+
+Well, so, first of all, Epic has a first-party portfolio. The powers that be at Epic will decide, "These are the experiences that we want to craft as our Epic first-party portfolio." Meanwhile, on the third-party side, it's all about deepening and expanding the toolset that any other creator – not just indie community creators, but triple-A, professional development studios – can come to the table and say, "We're going to actually build our next game in Fortnite because that's where there's 100 million players today and we can just reach an audience that we never otherwise could've reached."
+
+So, Fortnite isn't offering one authored experience – it's offering the bookstore.
+
+It's offering both. The first-party portfolio is the authored experience. The third-party portfolio is like, "This is the greatest diversity and quality of game experiences anywhere on the planet." There's no other place you can go that just has this incredible diversity of experiences that are all connected to each other.
+
+Do you feel like that is where the game industry is going to go – you load into whatever Microsoft's equivalent of Fortnite is, and there are 100,000 things to check out and play?
+
+I mean, I can't say where the rest of the industry is going to go. But I will say, I think Tim [Sweeney, CEO of Epic Games] and Epic generally have a very bold vision of a world they're trying to create – the next generation of social entertainment in real-time 3D where you can go with friends, meet strangers, and just have this unlimited universe of play experiences available to you. 
+
+In five years, what is Harmonix doing within Epic? In 10 years?
+
+On the first party side, the goal is just to develop Festival into the biggest and richest and deepest music game experience that anyone has ever made. Just by adding new dimensions to it, new modes to it, building out quality and the expansiveness of it. Just anything anyone could ever want in a music game built into a highly-polished state into Festival. That's the goal. As a living game that's constantly evolving and adapting, make the biggest and best music game the world's ever seen. The first party side.
+
+On the third-party side, continue to deepen the toolset to empower the world's creators to beat us at our own game. Let the third-party community make an even better music game because we're giving them the toolset to do so. So, that's the second half.
+
+And then the third half – the third piece – is just this social connectivity layer around music that we just want to permeate the entire ecosystem [with]. The Jam System is the first step towards that. It's really about social connectivity. Fortnite, it's not just a bunch of games. It's a social space that you go with friends and strangers to experience this whole universe of games. We want music to just be omnipresent as just part of the glue that binds people together in this way.
+
+Wanting people to beat you at your own game – do you just fully expect one day to see someone has made Fortnite Guitar Hero?
+
+Yeah! Or a music shooter. Or a music parkour game. Or a music fighting game. Or a music puzzle game. There are so many possibilities that we might not even dream up that some creators are just going to have some cool ass idea, and they'll have the toolset available to build it. 
+
+      Products In This Article
+
+Fortnite
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC, Mac, iOS, Android
+
+Release Date:
+
+July 25, 2017 (PlayStation 4, Xbox One, PC, Mac), April 2, 2018 (iOS), June 12, 2018 (Switch), August 9, 2018 (Android), November 10, 2020 (Xbox Series X/S), November 12, 2020 (PlayStation 5)
+
+Purchase
+More Info
+

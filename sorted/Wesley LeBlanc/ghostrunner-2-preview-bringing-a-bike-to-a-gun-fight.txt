@@ -1,0 +1,88 @@
+
+  Ghostrunner 2 Preview – Bringing a Bike to a Gun Fight
+
+
+
+
+
+
+            Introduction
+
+The first-person action parkour sub-genre of games is a small but great one. It features the likes of EA’s Mirror’s Edge series, Respawn Entertainment’s Titanfall franchise, and One More Level’s Ghostrunner – one of my fav orite games. I first played this game two years after its 2020 release, in the summer of July 2022, jobless and depressed. It felt good to exist in a world where capitalistic business executives make inhumane decisions about the last of humanity living in their Dharma Tower, except instead of suffering under their thumb, I, or rather, protagonist Ghostrunner, took a katana straight to the top to bring it all down. The game concludes with humanity free and Ghostrunner liberated from the A.I.-powered Cybervoid trappings under a new name: Jack.
+
+I played a roughly 30-minute vertical slice of Ghostrunner 2, the upcoming sequel hitting current-gen consoles and PC later this month, and came away impressed. This demo didn’t consist of much – short tutorial sequences, a few enemy-filled arenas to parkour destructively through, and a finale I’ll get to shortly. But this demo was also precisely what I needed: confirmation that Ghostrunner 2 is, in fact, more of this excellent world One More Level crafted three years ago.
+
+It's Good to be Jack
+
+It's Good to be Jack
+
+Immediately, Ghostrunner 2 just feels right. It’s fast as hell, jaw-droppingly gorgeous with neon-lit rain turning the glass of skyscrapers into cyberpunk watercolor canvases, and incredibly tactile. Core to the entire experience of Ghostrunner 2, though, is its parkour. It feels just as good as Ghostrunner, perhaps even better, but features some tweaks studio head and CEO Szymon Bryła describes as an evolution of the series’ formula, not a revolution.
+
+“You will see that [evolution] on each layer, in gameplay, visuals, the combat system, and many others,” he tells me.
+
+Gameplay director Radosław Ratus znik says the team knew it couldn’t swap out Jack’s parkour skill set with something new, instead opting to improve on what’s already there. “The player playing the first game feels at home playing the second Ghostrunner, but for the newcomers and the people who like to experiment with their playstyle, there are new ways to play,” Ratusznik says.
+
+One of the biggest and most immediately impactful changes is the new blocking mechanic. You can deflect bullets in the first Ghostrunner, but only after unlocking the specific ability, and even then, you have to time the ability’s use with the bullet’s contact to do so. Ghostrunner 2 features bullet-blocking, activated by holding down a button. It features a gauge, which prevents you from blocking forever, but it’s enough time to get a feel for what’s happening in the otherwise lightning-fast combat playing out around you.
+
+Ratusznik says blocking works really well for players who struggled in the first game. But it’s optional – veteran Ghostrunner players can stick to the in-and-out-style of combat required in the first game. I integrate the block easily into my playstyle, using it to cover Jack from an onslaught of machine gun fire while scoping out other enemies I can take out with a hop, dash, slash, and a couple of shuriken throws. What I like most is blocking feels optional, even in the puzzle-like combat arenas.
+
+Cyberpu-zzle
+
+Cyberpu-zzle
+
+“It’s more like, ‘Try different options,’” Ratusznik tells me. “You now have access to abilities that you can use quite often, not like in the first game where there were only ultimate abilities that you could use not so often. [So] now you have a chance to somehow connect all these mechanics together and mix them how you want, and it’s really satisfying when you are successful with that. And of course, you are improving after each restart; you are becoming better and better, and then you reach the sweet spot where you know everything about the game and can use all your tools that we provide and feel really powerful.”
+
+In one puzzle, I use a special force-like push ability to move an air vent that shoots Jack into the air near an opening in a wall. I jump on it and, after being shot into the air, quickly equip a shuriken to hit a switch through the opening, which opens the door to move forward. It’s a familiar puzzle in the world of Ghostrunner, and I smile at its return. The game is a first-person action game, but it’s as much a puzzle game, too. Beyond puzzles like the one I describe above, every combat scenario is a puzzle because of the game’s difficulty.
+
+If Jack is hit once by a sword, bullet, shockwave, or something else, he dies. Every attack, movement, dash, slow-mo in-air directional shift, and grapple matters because it’s one piece of the equation that takes you from X to Y and finally, to Z. That excellent combat formula returns in arenas even bigger than the ones in the first game and in other, smaller areas where enemies await.
+
+“At first, when developing [Ghostrunner 1], that was new to us,” Ratusznik tells me, remarking on the team discovering that its first-person action parkour game also plays like a puzzle game. “When developing a top-down game [referring to One More Level’s 2019 game, God’s Trigger], you are able to plan your action before entering a room. Like in Hotline Miami, you can check what’s in front of you but here, when entering a room, everything is new for you. You have to run through the arena and check for enemies and see their placement. When entering new areas, it’s sure you will die.”
+
+But the beauty of death in Ghostrunner is now you know what’s coming and how it’s coming. So you try again and probably die again, but this third time, you switch up your tactics. “What works? What doesn’t? If I attack this enemy first, I can throw a shuriken to that explosive barrel to take those two out before hopping onto the zipline above to take out the tankier guy up here.” These are the kinds of thoughts going through my head multiple times in this short preview, and they’re exactly what One More Level wants me to think while playing, Ratusznik and Bryła say, calling Ghostrunner 2 “a super-fast puzzle game.”
+
+A New Set of Wheels
+
+A New Set of Wheels
+
+When developing this sequel, the team knew it needed to up the ante in several ways, both in combat and in its puzzle sequences. And while it tackled this by evolving what’s already there, it added something brand new: a motorbike. After just 10 minutes sitting in the driver’s seat, I already love it.
+
+“We decided that Ghostrunner was a really fast-paced game and asked ourselves, ‘Alright, what if we want to have something even faster than Jack?’,” Bryła says. “We decided, ‘What if we have a motorcycle in the game and use it as a tool to go from one point to another and use it in the outside world?’”
+
+Almost immediately after using the motorbike, it’s clear it’s One More Level’s best addition. As I barrel down a futuristic highway, using my controller’s right trigger to throttle it forward, I must think quickly. There’s an in-world timer I have to stay ahead of to remain alive. There are jumps to hit, but I can only clear the gap if I boost off the ramp first. There are unavoidable barriers before me until I realize this motorbike can ride on the circular walls to avert them altogether. The motorbike feels like an extension of Jack, and I look forward to seeing how else it’s used. One More Level teases sequences where Jack will have to jump off the motorbike mid-air to slash a switch that opens a pathway ahead and land back on the motorbike to advance, and I can’t wait to see this and the inevitable Akira-slide that will accompany these moments.
+
+“It was more like, ‘Okay, let’s not treat this too seriously, let’s prototype it first,’” Ratusznik tells me. “We knew we wanted to move away from the Tower for a lot of the game [and] have levels outside the Tower. [Jack] wouldn’t travel too far [on foot] so we gave him something to travel there faster.”
+
+He says they knew right away the type of transportation Jack needed would be a motorbike, which has a flashy reveal moment in-game. Bryła says the motorbike is already a big part of cyberpunk media and culture, so adding it was a no-brainer. It was also a no-brainer to ignore physics during the motorbike sections, too, he adds, remarking that arcade racing games like Mario Kart inspire it.
+
+“It’s always about connecting to Ghostrunner 2’s gameplay,” Bryła says. “We are wall-running; let’s add wall-riding to the bike, but let’s not put too much attention into physics and it being realistic. We took a pure arcade-ish approach because you need to have fun, not simulate a real motorbike, and I think it’s a good addition. It makes for a really fresh approach to Ghostrunner.”
+
+Ready for More
+
+Ready for More
+
+The bike is the breakout star of my short preview with Ghostrunner 2, but it’s also the most prominent addition; I’m not surprised it’s the major takeaway from my time with the sequel. What I want out of Ghostrunner 2 is more – more of Jack’s story, more characters to interact with, more of this dour but beautiful cyberpunk world to explore, and thousands more enemies to parkour around and slash through. So far, Ghostrunner 2 is delivering on that, and new additions like the bike, blocking, a new in-world hub to talk to characters in-person (not as floating heads like in the first game), and more have me yearning for the game’s release this month when I can go beyond just a meager 30 minutes of play. Jack is back and I couldn’t be more excited.
+
+This article originally appeared in Issue 360 of Game Informer.
+
+      Products In This Article
+
+Ghostrunner 2
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PC
+
+Release Date:
+
+October 26, 2023
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

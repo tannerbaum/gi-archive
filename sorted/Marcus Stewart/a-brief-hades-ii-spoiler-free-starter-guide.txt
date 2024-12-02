@@ -1,0 +1,70 @@
+
+  A Brief Hades II Spoiler-Free Starter Guide
+
+
+
+
+
+
+            Hades II has launched into Steam Early access, and it’s also Game Informer’s next cover story (which launches on May 14).  Whether you’re a returning fan or a newcomer, it may take a few runs to get your bearings as Hades II sports new progression systems, resources, and new layers to existing mechanics. It can be a lot to dig into, given the game more or less tosses you into the deep end without context for how things work, at least initially. Instead of spending several runs figuring things out, here’s a short, spoiler-free primer explaining some core new features to get you going on the right foot. 
+
+What Are Ashes? 
+
+Ashes are a currency used for unlocking Arcana cards. They serve a similar purpose as Darkness from the first game. They often appear as a reward for completing a room, but you can also purchase more from the Wretched Broker’s shop. 
+
+What Are Arcana Cards, Grasp, And Psyche?
+
+These are unlockable character perks found at the Altar of Ashes, located in The Crossroads. Fans can draw a similarity to the Mirror of Night from Hades 1. Examples of Arcana card effects include gaining two health points every time you exit a location or starting each run with 200 gold. Arcana cards require spending a certain amount of Ashes to obtain (and some require an additional resource). Cards consume portions of your Grasp. 
+
+Grasp of the Arcana (or just Grasp for short) is a meter dictating how many Arcana cards a player can have active at once. Every Arcana card consumes a certain number of Grasp bars. If the Grasp meter has 10 bars, then equipping cards that consume 5, 3, and 2 bars would max it out. If you’re a Transistor fan, this system is similar to how managing Functions worked in that game. 
+
+By spending a large amount of Psyche, another currency obtained by completing rooms, you can increase the limit of your Grasp. For example, instead of having only 10 bars, it could have 12 or 16. This way, you can have more cards active or use more powerful cards that consume a larger portion of Grasp. 
+
+What Are The Purple Bones?
+
+This is another resource/currency called Ancient Bones. It’s a reward for completing encounters and is primarily used to purchase resources from the Wretched Broker’s shop. 
+
+How Do I Mine Ore, Fish, And Compel Shades?
+
+During runs, you’ll come across metal ores prompting you to mine. In the first area, Erebus, you’ll find piles of silver crescent moons, for example. Additionally, certain shades prompt you to “compel” them, and you’ll also encounter fishing holes. 
+
+These situations require one of Hades II’s Gathering Tools. Mining ore requires a pickaxe, fishing holes need a respective rod, and compelling shades require a magical tablet. You gain Gathering Tools at the Cauldron, but you’ll still need to trade specific resources to unlock them fully.
+
+How Does The Cauldron Work? 
+
+The Crossroads features a giant cauldron situated in front of Hecate. This is where you’ll bring resources/currencies gathered during runs to perform “incantations,” which are permanent upgrades for The Crossroads and general quality-of-life perks. 
+
+For example, one incantation summons the Wretched Broker, allowing him to permanently set up shop in the Crossroads. Another unlocks the aforementioned Gathering Tools. One incantation even allows you to view the recipes for other incantations in the menu (before unlocking this, you can only view these recipes at the cauldron itself). One particular incantation is called Fated Intervention; without spoiling, prioritize unlocking this one. It likely won’t have an immediate effect, so be patient. 
+
+One incantation that becomes available early (that you should unlock as soon as it does) is called Divination of the Elements. It allows Melinoe to perceive the elemental affinities of Olympian boons. 
+
+What Are Elemental Affinities?
+
+Olympian boons now have one of four elemental properties tied to them: fire, water, air, and earth. After unlocking Divination of the Elements, you’ll see small icons indicating each element on every boon you encounter. Demeter’s frost-based boons are generally (but not always) water types, while Hestia’s tend to be fire. 
+
+The elemental affinity matters because there are now boons that can only be used if you possess enough boons of a certain elemental type. One may require you to have three wind-based boons in exchange for a powerful ability, for example. This adds another layer of strategy to selecting boons, as you’ll be torn between chasing a long-term investment or short-term power gain. 
+
+Hades II is available now in Early Access on Steam and in the Epic Games Store. Be sure to check out our cover story hub below for exclusive Hades II stories and videos throughout the month. 
+
+      Products In This Article
+
+Hades II
+
+Platform:
+
+PC
+
+Release Date:
+
+TBA
+
+Purchase
+More Info
+
+Marcus Stewart
+Associate Editor
+Marcus is an avid gamer, giant wrestling nerd, and a connoisseur of 90's cartoons and obscure childhood references. The cat's out of the bagel now!
+
+Email
+Twitter
+

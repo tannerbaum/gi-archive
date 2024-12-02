@@ -1,0 +1,118 @@
+
+  Creating The Extraordinary Machines Of Horizon Zero Dawn
+
+
+
+
+
+
+If there's one thing that's impossible to ignore about
+Horizon Zero Dawn, it's the gigantic machines you go head-to-head with. All of
+them resemble different wildlife, from dinosaurs to crocodiles to hyenas.  Guerrilla Games spent a lot of time thinking
+about various features of these mechanical beasts, from their role in the game's
+ecosystem to their weaknesses and values. While in Amsterdam, the team gave
+insight into the intricate process of bringing these intriguing creatures to
+life by showing us how the Shellwalker came to be.
+
+Taking Real-World
+Inspiration 
+Guerrilla tries to look for inspiration in nature for all
+its designs, using recognizable wildlife to form its robotic creatures.  "We go for that...that there is a recognizable
+element in there," says lead designer Dennis Zopfi.
+"We try to twist it a little bit, so that there's something new to it." This
+all ties into giving you familiarity before stepping into battle. "The reason
+for that is so that you expect certain behaviors and movements, so it's all
+about readability," explains managing director Herman Hulst. "The combat
+encounters need to be fluid and easy to read."
+For the Shellwalker in particular, the team looked at
+various pictures of the hermit crab, focusing on how it shields itself and uses
+its claws for protection. The Shellwalker is part of the transport class of machines
+within Horizon's unique ecosystem. Guerrilla studied hermit crab movements,
+especially how they looked and functioned in groups. They rarely travel alone,
+and the lowest amount you'd usually encounter at one time would be three. 
+Because the Shellwalker is part of the transport class, it
+needed something to cart; this led to the addition of the Shellwalker's
+precious box on its back. Moving boxes is all that matters to the Shellwalker;
+this is the role it's programmed to perform and the creature will do everything in
+its power to ensure it doesn't leave its box behind and completes the task at
+hand. Once Guerrilla gets some ideas down, it has designers build the machine
+as if it could actually be constructed. Yes, actual engineers are on staff who do
+this. This also means designing all its behaviors; the team especially spent a
+lot of time deciding on how the Shellwalker would handle the boxes. From there,
+it's deciding on how large certain elements, such as the claw or box, should be
+in the world.
+
+Bringing Robots To
+Life
+Guerrilla Games has a team of six that do nothing but work
+on animations for the machines in the game. Visualizing these robots is one
+thing, but it is a whole other task to make sure they work within the game. "We
+need to make sure that things move in a way that makes sense, but also have
+enough clearance so that the things that need to happen in gameplay can," says
+principle animator Richard Oud. 
+For the Shellwalker, one of the things they needed to test
+and get right was the length of its arms to be able to pick up crates and put
+them on their head or strike the player from the side. The Shellwalker design
+had bulky arms, which made animating them a challenge, because there wasn't
+always room to convey as much as they wanted. The animators made some
+adjustments, such as making the eye units move in and out, instead of just sitting
+there on top of the Shellwalker. "It gave it a little more of a robotic feel to
+it," Oud says. 
+Most of the time during the animation phrase, the team starts
+discovering what's fun and interesting about each machine. "Every robot has its
+moment where you find out its personality," Oud says. "For the Shellwalker, it
+was the first time he puts the crate on his head. His only obsession is protecting
+his cargo. When we did the first animation, that's the moment it started
+clicking with the whole entire character." 
+While the box certainly stands out, the Shellwalker has 150 unique
+animations to make him feel alive and react to various things that happen in
+the heat of battle. For instance, even if you shoot off the cargo clamp, he'll
+use his claw to secure his crate, giving him one less weapon to use against you.
+If you kill him and shoot off his precious cargo without destroying it, there's
+loot awaiting you. However, you never know what or how much is inside, making
+it a gamble. 
+To make these robots feel even more in tune with the world, their
+behavior will change depending on which other machines are or aren't around.
+For instance, if Watchers aren't around to alert of nearby danger, another
+machine, such as a Grazer, takes on patrolling. Grazers, which are usually
+peaceful animals, can also have one of its members turn into an alpha male if
+it gets angry. "These roles are layers of complexity on top of the generic
+group behavior," Hulst says. The components they have also determine their
+behavior and help players strategize how to take down these mammoths. Machines
+always have some type of risk/reward, whether it's loot or a weapon you can
+shoot off. Guerrilla also focused on getting the destructibility of these
+machines just right, so as you shoot off more and more components, robots
+reflect that and start to look different.
+
+Finding The Right
+Voices 
+Sound can be make or break any game, so Guerrilla is
+doing all that it can to capitalize on this in Horizon Zero Dawn. Different
+machines all have memorable sounds that you can recognize from afar, such as
+the piercing lasers coming from Scrappers. "It was really hard at first to find
+a balance between machine and animalistic at first," says senior sound designer
+Anton Woldhek. "If you went too far animalistic, they wouldn't really seem like
+machines anymore. And if you went too far robotic you lost the emotional
+impact. It was a lot of experimenting and finding out what worked emotionally
+as well as rationally in this world." 
+For instance, the Shellwalker, every so often makes a sound
+that conveys his state, while his machine-like elements come in the sound of
+how he walks and how he picks things up. As soon as you start to get in his
+way, he pounds his fist angry and lets out a terrifying mechanical shriek.
+Every robot has 200-300 unique sounds and then there's another 150 sounds that
+are shared between the different machines. For instance, when they're walking
+on different materials you get different sounds and different A.I. states, such
+as suspicion, also bring out different noises. "There is a lot of inspiration
+from animals," Woldhek says. "Sometimes it comes from directly how they sound,
+so you can use the recording and change it. And sometimes you take information
+from that. For example, if there was a robot that could howl. You might not
+modify a howl, but analyze the recording and say this is the pitch is goes up
+and down by and then recreate that sound using something completely different."
+Finding machines and how they act is part of the fun for
+Horizon, so we don't want to spoil too much about the sounds or their creation.
+However, it sure seems like Guerrilla shares plenty of our excitement about
+these robotic creatures and is putting a lot of time into making sure they
+function in the world in interesting ways. What do you think of the machines
+you've seen so far?
+For more on Horizon Zero Dawn, click on the banner below to enter our hub that we're constantly updating with new, exclusive content.
+

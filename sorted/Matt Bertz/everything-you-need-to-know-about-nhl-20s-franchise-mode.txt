@@ -1,0 +1,168 @@
+
+                                          NHL 20
+                  
+
+
+  Everything You Need To Know About NHL 20's Franchise Mode
+
+
+
+
+Platform
+PlayStation 4, Xbox One
+
+Publisher
+EA Sports
+
+Developer
+EA Vancouver
+
+Release
+September 13, 2019
+
+Rating
+Everyone 10+
+
+            Introduction
+
+After years of minimal changes, the franchise mode took a nice step forward in NHL 19 with the introduction of a complex new scouting system and fog of war feature that changed the way users evaluated prospects, trade targets, and free agents. NHL 20 takes the remodel even further by adding a new coaching carousel, a redesigned line chemistry system, a trade finder, and a conversation system that applies across coaches and players. We spoke with producer Gurn Sumal to dig deep into how these new features change the experience of managing an NHL team.
+
+Coach Carousel Changes Team Building
+
+COACH CAROUSEL CHANGES TEAM BUILDING
+
+Madden did it. NBA 2K did it. Now it’s time for NHL to join the ranks of franchise modes where coaches play an integral role in the experience of running an organization.
+
+Before breaking down how coaches affect the game, I should note that no real NHL head coaches are in the game this year. EA wants to eventually incorporate them, but there are some licensing hurdles to overcome that prevented them from making it into NHL 20. A wide variety of coaches are generated at the start of your franchise mode (complete with character models that will be seen in-game), and you can hire and fire them at will.
+
+Each organization has a total of eight coaches split across the NHL and AHL. For each league, you hire a head coach, two assistants, and a goalie coach. Like scouts, coaches have their own set of ratings. These break down across six categories – offense, defense, power play, penalty kill, teaching (which helps grow or stunt prospect growth), coach influence (which helps develop staff). Each coach has a distinct teaching specialty. Where one may specialize in defense, another might work best with veterans, preventing them from suffering serious skill regression. Coaches earn XP across all six categories as they progress through their career by winning games, winning hardware, being at the top of the league in scoring, etc. Having a head coach with a good coach influence rating will help more XP trickle down to the staff.
+
+Coaches have their own card where you can track their coaching record and see how many awards they’ve won. With bench roamers now in the mix, EA added the Jack Adams trophy to the end-of-year hardware.
+
+Unlike scouts, coaches also have concepts of morale and staff chemistry. Across both players and coaches, the morale system ditches the happy faces in favor of a more informational bar system. The overall morale rating is an aggregate of four different sub-morale meters that cover team performance, management, coaching staff, and player relationships. The game also tracks which players and coaches each coach has the best and worst chemistry with.
+
+The CPU-controlled teams set their expectations before the start of a season, and teams will put their coach on the hot seat during losing streaks or if a team fails to live up to expectations. The GMs aren’t afraid to pull the trigger on a firing mid-season if things are dire. Firing a coach can be a net benefit to the organization, as it resets morale for the players and staff. It can also lead to dramatic turnarounds. Sumal says he saw the Vegas Golden Knights fire their coach during a losing streak, and the interim head coach led them to the Stanley Cup Finals that same year.
+
+As with scouts, sometimes an NHL player will retire and move into the coaching pool. You’ll even see them behind the bench during games.
+
+New Line-chemistry System
+
+NEW LINE-CHEMISTRY SYSTEM
+
+The NHL series used to have a line-chemistry system based on pairing different styles of players together to optimize their performance. NHL 20 introduces a brand-new take on line chemistry dependent on finding players that fit with your coach’s tactical philosophies. The goal of this new system is to change the meta of how users build their teams. “Having a good coach and having a coach that fits what you're trying to do is very important,” Sumal says.
+
+Every coach in the game has defined team tactics and line strategies that you can see by pulling up their coach card. These are the same basic systems we’ve seen in past NHL games, like forecheck system, powerplay strategy, penalty-kill strategy, etc. The same goes for the line strategies. One coach may prefer a Behind the Net approach for a top line, but use Overload for the second line and Crash the Net for the third and fourth. A scheme fit tab on the coach card shows how well each player fits the coach’s preferred strategy, so you can immediately identify players who are and aren’t a great match.
+
+To better surface the chemistry between players on a line, the Edit Line screen receives an overhaul in NHL 20. To the right of each line, you can see how their chemistry modifies your team performance, on a scale of -5 to +5. These modifiers affect both simmed and played games. As you scroll through players on the Edit Line screen, you can see the various ways a player fits or doesn’t into his current role. “The goal is to have unique ways of building the teams – finding players that fit the team so you can get the best out of your team,” Sumal says.
+
+One type of player that has never been very valuable in previous NHL games, but now has a newfound importance, is the plug-and-play type who can move up and down your lineup without negatively impacting your chemistries. When you find these jack-of-all-trade glue guys, you’re going to want to hold onto them because they can stop the bleeding when your team gets hit with injuries.
+
+Another factor to consider during roster construction: Each coach manages ice time differently. Some coaches may heavily play the top lines, whereas others divide ice time across four lines (or the defensive pairings) balanced fashion. This can affect everything from how many points your top liners put up to the amount of progression young players experience playing on your third and fourth lines or third defensive pairings.
+
+EA doesn’t want these line chemistries to exist in a virtual vacuum; they should reflect what we see in the NHL. Therefore, dominant real-world groupings like the Landeskog-MacKinnon-Rantanen line in Colorado or the Marchand-Bergeron-Pasternak line in Boston have chemistries that match their actual effectiveness. Sumal says they can update these over the course of the season as well.
+
+You cannot edit coaches or their strategies to perfectly match your roster in NHL 20; Sumal says they may add this as a conversation topic in future. However, some of the more balanced coaches will re-evaluate their approach in the offseason and potentially make adjustments to better fit the current team composition.
+
+You also aren’t forced to play with your coach’s strategies once you load into a game. While you won’t get the corresponding chemistry buffs/nerfs when you make changes in the pre-game or mid-game menus, at least you can play how you want to play. “We want to give the user that plays games some flexibility, but not necessarily being able to kind of cheat the system that we've kind of built,” Sumal says.
+
+Conversations Surface Controversies
+
+CONVERSATIONS SURFACE CONTROVERSIES
+
+With coaches and staffs integrated into the organizational chemistry, it opens the door for more friction between these elements like we see in real NHL organizations. To bring some of these tensions to the surface, EA redesigned its conversation system.
+
+Instead of players simply complaining about ice time, circumstances can arise based on your team performance and chemistry. If your team has a hard time putting pucks in the net, the coach may raise his concerns about the lack of scoring.
+
+In conversations like this you have a few options. You could stall and say you need more to assess the situation, persuade him that the team will be just fine, or agree with him, which will move the conversation toward the coaching requesting the acquisition of a skilled forward. Here, you have two options. You could persuade them that bringing on another skilled player would cost too much, using the handy persuasion meter as a guide of how likely you are to convince the coach to adopt your thinking. Successfully persuading a coach means they won’t bring up the issue for the rest of the year. Or you could promise to make an acquisition in the next few weeks. A ratings impact meter will show you how successfully fulfilling this goal will affect the coach’s morale.
+
+Player conversations follow the same general guidelines. The system currently has 15 different situations that can arise, and you can make promises or persuasions related to each, which impact morale, chemistry, and/or attribute effects. EA determines which conversations can arise based your team status. If you’re rebuilding, you won’t face the same types of issues as a team contending for a Stanley Cup. Star players stuck on a losing team with poor line chemistry may demand you fire the head coach, one of the tough decisions we see real GMs face.
+
+EA doesn’t want morale issues to be as frequent as past games. Instead, it wants these conversations to be more meaningful, and only a few should pop up over the course of the year. Unless, that is, your organization is a dumpster fire. “Like in the real world, a team that's doing really bad is going to have more discussions with the coach to see what they may need or if they're really failing,” Sumal says.
+
+The conversation system also allows users to interview head-coaching candidates and prospects. During these you can figure out what kind of system a coach or player likes, what they think about your club, and in the case of coaches, how much it will cost to get them on board.
+
+If you have no interest in having these conversations, you can turn them off altogether.
+
+Improved Trades And Free Agency
+
+IMPROVED TRADES AND FREE AGENCY
+
+For years, we’ve been urging EA to take a page out of the NBA 2K playbook and add a trade finder to NHL. We finally get it in NHL 20. The trade finder is invaluable because it allows you to select a player from your roster and immediately see what kind of returns you would get if you tried to move them. Conversely, you can also target players on other rosters and see what it will take to get them. Even if you don’t accept these trades, it gives you a ballpark offer to work from.
+
+Sumal says each team can come up with up to five different trade proposals, which are mixtures of players, prospects, and picks. Don’t expect to acquire superstars like NHL 20 cover athlete Auston Matthews for pennies on the dollar. You may not even have the assets to convince another team to entertain your offer, but if you do, the teams will ask for the moon.
+
+Users have two ways to use the trade finder. If you press the Y/triangle button after you select all the assets you want, that will use the trade block you’ve set to generate potential deals. If you instead press the LB/L1 button, that will try to formulate a deal with any asset in your organization or on the CPU team.
+
+Trades also get bolstered thanks to a few other changes coming in NHL 20. EA added exempt contracts for junior players under 20 years old signed to NHL deals so they don’t count against the 50-player contract limit. This means more teams have flexibility to make moves no matter what time of the year it is.
+
+To further encourage trade movement, EA tweaked player valuations. Just like the real NHL, centers and defenders have the highest trade values, followed by wingers and goalies. This means an 85-rated goalie won’t have the same value anymore as an 85-rated center.
+
+Trade values also take into account recent performance. A player who’s been performing well will have a boosted trade value during that year, and if they are in a slump you can get them at a discounted rate. Contract length comes into play as well. If a player’s in the last year of his contract, as you move closer to the trade deadline his value will decrease because other teams know he’s essentially a rental player at that point. Taking all of these factors into consideration, Sumal says the trade deadline is much more active in NHL 20.
+
+One last minor but interesting trade tweak coming to NHL 20 – you can now trade players with expiring contracts before the start of free agency. As we see in the modern NHL, sometimes teams will trade for a player with no term left on their deal just for a period of exclusive negotiation rights. Now, you can at least get something for a player who intends to walk.
+
+Player-performance modifiers affect free agency as well. Gone are the days when a high potential prospect who hasn’t even cracked an NHL lineup yet demands a $4 million per year contract. Conversely, free agents coming off seasons with great scoring numbers (or save percentages for goalies) now have higher demands.
+
+Stats growth and regression factor in performance modifiers as well. If a first-line player has a brutal scoring season, their overall will drop. If they put up big numbers, their overall will raise even if they are past the peak progression years.
+
+Scouting Gets A Second Pass
+
+SCOUTING GETS A SECOND PASS
+
+Last year’s scouting revamp was largely a success, but once we learned the nuances of the system, it was relatively easy to stack your farm system with elite youngsters. NHL 20 makes some changes to bring back the element of mystery to talent evaluation.
+
+“One of the things we did is focus on a prospect pool and how efficient the scouts are,” Sumal says, “You won't actually be able to scout everyone in the draft class to the full exact report like we did last year. … We want it to be a little bit harder to get those, which then in turn makes gems and busts more valuable.”
+
+On average, Sumal says it will take twice as long to get full reports on players in NHL 20 compared to NHL 19. They also tuned down the number of elite goalie prospects so you can’t stack your farm team with them and use them as trade fodder.
+
+NHL 20 makes a few other changes to scouting as well. The scout recommendations are surfaced into the draft class hub so you all that information is in one place. The game has two new scouting reports available as well. The new amateur report tells you when a player is likely going to be ready to play in the NHL and how well they fit into your coach’s scheme.
+
+The second new scouting report applies to the pros. Since scheme fit is a major consideration when exploring trades and free agency, the new scouting report better informs you how well a player aligns with your team. This critical information means you can’t overload amateur scouting at the expense of pro scouting this year if you have the fog of war turned on. “Knowing a player would actually fit in your lineup is completely different than how you would target a player in years past,” Sumal says. “Before, you would just target players who were just the best overall player. There’d be no reason for me not to go after a player like Rickard Rakell or Ryan Getzlaf from Anaheim. What we wanted to do is change that metagame up by having you find the best player available that fits your scheme, just like a real-world GM would. You don’t want to just get the best overall player, because that player may be a detriment to your team and actually negatively impact chemistry. They may not fit the way your coach wants your team to play.”
+
+SIM Engine Evolved
+
+SIM ENGINE EVOLVED
+
+For years now, the sim engine has been a mystery to NHL users. We never really understood why teams drop into slumps, why certain lines generate a lot of points while other lines stacked with elite players continually underperform, or why some goalies have absurd stats like a .90 GAA, yet they have a losing record. Sumal claims NHL 20 offers remedies to these problems.
+
+“Coaches have letter grades for offense, defense, penalty kill, powerplay, etc., and those all have modifiers in the sim engine,” Sumal says. “And then you also have the mod for the line chemistry, which also has an effect on the sim engine, as well as all the morale boost and all that stuff. So there's quite a bit of stuff happening that the user has a little bit more control over based off of who they sign as a coach and how players fit in their lineups. This puts the onus more onto the user to build the right team and find the right coach.”
+
+Thankfully, the goalie problem from last year is also fixed. You should no longer see those messed-up stat lines.
+
+Burning Franchise Questions
+
+BURNING FRANCHISE QUESTIONS
+
+If EA can execute on its vision, the new features coming to NHL 20 sound like they should further reinvigorate the experience. However, the NHL community has other burning questions they want answered as well. We posed each to Sumal to get his response.
+
+On incorporating advanced stats:
+“Because you can scale time in our game differently playing versus simming, that is a hurdle to overcome, but advanced stats has always been something we've wanted to do. The flip side is how do we make it important as well, because I just don't want the stat in there and then it not having actual meaning and merit to the game.”
+
+On roster sharing:
+“We see the world today, and like you mentioned, people are more savvy with teams and players and all that stuff. Roster sharing would be a great benefit, because reading through forums, Reddit, and whatever, not everyone has the same opinion on every player. Being able to edit and share that type of stuff would be really cool.”
+
+On menu-navigation speed:
+“We have done some tuning and bug fixes as well. Getting in and out of the franchise hub should be a lot faster, and just in general in the game as well.”
+
+On GM Connected:
+“As a big fan of those modes, that's something I've always wanted to reintroduce back into the game. As of right now, there's no real timeframe that I can honestly discuss. It's something I always bring up because I am a big fan of connected modes and franchise modes like Connected Franchise in Madden. That's something I do want to get back to.”
+
+Sorry, this video is not available
+
+NHL 20 comes to PlayStation 4 and Xbox One this September. The Play First trial for EA Access members begins September 5. Those who pre-order the Deluxe or Ultimate editions can jump on the ice September 10, and the worldwide launch happens on September 13. To learn more about the game, check out our feature breaking down the 16 biggest changes coming to the game and our exploration of what playing the beta tells us about the prospects for NHL 20.
+
+      Products In This Article
+
+NHL 20
+
+Platform:
+
+PlayStation 4, Xbox One
+
+Release Date:
+
+September 13, 2019
+
+Purchase
+More Info
+

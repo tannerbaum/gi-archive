@@ -1,0 +1,105 @@
+
+  What Scares Horror Game Developers
+
+
+
+
+
+
+            Introduction
+
+During his childhood, Sam Barlow experienced a traumatic event: Being chased by monkeys around a swimming pool. He was around age 5, living in Tanzania in East Africa. His parents did nothing, he says. They just laughed.
+
+Decades later, he found himself trying to re-create the experience in Silent Hill: Shattered Memories.
+
+Nowadays, Barlow is known for making Her Story and founding the studio Half Mermaid, developer of Telling Lies and Immortality. In 2009, however, he was working at Climax Studios on Silent Hill and became obsessed with making characters slightly hairy and having them run on all fours. Simultaneously, he had the teamʼs level designers build a segment where youʼd run through a swimming pool.
+
+Immortality
+
+But testing the level presented an issue. In Shattered Memories, you can look over the main characterʼs shoulder during chase sequences to see how close enemies are from grabbing you. However, if the creatures ran on all fours, the camera would have difficulty showing them as theyʼd be lower toward the ground. “I was very specific about, ‘If I ran around here, this is how the enemy should behave,ʼ” Barlow says. “I was like, ‘Why am I so obsessed with it?ʼ” Then it dawned on him: he was recreating his memory.
+
+Working on horror games often leads to stories like this. Developers spend their days exposed to the ways they intend to scare their audience. Examining the right moment to insert a jumpscare, looking at real-life imagery to design otherworldly creatures, and using personal experiences as influence is all part of the 9 to 5 routine.
+
+Game Informer spoke to some of the creators behind Resident Evil, Silent Hill, Fatal Frame, Darkest Dungeon, and the Dead Space remake about the research and concepts behind horror games – from the influence of personal experiences to what scares the people who craft these frightening worlds.
+
+Haunting Material
+
+Haunting Material
+
+There are multiple sources of inspiration when it comes to horror. Breaking down existing tropes to expose unexplored novelties inevitably forces developers to face horror head-on. This research leads to external material and discussions about themes you wouldnʼt expect to learn about in an office.
+
+The Evil Within
+
+For Shinji Mikami, Tango Gameworksʼ founder and one of the creative minds behind Resident Evil and The Evil Within, it all starts with a theme. “I think that the scariest thing for us as humans is actually other humans,” Mikami says. “But we donʼt want to put [regular] humans as enemy characters. Thatʼs where a lot of thought and creativity is needed.”
+
+The concept of zombies was straightforward enough for the first Resident Evil, as different media had experimented with it already and served as jumping points. But during the development of The Evil Within, for example, the main keywords were “pain and torture.” The prevalence of barbed wire, chains, and spikes surrounding enemies and environments serve as callbacks to that foundation.
+
+Real-life locations are also good sources of inspiration. Mikami has always liked the design and architecture of Spain, a sentiment going back to Resident Evil 4. And while, initially, he wanted to set the game in Germany, he thought that having enemies speak the language frequently “made us in Japan feel that all enemies would sound very angry,” so the team opted for Spain instead.
+
+While the team could do most of its research remotely, Mikami sent part of the staff on a five-day trip to gather footage for textures and other references, taking pictures and understanding the feel of the place. “It was hard to get approvals for that trip because people thought [they] were going there to have fun, but it was actually work to gather materials,” he says, laughing.
+
+More often than not, Barlow does research in his spare time. The usage of technology to consume media – and its limitations – is something heʼs always been fond of. He spent his formative years watching old films on video cassettes and staying up past his bedtime to see if there was anything weird on TV. Back then, youʼd have to purchase a special newspaper listing what was on the television, so there was a genuine unknown nature to tuning into those random channels using dial knobs, unaware of what could appear onscreen.
+
+For Immortality, especially with how everyone has been used to the immediacy of YouTube and Netflix for ages, Barlow knew there was an inherent expectation for how people consume media today. Thatʼs why rewinding became a central piece in its horror elements. “Giving people the sense that the game itself was slightly aggressive and kind of haunted, it seemed like such a fun thing,” he says, recalling the impact that films like David Lynchʼs Inland Empire had on him.
+
+Fatal Frame: Project Zero
+
+Makoto Shibata, director and co-creator of the Fatal Frame series, coexists with his hauntings. In its conception, he set out to make the scariest horror games available. This task sounds possible when considering Shibata says he has a lifetime of experiences with ghosts, which he has featured in the series in varying degrees.
+
+Ever since he was a kid, overhearing what he describes as a ghost parade that seemingly travelled between two shrines close to his home, heʼs always seen the world through a supernatural lens. “Being able to provide players with an unusual experience, showing this world that only I can see, is something I find interesting,” Shibata says.
+
+During an hour-long chat alongside producer Yutaka Fukaya, Shibata often responds to my questions and excitedly retells stories I came across while reading past interviews. His hand was grabbed by a ghost who asked to “go swimming together,” mimicking the pose of an unknown guest he found in a hotel where only he and his relatives were staying, and a recurrent “Slender Man-like” appearance in his dreams called Mr. Miyamoto all come up in our chat.
+
+Since I knew about Mr. Miyamoto beforehand, I ask Shibata if this presence continues to visit his dreams. “Sometimes, sometimes,” he answers with a serious tone. “Once I put [him] in a game for a while, it doesnʼt show up, so itʼs kind of like heʼs satisfied after being put in the game. But he does appear sometimes still.”
+
+Darkest Dungeon II
+
+Chris Bourassa, co-founder and creative director at Red Hook Studios, has lived and breathed the gloominess and existential dread surrounding Darkest Dungeonʼs themes since 2013. Once again, the sequel poises the characters against impossible odds, but the premise starts with a looming doomsday.
+
+You witness the few remaining bastions of humanity from inside your caravan, rummaging through infested biomes and towns set ablaze, and the horrific ways they react to this despair. “Itʼs the response to the end of the world,” Bourassa says. This message resonated unexpectedly closer to home once the COVID-19 pandemic began a year after Red Hook announced Darkest Dungeon II.
+
+Remote work, on the other hand, never ceases to shake the everyday routine. “My wife was pregnant at the time,” animation director Yousuf Mapara says while explaining the process behind Darkest Dungeon’s The Harvest Child, a nightmarish cornucopia baby monster. More often than not, heʼd be too focused on adding physics onto dripping flesh to notice his 7-year-old daughter looking at the computer screen with shock before quickly covering the screen with his hands.
+
+Clive Barker’s pitch
+
+After working on Silent Hill, an unnamed company invited Barlow’s Climax Studios team to pitch for a Clive Barker game. The company that held the IP wanted it to do the Books of Blood, a six-story anthology series, making an episode for each book in a Silent Hill style.
+
+Barlow immediately knew this wouldn’t work. The company didn’t realize how expensive it was to make a Silent Hill game, nor were the Books of Blood as adaptable as it thought. But he suggested a pitch back, in which they’d pretend that Barker had tried to make a video game that was never finished because something awful happened to the development team.
+
+“The idea is that you were discovering the bitter version of this lost game in the modern day, unravelling the bugs, the hidden secrets, and the darker stuff, and then realizing that the game itself was possessed. They decided that was too interesting,” Barlow laughs.
+Speaking of routines, Barlow went through a fast-paced period of creating character and enemy concepts with Silent Hill: Origins. The project was first started by a division of Climax Group in Los Angeles and then passed over to the United Kingdom team after the branch closed mid-development, which had different ideas to make it feel more authentic to the series.
+
+They couldn't budget either time or money to have artists help, so Barlow would go home and prepare designs in the evenings and bring them to the team the next day. The need to move fast led to a smoother process, as there was no room to submit multiple stages of each character to a publisher and go through feedback.
+
+Silent Hill: Origins
+
+Barlow used this in his artistic process – such as with the boss Momma in the gameʼs asylum, representing the memory of the protagonistʼs mother. “She was kind of suspended from the ceiling, almost as if wrapped in plastic, which I believe was about this idea of being institutionalized and the loss of humanity of using those clothes,” he tells me. “A lot of the reference images we had [were] from [...] weird contraptions of people being bound and wrapped in plastic. Bizarrely, my logic was, ‘Itʼs fine for me to download this stuff at home, but I shouldn't bring any of this to the office.ʼ”
+
+Fear Factor
+
+Fear Factor
+
+Almost all of the developers I spoke to for this piece talked about their love for horror. Yet, every person in a studio canʼt share this feeling. A recurring question I asked is whether theyʼve worked with someone unaccustomed to the genre and if there were any specific considerations for them.
+
+“They do it as work, professionally, so they would have to get used to it” Mikami says after a short laugh. “There really is no real special care that is applied for making people get used to it because itʼd be part of their work.”
+
+Masato Kimura, a producer at Tango Gameworks, says he initially wasnʼt fond of horror when he started his career in game development at Capcom, working with Mikami on the Resident Evil series. But as the research process involved watching plenty of horror movies, he got used to it over time. “Itʼs the same as fishermen getting used to motion sickness on boats,” Mikami adds.
+
+Unlike Kimura, the people on Barlowʼs team did not expect to jump from working on SpongeBob SquarePants: SuperSponge to two Silent Hill projects. He remembers one animator who was creeped out, in particular, by the death animation in Shattered Memories, which had enemies gently stroking the protagonistʼs face as they were manifestations of her daughter.
+
+“It was like, ‘Iʼll chop his head off, but the creatures doing this is really creeping me out,ʼ” Barlow recalls. “This was still slightly in a time where everybody in video games worked really hard, and there was no real consideration for thinking about peopleʼs well-being [...] If I were to make a big-scale horror game with a room full of people, we would probably want to sit down and talk about that. At the time, you just kind of got on with it. Itʼs a weird job.”
+
+Dead Space Remake
+
+The opposite can also happen as development progresses, with teams becoming numb to horror. “When you see things like a jumpscare once or twice it might scare you,” says Joel MacMillan, Realization Director at Motive Studio, which recently worked on the Dead Space remake. “But as developers working on the game, you see it a hundred times. You start to lose the sense of how effective it is.” In the case of Motive, it worked closely with EA's Community Council, an internal group of “veteran players, developers, and influencers” who provided feedback on the experience.
+
+But as much resistance as these experiences create over time, everybody has their own fears. Films like The Texas Chainsaw Massacre and Scarface left strong images in Mikamiʼs mind around chainsaws. “Even without actually seeing them on screen, the sound instils a lot of fear,” he says. This might resonate if youʼve ever played Resident Evil 4 or The Evil Within, as both games have prominent chainsaw-wielding foes.
+
+Resident Evil 4
+
+“A combination of losing my mind, rats, and then a little bit of fingernail torture porn; that would be my recipe for disaster,” Barlow says. “The things to my mind that were the most horrific across the games I worked on werenʼt the traditional monsters; it was the sad things. The really scary thing is that we all die someday and that our memory is valuable.”
+
+“Imagination is probably one of the scariest things you can have,” Shibata says about his fear of moments where nothing happens, and you don't know what comes next. I can relate to this feeling, as I had planned to ask him whether he could see any ghosts in my room. Not everybody believes in them, nor has had experiences like Shibata and I, so I wait until the interview is almost over to ask in a mix of embarrassment and nerves for what he could say. “In terms of your room, I donʼt see or feel anything, so everything seems to be okay.”
+
+This article originally appeared in Issue 356 of Game Informer.
+

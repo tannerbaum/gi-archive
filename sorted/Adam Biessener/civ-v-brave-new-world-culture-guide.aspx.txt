@@ -1,0 +1,47 @@
+
+  Civ V: Brave New World Culture Guide
+
+
+
+
+
+
+The second expansion changes the cultural side of the game quite a bit. Here’s a primer on the changes so you can hit the ground running.
+Several dramatic alterations to the culture system all work in tandem to create a much better overall experience than existed in previous incarnations of Civilization V. Here’s what you can expect. 
+Cultural buildings like Amphitheaters only give +1 culture per turn now, and don’t have any specialist slots, but do have slots you can put Great Works in.
+The Writer, Artist, and Musician Guilds are national wonders that give culture per turn, Great Person points of the appropriate flavor, and specialist slots that generate culture per turn and points toward whichever type of Great Person.
+Great Artists, Writers, and Musicians replace the old Great Artists, and can all be consumed to create Great Works. Alternatively, artists can trigger a Golden Age, writers can generate a one-time big culture boost, and musicians can give a one-time big tourism boost.
+Great Works come in writing/music/art flavors, and generate +2 culture/turn and +2 tourism/turn for the city they’re placed in.
+Tourism is the new road to cultural victory. To win the game, you must have an aggregate tourism score with each rival civilization that is higher than the total culture they’ve generated over the course of the game. Don’t worry, it’s easier than it sounds.
+Ideologies replace the old Order/Freedom/Autocracy policies. They’re each powerful in their own way. Going into each of the dozens of tenets available is beyond the scope of this piece, but the top takeaway is that Ideologies are an awesome, powerful reason to care about generating culture in the late stages of the game.
+Now that you know what the new components are, let’s look at how they fit together.
+* * *
+Sorry, this video is not available
+This slick Firaxis-produced video gives a primer on the building blocks of culture.
+What you need to know for non-cultural victories
+For the most part, you can ignore almost all of the new cultural stuff if you’re not planning on pursuing a cultural victory. You still need Monuments (the only basic building that still gives +2 culture/turn) to push your borders and unlock social policies, but in most cases you’re better off ignoring the rest of the cultural buildings from Amphitheaters on.
+Because the cultural buildings no longer have specialist slots and their basic output is only +1 culture/turn, their usefulness doesn’t come close to justifying their production and maintenance costs unless you’re slotting Great Works into them. Great Works come at a significant cost themselves – Great Writers usually come close to paying for an entire social policy themselves with their Write Political Treatise alternative ability, and of course the eight-turn Golden Age from popping a Great Artist is amazing. Great Musicians generate a one-time Tourism boost, which does nothing unless you’re going for a cultural victory anyway, and so you probably shouldn’t care about building the Musicians’ Guild in other strategies anyway. I can’t stress this enough:
+You only need Great Works if you’re pursuing a cultural victory.
+Sure, culture is harder to get than it used to be, but would you pop a Great Engineer for +2 production/turn or a scientist for +2 science/turn? Of course not! Especially since culture doesn’t have buildings like Universities and Factories that multiply its effects. 
+I highly recommend building the Writers’ and Artists’ Guilds when they become available – they’re cheap and quite effective for their low cost, plus you need some culture from somewhere. You should also build Monuments everywhere as soon as you can afford the production time, and then ignore everything else. If you really want to push your culture to support more policies and ideologies (more on those later), try grabbing a religion with culture-boosting effects. Now that culture is more scarce, buildings like Pagodas and Monasteries are more powerful than ever.
+* * *
+Sorry, this video is not available
+Another video from Firaxis introduces the new policies and ideologies.
+What you need to know for a cultural victory
+Tourism is king. Your culture/turn output doesn’t even matter that much – though it certainly helps and you’ll pick up a huge amount anyway just because it comes with most things that generate tourism. You need tourism, which means you need Great Works and Artifacts (from Archaeology). Here’s your first and highest priority for a cultural victory:
+Research Archaeology ASAP.
+Wouldn’t it be great to be able to build Great People for the cost of a caravan? That’s basically what Archaeology allows you to do. Archaeologists are civilian units that can dig up the antiquity sites that are revealed on the map as soon as you research the Archaeology tech. These can be left on the map as Landmark improvements that generate culture/turn for the city that works them (like popping a Great Artist in previous versions) or turned into an Artifact that functions just like a Great Work from a Great Artist (+2 culture and +2 tourism/turn, shares slots with Great Works of Art).
+The best part of archaeologists is that they can dig up antiquity sites in other peoples’ territory as well. You do need Open Borders with a rival, but stealing their cultural heritage isn’t an overtly hostile act even though they’ll ask you to knock it off just like requesting you stop settling near them or spying on them. (For maximum effect with the minimum of diplomatic penalties, time it so your archaeologists all finish digging in a rival’s territory on the same turn. They’ll still ask you to stop, but who cares when you’re already done stealing all their artifacts?)
+Do make sure you have an open slot for every artifact you dig up – without somewhere to put it, you’re forced to create a landmark instead.
+You don’t need Exploration unless you’re late to Archaeology.
+The finisher bonus for the Exploration social policy (“reveals hidden antiquity sites”) seems like it should be awesome. More antiquity sites results in more tourism, right? Not necessarily. If you are able to beat your rivals to Archaeology and get your fedora-sporting scientists out there first, you may be full up or close enough on artifacts that you don’t need the extra antiquity sites. I would strongly recommend only taking Exploration if you like its other benefits, unless you’re late to the artifact party and need to stock your Museums up.
+After Archaeology, Refrigeration is really all you need.
+Hotels, unlocked by Refrigeration in the Modern Era, boost tourism generated in their city from Great Works by 50 percent and turn half of the culture generated by most other sources into tourism as well. This is a huge boost well beyond any other single building, Wonder, or other source in the game. Get those Hotels built as soon as possible. 
+Be friendly, if you can.
+Three additional boosts increase your tourism score with rival factions, and two of them require peace. Sharing a religion, having an active trade route, and having their borders open to you are worth a 25 percent tourism boost apiece. You can still win a cultural victory without those massive improvements to outgoing tourism, but it’s significantly harder.
+Having a big empire is okay.
+Because tourism is not directly tied to your social policy cost, you aren’t screwed out of a cultural victory by founding more than a couple cities. Culture is still a great path for a smaller empire – the primary vector for tourism is Great Works and those are limited by the guilds, which each empire can only have one of apiece – but don’t be afraid to expand aggressively or even go conquering if the opportunity presents itself. 
+Piety is nice, but not necessary.
+Because religion is often a great way to generate culture (and the 25 percent boost to tourism for sharing a religion is amazing), Piety is often a great social policy choice for a culturally minded leader. However, it’s not a prerequisite to cultural victory like in previous versions. Tradition is still the best general-purpose policy, and should still probably be your initial choice barring a compelling reason to do otherwise. That said, Piety is quite powerful and can be extremely effective with a strong religious start (lots of deserts near your capital, for example, or a religious civ like the Celts or Ethiopians).
+Civilization V is a complex game, and the excellent Brave New World expansion adds a lot to it. These tips are merely a jumping-off point for integrating the new culture systems into your strategy. Share your own favorite strategies, or try to convince me why I’m wrong about these, in the comments below.
+

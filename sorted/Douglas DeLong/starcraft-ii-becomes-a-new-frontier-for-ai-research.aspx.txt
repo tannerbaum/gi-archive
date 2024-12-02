@@ -1,0 +1,13 @@
+
+  StarCraft II Becomes A New Frontier For AI Research
+
+
+
+
+
+
+DeepMind is a group of scientists and engineers who have made great strides in the realm of Artificial Intelligence research by creating programs that use games as a training ground. One of their programs learned how to play and win 49 Atari games, and another beat the world's best Go player. Today, the company released a new suite of tools to accelerate AI research in StarCraft II.
+Teaching AI to play real time strategy games is a fascinating problem because each match is so complex and multilayered. In an Atari game, the program only needs to understand a very limited moveset, but when you move into StarCraft, there are hundreds of basic actions. When you combine that with all of the points on screen in which they can be taken, there are literally tens of millions of possibilities. Successful programs must also learn to think long term; there are many sub-goals to manage and some of them only pay off in the long run.
+The original Starcraft has already been a great test ground for AI researchers, and DeepMind hopes that its new toolset for StarCraft II will allow people to push the bar even farther. The StarCraft II Learning Environment, or SC2LE, was created in partnership with Blizzard and includes a machine learning API, an expanding dataset of game replays, an open source version of the DeepMind toolset, a series of mini-games for testing an agent's performance on specific tasks, and more. 
+Let's just hope that the programs don't use this newfound military knowledge to take over the world. To read more about the SC2LE, you can read head here. 
+

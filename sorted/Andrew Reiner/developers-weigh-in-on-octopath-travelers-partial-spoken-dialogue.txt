@@ -1,0 +1,58 @@
+
+  Developers Weigh In On Octopath Traveler's Partial Spoken Dialogue
+
+
+
+
+
+
+            I'm currently on a role-playing game kick. My time is divided between Ni no Kuni II: Revenant Kingdom, which I'm approximately 60 hours into, and Octopath Traveler, which I just began a day ago. The two games couldn't be more different in tone, story, or gameplay, but I'm finding both are jarring for the same odd reason: only a portion of their stories feature spoken dialogue. I know this isn't a new thing that is happening in games. RPGs in particular have been offering a mix of spoken dialogue and written text for decades, but Octopath Traveler's handling of it is oddly irritating.
+
+Bouncing from a long sequence with spoken dialogue to city exploration without any isn't the problem. That actually works fine. A clean transition is made. Most RPGs figure out the best points to use it or not. Octopath Traveler's problem is that won't shut up when the quiet sequences arrive. In these moments, characters offer just one or two words (and maybe even a grunt) instead of saying their lines. The back and forth between people talking ends up being unintentionally comedic given how little their are verbalizing.
+
+After observing a strange moment in which my character verbally offered one of her go-to canned responses of "I am ready," yet the text on-screen read "Let the show begin," I jumped on Twitter to ask game developers why partial spoken dialogue happens. I was surprised by the number of lengthy responses I received. This is clearly a thing developers have struggled with.
+
+Raphael van Lierop, who is currently working on The Long Dark with his company Hinterland, and has a long history as a game director, writer, designer, and producer for Far Cry 3, Company Heroes, Dawn of War and more, said that partial dialogue isn't working for his game. They took a chance and are now changing course.
+
+"In our case, it was a budget/timeline thing," he wrote. "We have/had a ton of conditional dialogue in the RPG-esque dialogue trees that didn't really *need* to be voiced, but our linear cinematics *did* get voiced, so this created a jarring effect. We've been fixing it. We figured players would carry the voices and performance from our cinematics into the dialogue trees afterwards, and doing the facial animation for ALL lines just wasn't feasible. Since then, we've created new tech/pipelines to do this work more efficiently, but it's $$$. I guess people care more about consistency than they do about having *some* of the content taken to a certain level of realization and other content not. For example, [The Legend of Zelda: Breath of the Wild] doesn't really voice most of its content (apart from major cinematics) but people don't seem to mind that."
+
+The universal thing everyone agreed on is that budget plays the largest role in how much dialogue is added to a game. One thing people don't often think about is how many different languages development teams need to record to localize the game in different regions of the world. That adds up quickly. Time is another factor that several developers said could affect the amount recorded.
+
+Voice work also forces developers to lock the script months earlier than if they just went with text, and takes just as much time to record, edit, and insert into the game. As one developer said, voice overs hold content hostage at a time when iteration is most valuable. Jos Hendriks, a senior level designer at BioWare, cited five reasons: "1. Money (VO budget) 2. Time (implementation) 3. Memory (loading conversation files) 4. Scalability of content (if every line is subject to VO, less content can be made because of the costs associated) 5. Same filesize (every little bit matters)."
+
+So if voice work is a huge pain in the butt, why add it? Even a hint of a characters voice can establish it for the player. As the game progresses, the hope is that his or her voice is in the player's mind.
+
+So there you have it. A moment of irritation led to a fairly interesting Twitter discussion between a variety of game developers that have implemented voice work (or the lack there of) into their games.
+
+Update: Josh Sawyer, the design director at Obsidian gave a late response: "Even if you have enough money to cover the costs, recording every line of dialogue can massively impact your dev schedule," he tweeted. "It pushes all of the writers’ deadlines forward and almost guarantees writers can’t attend every voice session, lowering quality. The recording schedules generally are so aggressive that you need multiple studios recording concurrently/around the clock. On New Vegas, we had four studios recording in LA. for Deadfire, we had an LA studio, NYC studio, and London studio. Many sessions were at 2 a.m. PST.
+
+      Products In This Article
+
+Octopath Traveler
+
+Platform:
+
+Xbox One, Switch, Stadia, PC
+
+Release Date:
+
+July 13, 2018 (Switch), June 7, 2019 (PC), April 28, 2020 (Stadia), March 25, 2021 (Xbox One)
+
+Purchase
+More Info
+
+Ni no Kuni II: Revenant Kingdom
+
+Platform:
+
+PlayStation 4, Switch
+
+Release Date:
+
+March 23, 2018 (PlayStation 4), September 17, 2021 (Switch)
+
+Purchase
+More Info
+
+    expand for more
+

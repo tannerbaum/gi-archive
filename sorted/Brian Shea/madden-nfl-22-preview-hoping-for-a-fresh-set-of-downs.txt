@@ -1,0 +1,78 @@
+Madden NFL 22
+
+
+  Madden NFL 22 Preview – Hoping For A Fresh Set Of Downs
+
+
+
+
+            While a running joke among sports video game players is about what little innovation takes place in the space, last year's Madden NFL 21 was a particular target thanks to minimal upgrades to the series' most played modes. In response to a launch that brought about an unprecedented amount of backlash from the community regarding Franchise mode, EA Sports and EA Tiburon appeared to take the criticism to heart and laid out a roadmap that included free post-launch updates as well as improvements that would be implemented in Madden NFL 22. Today, the studio pulled back the curtain on Madden NFL 22 as a whole, including changes to Franchise mode, new ways that Next-Gen Stats are being implemented, and various improvements to the atmosphere of the games you play.
+
+Atmosphere
+
+Feel The Atmosphere
+
+If you've ever attended a high-stakes, live sporting event, you know the electric feeling that comes from being there for the tense moments of anticipation, the crescendo of the big play coming together, and the devastation of defeat. With Madden NFL 22 on new-gen consoles, EA Tiburon wants to replicate those feelings, and in the process grant gameplay advantages to the home team.
+
+New Gameday Atmosphere mechanics bring the crowd to life and give the home team extra benefits beyond the cosmetic realm. While new crowd animations, remastered crowd recordings, and "hero" crowd characters help make the spectators more believable and realistic, they can and will impact the way games play out.
+
+"We want you to feel like if you're a fan and that's your home team, you go there and you get that sense of what it sounds like; we hope to translate that to the game," executive producer Seann Graddy says. "We also wanted to feel like that when you're the away team and if you're playing in Franchise with your favorite team and you're playing as the Steelers and you hate the Ravens, but you've been there and you know what that sounds like when your team goes there. We want to bring that to the table."
+
+Crowd noise can make it tough for opposing quarterbacks to hear the playcall, and new characteristics for each stadium grant special bonuses to the home team and apply various gameplay modifiers based on the location. For example, in the thin air of Denver, throws and kicks will fly further for both teams, while the visiting team will struggle to catch their breath, taking a hit to short-term stamina. Other examples include the Windy City of Chicago making it tougher for kicks to fly straight, Vikings players getting a red zone boost as the "Skol" chant rings through the U.S. Bank Stadium in Minneapolis. And the notorious 12th Man of Seattle rattles visiting players, making it so their pre-snap play art is squiggly.
+
+That might sound familiar for those who have played the NCAA Football series, but according to EA Tiburon, this goes beyond anything that series did. "Gameday Momentum, it really has its origins in what we had in NCAA for sure, but it's modernized and one of the key pieces of feedback we got way back when we made an NCAA game was it was a little too ambiguous and there wasn't a lot of different objectives to know when you unlocked certain things," gameplay producer Clint Oldenburg says. "So that's what we really attacked with Gameday Momentum, is giving you the proper feedback to know exactly what you need to do and what you're going to unlock and when you're going to unlock it. It's a modernized version of that blast from the past, if I may put it that way."
+
+Of course, if you don't give the fans something to cheer about, they can't be a factor in the game, which is where Gameday Momentum, another new mechanic, comes into play. Now, when you play through a game of Madden, a Momentum meter appears at the top. Depending on performance of each team, momentum shifts back and forth, granting additional bonuses (called M-Factors) to the teams. These can include activating those aforementioned modifiers like making the play call more difficult, or other bonuses like making kickers less accurate or making receivers less effective at running hot routes. While each team can use these M-Factors, the home team gets a slight advantage with one additional M-Factor to hammer home the notion of home-field advantage.
+
+Franchise Mode
+
+Building Up The Franchise
+
+As I mentioned before, the Franchise mode of Madden NFL 21 was perhaps the most maligned mode in the game. EA Tiburon made decent strides post-launch via three separate title updates, and while Madden NFL 22 will operate under that strategy, with post-launch updates planned throughout the NFL season, the Franchise mode will be stronger right out of the gate. 
+
+"Just like when we started in Madden 21 when we started that title, players were saying they wanted more from the mode," Graddy says. "We came back with the three title updates that we talked about and set out a roadmap that we wanted to achieve. For the most part, we delivered the things that we rolled out. At the same time, we said, 'Hey, we're going to come back in 22 and invest in this super popular mode – depending on the time of the year, it's our most popular mode, the highest number of players inside of it. It was important to come back with a robust feature set for that audience that kind of started at the launch of Madden 21."
+
+The new Franchise Staff feature lets you build, grow, and customize four coaching staff positions using RPG-style skill trees. Using experience earned through play, you can develop your head coach, player personnel, offensive coordinator, and defensive coordinator with more than 60 different talents. Additionally, players can expect more talents to arrive following launch. 
+
+For Madden NFL 22's Franchise, EA Tiburon wanted to make every week feel like a distinct struggle. Sure, it accomplishes that through the new crowd and stadium atmosphere mechanics, as well as the specialized team-based momentum modifiers, but each team behaves different, and the gameplay should reflect that down to the core of the experience. Now, before every game in Franchise, you can set your strategy heading in. Using a new interface, you can study your opponent's strengths, weaknesses, and tendencies, then shape your gameplan around that. For example, if you're playing against the Ravens, you might want to set up some way to try and contain their hybrid quarterback, while facing off against the pass-heavy Bills might require a different strategy. Then, if you get into the game and see new tendencies emerging or that certain strategies are more or less effective than you thought, you can now adjust your gameplan at halftime.
+
+It's no secret the game of football is a grueling sport that can grind down the human body week after week, so Madden NFL 22 is including a new way to monitor player health. Now, when you set up the practices for the week, you can manage each player's practice intensity and if they're donning full pads the whole week in a careful balancing act of getting them the fullest benefits while also making sure they're healthy when they suit up on Sunday.
+
+The decisions don't stop there, however, as you now have more engaging goals to complete alongside choices to make and challenges with better rewards. New storylines emerge, complete with cinematics, choices to make, and more goals specific to the team you're controlling. Through these sequences, you can earn staff points, player experience, or even Dev Traits. 
+
+It all comes together in the newly redesigned Franchise Hub, which has been streamlined to surface the most important and pertinent information to you. If all this isn't enough, EA Tiburon is also planning its first post-launch title update for Franchise mode, tentatively targeted for September. In that mode, you'll be able to dive deep into player scouting, with the ability to manage and assign national and regional scouts, with players that gain and lose value on your draft board throughout the course of a season. This much requested feature looks great in the small glimpse I saw of it, and hopefully it's just as detailed in execution, giving players the much-needed tools to have better control over their draft planning.
+
+Gameplay Improvements
+
+Replicating Real Life
+
+Of course, every new gameplay innovation and off-the-field mechanic is for naught if the on-the-field product is bad. While the actual gameplay itself may have been the best part of last year's package, EA Tiburon has continued improving upon the successes while tightening up the shortcomings. The PlayStation 5 and Xbox Series X/S versions of Madden NFL 21 utilized NFL's Next-Gen Stats to create a more realistic and less robotic experience, and EA Tiburon is continuing to tweak and expand the parts of the game that these specialized stats impact. 
+
+Since this is the second year of Next-Gen Stat implementation, its effects are wider reaching. Players feel more accurate to NFL superstars and thanks to additional route-running and player-speed data, ball carriers feel more explosive, receivers have more control in catching (including more situational awareness for things like sidelines toe-drags and jump-balls against defenders), and quarterbacks have more control both in and outside of the pocket. 
+
+On top of that, new Star-Driven A.I. means players behave more like their real-world counterparts when under the control of the game's A.I. According to EA Tiburon, more than 80 percent of Madden NFL 21 games were played against A.I. instead of real players, so the team wanted to make sure that experience felt just as dynamic and meaningful. Quarterback decisions under pressure are now more reflective of real life, as are situations like passing on the run, making decisions under pressure, open-field pathfinding, and the A.I.'s knowledge of opposing X-Factor abilities. On a team level, playing against run-heavy teams feels different from pass-heavy teams, as does driving down the field against a blitz-heavy defense. As tendencies emerge throughout the course of the real NFL season, EA Tiburon will update the characteristics of the players and teams in the game.
+
+Finally, player momentum is more respected in Madden NFL 22. The upgraded system does a better job of taking player size, speed, and traits into account when collisions happen. Additionally, players can expect a more dynamic passing pocket that feels more authentic, and run blocking momentum enhancements lead to better running lanes and more realistic animations.
+
+The package is rounded out with other returning modes, including The Yard, Face of the Franchise, and of course, Madden Ultimate Team. While details aren't as readily available for those modes just yet, we do know that Face of the Franchise is called "United We Rise" and lets you choose quarterback, wide receiver, running back, or, for the first time ever, linebacker as you strive for superstardom with an all-new cast of characters. The new class system combines with player physiques and customization to let you create your avatar that will travel between Face of the Franchise and The Yard.
+
+Only time will tell if these changes result in a meaningfully better experience both on and off the field, but the early outlook is positive for the next entry in the long-running football franchise. Madden NFL 22 launches on PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Stadia, and PC on August 20. If you want to experience the Gameday Atmosphere, Gameday Momentum, and Next-Gen Stats features, you need to play on the PlayStation 5 or Xbox Series X/S version.
+
+Brian Shea
+Senior Editor
+Brian has written about video games for over a decade across multiple publications. When he's not writing or gaming, he's usually listening to music, watching UFC, or hopelessly rooting for a Baltimore or D.C. sports team. 
+
+Email
+Twitter
+
+      Products In This Article
+
+Madden NFL 22
+
+Release Date:
+
+2021
+
+Purchase
+More Info
+

@@ -1,0 +1,76 @@
+
+  Writer's Block: Portal 2 Writers Roundtable
+
+
+
+
+
+
+Valve’s Portal contained such solid writing that even if the gameplay 
+had fallen flat, we probably still would have been entertained. Don’t 
+expect the series to lose any of its wit, because as the sequel has 
+grown in size, so has the writing team. While Valve scribe Erik Wolpaw 
+almost exclusively wrote the first game, for Portal 2 he’ll be joined by
+ another OldManMurray.com alumni, Chet Faliszek, as well as Jay 
+Pinkerton, a humorist from NationalLampoon.com and Cracked.com. We 
+wondered what inspired this writing team, how they worked together on 
+Left 4 Dead 2, and what has been the most exciting aspect of writing for
+ Portal 2, so we got all three of them into a room and let them loose. 
+
+Erik Wolpaw
+Chet Faliszek
+Jay Pinkerton
+
+To start, could we go around the table and have you guys tell us how you all got started working at Valve?
+Faliszek: Eric and I had written for the website OldManMurray.com a long time ago. Eric had gone on to work at Double Fine Productions (Brütal Legend), but then one day, Gabe Newell sent us this e-mail, “Do you want a job at Valve?” We kind of thought it was a joke at first, so we wrote him back, “Can you give us any more information?” He said, “No. Come on out.” So we came out for a couple days, and after the end of the first couple days we kind of decided that we liked it, and we’d give it a chance. I remember sitting in a coffee shop thinking, “we don't want to uproot everything yet. We'll give them a month.”
+Wolpaw: We knew Valve would be a good place, but we had no idea exactly what we were going to do.
+Faliszek: That first month we were pretty sure we were going to get fired. In fact it was probably every month for the first six months we were expecting to get fired.
+Wolpaw: Valve does this thing where they hire people that they think are smart – which was a huge mistake on their part in this case – and who they think will help them, but they don't always have the position for them yet. So you kind of wander the halls wondering what it is you're supposed to do.
+Faliszek: Seriously, early on, if they had needed someone to move boxes, I'd have been like, “All right! Work, finally.” 
+Wolpaw: Really, we weren't doing anything. Gabe’s thing is, since he's in charge of everything, he’s like, “Just go to the team and tell them what you want to do, and they'll just do it.” But you can't walk into a place where people have known each other for 10 years and just take charge.
+Faliszek: “You guys made Half-Life 2. Failure! We are going to start all over.”
+Wolpaw: That was another thing; we started just days after Half-Life 2 shipped, so the company was kind of riding high. And because it was right after this huge game with such a long development process, everybody was decompressing. So, it wasn't even like there was a lot going on at Valve at that point. But you know, five years later we’re still here. We found something to do eventually.
+Pinkerton: Oh, my turn. I was working a crap job in Toronto, Canada. I was a proposal writer, and I had read OldManMurray.com and SeanBaby.com. I wrote comedy, but the Internet was kind of just starting out back then. I remember I would write articles for National Lampoon and Modern Humorist, and I quickly realized that I got 200 bucks to write an article, but I got 500 bucks if I laid it out as well, so I started learning HTML and Java and all that. At some point I just started running National Lampoon’s site for them and later I became an editor at Cracked.com. I was constantly trying to get Eric and Chet to write for us. “Do you want to write for us, because you're the funniest guys ever?” And, I guess that's the moral, just kissing ass, because at some point somebody asked Erik if he knew any good comedy writers, and Erik recommended me. At that time, I was thinking the bubble had collapsed on the Internet. I had gone from earning $250 an article to $50 bucks an article, and I was just watching magazine after magazine go under. So I'm sitting there in the publishing industry, and it's all gloom and doom, and then it was like, “Do you want to come out to Seattle and write video games and have money fights?” And I was like, “okay, that sounds fantastic.” 
+How do you approach writing a game like Portal 2?
+Wolpaw: A lot of the story comes from just talking it out and seeing what’s interesting and seeing if our ideas fit into the gameplay. Like with any game there are a lot of gameplay experiments you have to do first, and we try to keep up with that and think about, “Okay, if this element is in there, what does this do to the story? Can we wrap this around the story?” We try to make the story work well with the gameplay. For example – this isn’t an actual idea – but if the gameplay dictated that Portal 2 go out into the Half-Life 2 universe and you were out in City 17 with the portal gun, that’s not a decision we would drive as writers. That would be a gameplay decision, so we’d try to craft the story around that. It tends to work in sort of broad strokes, then you narrow in as the gameplay gets refined. With most of the games we’ve worked on, including Left 4 Dead, the final audio, the final dialogue, and all the little finishing details of the story, which is probably 80 percent of the actual game, comes pretty late in the process. The gameplay keeps changing, and you don’t want to get stranded with some late gameplay element that you just have no dialogue for. 
+Faliszek: Not only does the gameplay get done first, but after gameplay comes art, and art is like another month of work, so you might find that the joke you wrote about the boat doesn’t work because the boat is now a truck. Seriously, it just keeps changing. You try to talk to everybody and stay informed, but a lot of the time artists will come up with good ideas as well, and we need to accommodate them. There’s also a point in development in which within a half-hour timeframe [one of the lead programmers,Josh Weier] could make a big gameplay change that ruins good dialogue…so it's really Josh's fault.
+Pinkerton: It also happens where you're in the writers' room and you’re making each other laugh, and whatever you're talking about balloons into this 10-minute sketch, but you have to step back and think, “Okay, the guy playing this game is not going to sit there for 10 minutes and listen to this and think it's as funny as we think it is.” At some point you just have to do what the game requires.
+Wolpaw: There's a book about the writers' room for The Simpsons, and they seem to have the magic formula, which is two thirds goofing off and one third doing work. It was the same way at Double Fine and any other time I've done writing – maybe especially if it's supposed to be funny writing. We’ve got to keep the energy up, because there's nothing worse than everybody sitting around grumpy trying to write jokes. There's kind of a black art to it, keeping the energy up as long as you possibly can before it gets sucked out. 
+You probably have preconceived ideas what a character will be like beforehand, but does your writing change once an actor is on board and you know what that character will sound like? 
+Wolpaw: Definitely, it makes it easier for us to write because we can imagine their voice. It's also easier for them, because the actors just get better once they have a sense for the character. The trouble with game scripts versus movie scripts is that it's tough to give the actor a script that's a linear story. It's just this huge mass of contextual dialogue, so it's really hard for them to understand the character, because they don't have the story to read. We try to describe it, but until we've done a full session, they really aren't up to speed.
+Pinkerton: That's why it’s so helpful having actors who play games.
+Wolpaw: It's scary though, because the casting is a few lines and you get a bunch of people auditioning, and you kind of think you know what they are going to be like, but you don't know what it will really be like until you record.
+Faliszek: That is what happened with Left 4 Dead. Zoe is actually two different females. We recast her, but we really liked some of the first girl’s screams, so we kept those in. She was a good screamer.
+Faliszek: We all try to go to the recording sessions, because the actors themselves come up with a lot of good stuff. Eric Ladin [Ellis in Left 4 Dead 2] comes up with a lot of funny stuff. He’s really good. We work with the actors to create the character, so when we go back they can live in that space and they can ad-lib really well. I just wish Nick could ad-lib without using words we can't put in the game.
+Wolpaw: Nick from Left 4 Dead 2 is Hugh Dillion, who’s–
+Faliszek: He's Jay's boyfriend, er childhood hero.
+Wolpaw: He’s Canadian, and Jay's Canadian.
+Pinkerton: He's actually from the same small town in Canada that I'm from, which is just astronomical in terms of odds. I think we’re the only two people to have left that city, and we both ended up on Left 4 Dead 2.
+Wolpaw: He's a legitimate tough guy, but that's where their two paths diverge.
+Faliszek: He scares me.
+Pinkerton: It's not like only tough guys come from that town. Like I mentioned to him that we were from the same town, and then he made me cry.
+Faliszek: “Why do I care about that?” is what I think he said.
+
+What inspires you guys while you’re writing?
+Pinkerton: As much non-comedy as possible actually. I kinda just read as many genres as possible. You’re always trying to fill up that tank of tidbits and information so you can draw on them when you need them.
+Faliszek: Often, just weird little facts will help flesh out a scene and make it sound like you actually know what you're talking about.
+Pinkerton: That's the thing. I've never actually driven a tank, which you can probably figure out just by looking at me, but if you're trying to write dialogue for somebody who has, and you’re reading an interview about a soldier who has driven a tank, then you're going to remember that and use some of that later. I guess that's what I mean when I say drawing from as many sources as possible. When you're trying to write all these characters and make them seem fleshed out you tend to be almost like a magpie.
+Faliszek: Team Fortress was fun, because we knew we wanted to make it sounds like what Americans in the '60s would have imagined these people had sounded like, not what they actually sounded like, which I think got some positive reviews and some negative reviews. Depending on what country you're from, because as we updated each nationality that nationality would be outraged that we got the accents wrong.
+Pinkerton: It's always best to cast someone who can do an accent already, so you're not asking them to stretch too much during the recording.
+Wolpaw: We specifically didn't cast anybody for Left 4 Dead 2 who was going to have to put on an accent. Even Virgil sounds a little bit over the top. He’s this Cajun boat guy, but even then we flew a local actor in from Louisiana who was a genuine speaker of the Cajun slang.
+Faliszek: We would just tell him, “say 'come to the boat.'” And he would go back through and say it the authentic Cajun way. Otherwise we probably would have just put the word “guarantee” after everything.
+Pinkerton: That's the secret to writing a game, you don’t really write at all. You just lean very heavily on the actors.
+What are you having the most fun doing with Portal 2?
+Wolpaw: We're having fun fleshing out the different personality spheres. Part of it is, since they're not human and you spend most of the time carrying them around, you can do a lot of bits with them without making a ton of work for somebody else. Like the animators aren't pulling their hair out with all the stuff we've decided to do. It's kind of fun because you can take old comedy tropes, and you can do them in the game. You've never actually participated in these old bits of physical comedy before. It's kind of like going back to Half-Life 1 where we took these science fiction tropes and rehabilitated them by the fact that you got to participate. There's some comedy bits you may have seen a hundred times before elsewhere, but now you get to participate in them. 
+Pinkerton: It's also fun just to explore the ongoing relationship between the two leads.
+Wolpaw: It’s challenging but thinking of new things for GLaDOS to do and say is interesting. And seeing all the new art – and actually having artists now, because we aren’t just six people this time – we can say, “We'd love to be able to do this,” and then having the artist give you the thumbs up, that's nice. We've cast some actors that I don’t think we’re ready to talk about who yet, but we’re excited to think about the character voices in terms of who’s actually going to be doing those voices. It's always kind of fun when you're thinking about these twists and turns and then imaging what it's going to be like for somebody to finally experience that.
+Portal 2 has a lot of new characters. What is the process like when you go about adding new personalities to this world?
+Wolpaw: At first we talk about it. We took some long walks and tried to think up a scene or a character, and then we’d ask ourselves what was interesting about this guy.
+Pinkerton: If you see two or three guys walking around Bellevue shrieking at each other, it's probably us.
+Wolpaw: Jay is so loud that just the other day we were doing this, and an old guy disciplined him.
+Pinkerton: He told me, “You don't have to be so loud.” I think he was getting mad at me, so blame him because I don't think we got anything else done that day. I was so shamed. But a lot of the times we’re just riffing off the gameplay, and we’re trying to find the voice of the characters, so we’re trying on different hats. How much mileage can we get out of this one thing?
+Wolpaw: Because Portal 2 is bigger and Valve is bigger, we can actually toss around real actors. Not that people in our games aren't real actors, but now we can dream up a cast. What if we had this person? We don't have Norm McDonald in the game, but for instance we could say, “What if this guy sounded like Norm McDonald?” 
+Pinkerton: Prince, we can reveal that now. Prince is in Portal 2. [He’s joking…we think. –Ed.] Basically, it’s just long walks and trying to find plot holes in things and undermine the other person.
+Faliszek: Jay has this crazy thing where things have to make sense.
+Wolpaw: Yeah that's Jay's Canadian weirdness. It doesn't make any difference. Things don't always have to make perfect sense.
+

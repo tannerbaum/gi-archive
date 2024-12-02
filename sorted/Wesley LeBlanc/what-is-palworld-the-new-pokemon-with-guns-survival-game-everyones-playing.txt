@@ -1,0 +1,183 @@
+
+  What Is Palworld? The New 'Pokémon With Guns' Survival Game Everyone's Playing
+
+
+
+
+
+
+            Palworld first captured the attention of gamers (and their internet sphere) when it was revealed back in 2021. While that reveal included details about the survival aspects of the game, including multiplayer, crafting, and farming, viewers honed in on the idea of it being Pokémon but with guns. You can capture Pokémon-like monsters called Pals in special balls (and you can capture humans, too), but it's smart to shoot them or hack at them with an axe first to lower their health. And then, once under your command, you can give them their own guns to use, of course. 
+
+Following various trailers since that 2021 reveal, including this gameplay showcase and this one highlighting the different Pals you can find, we learned at Geoff Keighely's Summer Game Fest last year that Palworld would finally enter Early Access on PC via Steam and on Xbox in January of 2024. Ahead of that launch, Game Informer spoke to developer Pocketpair about the game and internet speculation that it's fake; and last week, we finally checked the game out for ourselves – watch Game Informer's gameplay here. While we enjoyed playing the game's first few hours, we never could have predicted how meteoric its first weekend would be. 
+
+If you haven't kept up, more than 5 million people purchased Palworld in its first 3 days on the market, with an all-time peak of 1,581,679 players playing it concurrently on Steam at the time of this writing (notably, this peak is different from the one I just saw moments ago, meaning even more players are continuing to pour in). That peak means Palworld has achieved the third-highest all-time peak in Steam history. It is safe to say Palworld is blowing past any and all expectations, and if you were on the internet at all this weekend, there's a good chance you read about its debut, controversy, and more. 
+
+But if not, fear not – we've got you covered. 
+
+What Is Palworld?
+
+If you aren't familiar , Palworld is a survival game from Pocketpair, an independent developer behind games like Craftopia and AI: Art Impostor (remember these names because they'll come up again later); Pocketpair is based in Japan, ironically 10 minutes away from The Pokémon Company, as noted by VideoGamesChronicle's Jordan Middler.
+
+PocketPair, the company behind Palworld, is located about 10 minutes drive from The Pokemon Company. Junichi Masuda is going to deliver the cease and desist by hand. pic.twitter.com/IH6SNUae3G
+— Jordan Middler (@JordanMiddler) January 19, 2024
+
+While it's easy to call the game "Pokémon with guns," if you go in expecting that, you'll likely be disappointed. While there are Pokémon-like creatures called Pals that look and behave like Nintendo's famous pocket monsters, you aren't a trainer traversing the world to collect gym badges and take on an Elite Four. You are someone attempting to survive a harsh environment with the help of Pals, guns, and various melee weapons. 
+
+You capture Pals similarly to how you might in a Pokémon game, utilizing a special ball to add them to your party and your Paldeck list. From there, you can use captured Pals to help you capture more or as workers in your home base factory, where they produce resources, automatically craft new things for your survival, and more. You can essentially enslave them, if you choose, although you don't have to. 
+
+On PC, you can play with up to 31 other players on a single server; it only allows up to four total on Xbox. You can fight raid-like bosses together, build a base with friends, and encounter various NPCs in the world. In these ways and more, Palworld is more like Valheim than it is Pokémon, but it's clear the "Pokémon with guns" pitch is what's initially drawing players in. 
+
+Palworld's Meteoric Launch
+
+Palworld officially hit Early Access last week on Thursday, January 18. It quickly ranked third on Steam in its Top Wishlists, which often provides insight into how a game might sell. Within just eight hours of launching, Palworld crossed 1 million copies sold, according to the game's official Twitter account. The Palworld servers were quickly over-encumbered by so many players, leading to issues for people trying to play the game.
+
+"We are blown away with the response to Palworld and we're doing our best to respond to your issues," the Palworld Twitter account tweeted on January 19. "Currently, our server provider is reporting that due to the large amount of concurrent players, the servers have become unstable and you may be experiencing issues connecting to servers." 
+
+Hello everyone,
+We are blown away with the response to Palworld and we're doing our best to respond to your issues!
+Currently, our server provider is reporting that due to the large amount of concurrent players, the servers have become unstable and you may be experiencing…
+— Palworld (@Palworld_EN) January 19, 2024
+
+Palworld crossed 2 million copies sold in just 24 hours, on January 20, surpassing 730,000 concurrent players on Steam, achieving the 10th highest all-time peak in doing so. Palworld then hit another achievement just 16 hours later: 3 million copies sold in 40 hours. Server issues continued, but Pocketpair announced on January 20 it had an emergency meeting with Epic Games and its Epic Online Services team to resolve connectivity issues. 
+
+The hype surrounding Palworld continued through the weekend, selling 4 million copies in just three days. Pocketpair incorrectly announced on January 21 that Palworld achieved the highest concurrent player count of any paid game in the history of Steam, but internet sleuths were quick to point out that PUBG set this record in 2018 with 3.2 million players. In 2018, PUBG was a paid game – it went free-to-play in 2022, something Pocketpair says it was unaware of at the time of its post, which is why it thought it achieved said record. 
+
+Our apologies, we were unaware that PUBG previously obtained the record before becoming a f2p game.
+Again, our apologies for this misunderstanding. https://t.co/r1YeN2Bed5
+— Palworld (@Palworld_EN) January 22, 2024
+
+On Monday, January 22, Pocketpair announced that Palworld has sold more than 5 million copies in three days. For reference, it took PlayStation 5-exclusive (and first-party developed) Marvel's Spider-Man 2 11 days to hit the 5 million mark. 
+
+Palworld sits in third place for all-time peaks in Steam history, behind PUBG's 3.2 million peak and Counter-Strike 2's 1.8 million concurrent player peak. 
+
+On Tuesday, January 23, Pocketpair announced that Palworld had sold 6 million copies and it did so in just four days. Its peak concurrent count on Steam at the time reached 1,809,781, too. That's just short of Counter-Strike 2's peak. However, later that day, Palworld did cross Counter-Strike 2's peak, claiming the second-highest all-time peak of Steam concurrent players. The following day, on January 24, Palworld crossed 7 million copies sold, doing so in just five days. 
+
+On January 25, Pocketpair announced that it had sold more than 8 million copies of Palworld in less than six days. 
+
+#Palworld has sold over 8 million copies in less than 6 days!
+Thank you very much!!
+As stated previously, we continue to work at full-speed on addressing bugs and issues!
+Thanks for your support!#Pocketpair pic.twitter.com/4PLB1J4CYH
+— Palworld (@Palworld_EN) January 25, 2024
+
+Roughly a week later, on January 31, Microsoft revealed that Palworld had the biggest third-party Xbox Game Pass launch ever, with more than 7 million players jumping in on Xbox. Pocketpair revealed alongside this news that the total player count for Palworld across Xbox and PC has exceeded 19 million, meaning 12 million people have played the game on Steam alone. 
+
+🎉Total number of players exceeds 19 million🎉
+It's been less than two weeks since #Palworld was released, thank you!
+・Steam: 12 million~ copies
+・Xbox: 7 million~ players
+We will continue to prioritize fixing bugs!
+Thank you for your continued support of #Pocketpair! pic.twitter.com/twgAeYVL07
+— Palworld (@Palworld_EN) January 31, 2024
+
+If one thing is clear, players were extremely interested in Palworld. However, it's important to note it's an Early Access game, which means Pocketpair presumably still has a lot of work to go into the game and that issues will likely be more abundant than a standard release. Only time will tell if these numbers hold, but right now, Palworld shows no signs of slowing down. 
+
+Palworld Controversy: A.I., Copyright, And More
+
+During Palworld's massive launch, more and more players and spectators online began to throw some hefty accusations at Pocketpair. While the Pokémon comparison is clear, some have called into question both how Pals were created, claiming the use of A.I., and how similar some are to Game Freak's own Pokémon designs. 
+
+Cecilia Fae on Twitter created a thread with dozens of Pals and the Pokémon they most resemble to give people an opportunity to see the similarities. Many seem extremely similar, leading to players and others calling into question copyright or blatant rip-offs of Pokémon, while others toe the line more than outright cross over it. Here are a few of the most similar in their thread: 
+
+I’ll start with the obvious ones and the further down I go the less obvious they’ll be, but things like concepts or colours might be derived. This one has ears and theme of leafeon and everything else of cinderace. The small hands, the fluff at the pants, all of it. pic.twitter.com/X3x8w7xvgq
+— Cecilia Fae 🍂 (@CeciliaFae) January 21, 2024
+
+2. This one, also posted a lot on Twitter. Exact same face, same teeth placement, white and yellow eyes, identical pic.twitter.com/asmlDfHlTL
+— Cecilia Fae 🍂 (@CeciliaFae) January 21, 2024
+
+3. The next few are ones from a thread by @Barbie_E4 so thanks to them for highlighting these, this has the same or an extremely similar model to Serperior pic.twitter.com/RKNbc6R7lQ
+— Cecilia Fae 🍂 (@CeciliaFae) January 21, 2024
+
+4. Mega aggron’s body inspired, the helmet and teeth and eyes tucked away especially highlight this pic.twitter.com/0fog3mFPk1
+— Cecilia Fae 🍂 (@CeciliaFae) January 21, 2024
+
+There are many more examples in the full thread so be sure to check it out for additional information. But as you can probably see, some of these designs are questionable, leading to speculation that they're straight-up model rips from Pokémon games. 
+
+This led internet sleuths back to Pocketpair's 2020 survival game Craftopia. Around its 2020 release, Pocketpair was criticized for how similar to Nintendo's 2017 release, The Legend of Zelda: Breath of the Wild, its latest game, Craftopia, was. With Palworld blowing up this weekend, people have looked back at Craftopia once more to point out its similarities to Breath of the Wild in light of Palworld's similarities to Pokémon, and it's, uhh, something – Craftopia definitely reminds me of Breath of the Wild in more ways than one. 
+
+Everyone’s talking about Palworld, but nobody is talking about their other game Craftopia
+The first time I saw this trailer I was laughing for like ten minutes
+Insanely blatant BotW clone footage being inter-spliced with the Cow Killer 9000 and Fortnite building pic.twitter.com/veIeAypHDj
+— Drop everything and read Tomory (@JohnBGang) January 18, 2024
+
+But I'm not a game developer – I don't know the lines between "inspired" and "copycat." Nintendo didn't sue Pocketpair over Craftopia so I find it hard to believe the 2020 survival game did anything illegal. However, there is a line between, "Oh nice, you attempted to make your own original spin on Breath of the Wild," and "Oh, you're not even trying to hide how much you took from Breath of the Wild." Where that line sits, I don't exactly know, but the similarities are striking and worth discussing as players analyze Palworld and Pokémon. 
+
+Here's another example of very similar Craftopia designs: 
+
+Their other game Craftopia has some weirdly familliar designs as well but purple: pic.twitter.com/ovi7gdcxgd
+— Wolfchadren (@AndyWijsman) January 21, 2024
+
+And here's an additional example of someone pointing out similarities to Nintendo games within Pocketpair's various releases: 
+
+I am the exact opposite of a Nintendo stan (or a Ark/Wildcard stan), but seeing Palworld make tens of millions of dollars off of the most blatantly creative bankrupt, poorly put together asset flip game is so depressing.
+Their entire company strategy seems to be theft. pic.twitter.com/bRQxilrh94
+— TeeHallums (@TeeHallums) January 20, 2024
+
+The discussion of copyright, design similarities, and rip-offs continued throughout Palworld's launch weekend – it's still happening today at the time of this writing. While some cite model rips and uninspired design, others point to something potentially far more nefarious: A.I. 
+
+Before connecting A.I. accusations to Palworld, let's talk about one of Pocketpair's other games: AI: Art Impostor. 
+
+"AI: Art Impostor is an AI drawing party game for 3-8 players," the Steam description for the game, which hit Early Access in November of 2022, reads. "You are a progressive artist who commands AI to generate images, and you don't need aesthetic talent to draw good artwork." 
+
+From the jump, AI: Art Impostor says it uses A.I. to generate images for the game, something sleuths found interesting in the wider debate of whether Pocketpair utilized A.I. in Palworld. Then, people discovered that Pocketpair's CEO seems to be a supporter of generative A.I., a hotly-debated and controversial topic both in game development and throughout the tech world right now – read Game Informer's feature about the game industry's fight over A.I. here. 
+
+Heads up to anyone thinking of supporting/playing Palworld who also cares about genAI issues... The CEO of that studio is full speed ahead on generative AI, frequently promotes it and tries to push its use in his studio. Even made a game focused entirely around it using SD. pic.twitter.com/6fwvzhh6g7
+— Invertex (@invert_x) January 19, 2024
+
+Perhaps unsurprisingly, the internet has lost some nuance in this debate about Palworld, Pocketpair, and A.I., with many outright saying the game uses A.I. art. However, despite similarities to Pokémon – some think Pocketpair used generative A.I. art programs like Midjourney to feed it Pokémon designs and ask for something different – there's no definitive proof to back up this claim. 
+
+VideoGamesChronicle translated a Japanese post made by Pocketpair's CEO, Takuro Mizobe, addressing accusations toward the company. Curiously, Mizobe doesn't directly address accusations of A.I. However, Mizobe says Pocketpair developers are receiving abusive comments and death threats. 
+
+"We are currently receiving abusive and defamatory comments against our artists, in addition to tweets that appear to be death threats," Mizobe writes on Twitter, according to VideoGamesChronicle's translation. "While we have received various opinions about Palworld, it is important to note that the supervision of all materials related to Palworld is conducted by a team, including myself. I bear the responsibility for the produced materials. I would appreciate it if these comments towards artists involved in Palworld would cease." 
+
+As you can see, Mizobe doesn't mention A.I. It remains unknown if the game uses it at the time of this writing, but Game Informer has reached out to Pocketpair for clarification and will update this story if it learns more. 
+
+VideoGamesChronicle spoke to two experienced triple-A game artists about similarities between Pal designs and Pokémon. One artist told the publication, "You cannot, in any way, accidentally get the same proportions on multiple models from another game without ripping the models [or], at the very least, tracing them meticulously first." That artist told VideoGamesChronicle they "would stand in court to testify as an expert on this." They also point out that the silhouettes and proportions of Pals are "near-perfect matches" to certain Pokémon models, too. 
+
+Neither Nintendo, Game Freak, nor The Pokémon Company have commented on Palworld and its Pal design similarities to Pokémon. Given Nintendo's legal track record, which includes winning a lawsuit against a ROM hacker that led to a 40-month prison sentence for the hacker, if the company feels it has a case, it will pursue that case in court. Only time will tell, though, if Nintendo will join the accusations of copyright and design plagiarism people on the internet have thrown at Palworld and Pocketpair. 
+
+However, it's important to note that there are those who don't believe Palworld to be as nefarious in design as others accuse it of being, at least without concrete proof yet, including Arkane Lyon co-creative director Dinga Bakaba, who directed 2021's Deathloop and announced Marvel's Blade on stage at The Game Awards 2023 back in December. 
+
+In Bakaba's Twitter thread, which begins with the tweet below, they explain the nuances of similarities in game design and development, different playstyles, parody, and more. It's a great thread and well worth a read if you've been tracking Palworld all weekend: 
+
+Yeah, I'm surprised by how quickly this is escalating. I'll try to organize my own hot take-ish thoughts in a thread, separating concept, execution, and dev. First: it's not a Pokemon-like game. Digimon is. And even if it was, so what? (cries in FPS, BRs, Souls, hero shooters...) https://t.co/6jnWkfiANE
+— Dinga Bakaba (@DBakaba) January 21, 2024
+
+And to wrap up this deep dive into Palworld's massive Early Access launch and the controversy and hype surrounding it, here's what Palworld looks like with actual Pokémon in it (by way of a new PC mod): 
+
+Palworld already has a Pokemon mod
+Full video on my YouTube tomorrow! pic.twitter.com/X1ohT6mJiT
+— Toasted (@ToastedShoes) January 22, 2024
+
+Game Informer added that Pokémon mod tweet above to this story on January 22. The following day, on January 23, it learned that the video had been taken down by way of the following ominous tweet: 
+
+Nintendo has come for me, please leave me in your thoughts and prayers pic.twitter.com/HGg65y67Qp
+— Toasted (@ToastedShoes) January 23, 2024
+
+For more about the game, head to Game Informer's Palworld tag to watch trailers, gameplay, and read in-depth features. 
+
+[Editor's Note: Game Informer has edited this article to include updated sales statistics and additional information about the game.]
+
+What are your thoughts on Palworld? Let us know in the comments below!
+
+      Products In This Article
+
+Palworld
+
+Platform:
+
+Xbox Series X/S, Xbox One, PC
+
+Release Date:
+
+TBA
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

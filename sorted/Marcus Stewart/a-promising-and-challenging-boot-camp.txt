@@ -1,0 +1,76 @@
+
+                                          Metal Slug Tactics
+                  
+
+
+  A Promising And Challenging Boot Camp
+
+
+
+
+Platform
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC
+
+Publisher
+Dotemu
+
+Developer
+Leikir Studio
+
+Release
+2024
+
+            Metal Slug made its name as a fast-paced, run-and-gun explosive arcade shooter, making it all the more surprising how well it seemingly fits into a slower, turn-based strategy format. Since Metal Slug Tactics’ reveal at the final E3 in 2021, both series fans and tactics aficionados have been waiting with bated breath to get their hands on it. I count myself among them and was anxious to play a preview build to finally see how well this marriage of genres blends. 
+
+The demo gives me command of three available characters: Marco, Eri, and Fio (with a fourth, Tarma, unlockable later). Each is armed with a primary weapon, a secondary special weapon, and can sport unique passive skills and active abilities called Special Actions. For example, Marco emphasizes relentless offense, and his Salvo special action grants himself or an ally an extra hit for a single attack. Eri, the explosive expert, has a special action that lets her lob two explosives instead of one. Fio favors long-range and can manipulate enemy compositions by sending a drone that can pluck units or allies and drop them to another nearby square. Special Actions are activated by spending Adrenaline, the game's term for mana points. The mechanic Tarma boasts a knife for close-range offense, a shotgun, and can blow into foes with his motorcycle special action. 
+
+The demo offers one region, Argun Palm Desert, but I spot three locked regions for a likely total of four in the game. The villainous Abul Abbas’ army has occupied this desert and its rural villages, putting civilians in harm’s way. It’s my job to pry the region from his clutches, which is presented as a world map with eight missions I can tackle in any order. However, you can only complete four before the boss arrives, indicated by a countdown at the top of the screen. Each mission features a primary objective and a secondary, optional task (such as winning without losing a unit or finishing without taking damage). Both offer unique rewards such as XP gain, coins (which can be turned in for cash), weapon mods, or additional reinforcements. Since you can only tackle a mission connected to an adjacent, completed mission, it’s important to plot the ideal route to collect the resources you want/need. 
+
+ You're missing out!Normally this is where something cool would show.  Your browser is blocking third-party cookies so we're unable to display this content.Try clearing your browser cache, disabling ad blockers, and verifying that cookies are allowed: Verify cookie preferences
+
+Primary mission objectives include wiping out select targets, escaping to an exit, surviving a number of rounds, safely escorting an ally, and destroying a convoy before it leaves the map. Rounds begin by placing units in designated starting zones. Metal Slug Tactics features standard grid-based movement, and maps often include numerous destructible cover points. Placing units in these blue-coded protective spots reduces incoming damage, even when hit from the exposed side of the cover. My favorite element of stages is interactable hazards that can help eliminate foes without spending precious movement/attack points. This includes activating a crane to drop a suspended crate that crushes anyone underneath it. My favorite is shooting a pot to awaken a sleeping cobra that strikes anyone within its range, maiming multiple foes single-handedly (or technically zero-handedly) while also forcing them to navigate around it until it falls asleep again. 
+
+Primary weapons, such as a handgun or, in Eri’s case, a grenade, have unlimited ammo. Conversely, the more powerful special weapons, like a machine gun or grenade launcher, have limited ammo. Managing the use of your second weapon is critical, as you’re only allotted that ammo throughout your entire campaign, though replenishing ammo is a reward for certain objectives. The basic flow of positioning units in line with enemies to riddle them with bullets gets more interesting by lining up sync attacks. By targeting a foe within the same firing range as an ally, that character will automatically attack the target with their primary weapon right after you do. This allows you to unleash a tag-team or even triple-team assault if you play your cards right. However, an enemy can only suffer one sync attack per turn. It's a fun system that has me thoughtfully considering the placement of each character and feels puzzle-like in discovering ways to maximize each attack. 
+
+In true Metal Slug fashion, some stages include tanks you can hop into, and they’re great for quickly traversing the stage. Most importantly, tanks unleash a limited number of wide-reaching cannon fire dictated by their fuel count. In addition to dealing tons of damage, tanks serve as useful protective shells for characters on the brink of death. You can also earn Assets, special consumable items used in battle, such as airdropping the titular Metal Slug to wreak havoc. If a unit falls, you can revive them by calling reinforcements. However, this consumes a reinforcement point. You only have six of these for the entire campaign and can only replenish them by completing missions that reward an additional point. 
+
+Completing missions earns medals used to upgrade a character’s special action, improving its effectiveness and sometimes lowering its Adrenaline cost. Leveling up a character unlocks an additional special action from a randomized pool of three. Arsenal rewards offer a choice of three weapon mods. Primary weapons can equip two mods, while special weapons hold up to three. Stacking weapons with mods is crucial as it makes them more well-rounded and can be equipped to suit your playstyle. For example, a mod can increase the magazine size of the special weapon or make sync attacks more powerful for participating allies.
+
+After I finish four missions, the boss arrives in the form of Bige Shiee, an overly armed gunship fans may remember from Metal Slug 2. In addition to chipping away at this sturdy foe, which launches wide-reaching missile blasts with a one-turn warning, I have to face a plethora of grunts. Additionally, the floating docks serving as our battlefield gradually crumbled and sank into the ocean, forcing you to keep moving and not camp in an advantageous position for too long. 
+
+Failing a mission sends you back to the outpost, where you're greeted with new cutscenes, usually introducing a new character, such as Margaret, your commander, or the backpack lugging Rumi, who hangs out at the outpost to offer some kind of service. Rumi sells new weapons and mods, and you unlock new character abilities with Margaret. You can also purchase entire load-outs, presenting a full set of weapons and abilities favoring, for example, close-quarter play or one loadout that favors creating sync attacks. Your cumulative performance throughout all completed missions determines your payout, such as the number of missions you completed and the number of sync attacks executed by each character.
+
+Once you’ve kitted yourself out, its off to start the campaign anew. That's right; Metal Slug Tactics is a roguelite at its core. Starting a new campaign means completing missions all over again, though the selection and rewards are remixed each time. The introductory mission briefing features dialogue exchanges. All of your unlocked special actions and passives reset, too, leaving you with your permanent starting skill for each. 
+
+Because of this structure, the early runs of Metal Slug Tactics are quite difficult. I consider myself an experienced tactics player, but even on the lowest available difficulty, many early battles feel like a war of attrition, as conflicts often throw upwards of 15 enemy units against my mere trio. It also doesn’t help that most mission types continually introduce baddie reinforcements. At the start, your units don’t have much health and can be taken out quickly by two or three attacks. With limited revives and no way to heal units (initially, at least), I felt like I was fighting from underneath most of the time.
+
+The "escape to the exit" objectives are the most maddening due to the absurd amount of bad guys thrown at you versus your low HP count. Beelining for the exit often meant I was torn to pieces, but gradually picking off threats and inching toward the goal took ages, only for new enemies to arrive and replace downed ones. I finished most missions with only one living squad member clinging to life. 
+
+Strict resource management contributes to this challenge. Since your special weapon has limited ammo throughout the entire campaign, careless usage means you could enter a boss fight with only your basic pistol. At the same time, special weapons wipe out units much faster than your primary one, and the longer a mission lasts, the more the advantage often tilts toward your opposition. This is especially true if you want to fulfill the secondary goals, such as completing missions within two to three turns. 
+
+Because of the game’s run-based nature, you’ll likely struggle to get through missions for a while until you get some new abilities or gear under your belt. I performed noticeably better in my subsequent runs, but it took several repeated campaign runs before I felt like I could somewhat hold my own. That said, once I lasted long enough to accrue a solid stable of abilities to play with, building loadouts that complimented an individual's specialty as well as the team's dynamic became an enjoyable, strategically stimulating process. Still, climbing that initially steep difficulty wall may be an early turn-off for players expecting a more balanced experience from the outset. 
+
+Metal Slug Tactics’ presentation looks great, thanks to the series' charming sprites and animations. A catchy soundtrack courtesy of Tee Lopes is the melodic cherry on top. Despite the early roadblocks, I gradually developed a callus to Metal Slug Tactics' hardships and saw more consistent victories. Once I hit a groove, it became an enjoyable and strategically satisfying romp. I’m still worried about its overall balancing, but there’s definitely promise for Metal Slug Tactics to be a mission: success.
+
+      Products In This Article
+
+Metal Slug Tactics
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC
+
+Release Date:
+
+2024
+
+Purchase
+More Info
+
+Marcus Stewart
+Associate Editor
+Marcus is an avid gamer, giant wrestling nerd, and a connoisseur of 90's cartoons and obscure childhood references. The cat's out of the bagel now!
+
+Email
+Twitter
+

@@ -1,0 +1,154 @@
+
+  Balatro Was Almost Called Joker Poker And Other Details From Its Creator | Afterwords
+
+
+
+
+
+
+            It's been one month since Balatro, the poker-inspired deckbuilding roguelite, was released, and it has taken the gaming world by storm. In that short timeframe it has earned rave reviews (including a 9.5 out of 10 from us), positioned itself as a Game of the Year contender, and sold 1 million copies. To the delight of many, a mobile version was recently announced to be in the works. 
+
+For some players, Balatro seemingly came out of nowhere and its sole developer, LocalThunk, is just as mysterious. The highly private creator doesn't share his real name, but I was able to speak with him about his game development history, his philosophy for making games, how he came up with the idea for Balatro, and his reaction to its positive reception. Perhaps most importantly, LocalThunk also tells me the strangest pronunciations he's heard for the game. 
+
+Game Informer: What drew you to wanting to create games as a hobby, and how long have you been making games?
+
+LocalThunk: Well, when I was in university, I was taking this mechanical engineering course. And I was watching a lot of videos from YouTube of people playing video games, and I always wanted to make a video game. So that's kind of when it started. I was still in engineering school, and in my spare time, I'd start making simulations more than video games and some little games. And I made a kind of a Risk-type game... and I got really, really into the actual process of making games and simulations. So I ended up dropping out of engineering, and I went into a computer science program because of that. And basically, the entire time I was in that program, when I'd get home from school, I would just make games and keep coding, and it's something I held on to after I left school. I just always did that.
+
+The main thing with it, though, is I never really shared it with an audience. Either it was mostly just for me, or I would share it with a couple of friends and family that I knew who would appreciate these things as a way to share that part. So yeah, I've been making games for probably almost 10 years, I guess. But this is the first time I've made anything public at all.
+
+How did the idea for Balatro come to be? What was special about this concept that made you want to share it with the public?
+
+Well, the concept came from – it's a game called Big Two. It's a Cantonese game. If you've ever played a game called Presidents or Cheat or Janitor or A**hole, it's the same type of game where you have a hand of cards, and you select some of the cards and play them down. So it's actually based on a game like that. It's not based on poker. And I used to play this game, Big Two, all the time with my friends when I was in high school and growing up. I wanted to make an online version of that game to play with them during the pandemic.
+
+And so I started making the bare bones fundamental engine. And when I was doing that, I was watching YouTube videos about Luck Be A Landlord at the time. And I really liked a lot of the design elements of that game. And I thought, you know, I could transition this into a game like that, where you're facing off against the score requirement almost and you're not facing enemies, per se. And I just liked a lot about the core design aspects of that game. So I kind of combined those ideas. And after a while, it ended up being one of the more polished things I'd ever worked on so I thought it'd be kind of fun to put it on Steam.
+
+I read an interview with a PC Gamer, where you said that you're not really a poker player and that you're not particularly a fan of it. If that's the case, how did you decide to incorporate poker into this concept? The idea of taking something you're not really into but recognizing it could work for this formula is really interesting.
+
+I'm a little bit of an outsider in terms of indie games. I didn't really play a lot of indie games. I know a lot of the theming with indie games is one of the things that always kind of put me off with it. It's very fantasy-heavy. The theming was always a barrier to entry for me.
+
+When I was making this game, I thought, playing cards: what's something that's thematically tied to playing cards that has a lot of identity, iconography, imagery people are familiar with that they can lean on to get into the game instead of having to learn about so that they can get into the game? And I thought Poker is the perfect thing because it has all these interesting visuals, sounds, terminology people are generally familiar with. More than most other card games do, it kind of has this aura about it as a card game, more so than like a Solitaire would or Cribbage or something. So, I leaned really heavily on the theming because I knew the theming was such a strong part of Poker, even if the mechanics I don't really care for with Poker. I don't really play it. I know how it works, I have played it before, but it's not really a game I enjoy. 
+
+Do you think Balatro would have worked like with any other card game that uses real cards? Is there a card game you do enjoy that could have also fit?
+
+"Work" is the operative word. It depends what your definition there is. I think mechanically, it would be identical if it was dice and like a Yahtzee-type game because it's essentially the same thing; you're picking playing card hands from that. I could have based it off of Big Two, the original game that it was supposed to be based off of, but people don't know that game. So it's just another hurdle to even get into playing the game. Mechanically, yeah, there's really no reason why it needs to be Poker. I could replace the word "blind" with "enemy" and "chips" with "points" and it would be functionally identical. 
+
+I'm in the same boat as you in that I am not a poker player. I don't know how to play poker, but Balatro helped me memorize poker hands for the first time. As you're designing Balatro, was it more important to you that Poker players get into this game or more for people like me who don't care about Poker?
+
+Well, the intention was never to make a game for Poker players. I think I was expecting people that weren't familiar with Poker to be able to interface with it. I think honestly when I hear people that really are into Poker play this game, I do hear quite often they say like, 'Oh, it's actually nothing like poker', right? The skills that you have as a Poker player, like all the depth of the skill set that you develop, is so different from just knowing which hands are in Poker. It's more like playing your opponents and how you raise. I don't know Poker very well either, but I do know that it's looked at as almost like Chess where there's such deep strategy to that game, and none of that's apparent in Balatro. So no, it wasn't designed for Poker players. I can see how they would like it, though, if they just enjoy video games or like Solitaire. I don't think they would be more inclined to enjoy it than like you or me.
+
+Are you a big fan of deck builders? Did you ever try to make any before as one of your smaller, private projects or is Balatro your first stab at doing a deck builder?
+
+This is the first deck builder I've ever played. I watched some videos about Luck Be A Landlord so I understood mechanically how that game works. But I'd never seen Slay the Spire or, I don't know, what other games [were] in the genre at the time. Since I made Balatro, I have played a couple of these games. And I think it's a really good thing that I never played any of these games before I made Balatro because... they're so well designed. The designs would have infiltrated my own design processes, and it would have kind of overshadowed maybe some of the original things. It would have saved me a lot of heartache and mistakes, but I think it would have narrowed the design space unintentionally.
+
+When did you feel you were on to something with Balatro? It's maybe the best deck builder I've ever played, and it feels like it was made by someone who has played a lot of deck builders. 
+
+The main goal that I had, my rubric, number one at the top, is I want a game that I enjoy playing. And I hit that mark, I think it was the week before launch day, that I finally [felt] like, 'Okay, I want to sit down and play this game in my spare time.' So besides that, I can't simulate what other people are going to think about the game. I had no idea if it would be successful or a flop or whatever. So, yeah, I just know, personally, that I started enjoying it about about then. 
+
+Do you find yourself enjoying Balatro more and playing it more often now that you're sort of on the other side of the launch?
+
+I do play it a little bit. But honestly, I really enjoy making games a lot more than I do playing them. It's hard for me to judge just because it's the only thing I've thought about for like two years, as well. So it's very difficult for me to be a critic and say, 'Am I actually enjoying it?' The reasons why I'm not playing it, is it because I don't want to play it, or is it because I'm just sick of working on it and thinking about it all the time? I don't know. I still do enjoy it, but there's a lot of other emotions and thoughts going at the same time too, so it's really hard to judge.
+
+How does it feel to have created something that's garnered such an overwhelmingly positive reception?
+
+I mean, it's cool. It wasn't something I was expecting. And again, I think the thing I'm most excited about is that I was able to do it in the first place [and] stick to this process for such a long time. And it was so much work. But sticking to that process and believing it's going to work out. So I'm most excited about that, and I'm most excited that I ended up making this thing that I wanted to make. And it's really nice that people also seem to really love it too.
+
+What was the most challenging aspect of developing Balatro?
+
+Taking it public 100% was the biggest challenge. You know, I've made games for so long, and I have also had another game that I've worked on for about two years, maybe two and a half years, and I never told anyone about that game. And all I think about is just how fun it was for literally the entire time I was working on it. No pressure, I could do whatever I wanted with it at whatever timeframe I wanted. And as soon as I went public with this game, I wasn't expecting there to be chatter all the time and pressure to do things, and if there's a bug you need to fix it, and criticism. Because none of that stuff really is why I wanted to make the game in the first place. I just love making games. All that stuff seemed almost like a means to an end if I wanted to have this game on Steam. So since it went public, I think dealing with that side of it has been the biggest challenge in the entire development cycle.
+
+One of my favorite elements of the game is the Jokers for how much fun they are, how much they change the game, and just the sheer number of them. What's the process behind designing a Joker suitable for Balatro?
+
+I think they're what people enjoy the most about the game. They're also so fun to make. Just visually, there's so many different directions you can take them. The process for making them is really fun because sometimes I'll come up with an idea for an effect, and then I'll brainstorm, and I'll think, 'Oh, that could work with this subject matter, that would be really fun.' And then, more often, it's the opposite. I'll see something, and it'd be like, 'Oh, that would make like a good-looking Joker', and then I'll have to come up with like an effect for it. So sometimes it starts from one end, sometimes it starts from the other. Sometimes, an effect will just be completely cut from the game.
+
+I think I've mentioned this before, but I do have kind of bad reading retention. And I think that's one of the reasons why I don't enjoy a lot of strategy games like this. So I made a pact with this game that descriptions can't be more than four lines and 20 words. That's probably changed since I've released it, there's probably some that are a little bit longer. But in general, I try and make it so that a Joker card needs to be really simple to understand for it to be in the game. That also really helped drive what Jokers do. They need to do things that are relatively simple, and that kind of breeds this elegant strategy by itself by doing that. So yeah, they were the most fun part of the game for me to make for sure.
+
+I'm also an artist. I love drawing in my spare time ... and this is the first time I really got into pixel art. So it was just another really fun, creative outlet in my game development journey that didn't involve writing code. So there's kind of like two different sides to it. And I do feel like I got to express myself a lot in that regard, as well.
+
+What disqualifies a Joker from making the cut, and how many were left on the cutting room floor? 
+
+A few ways. We had a very long beta/demo process for like seven months. So, I release a card, a Joker, and then it's clear that it's either just way too overpowered, or nobody takes it, or it's too niche. There's a litany of different problems it could have, and sometimes you can tweak it so the numbers are more in line with what it should be. But more often, if the effect just isn't good, you just get rid of it. [I'll] probably recycle the art into something else. That's usually what I do because the art takes quite a bit of time. Less often, I will completely scrap art. There's not very many examples of that happening. But every now and then, it does happen where I'll have art in the game for many months, and then I'll never love it, and I'll just think, 'I could probably do better than that,' and then I'll come up with something else. But that's pretty rare. I think usually I try and keep the art. So those are the main ways that a Joker would get completely nixed from the game. But yeah, it has happened quite a bit.
+
+I don't know how often do you watch other players play the game, but are you surprised with some of the strategies and combinations of Jokers players have discovered that, in some instances, almost break the game? Do you get excited when you see that stuff, or do you look and think, 'That's way too overpowered, I should change that.'
+
+I think I do think both things, actually. Because sometimes I do think something can be overpowered in a fun way. Something can be overpowered in a way that excludes the player from experiencing other fun in the game, which you don't want. So if there's something that's really easy to do that, 'Oh, I'll just do this every time, and then I won't feel the need to explore the design space of this game.' Then ultimately, that's the path of least resistance, and it's not as fun as actually branching out and understanding the depth of the game. So, sometimes I do feel like that.
+
+More often though, when I watch people that play that are really good, it makes me feel good that this game ended up being so emergent that when I watch, I'll be like, 'Oh, I never thought of that.' It's interesting how these strategies have emerged from the system that I created, and I didn't really consider a lot of these strategies. So, I do enjoy watching players do that. And I do think that I'm not very good at playing my own game too. That probably plays into it.
+
+Do you have a favorite Joker that you either love to play or was the most fun to illustrate? Is it the same card? 
+
+It's probably not the same card, no. My favorite art – I always like to shout out the banana Jokers in this game. The anecdote behind the Gros Michel banana, it went extinct, I think, in the '50s and was replaced by the banana that we know now as the Cavendish banana. So there's kind of some lore baked into the game where if you get the Gros Michel banana and it goes "extinct", then you can get the Cavendish banana later on, and it's less likely to go extinct. I really liked the whole design around that.
+
+Visually, I really like the Pareidolia Joker is well. Pareidolia is a word for when you look at a cloud or a tree or something, you'll see a face in it sometimes. That concept is called pareidolia, and it was really funny because I was able to recreate that idea by making playing cards on the Joker itself in the shape of a face, which itself is pareidolia. So, I really like the art for that card. That's one of my favorite ones, as well. But I don't know; I've got a soft spot for almost all the Jokers there. It's like picking your favorite child almost.
+
+You mentioned not being good at your own game. One of the cool things about this game also was the community that has sprouted up around seeds, and players posting their seeds and helping each other out. Have you ever played other players' seeds? 
+
+No, I never have. This is one of the biggest teaching moments I think I've had in this game. I barely even included a seed when I first went public with this game. I was using the seed as more of a saving tool so that you could save runs easier. And I decided to expose the seed itself as like, 'Ah, I have this anyway. May as well show it.' And players really, really got into the seeds, and I never understood it. So they would keep playing these seeded runs, and it just made me realize one of the core audiences for this game is a group that I don't personally identify with, as the things that I enjoy about the game being different than what they enjoy. I really enjoy that they love the seeds so much and they're able to share them, so I've tried to facilitate that as much as I could. But most of that has come from me actually talking to them and understanding what they enjoy about it, changing the seed algorithm so it more suits that idea. I've had to lean on them quite a lot for that. But I do really love that that's happened. 
+
+Balatro had a bit of trouble with being pulled from some international storefronts for visually resembling a gambling game. How did you react to this news, and what's your stance on gambling mechanics in games in general? 
+
+Well, my stance is more that I don't want to put gambling in my game. There's no way that you can spend extra money in Balatro to do anything else. I think really the problem is that it looks like Poker, which itself isn't technically a gambling game unless you actually spend money on it, right? I think that's where the biggest hiccup is, but like, personally, I'm opposed to spending money on a booster pack to get some kind of reward in-game or microtransactions or anything like that. Ethically, I wouldn't ever be comfortable putting that in my game. It did kind of sting a little bit when they assume that this game would be associated with those kinds of things when other games in this industry do that and I don't think they're punished in the same way.
+
+Now you've released your first game publicly, how has this changed your perception of game design and what makes a fun game? What are the biggest lessons you've learned that you think you'll apply to whatever you make next?
+
+I've learned so much about game design, actually. You know, I've been in my bubble for the past year and a half before I went public with this game. You don't see the things that people struggle with in your game, either core game mechanics that they don't enjoy or quality of life things that they think should be there that aren't. For example, tooltips. In the game, there were very few tooltips before because I knew what every Joker did or what every card does so I didn't really need them. But then, as soon as I went public with it, it's like, oh, yeah, why am I not displaying that information? So I think what I've learned is I want to involve beta testers early in the process to get that kind of feedback right away so I can kind of incorporate that into the core engine easier.
+
+But now that I've gone through this, I do feel like I know a lot of these things, like some of the pitfalls to avoid just from experience, so I'm sure it would go smoother the next time I release a game just due to that. But you know, basically, from what I mentioned before, I've been exposed to so many more games and design ideas and best practices and whatnot. And that's also probably going to change my next game for the negative a little bit, as well, because I won't be as uninhibited about making mistakes, and I'll be a little bit more rigid in terms of what kind of design space I'm willing to explore. I think there's there's a little bit of give and take there.
+
+Do you already have the idea for whatever you want to do next in your head now?
+
+I want to keep around Balatro for sure. I'm not really entertaining any big game ideas yet, but I do have some that I've thought about, yeah. 
+
+How has this experience changed your willingness to release games publicly? Has it made you more eager to put more games out for the world to see, or do you think it'll still be a little bit more case-by-case basis?
+
+That's interesting, actually. I don't know. I feel like my next game, if it was public or not public, I don't know if that would matter too much. I'll tell you what I am really excited [about] for the next game that I work on, is telling absolutely nobody about it basically until I'm done making it. I'm excited to do that so that I can kind of just get back to really what I love about this which is just making the game. 
+
+I've seen you say there's no wrong way to pronounce Balatro, and I respect that. That said, what's the weirdest way that you've heard people say the name of the game?
+
+There's two main camps. There's the "Bal-a-tro" and the "Bah-Lah-tro". But I do see the joke a lot of 'Oh Balatro, is that that movie with the dog and Alaska?'   
+
+Balto? 
+
+So I do see Balto a lot. I do see "Bell-a-tro" [with] like 'E.' The lesson here is that the name itself is not very marketable [laughs].
+
+I don't know, I think it stands out. I don't know any other Balatros out there.
+
+Yeah, I did it because I really felt like it encapsulated the idea I wanted. It was previously called Joker Poker as a working title. But I think there's an app on the App Store that had the same name. And I also thought it was a little silly compared to kind of the vibe I was going for in the game. I'm glad I changed it to Balatro. But yeah, people do struggle with it. And I do often hear in podcasts and stuff like 'Yeah, I don't know what they're thinking with the name', and I'm like, yeah, I get it.
+
+Balatro has a surreal vibe. When I first started playing, part of me wondered if it was secretly a weird creepy pasta game or something. How did you settle on the psychedelic vibe? 
+
+You know, that's one I've seen a lot of people say that like, 'Oh, it's because of this.' Like, it's because it looks like a video poker machine, or because of Inscryption or something.
+
+That's what I thought it would be. Something like Inscrpytion. 
+
+Yeah, and it's a little more dumb than that. It's because of the amount of iteration I went through with design. So one day, I just thought, 'I think this game would look good with the CRT filter on it.' I've never played a video poker machine in my life. Like, I don't even really know what they look like. I just thought, 'Hey, this would be kind of like a fun thing,' and then I put it in. I just really love writing shaders, so it was just like a fun project to do while I was working on the game. And it was like, 'Yeah, that totally looks good on this game so I'm going to keep it.' The swirly background and the kind of gyrating cards, and I just felt like it was all cohesive. And so I kept adding things that were cohesive to that central idea, but it kind of just came up organically. It's not like when I started, I was like, 'I'm gonna make some cursed interdimensional poker machine that people are going to be stuck at.' That's not like why I did, it just evolved into that.
+
+Since you're an artist, would you say it's reflective of your personal style?
+
+Kind of, a little, yeah. I like drawing really intricate abstract flowy art, normally. I've done that for a very long time. So I do kind of feel like it's the same vibe, – almost creepy. I do feel like it's [a] similar motif for sure.
+
+Balatro recently passed the 500,000 copies sold milestone (Editors Note: this was the figure at the time of the interview). Is there anything that you want to say to fans who have enjoyed the game?
+
+I said that the thing I was most proud of is the fact that I've just even got to the finish line at all. But, you know, the fact that people love this game so much, and they're so invested in its future and wanting to improve it and design ideas, they've kind of allowed me to turn this into a career. It's a career that I really want to do forever. I'm grateful that they've been able to afford that opportunity for me and that they keep playing Balatro. Keep getting those high scores.
+
+      Products In This Article
+
+Balatro
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC, iOS, Android
+
+Release Date:
+
+February 20, 2024 (PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC), TBA (iOS, Android)
+
+Purchase
+More Info
+
+Marcus Stewart
+Associate Editor
+Marcus is an avid gamer, giant wrestling nerd, and a connoisseur of 90's cartoons and obscure childhood references. The cat's out of the bagel now!
+
+Email
+Twitter
+

@@ -1,0 +1,90 @@
+
+  Double Fine's Approach To Crunch And Labor
+
+
+
+
+
+
+            Double Fine founder Tim Schafer used to tell people he didn't have any regrets; he's been able to make all the things he wanted to make. But as he got older, his feelings changed. In his career, Schafer both participated in and encouraged brutal periods of crunch on various game development projects. Reflecting on it now, he says he has a lot of regrets about what he put his teams through.
+
+"When it's just yourself, you can throw yourself against the task as hard as you can," Schafer says. "'All day and all night, I'm going to push this rock. Ahhh! I'm going to give it my all.' And then as I got more into a role where I was managing and designing and there were other people doing the gameplay programming stuff, now you're pushing on a soft person who's against the rock. So you can, like, squish them and kill them if you push too hard."
+
+Schafer's career began in the nascent years of the game industry; his first job was at LucasArts, the game development division of Lucasfilm, in 1989. While many large companies made games at this time – Schafer worked for George Lucas' company, after all – video games were still a hobbyist medium, made for and by hobbyists. Common labor practices of other industries weren't present in the burgeoning game industry – which was full of people making tentpole games at home with friends, such as the original Doom, developed by id Software and released in 1993.
+
+At the time, working day and night on video games, even at the cost of personal wellness, was just what game developers did. As Schafer tells it, it never occurred to him to be upset over the hours he put in at LucasArts. Working on point-and-click adventure games, such as Escape From Monkey Island, Day of the Tentacle, Grim Fandango, and Full Throttle, Schafer worked countless hours, because that was the job.
+
+"I had no life," Schafer recalls. "I was working on Grim Fandango until, like, three at night, seven days a week. All I did was be in the office writing dialogue all the time."
+
+Double Fine Productions
+Grim Fandango
+
+It's worth pointing out, Schafer still speaks highly of his time at LucasArts; in a lot of ways, it made his career. He also says that if he wasn't working on the games, he would have just gone home, watched TV, and ate Chinese food. "Like, it's not that big a loss," Schafer says about the time. But in 2000, Schafer left LucasArts and founded his own studio, Double Fine Productions. The first game the company worked on, the 2005 cult classic Psychonauts, had an abysmal development cycle. "In fact, the Grim crunch mode was nothing compared to the Psychonauts’ crunch mode," Schafer says. "So it got even worse, just like you would imagine."
+
+More than 15 years later, Schafer and members of the development team still talk about how miserable the production was at times. A big issue was, as a brand-new studio, the team had little experience with 3D platformers. It was also making its own engine at the time and learning at a basic level what kind of company Double Fine even was. While ultimately the finished product turned out great and the team still speaks fondly about the completed game, the making of Psychonauts fundamentally altered Double Fine forever. Starting on the company's second project, Brütal Legend, Schafer claims Double Fine tried to fight and curb crunch modes entirely. "We really reduced it on each project," he says. "We've been able to bring it down and mostly get rid of it."
+
+"Whenever there's crunch mode, it means a mistake has been made somewhere," Schafer says.
+
+For the last several years, crunch has been a hot-button topic in the game industry. As games get harder to make and opinions on work-life balance change, many studios have been called out for their labor practices. Rockstar Games, Naughty Dog, CD Projekt Red, and many other massive game companies have all come under fire when it comes to crunch. Where the game industry used to be full of young people making games in their homes, it's now a billion-dollar global industry, employing hundreds of thousands of people. In a lot of ways, the labor expectations of decades past, when a game was made by a few people, haven't scaled to meet the dynamic and changing needs of a workforce of thousands of developers who all have their own private lives, needs, and backgrounds. The game industry has yet to successfully unionize, either, which could better protect employees from exploitative labor practices such as crunch.
+
+Double Fine Productions
+Psychonauts
+
+The fact that a company like Double Fine is being as frank as it is about crunch and labor – with the press and with its own employees ­– is sadly rarer than it should be. Outside of exposés, crunch is often a hidden issue, kept away from the public eye. Double Fine is not only frank about its own issues with crunch and hopeful solutions,  but some people within the company don't exactly pull punches when talking about crunch within the game industry at large.
+
+"I feel like the industry kind of just leans on that," Schafer says. "I think that's where it's actually evil, when you know, your big company kind of banks on that. And they know they're going to lay off the team afterward, so it just doesn't matter what they do to morale, you know? So that's where the problems come from."
+
+"I do feel that when I worked at other companies – and I'm not going to name any names – I do feel like there were times where the culture and the fundamental planning for a game was built around making people work 60 to 80 hours a week for months on end, and that was built into the schedule," adds Double Fine artist Lee Petty. "That was extremely prevalent in the industry. It still is. It's less prevalent and now it gets hidden and lied about in various ways. That's terrible. That's a terrible cost to a human being."
+
+At Double Fine, mitigating crunch essentially comes down to planning and money. On a game like Brütal Legend, for example, the company partnered with its publisher EA, a move Schafer says was to secure the money Double Fine needed for the ambitious scope of the project without having to crunch the team to meet those demands. More recently, before it was acquired by Microsoft in 2019, Double Fine cut the boss fights from Psychonauts 2 because it didn't have the resources to finish those gameplay sequences – something it was able to reimplement after the buyout.
+
+Schafer disputes the idea that crunch is inevitable. But it is something a studio needs to prioritize. Human beings work for game development studios, and guaranteeing their quality-of-life, not sacrificing it for a commercial product, is part of running and managing a company.
+
+"You have to see that dial as not moveable," Schafer says. "You're like, ‘Okay, we're up against the gun. The schedule can't move because the marketing plans are in order. The quality can't move because we can't make something bad. The budget – there's no more money. You can't move these dials. Well, there's the quality of life of the team dial. Let's just move that way down and then we'll get all this more time.' People always see that as a dial that's movable because you have the authority to make people feel like they should work. You just have to set that as a rule that that's not movable either. In the end, you often move all the dials a little bit. You get a little bit more money, little more time, or you plan better so you don't have to do these kinds of trade-offs."
+
+Double Fine Productions
+Psychonauts 2
+
+Petty, who’s worked in the game industry for 25 years and been with Double Fine since Brütal Legend, says he's seen Psychonauts 2 handled better than any project before it at Double Fine. Schafer and other management have made avoiding crunch a top priority, he says. And while he feels great about that movement, he adds, "I feel like there's always improvement that can be done."
+
+These points are all echoed by newer members of Double Fine's staff. During a recent period of burnout, content and community manager Harper Jay, who also wrote about crunch during her time as a journalist for Kotaku, was told by her boss to take time off. "And I think in other places if you were working in Business Unit C of ward nine, whatever, that just wouldn't happen," Jay says. "But here, it's a thing that can happen because people do look out for each other."
+
+Other employees bring up similar stories, being told to take time off by bosses or superiors when they've put extra time in on a project. Similarly, sometimes if someone is staying at work late, they will also be told to just go home.
+
+"The only time I've ever stayed late is because I, personally, was like, 'I really want to get this thing done,’" says senior systems programmer Aaron Jacobs. "In those few cases when that has happened and I have decided to stay late, I will, at the time, often get pressure from people to go home."
+
+While Double Fine has certainly found a better balance in this area, that's not to say the studio is perfect and there isn't room for improvement. Challenges continue to arise, especially in the last year, when the workforce shifted to working from home due to the ongoing global pandemic. It's harder to keep an eye on every employee when they're no longer sitting next to you in an office. If someone does a bit of extra work at night instead of watching Netflix, does that count as crunch? What if someone works better at night than they do during normal work hours? Do you try and mitigate that? As Double Fine keeps addressing its relationship to crunch while also navigating a changing world, these are the questions newer employees bring up when asked about Double Fine's labor practices, on top of whether a project inherently encourages crunch – despite management's best efforts.
+
+Double Fine Productions
+Psychonauts 2
+
+"I think there are ways to improve," says senior concept artist Gianna Ruggiero. "Even though we are a culture that we don't condone crunch, is the project itself making it stressful for people to feel like they need to crunch? And if that is happening, how are we addressing that? And I don't think that's something that Double Fine is that aware of yet.”
+
+"Psychonauts [2], we keep extending when this thing is coming out,” Ruggiero continues. “And there are reasons for that. And there are stresses on people. That's something that I think we could be better at doing, is understanding and mitigating those stresses on people."
+
+It stands to reason that after 15 years of striving to limit crunch, Double Fine will continue to reevaluate, reassess, and work on its relationship with labor going forward. Talking to people from the studio, especially on Psychonauts 2, it seems to be a sizable pillar of the company's overall culture and development philosophies. Schafer admits he is still learning; it's an ongoing process. But at the very least, where other companies have often failed, Double Fine has created a workplace that tries to put the individual needs of its employees first. It's a game development studio making commercial products, but that studio is made of human beings. That's not lost on the brass within Double Fine.
+
+"I think prioritizing people is something that Double Fine does a good job at," says environment artist Janice Bell. "Because it just feels like a lot of other studios see their people as assets, where Double Fine is the first studio I've worked at where they actually see you as people, important parts of the studio with views that matter and input that matter[s]."
+
+      Products In This Article
+
+Psychonauts 2
+
+Platform:
+
+PlayStation 4, Xbox One, PC
+
+Release Date:
+
+August 25, 2021
+
+Purchase
+More Info
+
+Blake Hester
+Senior Associate Editor
+Blake Hester writes about the people who make video games. Before joining Game Informer, he freelanced for outlets such as Polygon, Vice, USG, and Rolling Stone. 
+
+Email
+Twitter
+

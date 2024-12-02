@@ -1,0 +1,61 @@
+Feudal Alloy
+
+
+  Exploring The Middle Ages As A Fish Inside A Robot
+
+
+
+
+            Feudal Alloy is a platformer in the Metroid vein set in a medieval world following the story of a fish-controlled robot. To see what’s behind the intriguing concept, we played an early build and reached out to Eva Balikova and Lukáš Navrátil, the two-person development team at Attu Games.
+
+The game’s artistic appeal is apparent right from the get-go. The whimsical hand-drawn trees flow in the breeze and grass sways underfoot as clouds float lazily by. In the center stands our champion, Attu, thrust on a hero's journey to recover his village's plundered oil – a vital resource that will heal Attu throughout his expedition. The villagers' fate rests on his spindly legs. His boxy metal chest bears the unfamiliar weight of a sword. And the fish encased in his glass dome blubs with determination. 
+
+“After we finished our previous game, we were just sketching some characters, and we really liked this one with a robot controlled by a fish in its head, explains Navrátil. “We had our fish-controlled robots and we needed to put them in some cool environment. We wanted something uncommon, so we came up with this crazy medieval world.”
+
+“We both are big fans of 2D Metroidvania games like Hollow Knight, Salt and Sanctuary, and Guacamelee, and we wanted to create something similar ourselves,” adds Balikova.
+
+After a quick cutscene depicting the idyllic fish-controlled robot village being raided by bandits (who are also robots steered by fish), Attu's grand adventure begins in the tunnels under his village where I quickly learned to swing his sword at everything. Not only are interactive switches and destructible barriers placed generously along the path, but Attu gains experience from the spare parts (and, humorously, sausages) stuffed into every container and enemy.
+
+When Attu’s experience bar is filled, you can spend ability points to unlock helpful buffs on the three skill trees, which literally look like trees and loosely represent attack, defense, and endurance. The trees offer stronger attacks and better defense, but one of the early buffs – which I strongly recommend unlocking quickly – makes Attu magnetic to spare parts, which helps you collect more experience and level faster.
+
+Leveling up is imperative because Attu is not a naturally gifted warrior. His endurance is meager in the beginning and he can only swing his sword a handful of times before he overheats. When that happens, you’re at the enemies’ mercy for a few seconds until Attu cools down, which makes Feudal Alloy’s combat unexpectedly strategic. “Originally [we had] just a simple, boring button-smashing type of combat.” says Balikova. “We added the stamina management mechanic, and players would have to switch between offense and defense strategies.”
+
+“Stamina [didn’t] make much sense for a robotic character like Attu,” adds Navrátil. We changed it to temperature and system overheating, thanks to an idea from one of our testers. It is basically the same thing, but it’s funny and makes much more sense. Coming up with using the liquid nitrogen and upgrading Attu’s cooling system was easy then.”
+
+Don’t be fooled by the quirky hero, charming aesthetics, and jaunty tavern music. Feudal Alloy's combat can be brutal, and the game doesn’t provide much guidance. Unlocking new paths is exciting, and more than once, I chose to take one path at a fork in the road, which turned out to have another fork and then another. I felt like I was adventuring through a truly vast network of intertwining tunnels.
+
+“We don’t like when the game tells the player exactly what to do and where to go,” Navrátil says, “It completely ruins the feeling of exploration. We love how games like Hollow Knight, the latest Zelda or Dark Souls games handle this stuff. So, we tried to do something similar, and use as few tutorials and hints as possible. We want players to find solutions on their own. There are no complicated puzzles in the game and players shouldn’t get stuck very much.”
+
+Hidden treasure rooms branch into undiscovered creatively designed halls rife with danger from traps and enemies. High above the ground, a winding path made up entirely of harmless-looking but collapsible platforms put a healthy dose of pressure on my platforming skills. After triggering one, poor Attu landed on the previously unseen razor-sharp spikes below.
+
+Many areas are unreachable until, with a sigh of relief, I found the right skill module. These clever data chips teach Attu skills that not only help him overcome barriers in the world, but also forge him into a formidable fighting machine. The first skill module I found grants Attu the ability to use bombs. After recklessly depleting my stash blowing tricky enemies to smithereens, I realized they also destroy metal gates I had previously been unable to open.
+
+Like a traditional Metroid-style game, I spent an unavoidable portion of my time investigating old areas to find barriers I could now overcome with new skill modules. Feudal Alloy tries to address this backtracking problem by connecting disparate paths via unlockable shortcuts and placing teleporters in every region - usually next to merchants. The merchants sprinkled throughout the realm offer a chance to spend hard-earned coins on armor, weapons, healing, and coolant but unfortunately, they won’t buy objects from you.
+
+Some equipment is exclusively squirreled away for Attu to discover in the world, such as weapons and armor sets that alter your look and your stats. “We want players to choose their equipment based on their play style,” says Balikova. “Some are focused on attack, some on defense and some on stuff like temperature management. This encourages players to explore the world in order to find all pieces and complete the armor set they like.”
+
+The multitude of environments, puzzles, and battles are well-designed to test newly gained skills and push your endurance levels, and it is a little surprising that it was all developed by a team of two people. “There are some pros and cons in developing this kind of game in such a small team, Balikova recounts. “We love the feeling that we are independent and there’s nobody telling us what to do. We don’t have to add anything just because of profit or because it’s popular right now. We’re just trying to make a game we’d like to play, and hope people will enjoy it as well.”
+
+Feudal Alloy is pleasantly addictive game that couples an amusing fish-powered, sword-wielding, robot hero with enjoyable exploration and calculated combat. The game is currently slated to come out in January for PlayStation 4, Xbox One, Nintendo Switch, PC, and Mac. Recently, Game Informer rounded up a list of games inspired by Metroid, if you need to scratch that itch for Metroid-style games before January.
+
+Jill Grodt
+Associate Editor
+Before writing about video games, Jill spent almost a decade working in Museums. Her favorite games combine her love of art, history, and storytelling with fun gameplay. If she isn't gaming in her spare time, she’s likely wrapped up in a good book.
+
+Twitter
+
+      Products In This Article
+
+Feudal Alloy
+
+Platform:
+
+PlayStation 4, Xbox One, Switch, PC, Mac
+
+Release Date:
+
+January 17, 2019
+
+Purchase
+More Info
+

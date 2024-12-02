@@ -1,0 +1,108 @@
+
+                                          Ghost Recon Breakpoint
+                  
+
+
+  Finding Authenticity In Ghost Recon Breakpoint’s Fiction
+
+
+
+
+Platform
+PlayStation 4, Xbox One, Stadia, PC
+
+Publisher
+Ubisoft
+
+Developer
+Ubisoft Paris
+
+Release
+October 4, 2019
+
+Rating
+Mature
+
+            Ubisoft will be the first to tell you that its games are primarily entertainment products meant to surprise and delight. The tenant of “fun” drives most all of its endeavors, from the historical Assassin’s Creed series down to the slick-but-serious Tom Clancy franchises. Ghost Recon is no different, but that doesn’t mean Ubisoft pays no mind to authenticity. For Breakpoint, the developers at Ubisoft Paris did extensive research on special operator tactics, movements, and behaviors to ground the player experience and inject a sense of realism into a game where you fight a fictitious enemy on a fictitious island.
+
+“We have to stick to gameplay requirements and constraints, and also match that and blend it with exact authenticity, as well as the entertainment version of authenticity that the experts call ‘tacticool’ – the Hollywood version of the military experience,” says previsualization game designer Jonathan Gingras. “In the end, we need to strike the right balance. We're not a military simulator or a survival simulator. We need to calibrate this balance very precisely.”
+
+To accurately capture the fantasy of being a special operator, the Breakpoint development team worked with members of the Green Berets, French Military Intelligence, Navy SEALs, RCMP Canada (special police unit), and French SAS. The design team studied and documented their tactics to help refine the gameplay concepts. This research funnels its way into Breakpoint in several ways.
+
+Sorry, this video is not available
+
+Realistic Movement
+
+Players will spend dozens of hours with their special operators in Breakpoint, and nothing would kill Ubisoft’s desire for authenticity quicker than animations that make these characters look like weekend warriors rather than elite, highly trained military experts. 
+
+Ubisoft Paris wants Nomad and the rest of the Ghosts to feel like real special operators, so they enlisted SAS operator Alex A. for three days of motion capture to make sure they move and act like the real thing. Given the varied terrain of Auroa, which has steep mountains, river valleys, and everything in between, they made sure to motion capture Alex moving up and down slopes to get true-to-life animations of how elite soldiers would move over this terrain. 
+
+Ubisoft showed us several subtle details it captured, like sluggish but deliberate navigation in water, with the soldiers being sure to raise their weapon to keep the barrel out of the water. The Ghosts interact with vegetation as they move through it, use their hand to assist traversing steep inclines, and lean back to keep their center of gravity when descending slopes. 
+
+When they see a threat, the Ghosts move their weapon to the ready position – buttstock in the shoulder, barrel up, and rifle angled so they still have a good peripheral view. When the time comes to engage in combat, they face their enemy with their full body when aiming away from cover to maximize the protection of the ballistic plates in their flak jackets. If the Ghosts are moving while aiming, they use special forces duck walk, crouching slightly to keep their aim steady even when moving. 
+
+Sorry, this video is not available
+
+Prone Camo
+
+Not every encounter in Breakpoint favors the Ghosts. Sometimes they will be overwhelmed and outgunned, so Ubisoft wanted to make sure they have a way to disappear when being hunted. The prone camo system allows the Ghosts to cover themselves with mud, dust, dirt, leaves, and even snow to blend into their environment and lose their trackers. It can also be used as an element of surprise to ambush enemies. To make sure this element of the game felt authentic, Ubisoft once again motion-captured Tier 1 operators to emulate the movement from a prone position while the engineers developed dynamic terrain displacement so you can see the ground being affected when the Ghosts grab a clump of mud to smear over their clothing and face. 
+
+Tactical Chatter
+
+Ghost Recon Wildlands took a lot of flak for its ridiculous squad chatter, which felt overwrought and groan-worthy even though the writer later stressed these were indeed things special forces operators say. Ubisoft alleviated this pain point by cutting out the A.I. squadmates altogether (though the company plans to reinsert them post-launch due to community feedback). That said, idle chatter and combat conversations are still a concern considering the Ghosts face off against a dangerous faction comprised of former special operators known as the Wolves. 
+
+To help get the tactical chatter right, Ubisoft brought on Emil Daubon, a Green Beret with more than 14 years of combat under his belt. “He's helped us with a lot of the tactics and everything, but he's also helped us a lot with the dialogue between the enemies,” Gingras says. “For example, if you listen to the Wolves, their tactical chatter is really on point as far as how operators really talk to one another.”
+
+Sorry, this video is not available
+
+Close Quarters Combat
+
+The early demos of Breakpoint showcase a brutal new collection of stabby close-quarters takedowns. These weren’t just imagined by designers who ingest a steady diet of over-the-top action movies. Alex worked with stunt actors to bring techniques real operators use into the fold.
+
+“Depending on the different equipment that you have equipped or the situation, you'll trigger different animation for different sequences,” Gingras says. “You can start imagining the amount of animations that went into the CQC aspect of the game.”
+
+The team motion-captured a variety of close-quarters combat scenarios from several directions, including attacking down a slope, springing from bushes, frontal attacks, and the brutal submissions that involve breaking an enemy’s arm or smashing their face to subdue them for grab and interrogate opportunities. 
+
+“Taking somebody out is no small task – it takes willpower, it takes skill, but it also takes resolve,” Gingras says. “The enemy wants to survive just as much as you do. And we really wanted to play it to feel that struggle to feel that life was on the line.” 
+
+Body Transportation
+
+Stealth fans will be happy to know that Breakpoint allows you to pick up bodies and stash them elsewhere to preserve the element of surprise. You can also transport a fallen comrade to a safer area to attempt a revive. To bring this element into the game, Ubisoft Paris studied the different ways soldiers would do this. 
+
+Working with its special forces consultants, Ubisoft motion captured quick pickups from every direction, one-handed handling of victims, and using a handgun while carrying someone. They even captured different pickup and putdowns based on who you’re carrying. If your cargo is the dead weight of a fallen enemy, expect the Ghost to handle them roughly. Teammates needing evacuation are treated with much more respect and care. 
+
+Sorry, this video is not available
+
+Capturing The Little Things
+
+To further drive home the idea that you’re controlling a highly trained operative, Ubisoft gathered a lot of seemingly mundane details from its consultants and captured them for Breakpoint. 
+
+“What you learn when you work with operators really quickly is that every move they do is calculated,” Gingras says. “This is built on years of combat learning, hours of training and repetition and muscle memory. And in the end, it's all about efficiency, economy, mastery, and safety. This is how they make order emerge out of chaos.” 
+
+Playing Breakpoint, you may notice these slight details. Ghosts always have a hand on the grip, ready to use the rifle. They also demonstrate finger discipline – keeping their finger out of the trigger until they are ready to shoot. The Ghosts carry guns differently based on weapon type. While they keep the weight of weapon on their hip for assault rifles, they bring their hands together and keep the weight of sniper rifles centered on their chest.
+
+While moving through the environment, the Ghosts perform equipment check to make sure everything is in working order in advance of their next skirmish. They check their sight battery to see if the scope light and aiming laser are working by holding it against their hand to see if it illuminates their skin. They check the gun chamber for jams, and tap the magazine to make sure it’s still there and firmly plugged in. Occasionally, they release their magazines to check their ammo count, and use their fingers to make sure the gun barrel doesn’t have debris or mud in it. They even reach for their equipment like extra magazines and grenades to make sure it’s still there after moving through rough terrain. 
+
+Ghost Recon Breakpoint releases October 4 for PS4, Xbox One, and PC. You can get your hands on the game in advance during the beta that kicks off September 5. To learn more about the game, read our previous coverage: 
+
+Touring The Archipelago Auroa
+Everything You Need To Know About Ghost Recon Breakpoint
+Ubisoft Explains Why Ghost Recon Breakpoint Has A Fictional Setting
+A.I. Partners Coming To Ghost Recon Breakpoint Post-Launch
+Exploring Ghost Recon Breakpoint's Crafting And Endgame Content
+
+      Products In This Article
+
+Ghost Recon Breakpoint
+
+Platform:
+
+PlayStation 4, Xbox One, Stadia, PC
+
+Release Date:
+
+October 4, 2019
+
+Purchase
+More Info
+

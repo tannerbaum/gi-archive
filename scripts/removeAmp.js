@@ -2,7 +2,6 @@ const fs = require("fs");
 const { glob } = require("glob");
 
 const removeAmp = async () => {
-  // find all files thats name end with "﹖amp.html" and delete them
   const files = await glob("**/*﹖amp.html", {
     ignore: ["node_modules/**"],
   });

@@ -1,0 +1,59 @@
+
+  New Marvel's Spider-Man 2 Update Addresses Various Progress-Stopping Bugs, Improves Stability, And More
+
+
+
+
+
+
+            Marvel's Spider-Man 2 hit PlayStation 5 exclusively last month and quickly became Sony's fastest-selling first-party game. We loved the game – read Game Informer's Marvel's Spider-Man 2 review here – but players and critics alike have discovered bugs and issues leading to laughs, in some cases, and progress impediment in other cases. Developer Insomniac Games released a patch last week that addressed a handful of issues and now, it has released a new update that fixes even more bugs and issues. 
+
+Here's the full Update Version 1.001005 release notes: 
+
+Addressed an issue where NPCs could spawn on top of each other in boats
+Addressed an issue where MJ could be defeated in one hit on higher difficulty settings
+Addressed multiple issues where hiding the HUD would cause some missions to fail to trigger
+Addressed an issue where collision was missing on the floor in the harbor
+Further addressed issues where players could become stuck in the finale of Marko's Memories
+Addressed an issue where players could switch character during the defeat sequence.
+Addressed an issue where the player could become stuck running on a wall
+Addressed an issue where the wrong Spider-Man could receive phone calls if the player switched characters during a call
+Addressed an issue where the player could lose the ability to jump
+Addressed multiple issues where inputs would not register after zipping to a point
+Addressed an issue where the game would not properly reload after being defeated by a boss.
+Addressed an issue where Peter Parker could become stuck on a bench or railing.
+Addressed an issue where Spider-Man could clip through the map and become stuck during combat
+Addressed an issue where the Hang Ten Trophy would not count flips accurately
+Addressed an issue where inputs would not register after grabbing a memory crystal
+Further addressed issues where models would not load properly after long play sessions
+Addressed an issue where the player character could leave a mission and enter the open world resulting in corrupted saves
+Improved stability
+
+Hopefully, if ones of these issues has stopped you from progressing past certain points in Marvel's Spider-Man 2's various quests, or if you're been hoping for more stability, you'll find a better in-game experience after installing this update. 
+
+For more about the game, read Game Informer's Marvel's Spider-Man 2 review and then read about how Insomniac updated New York City for the sequel. Then check out this story about this missing NYC landmark in the game. After that, read our guide for the best graphics mode in Marvel's Spider-Man 2, and then check out our spoiler-free tips. 
+
+Are you still running into any Marvel's Spider-Man 2 bugs or issues? Let us know in the comments below!
+
+      Products In This Article
+
+Marvel's Spider-Man 2
+
+Platform:
+
+PlayStation 5
+
+Release Date:
+
+October 20, 2023
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

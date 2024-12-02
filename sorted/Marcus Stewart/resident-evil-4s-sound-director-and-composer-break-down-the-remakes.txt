@@ -1,0 +1,110 @@
+
+  Resident Evil 4's Sound Director And Composer Break Down The Remake's Haunting Soundtrack
+
+
+
+
+
+
+            Sound design is an often overlooked and underappreciated element of many games, but it's an element Capcom takes very seriously in Resident Evil 4. As horrific as the game looks, it's the soundtrack and creepy sound effects that do much of the heavy lifting in building fear and tension. To understand how the remake remixes and enhances the original game's soundscape, I picked the brains of RE4 sound director Hiroshi Tamura and lead composer Kota Suzuki to learn how they're making the game sound as good as it plays. 
+
+Game Informer: A goal for the Resident Evil 4 remake is to create more believable soundscapes. Can you discuss what that means, with examples, and why that's important to the team?
+
+Hiroshi Tamura: For the remake, we wanted to pay great attention to the sound throughout the game. Making the sound feel good, as well as keeping a sense of reality, in addition to having those two points coexist with each other, were some areas that we gave a lot of care to. 
+
+Let me explain a little more what that means. RE4, the original, has been played and enjoyed by many players. We, of course, have to be aware of that fact and treat the sound of RE4 with the respect those fans want. At the same time, we are releasing the remake as a new game in 2023, using the latest technology. Finding a balance between those two aspects to produce RE4's sound is a difficult task, but that's the goal we, the sound team, set when we created the sound for this game. 
+
+To elaborate a little further, for our Capcom sound team, producing realistic sound like that which is often found in modern games isn't a difficult task in itself, as far as our capability goes. But if we made the sound as realistic as we could here, we would lose the essence of RE4. So we continually checked with, for instance, the producer, the director, on how far to take changes and when to pull back as we created the sound for the remake.
+
+What's an example of something that needed to sound hyper-realistic?
+
+Tamura: An easy one to give as an example would be the environmental sounds that help build space.  We gave a lot of attention to that. Environmental sound is made up of 'outside' and 'inside' sounds, which form the base of tone of that space or room tone. All of this in the remake is made with ambisonic techniques. No matter what area, this is the base. Then there's also what we call random tones. These are unique sounds that we have set for that specific room, like 'clack' sounds or the creaks of the house, animal cries, or pebbles falling. 
+
+Also, there's the sound of the wind. If you're inside a room, you're going to hear the sound of the wind the closer you are to an opening in that room, like a window or door. And if you're outside, the wind has a speed and direction calculated by the GPU in real-time. What this does is the sound of the wind is realistic and matches what you're seeing on screen, creating a sense of immersion. Another example is, say you've got grass on the ground and trees swaying and rustling. The degree of how much they are moving and the loudness, speed, and direction of the wind are in sync, heightening the experience.
+
+In addition to that, you have the stationary, selected, and unique environmental sound. And weather sounds, such as rain falling. We use these five layers to make up the overall sound of each space, which mimics the construction of environmental sound in the real world and creates a high level of realism. Within that, you have character sounds, a good example to give is a gunshot.
+
+For the sound of a gun shooting, the closer and closer you get to a realistic gunshot, the less and less it starts to feel good as you play the game. The real sound of a gunshot is quite cold and mechanical, so if you use that as-is inside a game, as a game the experience it doesn't feel good. So we balance the realism of the sound of the environment with sounds of action that have been created to feel good, and that contrast leads to a better experience overall.
+
+For the music, can you discuss the unique challenges of iterating on an existing score?
+
+Kota Suzuki: As Tamura said, we needed to respect the original as we created something new for the remake. When this project started, first I played the original again and then analyzed what kind of approach the original had and why. I've been an RE4 fan since the original. I gave a lot of thought into what to carry over from the original, what new to add. For instance, the save theme, the merchant music; those are arrangments of the original music in the RE4. I want fans of the original to pick up on those and feel happy hearing something familiar. On the other hand, for example, the music when battling a Ganado, in the original RE4 it used a lot of noise-type sounds, which was really innovative for a horror game at the time.
+
+While we kept that approach, if we used the same sounds as the original did, it wouldn't feel right in today's age. So instead, we've used modern techniques to express the same nuances that the original did. We gave a lot of thought on how to build a sense of fear. I think tone is incredibly important, which is why it's an area I gave especially a lot of attention to as I created the music.
+
+For the sound effects for the enemies, was everything re-recorded from scratch?
+
+Tamura: Almost all of them are recreated from scratch. None of the sounds have been used as-is from the original, but we have some sounds which have been arranged or modified from the original RE4 and used in the remake. For the sounds we recreated from scratch, we didn't just create any sounds we wanted. Again, we referenced the original, ascertained what the essence of the sound was, and recreated it in a way that respects the original. For the sounds that are based in the original, I think some fans out there might be able to tell which ones they are once they hear them in the game.
+
+Is there a particular enemy you were excited to revisit and update?
+
+Tamura: This enemy appeared in one of the trailers, but Del Lago. It doesn't have a lot of sounds, but it took a lot of trial and error to find that sound, like its cry, that felt right for Del Lago. It's an enemy that you fight while on the water, so it took a lot of work to create a sound that gives life to the character and also stands out from the environmental sounds occurring around you at the time.
+
+Are there any new music tracks in RE4? If so, how many? How did you decide it fit into the existing soundtrack?
+
+Suzuki: There's no song that we used as-is from the original. But roughly speaking, probably about 30% of the tracks keep a melody line from the original or arrange a phrase from the original. The other 70% is new. Of that, some of it is music remade while keeping the original concept. For the Ganado music I touched upon earlier, that concept was using a lot of noise sounds, but for another track, it could be an irregular rhythm or a creepy sound that almost sounds like a voice. And for some tracks, we've taken a different approach. For example, maybe a track in the original had a very strong horror feel that we instead went with a little more dramatic direction for it in the remake. I think you'll find the soundtrack has a lot of variety throughout.
+
+How did you create the sound of the las plaga exploding from a Ganado neck? What is the most unique method you used to achieve a sound effect?
+
+Tamura: For that sound, the impact, the feel of that sound is something we paid a great deal of attention to. If you're surrounded by enemies, and you start hearing that sound, then in the game you are probably in quite a lot of danger. The game must properly communicate that danger to the player with its sound. But at the same time, there's also a lot of other sounds that need to be played, and a lot of those are very important as well. So we had to figure out how to deliver that information to the player among all the other sounds. To do that, we emphasized the attack of the sound to both make the sound easily identifiable by the user and make the sound have an impact that felt right. Also, we made sure to balance the low end to add to that impact.
+
+We used a lot of different materials to make the sounds that appear in the game. There's not a lot I can talk about now, but we did cooperate with other companies and go to different locations to capture sounds.
+
+What unique instruments or themes were used during composition?
+
+Suzuki: There's nothing like a main theme for the whole game. But to help build an atmosphere of fear, we did decide on different tones. For example, each area of the game, like the village at the beginning. For the village, when I was first making the music, I was using a hybrid approach, using things like some modern synthesizers. But the director told me it was too new sounding and asked that I try and create the feeling of an old village while aligning it with modern trends. So, at the Capcom studio, we did things like play an acoustic guitar with a violin bow or had a piano that wasn't being used brought into the studio, and used things like nails to set up what is called a 'prepared piano' and played that, and processed sounds of things like rocks being scraped and used those in music tracks. We did a lot of interesting novel recordings like that. The collection of those things is how we expressed the essence of RE4's music.
+
+How do you feel the RE4 soundtrack stands apart from other entries in terms of how it builds and maintains a tense and unsettling atmosphere?
+
+Suzuki: The fights with the enemies in the remake of the RE4 are very interactive. In a lot of instances, depending on the player's behavior, it's not possible to predict where the player will fight with the enemy. In a lot of games, it can be linear; you will fight an enemy here, and when you beat it, you proceed. For RE4, there's a lot of freedom there. So we spent a lot of care in creating an interactive music system. 
+
+For instance, we have definitions for statuses like 'no enemies,' 'enemy close, but hasn't noticed the player,' or the neutral, warning or battle status. Then the music changes depending on that. Also, even for a battle starting, there's more than just spotting an enemy in front of you. The volume of the sound coming from an enemy is also detected, so for instance, if you can hear an enemy close, we might treat that the same as an 'in battle' status for the interactive music system. Also, for instance, if there's many enemies around you, then the music might be arranged slightly, or maybe the number of instruments might increase. These kinds of things add up to make the tension of the music match the feelings of the player more than ever before, I think.
+
+Can we expect more audio tricks to be played on players? How fun is it messing with players using sound?
+
+Tamura: Even with the power of today's high-end machines, to help reduce processing load, culling is used. That's when you basically turn off any objects in places you can't see, like behind walls. Oftentimes that disables all the sounds that object would make, as well. Culling is a necessary process. But for instance, in this remake, if we have a Ganado behind a wall that the player can't possibly see or get to, then from a graphics standpoint, it's fine to turn off, so we cull it, but at the same time, we create another purely sound object in its place. This sound object plays the sounds the Ganado would make, so while the Ganado itself has been culled, you still have the presence of it through those sounds.
+
+By doing that, we can instill fear from things you can't see but can hear and also create atmospheric sounds, which we both treated with a lot of care in the remake. Also, in the remake, we use a feature called room portal. It breaks up in-game rooms into values depending on acoustics and then adds what's called a 'portal' to openings, such as a door or a window to connect rooms. We use that throughout the world of this game. Doing this allows sound occlusion and diffraction to be naturally stimulated. 
+
+This means that, well, let's imagine you're in a small room with one open door a little ways in front of you. If an enemy was on the other side of the right wall and, for example, yelled, a direct pass processing these sounds would place the sound source to your right. But if there's a wall between you and the enemy, you shouldn't be able to hear that from the right. In the real world, that yell would sound like it's coming from the open door in front of you. Using room portal in the game, that effect can be replicated in the game, and it will sound like the enemy's voice is coming from the direction of the door. Going back to the direct pass, in this game, depending on the thickness or density of the wall, how much you can hear through walls will be adjusted appropriately.
+
+Is room portal unique to this title, or has it been used in other RE games?
+
+Tamura: In the past, it's been used partially in titles like Village. But the way room portal is implemented, it's an implementation similar to things like middleware. We implemented it into the RE engine. It takes a lot of manual work to create each room, so in past titles, it was used sparingly to enhance certain areas. For this remake, we implemented it in a way we could use it throughout the whole game. From a technical standpoint, every area in the game exists as one of these rooms. If it wasn't, it wouldn't be able to play sounds.
+
+As sound professionals, what iconic sound effects or score stays in your mind? What's your favorite?
+
+Tamura: I play games, so when I think about sounds, I find myself thinking of games. Battlefield, or Call of Duty, things like that. What I like about the sounds, particularly for Battlefield, is the in-house HDR audio engine DICE uses; the dynamic range is so skillfully used. I've seen some of the sessions where they've spoken at GDC, and a lot of it impresses me. For gunshot sounds, I really like the ones in Ubisoft's The Division. The multiplayer system is very good, and the sound design is also really well done. The UI sounds, the gunshots, and the interactivity of the background music. As a personal hobby, these games interest me. (laughs)
+
+Suzuki: There's a lot of music that I like and listen to. For things that inspire me, I would say that's usually the music from movies and dramas. Lately, some things that I've seen where the music impressed me was, well, maybe it's not so recent, but Tenet and a drama series called Dark, which has a really great opening track. Things that continue to leave an impression on me, the famous songs I like, are things I listened to a long time ago. Music by Hans Zimmer, or John William's Star Wars music. For Star Wars, I love Episode 3 so much!
+
+Between the musical score and sound design, what emotions do you hope to draw out from players?
+
+Tamura: For fans that played the original RE4, I hope they feel a sense of comfort [and] understand just how much care we paid to the original as we created this remake. For players who are playing RE4 for the first time with this remake, I hope they feel the quality of this remake aligns with things like the RE2 remake and Village, which were regarded very highly.
+
+Suzuki: I share the same feelings. Also, the original RE4 had a balance of horror and drama and as a whole, was a highly entertaining experience. We recreated that balance while updating the game to the high level of modern standards. I hope the players feel that and that when they complete the game, they look back and can say it was both scary and fun.
+
+Be sure to click the banner below to visit our Resident Evil 4 cover story hub filled with exclusive features and videos. 
+
+      Products In This Article
+
+Resident Evil 4 (Remake)
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation VR2, PlayStation 4, PC, Mac, iOS
+
+Release Date:
+
+March 24, 2023 (PlayStation 5, Xbox Series X/S, PlayStation 4, PC), December 20, 2023 (Mac, iOS), December 8, 2023 (PlayStation VR2)
+
+Purchase
+More Info
+
+Marcus Stewart
+Associate Editor
+Marcus is an avid gamer, giant wrestling nerd, and a connoisseur of 90's cartoons and obscure childhood references. The cat's out of the bagel now!
+
+Email
+Twitter
+

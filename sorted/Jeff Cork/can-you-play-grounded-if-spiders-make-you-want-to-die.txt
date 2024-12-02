@@ -1,0 +1,39 @@
+
+  Can You Play Grounded If Spiders Make You Want to Die?
+
+
+
+
+
+
+            Spiders are one of those things that can conjure up strong reactions. For some people, just the sight of one of the eight-legged creatures is enough to cause a panicked exodus from the room. Others may be relatively fine with seeing a spider in real life, but freak out when they have to face a giant one in a game. Obsidian’s upcoming survival game, Grounded, has the potential of being the worst possible scenario for arachnophobes: not only are there spiders in the game’s backyard setting, but you’ve been shrunken down to a scale where they can fill your entire field of view. Rather than shrug and move on, the team decided to do something for players who just can’t deal with spiders. 
+
+Grounded technical director Jerrick Flores says the team had an inkling of an idea that spiders could be a problem while they were working on the game, but they didn’t initially appreciate by how much. “Those concerns that we had really came to a head when we released the initial trailer for the game, and there was a spider reveal toward the end,” he says. “We watched a lot of trailer-reaction videos, because as someone working on the game you’re really interested in how people respond to your game. It was kind of interesting but also concerning that when that spider reveal happened, there were a number of people who in the reaction videos they had all this interest in the game but when that came up, all that interest just completely evaporated. They’d say things like, ‘I can’t play this game.’ It’s not like ‘I won’t,’ but ‘I can’t.’” 
+
+Programmer Brian MacIntosh empathized with those sentiments. “I wouldn’t say that anyone on the team is phobic, but some of us maybe avoid that dungeon in Skyrim with the giant spider – we just didn’t go there,” he says. “That started us talking about how it’s actually a phobia that people have, and I’ve seen people complain about it on our forums occasionally, like, ‘could you guys replace the spiders, because I can’t play this game because I’m really afraid of them?’ I started thinking, ‘This is a thing we can do.’"
+
+What did they do? Obsidian created a special arachnophobia mode for Grounded, which can be accessed in the game’s options menu. When toggled, spiders are rendered differently, as a way of making the creatures less, well, spidery for people who have an aversion toward the creatures. It’s still very much a work in progress, but its current implementation has the models replaced with large orange orbs. It’s a strange abstraction, especially when put up visually against the other bugs that are prominently featured in the game, but Obsidian is hoping that it will allow arachnophobes to play with everyone else. It’s activated client-side, meaning that in multiplayer sessions only those who want to see spiders that way will; everyone else gets the critters in all their glory.
+
+MacIntosh says that developing the abstraction has been an iterative process, thanks in part to the studio’s collaboration with Microsoft User Research Lab. “We want to try to see how little we can change the spider, like how little we can take away to fix that problem, but have it still be a big, scary creature. We’re putting together different samples of different alternative looks, and they’re going to test it to see which ones elicit the phobia response.” He says part of the problem is that different people are triggered by different things. Their research contact, Blake Pellman, told him that it wasn’t the legs or the eyes that activated the phobic response – “As long as there’s enough evidence for them to say, ‘That’s a spider,’ that seems to be what triggers it,” MacIntosh says.
+
+Spiders are a big part of Grounded – there’s a reason they were the big reveal in the trailer, after all. They’re one of the yard’s apex predators, and game director Adam Brennecke says there’s a lot of gameplay that’s connected to the creatures, such as combat and the gear that players can craft from their various parts. There’s also the issue of sound. “The clickety-clack sounds, even though spiders don’t really make that sound, it’s something that we just think of a spider; it’s clicking and clacking around the yard. That’s another thing we’re looking at.”
+
+Incorporating these optional changes has been a fair bit of work, but the team sees it as effort well spent. “In a game like Skyrim, you can avoid spiders – you just go somewhere else,” Brennecke says. “In our game, you can’t avoid them. It’s so hard to avoid a spider in the game. I think that’s where, as a developer, I draw the line. Why don’t we try to do it to make sure that as many people can play the game as possible? That’s ultimately what we want as developers, people playing the game.”
+
+Grounded is coming to Xbox One and PC via Game Preview and early access on July 28, whether or not you use arachnophobia mode.
+
+      Products In This Article
+
+Grounded
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC
+
+Release Date:
+
+September 27, 2022 (Xbox Series X/S, Xbox One, PC), April 16, 2024 (PlayStation 5, PlayStation 4, Switch)
+
+Purchase
+More Info
+

@@ -1,0 +1,16 @@
+
+  PlayStation’s Long Overdue Two-Factor Authentication Is Finally Live
+
+
+
+
+
+
+Back in 2011, PlayStation Network suffered its most devastating attack ever. It’s been more than five years since Sony asked for forgiveness on stage at E3, but today a security measure called two-factor authentication has finally been added to PlayStation Network accounts.
+While this measure wouldn't have stopped the PlayStation Network breach, it is something many users expected to see implemented as part of Sony's stated commitment to improving user security. Two-factor authentication is a process that requires an additional component beyond basic login and password. If you use a Battle.net authenticator or get a text message with a one-time use code when logging in, you’re already familiar with this kind of security measure.
+Last night, Sony quietly announced that two-factor authentication is available. You can set it up via this website.
+Once you do, when you login, you'll get a six-character code to enter. At this time, text message seems to be the only mechanism for receiving authentication codes.
+
+Our TakeSony isn’t making a big deal of this (though it should), likely because this is so very late. In the intervening years, there have been numerous reports from users of account hijacking. Some PlayStation 4 owners have reported that their accounts have been sold on the black market to unwitting buyers, their primary PS4 console changed, and charges made to their accounts.
+The PlayStation team was asleep at the switch for years. Amidst all the cries for features – PSN ID changes, external hard-drive support, and being able to change your account country – this should have been top of the list.
+

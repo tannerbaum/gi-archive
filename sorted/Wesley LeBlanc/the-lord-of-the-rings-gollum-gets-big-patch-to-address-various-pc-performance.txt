@@ -1,0 +1,131 @@
+
+  The Lord Of The Rings: Gollum Gets Big Patch To Address Various PC Performance Issues
+
+
+
+
+
+
+            The Lords of the Rings: Gollum launched in May with myriad issues, making it tough to play through at various points throughout the action-adventure game. Head here to read Game Informer's Gollum review. However, developer Daedalic Entertainment is targeting many of those problems in the game’s PC version with a new patch that’s now live. 
+
+Daedalic published an extensive list of changes for the PC version on the Gollum Steam page. It’s unclear if any of these changes are coming to the game’s console versions, but Game Informer reached out to Daedalic to ask and will update this story if it hears back. As for the PC patch, it includes changes that fix issues with quest markers disappearing, interactable objects becoming non-interactable, checkpoint system bugs, and much more. 
+
+The patch targets both general issues like the ones mentioned above and more specific issues, like fixing the bell in “Thranduil’s Halls – Cellars,” which was automatically placed before players placed it, making progressing the objective impossible. 
+
+Below is the complete list of changes being made to The Lord of the Rings: Gollum: 
+
+Adjusted DLSS default mode from “off” to “auto” to prevent stuttering and performance issues when playing with RTX without DLSS.
+Resolved a low reproducibility bug where parts of the environment could be missing.
+Fixed an issue where quest markers could disappear after continuing from the main menu.
+Fixed an issue where interactable objects become non-interactable after restarting.
+Fixed Bugs in the checkpoint system to improve the titles stability and clear annoying gameplay bugs
+Corrected the issue of the Bird losing the player's chosen color in the breeding mission.
+Fixed the Bell in “Thranduil’s Halls - Cellars” being placed before the player placed it.
+Resolved a malfunctioning interactable object in "Thranduil's Halls - Cellars".
+Fixed a conditional blocker that caused Gollum to die if restarting during the beetle conflict.
+Fixed an unresponsive situation where the Pause Menu overlapped with a Game Over screen.
+Addressed the issue of losing mouse focus when opening settings.
+Fixed a blocker in the tower of light where the guard could see the player after spawning.
+Increased the chase radius for the “Cruel Woman” chase to prevent save games where the player cannot keep up anymore.
+Fixed a locked camera issue in the cart sequence in the “Sewers”.
+Improved Bird Training Spy Mission and Morning Visits, fixing several bugs.
+Resolved missing environment issues in “Tower of Light”.
+Fixed cog wheels spinning in random directions.
+Fixed nervous hands achievement behavior.
+Adjusting DLSS mode and sharpness when loading a save from a previous version.
+Fixed background sequence causing blocker behavior in Sewers.
+Overall fixes for background sequences.
+Fixed a Game Over screen in the tutorial when restarting from the main menu during the chase sequence.
+Fixed a possible bypass in Tower of Light Day 6 that caused a blocker.
+Fixed a softlock in Shadow Mountains when jumping off a cliff during a checkpoint.
+Added required checkpoint to Great Halls Low Day 1.
+Fixed malfunctioning trigger in Beast Pits Day 3.
+Fixed unresponsive menu issue after quitting from Gamma settings.
+Unloaded sublevel issue in the Black Pits cart mission fixed.
+Halls of Grond & Execution chambers - fixed and adjusted rotating wheels.
+Fixed extra camera shakes.
+Gollum Groom is now covered correctly by translucency while still respecting DOF and refraction.
+Fixed possibility to end the Sewers without killing both orcs.
+Fixed some localization issues.
+Fix excessive camera rotation during frame drops.
+Solved the issue of no sound in the cutscene of Cook's death.
+Fixed KingsGrove missing sublevel when the escape orcs quest started.
+Resolved tutorial checkpoint issue in the chase mission.
+Fixed German conflict menu choice being displayed as French.
+Fixed several VO subtitle inconsistencies.
+Fixed Pause Menu malfunctioning after initial load of the game.
+Refresh animation state when Gollum is pushed by another character in crouch mode.
+Added missing "Hold" to Food tutorial in German and both traditional and simplified Chinese.
+Fixed a blocker in Mines Day 2 where the environment would unload before reaching the 3rd tunnel.
+Redundant collectibles removed for ending levels.
+Fixed unresponsive puzzle door in Ruins Outside when loading from Main Menu.
+Fixed blocked progress after the throttle tutorial when restarting from a checkpoint.
+Fixed Gollum floating at the beginning for Chapter 2.
+Fixed a softlock in Outer Gardens where Gollum would be detected immediately after spawning.
+Resolved Gollum staying in the shadow form even after exiting the shadow volume.
+Fixed softlock in “Queen Cascades” where it's possible to avoid quest dialog when loading checkpoint.
+Fixed missing Mell water spot VFX when loading checkpoint.
+Fixed missing Grashneg lantern issue when loading checkpoints in Shelob's Lair.
+Fixed unresponsive map / collectible screen when spamming open / close buttons.
+Improved NPC navigation around Gollum.
+Fixed a conditional blocker when returning from haze in Haze Gate.
+Kings Grove - fixed incorrect quest marker when loading checkpoint.
+Fixed wrong spawn location, direction, and missing quest marker on a specific checkpoint in the Finale.
+Fix for wall running not always triggering correctly.
+Riverpath fixed invisible 2 elves’ issue at the end of the level.
+NorthTower flying platform room improved visual effects.
+Fixed a conditional blocker in Breeding Hills when the spymission NPC group became immobile.
+Added a missing intuition path and relocated a wrongly placed intuition path in Riverpath.
+Fixed malfunctioning door hole in Ruins Outside when transitioning from the Main Menu.
+Fixed incorrect visit number in Cells when returning with the lights to the cook.
+Fixed NPCs in Tower of Light Day 9 not being aware of Gollum when returning from the Main Menu.
+Fixed punctuation in Lore Compendium.
+Resolved the issue of input hints flickering.
+Fixed the title remaining unresponsive when opening the Pause Menu while selecting Gollum or Sméagol before the inner debate.
+Synced data for DLSS Support, setting Fidelity fx2 to 0 when DLSS Support is false.
+Fixed blockers in North Tower when reloading a checkpoint and trying to interact with the winch.
+Added missing localization files.
+Fixed fluctuating groom when the game is paused.
+Fixed an issue in Bird Breeding where the inquisitor wouldn't move or play the dialogue when reloading a checkpoint.
+Resolved an unresponsive door puzzle dialog blocker in Ruins Outside.
+Fixed the issue where falling due to stamina loss while turning on a bar prevented Gollum from climbing afterward.
+Fixed missing environment issue in Kings Garden on the 2nd visit.
+Fixed misplaced damage volume in Kings Garden.
+Discarded input when the controller disconnects.
+Added an input to close the message window of the disconnected device.
+Fixed the bush not restoring its state after reloading a checkpoint.
+Resolved missing environment in Mirkwood Chase when loading a checkpoint.
+Fixed a conditional blocker in Mines when restarting after picking up the last tag.
+Fixed the delivery bridge environment in Sewers when reloading.
+Adjusted the wrong Grashneg scale in Sewers.
+Fixed infinite Game Over screen in Construction Low when sweeping through a specific checkpoint.
+Fixed the wrong state of the door when transitioning from Tower of Light to Bird Breeding.
+Resolved incorrect camera spline in Shelob's Lair during the 2nd chase.
+This patch arrives a couple of months after Daedalic released a statement apologizing for the game’s various issues, promising to address them as soon as possible. It remains to be seen if this patch fixes all of Gollum’s performance issues, but it’s certainly a great start if the extent of these patch notes is anything to go on. 
+
+For more about the game, read Game Informer’s review of The Lord of the Rings: Gollum.
+
+Have you played The Lord of the Rings: Gollum? Let us know how its performance was for you in the comments below!
+
+      Products In This Article
+
+The Lord of the Rings: Gollum
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC
+
+Release Date:
+
+May 25, 2023 (PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC), 2023 (Switch)
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

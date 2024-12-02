@@ -1,0 +1,177 @@
+
+  Our Full Hidetaka Miyazaki Sekiro: Shadows Die Twice Interview
+
+
+
+
+
+
+            As part of our trip to see Sekiro: Shadows Die Twice at From Software’s offices in Tokyo, Japan, we got to chat with the game’s director and company president Hidetaka Miyazaki. While you’ll see quotes from him we’ve used in our past coverage of Sekiro, there are some interesting and fun bits of insight throughout our entire conversation.
+
+This interview was conducted with a translator on-site and then transcribed by Jill Grodt and JP Gemborys.
+
+Game Informer: We had a chance to see Sekiro and take on the Lady Butterfly. Is she some sort of shadowy gang of assassins from his past that he was a part of, or something like that? Because, it seemed like they knew each other. What’s the story between Sekiro and this memory?
+
+Hidetaka Miyazaki: So, as you know, this is a scene set in the past and we talked about this character called The Owl, who you brought up earlier. He sort of plays a foster-father role to the protagonist. This character picked up Sekiro on the battlefield and raised him as a Shinobi and one of his old acquaintances – or part of that Shinobi system of allies – was this Lady Butterfly character. So, while [Owl] was training the protagonist and teaching him techniques, maybe he got to spar with this character or had some sort of menial relationship with her through the foster-father figure.
+
+Are we going to be meeting any other characters from this shinobi clan?
+
+So, we will save the actual names and number of these characters for the game itself, but in general having this key protagonist allows us to build a cast of characters around him, and his personality, and his history. We feel like these core characters that are central to his presence in the world, and his story are going to be playing a lot of that role of the story in the gameplay. So, we feel like you’ll be able to experience both his past, in that sense, and the here-and-now of where the game takes place.
+
+Are we going to be going back into his past multiple times over the course of the game?
+
+It’s mainly focused on the present. So, you’ll be obviously playing through the present of the shinobi’s story throughout the game, in that sense. It’s not a game where you’re going back and forth from present to past to piece together the puzzle. But this is a one-off flashback to a portion of his past and that allows you to piece more bits together of the story. So, you get some extra detail and you can flesh things out for yourself in that way.
+
+Are we going to be able to get the Moonlight Greatsword in the game?
+
+(Laughs) Not this time.
+
+Are any of the other things in the Souls games going to make an appearance? Sort of as a nod, like the crows or anything like that to trade items with?
+
+First of all, we want to make it clear that – we have this reputation for featuring the Moonlight Greatsword and things like that in our games – we don’t want this to feel like too much of a bind. We’re creating this new IP and this new world. We don’t want to feel like we’re beating a dead horse or just going to put it out for the sake of it or just going to cram it into the lore in some way. It kind of puts restrictions on us, so we are not featuring the Moonlight Greatsword this time.
+
+As to creating these kinds of odes or references to our other games within Sekiro, we’re actually being a little bit careful because ­– working with other publishers means you have to be careful with how you treat this material and this content. So, if it’s Dark Souls to Dark Souls III, it’s easy to put in odes and references here or there since it’s the same publisher. For instance, with Déraciné, that was released recently for VR, we had an ode to Bloodborne in there – both titles are published by Sony. Actually, that reference, that nod itself caused a much greater stir than we expected. Way more than we expected. When we were given that idea like, “Why don’t you just put a little nod in there? It’d be great.” And we tried it and it blew up. So, we just want to tread a little bit more carefully around that front.
+
+Are people reading to much into that little nod in Déraciné?
+
+You know, it wasn’t so much that they read too much into it, it was just supposed to be a little homage, but people kind of expected Bloodborne 2 and it kind of got a little bit crazy. So, we feel like we caused a great inconvenience to Sony, and that was really not our intention.
+
+It got a lot of attention for the game, though!
+
+Personally, yes.
+
+One more about Dark Souls and then we’ll move on. Is there going to be a zone filled with poison and giants, and just a terrible zone to go through? Like Blighttown vibes?
+
+So, the simple answer is yes. We do have areas where the environment plays as the enemy to the player. However, one of the core concepts of Sekiro was to create this greater freedom of movement and freedom of traversal, and so we don’t want to squash that by creating these really restrictive game spaces. So yeah, you will find somewhere like that – similar to that – that is a pinpoint location in the game, but we don’t try to restrict the user in ways previous ones do.
+
+Are there going to be extra-difficult optional bosses like The Nameless King in Dark Souls III?
+
+Yeah, I mean, this is a staple for us and we hope to meet expectations there with the optional bosses and we feel like they’re going to be pretty tough this time as well.
+
+With all the giant monsters and crazy creatures and stuff like that, are we going to see a mid-game Bloodborne plot twist where everything goes crazy and it’s a totally new game?
+
+Hypothetically speaking, if this was a Bloodborne interview, we wouldn’t go, “Hey, guess what happens in the second half.” But if you can think of the opening of the game as a more traditional Japanese ninja fantasy, then it’s not going to continue along that same exact track the whole way through. I think it’s safe to say that much and I think more would be a spoiler.
+
+Why the decision to go with a skill tree system over the stat system?
+
+The idea of a parameter system, a stats-leveling system is that you are catering to different people’s builds. So, you have things that a mage can use, you have things that a strength user can use, you know the greatswords, or these different sorceries, and pyromancies. And this means that not all users have to use everything. They can specialize, or they can focus on their build. The idea of this game and the multifaceted ninja means you have to use everything in your arsenal, everything at your disposal to overcome these challenges. 
+
+The introduction of a skill system meant that we could allow people to unlock every facet of this multi-talented ninja. Having this locked behind parameters or having to boost certain parameters over others meant that if you came across a tough enemy with a specific strategical grammar to him, like a specific weakness, they would have to go back and retrace their steps and uncover this, boost these parameters and what have you. Having these as skills and items that you can gradually acquire, allows them to specialize in everything to a degree and to really become that really multitalented, multifaceted shinobi.
+
+Is it designed to be more accessible than Bloodborne or Dark Souls games?
+
+I’m not sure if saying it’s more accessible is the best answer, but we have tried to make it easier for people to access every part of this shinobi’s arsenal. In a previous title, you had an area or a boss that could only be defeated by magic. That would be an issue because people are specializing in their build, and we’ve created this unnecessary wall for them. This way of building the game, it gives us greater freedom and it gives the player greater freedom to decide how they want to tackle this or to encourage them to try to find something else and to keep adding to their arsenal and to use every little bit of it to defeat these challenges.
+
+Are all bosses in the game going to feature the heat up system where they change moves based on the phase that they are in?
+
+Yes, we do intend to [do that]. It has varying degrees depending on the boss but yeah, you won’t just see the same fight from start to finish. They will change up even the battle tempo or some sort of newer element to the battle in various degrees.
+
+The shinobi death blow, how did that come to be? Were you just really excited about visceral attacks from Bloodborne and the backstab attacks in Dark Souls and you just wanted to do that to everything?    
+
+It’s not like we just love to do these critical attacks on everything. It’s an evolution of the elements. The death blow, the idea itself, is one of the things we got a hint of from Tenchu, from the original publications of that series. Also, death blows are not just kind of a one-off one-time critical attack, like a backstab or a riposte or the visceral attack, it’s something that can be initiated from stealth – as you saw yesterday – allowing you a way in. It’s also something that is a result of trying to find or trying to make a momentary weakness in your opponent. 
+
+So, the battle you experienced yesterday with the swordplay, it’s kind like a climax to that. To each and every one of those battles. We feel, in that sense, that it’s different – the concept and the way we’ve created and the way we’ve molded it – is different from a straight up riposte or a straight up visceral attack. The shinobi has the kind of elements of both offense and defensive that he has to use simultaneously. The death blow is sort of like a result of that. I use the word climax – it’s kind of like a treat or reward for the player at the end of that struggle, that clash of swords. 
+
+With some of the changes to movement – the way that you have the grappling system and the wall-jumping stuff and swimming, how has that changed certain approaches to boss design? Have they gone back to the drawing board on, “Here’s a boss we can do with these options.” That you felt you wouldn’t be able to do before?
+
+You mention the swimming. This is not present in boss fights as such, this is something that caters more to exploration and general traversal just to add a little bit of change of pace – something a little bit different just to cool things down. [But] boss design, definitely, these new traversal options and stealth definitely play into it. The traversal options allow much more dynamic movement within the boss arena, both for yourself and the boss character themselves. It really increases the dynamism in how the player and the boss player play off each other. 
+
+Previously, you would have just had to run around a huge boss’ feet and hack away at his ankles, but now you have all these movement options you can both use – fully use – the extent of that arena. Stealth in mid-boss and boss fights, it does depend on the situation, but, again, it’s meant as another added level of spice. It’s not going to be present in all boss fights, but here and there it might add to the experience in some clever or subtle way. 
+
+Is there a particular kind of boss that you’ve found doesn’t work well for the new movement options or is there something you wanted to do, but maybe didn’t work as well?
+
+Yeah, definitely. There are boss fights that through design didn’t fit that staple. They don’t fit the new movement options or stealth. If we made every boss, you were able to use the grappling hook to zip everywhere or stealth kill every boss, it would just get monotonous and boring. So we try to cater to each boss’s characteristics and each character’s unique traits and build a boss fight around those, and what’s going to be most fun and what we want the player to experience in that one encounter. So there may be boss fights where you’re up against a huge creature and you need to use the full arena and get around very quickly and use that dynamism, but there may also be fights where you just need to go toe-to-toe and use every piece of kit in your arsenal, the prosthetic tool, the katana, and really go head-to-head on these one-on-one duels. So, there’s something we’ll cater to on each occasion and to each boss’s unique idiosyncrasies.
+
+We really enjoyed the movement of the Butterfly Lady that we fought yesterday. Do you want to talk about the initial design, but the inspiration was the texture and personality you were conveying to designers you wanted for that character?
+
+Yeah, actually when designing this boss I had a very clear idea of what I wanted. I suggested initially this is a boss that’s going to use illusionary techniques; it’s going to use these razor-thin wires to hop around and move around the map. I had a very clear idea and I conveyed that to the designers. Another thing is, I love these kind of old Japanese ninja stories created by the likes of Yamada Futaro who kind of have this depiction of a strong, old Japanese ninja grandma and… If you’re familiar with Basilisk, for instance, Yamada Futaro is the original creator of the Basilisk series. And I had a super strong ninja granny character and really just wanted to have one of those in my game.
+
+Are there any other animes that you were inspired by for Sekiro?
+
+If I had to pick one, a small inspiration would have been Hiroaki Samura’s Blade of the Immortal. That’s another manga. Blade of the Immortal was actually a small source of inspiration for parts of Bloodborne as well. It’s something I enjoy. The weapons are so cool in that.
+
+It’s probably conveniently forgotten, if there is something.
+
+Who is your favorite boss in the game? You don’t have to go in to detail, just sort of the broad strokes.
+
+That’s a tough question. Actually one of them that I really like you saw in the TGS trailer is just the glimpse at the end. The giant ape. I hope you look forward to that one. Another, you don’t often see it in boss fights, they use really dirty tricks, they’re real devious, real underhanded techniques. Hopefully, you’ll know that one when you see it.
+
+Okay, I’m sure we will. Have you ever considered adding a boss rush mode to one of the From action games?
+
+Boss rush mode is not actually something that I’ve considered. We haven’t had any particularly strong requests from publishers to include something like this either, so it’s not really been a factor.
+
+Is this more of an open-world kind of situation where you can go in many different directions at many different times or are you going to be sort of gated by stuff you’ve killed or like do you need to get an item from over here in order to go over here? Or is it if you can beat the big guy then you can go this way but if you can’t, you go do these other things and then you can go through there?
+
+We feel like Sekiro’s probably on the higher end of the spectrum in terms of the freedom the player has to explore the world if we’re to compare it to our previous games. Particularly from the mid-game onward, the world really opens up, and you have a great deal of choice and freedom about which order and way you choose to explore.
+
+What was behind the decision to get rid of the corpse run?
+
+The reason there’s no corpse run as is, is first of all, we don’t really want to keep doing the same thing over and over again with our games. We want to try different approaches and different switching up the systems. Speaking of death penalties, we do want to incorporate a new sense of demerit or a disadvantage to death. We want the player to fear death in the same way they did before. But this will take on a different shape this time. If we were to just add in corpse-running or having to go retrieve something on top of that, it would have felt too messy or too desperate or a little too much like there’s too much at stake. 
+
+We want to concentrate on the new systems such as the resurrection system as well. Speaking of resurrection, this time we’re taking this into elements of story as well. So there’s a reason for coming back to life, and there’s more general themes and concepts around death and rebirth, so this is something we wanted to explore on the gameplay side as well.
+
+You’ve got these poisonous lizards and monstrous roosters running around. With these other humans, do they not attack each other or is it they’re just cool with each other? How does that work, world-wise?
+
+Yep. Sometimes they will. And you’re a shinobi, so you can create these situations in some way. There will be ways to – just imagine this battle between a soldier and a rooster.
+
+With this game, you’re taking a little bit of a step back in the writing process and not on the ground floor as much this time. I’m just wondering, what’s the advantage of stepping back from your point of view. What does that allow for, within the studio?
+
+As to what I’m getting personally, I feel my own writing is very quirky and has got a lot of idiosyncrasies itself. As someone who’s written the Dark Souls and Bloodborne games, to have that again here would feel like a repeat. I feel like users are going to get bored or tired of this approach, so we wanted a fresh approach there. 
+
+Also, this ability to more easily share the narrative internally with other staff and have them give their take on it and have them arrange this information, this overwhelming amount of information between characters and different plots and what have you, is also very refreshing and it allows us to get a better bead on the story as a company. And, not trying to compare this with titles from other studios or the way other studios do things, but just internally we haven’t really tried this before so it’s very like, again, it’s very refreshing to have a take from other staff and to be able to piece that together in a much more coherent way. 
+
+Before, I didn’t have that need to fully communicate to the division of the story, it was all just in my head and I could just write it however I wanted, and let people piece it together. But by sharing it with the other staff it allows me to see it in a clearer light, and potentially give us a fresh and interesting look on that content.
+
+Is it a challenge personally to step back from that? Or has it just allowed for more sleep?
+
+It’s pretty tough, actually, to step back. It doesn’t necessarily give me more time to focus on other things. I have to divide my time in different ways, of course. But previously, I could have just written some stuff down as part of the text or dialog at home. Nowadays, for Sekiro I have to communicate this to staff and be really quite forthcoming about it. That’s quite tough in itself. But then to see them reinterpret this into their idea of what that means or that implies, this is enlightening for me and it allows me to see this different interpretation and then to have this collaborative story building together.
+
+With you having to see the results of other people working that way, what do you think has been the difference that has emerged in terms of tone or any differences beyond the more personal story?
+
+Regardless of whether or not I’m writing the dialog or text myself for other games or for Sekiro, I’m still open to receive suggestions and ideas from any and all member of staff. As long as these are good ideas and easy to digest, then I’m willing to incorporate them. This isn’t something that just applies to Sekiro, this is the way I’ve been working with the story and the narrative throughout the games I’ve produced.
+
+Congratulations recently on the lifetime achievement award. Very exciting. For people out there, do you have any tips for how to lead a successful life? What are the keys to leading a successful life?
+
+That’s very difficult. I’m not in a position to tell people how to lead their lives. They’ve got to do what’s best for them personally. I’ve worked in the games industry just over ten years, and I’ve just enjoyed making these games. When I’m asked ‘what especially has been good about that or what do I put value in there’, then there’s nothing particular to say. It’s just the fact that whether or not they succeed, it’s just the fact that I’m making these games and I enjoy that process.” 
+
+It’s so difficult. I just want to say, “let’s all just love one another and make world peace.” But it’s not as easy as that especially when I’m making games like Dark Souls and Sekiro. But as long as I’ve contributed something that’s had an impact on someone’s life that’s enough for me. Receiving this award, I was very humbled now that you bring it up. It reminded me to appreciate the people who are playing the games and who were giving us these great vibes because they’re the ones who’ve kind of cultivated us and our way of life and our culture, and the way we make games and what we want to give back to them. So, again, receiving that award, I was like, “Wow. This is something I’ve got to tell them. I have to be more appreciative of this.” I’m not one of those people who goes on Amazon and writes reviews for games and stuff like that, but I might be turning into one of those people. I’ve got to show a little bit of love here and there.
+
+For the players. Amazon for the players.
+
+For the developers as well.
+
+Everybody in the world.
+
+You know, just as a private user, not “Miyazaki.” Just to add to the good vibes. I’ll do my best to give that positive vibe.
+
+Get a nice little message at the end of the credits. Just Sekiro, “go out and love each other and make world peace.”
+
+No one’s going to buy that.
+
+Any chance of a Demon’s Souls remaster after we had the Dark Souls: Remastered?
+
+I don’t think the possibility is zero. But personally, it’s not something that I’d be interested in doing, personally. It’s like when you write – when you’re younger, you look back on it and you think “oh, goodness what was I thinking?” It’s not that I’m embarrassed, I just don’t like to look at my previous works. It’s the same with Dark Souls: Remastered. This wasn’t my own idea. So, you’d have to ask Sony, but I don’t think that the possibility is zero. You’d have to see what they’re thinking about it. But – details, I have nothing. 
+
+Just for you guys to bring it up makes me really happy because that was the first action fantasy game that I created, or I directed. I have fond memories of it, but it’s definitely not my place to say they’ll remaster.
+
+You’d be comfortable with another studio working on it, in theory, if somebody were to remaster it?
+
+You know, if it was a studio that really loved the original work and really put their heart and soul into realizing it again, then that’s something I would enjoy. But it’s really complicated because I have these fond memories but thinking about the idea of a remaster gives me, kind of, butterflies in my stomach and makes me a little nervous, so it’s complicated. But I understand there are many users and many players and fans out there who really love Demon’s, so if that’s something they could accomplish with a studio that loved the work, then yeah, I’d be okay with that.
+
+For more on Sekiro: Shadows Die Twice, click on the image below to see all of our previous coverage, including dives into its music, combat, progression, and more.
+
+      Products In This Article
+
+Sekiro: Shadows Die Twice
+
+Platform:
+
+PlayStation 4, Xbox One, PC
+
+Release Date:
+
+March 22, 2019
+
+Purchase
+More Info
+

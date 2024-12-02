@@ -1,0 +1,69 @@
+
+                                          Halo Infinite
+                  
+
+
+  How Halo Infinite's Bots Became So Ruthless And Helped 343 Develop Multiplayer
+
+
+
+
+Platform
+Xbox Series X/S, Xbox One, PC
+
+Publisher
+Xbox Game Studios
+
+Developer
+343 Industries
+
+Release
+December 8, 2021
+
+Rating
+Teen
+
+            During the tech test of Halo Infinite that took place this summer, players took to the various maps to get their first taste of 343 Industries' upcoming free-to-play multiplayer. While many came away impressed by the ways Halo Infinite's multiplayer feels true to the series' renowned roots, nearly as many players were blown away by how impressive the A.I. bots were in battle. 
+
+When firing up the multiplayer starting today, players can reunite with the bots who likely headshotted them into oblivion through The Academy, a mode that serves as an on-ramp for players looking to enter the competitive fires. "Multiplayer is a scary place," multiplayer associate creative director Tom French says. "It can be a really brutal experience, and there's a fantasy that I think a lot of people have – especially if you've played anything competitive – where you want to dip your toes in there, but then you get in and you're shot in the face and you don't have fun."
+
+The Academy is full of tutorials that introduce you to the fundamentals and canon of the game, including explaining why Spartans are so awesome. You can also practice at the weapon range or enter training matches against bots on any map, including training matches consisting of four human players against four bots. "Hopefully you've seen how capable our bots are," French says with a smirk. "Our bots feel like combatants; they feel like players, which we're really proud of."
+
+However, these bots aren't necessarily the harbingers of death that players grew to fear during the tech test. Instead, these bots in The Academy are designed to ease players into the unforgiving gauntlet of multiplayer. "Four players running around, crushing bots is really fun; it feels empowering and it helps you learn the rhythms of combat," French says. "We wanted bots to be a teaching tool first and foremost, so they had to emulate player behaviors. That was the center and the focus of everything."
+
+The team built the bots as teaching tools, but upon first play sessions, the studio realized the A.I. characters didn't quite feel like real players. The team iterated on the bots until they felt like you were facing off against actual human players. The bots can still perform the basic functions of what you want from A.I. characters, but they branch out to also feature several behavioral and strategic tendencies of human players. To accomplish this, the bots team observed several internal matches against the studio's higher-level players, then analyzed what the human players did that the bots didn't. 
+
+"In Halo, players will react by jumping or strafing in specific ways," French says. "So they went back and they go to their whiteboards and [...] within a week or so, generally they have some sort of approach and you're like, 'Oh okay, I can see what you're doing' and the bots just kept evolving. They started a lot simpler, but with our goals of making them more player-like to emulate good player behaviors and teach players how to play the game."
+
+Of course, as bots become more skilled at the game, players begin to suspect they aren't playing fair. According to French, that was something the team wanted to keep in check. "Halo (especially multiplayer) has this perception of fair and balanced, and our bots needed to feel fair and balanced," he says. "Sometimes you play a game and you know the bots are cheating; you can tell. It makes you want to punch a wall. We want to make our bots like when you have to fight against an Elite in the campaign: There is a little mano a mano going on there. How do you make it similar to that where you are having that mano a mano fight with another player and not just something that's a dumb target for you to shoot at."
+
+Getting the bots just right for player-facing modes was important, but the development team at 343 Industries also used the technology to its advantage when improving the multiplayer side of Halo Infinite. Not only can the bots team see how the A.I. behaves on certain maps, but the multiplayer team can track how maps flow, how the game is feeling, and even how team strategies are evolving. "The impact of bots on the development of multiplayer cannot be [overstated] in terms of our ability to playtest," lead multiplayer designer Andrew Witts says. "It's improved a lot of our iteration cycles in how we talk about the game and how we explain problems and solve problems together as a team. The player side of things is really exciting to us, but also as a development tool, they cannot be [overstated] how much of a role they play in us actually making these experiences."
+
+Despite the many ways the bots infiltrate the experience, whether it be through helping the developers playtest or assisting new players to get on board with the flow of multiplayer, those who relished in the chance to truly test themselves can look forward to the return of the bot arena in the final release of Halo Infinite. Once you jump into a bot arena match, Halo Infinite will attempt to spawn bots that are comparable to your own skill level.
+
+Of course, the bots of Halo Infinite are just an insignificantly small part of the overall package. For more on Halo Infinite, check out our coverage hub by clicking on the banner below!
+
+Halo Infinite launches on December 8 on Xbox Series X/S, Xbox One, and PC, but you can jump into the free-to-play multiplayer beginning today.
+
+      Products In This Article
+
+Halo Infinite
+
+Platform:
+
+Xbox Series X/S, Xbox One, PC
+
+Release Date:
+
+December 8, 2021
+
+Purchase
+More Info
+
+Brian Shea
+Online Content Director
+Brian has written about video games for more than 15 years across multiple publications. Brian is also the host of All Things Nintendo, a weekly podcast focused on the news and games of Nintendo.
+
+Email
+Twitter
+

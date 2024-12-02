@@ -1,0 +1,22 @@
+
+  Behind The Scenes With Mega Man 11's Shockingly Analog Sound Design
+
+
+
+
+
+
+Crafting the audio for a video game is never easy, but Mega Man is a game set in a future where life-like robots battle for the fate of the world. This means almost the entire soundtrack is created from scratch. At the same time, Mega Man 11 is the first game in the franchise to utilize real-world sounds for its audio backdrop, so we asked audio director Ryo Yoshii to walk us through his creative process.
+Yoshii has worked for Capcom for several years on franchises including Resident Evil, Monster Hunter, and Dragon's Dogma, but when he first started work on Mega Man 11, he encountered a problem he’d never faced before. In the past, all Mega Man’s sounds were created digitally, so how could Yoshii take sounds from the real world and incorporate them into a game set in a fantastical future?
+“Because the visuals have been updated, it’s a more 3D look and a little more realistic, we figured that incorporating previous sounds wouldn’t jive well with the visuals,” says Yoshii. “We didn’t want there to be a disconnect, so we felt that in order to match the visuals we needed to make sure that the audio was a little more modernized. We didn’t want to just use synthesized sounds. We wanted to mix it with Foley work to create a more authentic sound.”
+One good example of this work is how Yoshii created the sound for Mega Man’s popular walking hard hats, the Met. In fact, capturing the audio for this enemy was incredibly simple (see video below). Once Yoshii had this raw audio, he was able to mix it in with some synthesized effects to make it sound more futuristic.
+Sorry, this video is not available
+Capturing other audio effects proved to be more exhausting. Yoshii and his fellow sound engineers would bang on car doors with sledgehammers and sometimes walk around wearing medieval suits of armor to capture the perfect sound.
+Sorry, this video is not available
+Of course, creating sound for a game takes a surprising amount of teamwork. To create the effect for an as-yet-unrevealed enemy’s walk, Yoshii’s team had to use a combination of ski boots and homemade metal noisemakers to create the desired effect. “These boots were used to capture a basic enemy’s walk sound, but a second person would come to the side with this metal shakers that helped create a more metallic sound,” says Yoshii. “We would find time where it was like, ‘Okay that sounds too metallic, so let’s emphasize the shoes more.’ So the person holding the shoes would start stepping at a faster rate than the person holding the metal. It took a lot of work to find the right balance between how metallic we wanted it to sound versus regular walking.”
+Sorry, this video is not available
+The sound team is always on the hunt for random knickknacks that make unique sounds. At one point, Yoshii got his hands on a manhole cover, which he believed would make the perfect sound for one of Mega Man 11’s new enemies. The head of the enemy with the giant hammer (pictured above) turns into a platform when he takes a swing at Mega Man. Yoshii found that the clang of a manhole cover offered the perfect heavy sound for when this platform popped into place. “What makes it really, really sad is that even though I spent a lot of time on this sound, the more important sound is when he actually moves the hammer back and forth,” says Yoshii. “He makes this sound that is like an electric whir, which we needed to emphasis, so the volume for that was raised and the volume for the platform was lowered. What makes it even sadder, is that it was incredibly easy to create that sound. All I did was take the sound from a wind-up toy and mixed it a little bit.”
+Sorry, this video is not available
+Creating sounds for a fictional world is an odd alchemy. Noises stolen from the real world must be twisted into effects that are almost unrecognizable, but all this work is worth it. All these sound tricks breathe life into Mega Man’s world, and give the audio experience a richer feel that matches Mega Man’s new look.
+To see our entire month of Mega Man 11 coverage, click in the banner below and bookmark our hub. We'll have several stories to add to it in the coming days and weeks.
+

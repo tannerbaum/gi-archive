@@ -1,0 +1,71 @@
+
+  Epileptic PSA: Destiny 2 Beyond Light
+
+
+
+
+
+
+            As many of our readers know, I am an avid Destiny 2 player and have advocated for others to give it another shot following several expansions and the most recent conclusion of Season of the Chosen. The space shooter has evolved incredibly since its launch, but for those diving in, especially with Season of the Splicer now live, there are a few things those with photo-sensitive epilepsy need to be aware of. This is something I've been working on for a few weeks now. If you feel I may have missed something, please email me at lianaruppert@gameinformer.com (only for work purposes, please). 
+
+In any space game that has futuristic undertones, you can expect dramatic visual effects to impact the player experience. These are made in a way to cause the action to pop more, especially in high-intensity fights, boss encounters, and raid progression. With the new season now available, more Guardians are diving back into the adventure, especially with much of the game being free for those giving it a shot for the first time and with it being on Xbox Game Pass. There are a few things you should be aware of, something I've been working on since the release of Beyond Light, but more urgently in the past weeks; a sentiment that was echoed recently in a thread on the Bungie forums. 
+
+Before we get started diving into some of the triggers below, I want to reiterate something from my previous epileptic PSA's. You do not have to be epileptic to have a seizure. The people in your home do not have to be epileptic to have a seizure. As noted in my Epileptic's Guide to Gaming, a common misconception about seizures is that they only happen to people with epilepsy. That's not true; seizures can occur in anyone. There is also no "one type" of an epileptic episode, which means learning about triggers can be a tricky process. With accessibility in gaming becoming more of a priority within the gaming space, studios are finally beginning to look at the impact of certain effects on those susceptible to neurological episodes beyond simply slapping a warning label on games and calling it a day. 
+
+Possible epileptic triggers
+
+Destiny 2, even before Beyond Light, has a series of jumping puzzles that include a lot of flashing. This is especially true for those instances that center around Taken
+Certain Strikes and Raids are also something to be aware of with flashing, I will list the ones that have the higher amount of risk (even if they are vaulted, due to the possibility of them coming back): 
+
+The Devil's Lair during the Sepiks Prime encounter,
+
+Also with close encounter fights in the dark hallways with flashbangs and Super attacks against the dark contrast
+Fallen SABER on the Cosmodrome also offers the same flashing concerns
+
+Exodus Crash with the flash of enemy attacks and the blinking of lights in the corridor
+The Festering Core with the Taken animations and the Blight against the contrast in colors of dark, almost black, against blinding light for this location
+The Disgraced is a little all over the place with the color palette for Forgotten Shore, the rapid blinking in combat encounters paired with the usual rapid fire of weapons and special abilities poses a small risk. This is applicable mostly for the first stage of this instance
+The Insight Terminus for dark corridors with the Darkness animation, final boss encounter is okay
+The Hollowed Lair's boss encounter with the Scorn's lightning attack
+
+Presage
+
+Similar to that of some of the strikes, there are a lot of dark corridors with flashing lights, especially so before the dumpster sequence. Flashing bulbs hit the right animation speed to trigger photosensitive epilepsy (though even non-epileptics can be impacted by rapid animations)
+
+The Shatterend Throne dungeon is a similar issue as the ones noted, the dark backdrop with the bright contrast of combat is done in a rapid-fire way that can pose a danger to those that are susceptible to epileptic episodes
+Garden of Salvation raid is centered around the Vex Mind and there are flashings throughout the entire instance, especially before the tether puzzle
+Override for Season of the Splicer* 
+
+More details can be found below
+
+Some have reported the Titan Striker flashbang grenade in PvP as a trigger, but the frequency of the color pattern is not flagged for being a dangerous animation. Speaking with my own neurologist for my epilepsy and various resources through the ESA, the rate of animation isn't something that registers as dangerous. That being said, the poster on the forum mentioned that she had issues with this particular animation, and if even one person does it's worth noting because that's only one person that is coming forward, not necessarily the only person experiencing that reaction. 
+
+Season of the Splicer, for the most part, has seemed a lot safer because of the color palette largely chosen with purple and turquoise hues. The new Override instance, a 6-player matchmaking activity, does get a little dicey when the instance begins to pick up speed and intensity. With the various enemies converging all on one point with shields going down and purple motes being banked, the flashing used to note the change in pace can also be a strain on those with any sort of neurodivergent instances. 
+
+As Destiny 2 continues to gain traction with each expansion post-Activision, the game has evolved a lot. So have the animation styles. While Destiny 2 largely does a good job at being conscientious, there are always ways to be a little safer and how to do that is to bring awareness to the forefront in a productive and respectful manner. Accessibility in gaming still has a long way to go, especially when a common reaction in the gaming community is just "don't play games." That attitude is callous, especially given that many of the same points raised in the gaming space apply to movies, TV, and even casual commercials. 
+
+What can Bungie do? 
+
+One thing I am pushing for within the gaming space (and something Xbox is doing a phenomenal job with in regards to making it a priority with the studios it works with) is more options in the settings menu of games. Obviously, the best course of action would be to tackle potential triggers during the creation process, but sometimes that's not always possible. When there are multiple departments involved and a lack of consulting regarding neurodivergent, it's easy to overlook potential dangers. You also don't want to limit developer vision because sometimes (not all of the time) certain animations are vital to properly conveying the desired effect to the player. When this happens, and this is something that has been gaining traction in the development space, especially with indies, is to implement certain settings. Just as colorblindness is becoming more and more of a norm when looking at which options should be available at launch, it's starting to become a little more normalized to offer anti-shake options, different color options (I recommended in the Epileptic's Guide that colorblindness options and blue light eliminators can be a godsend), and different filters during those instances where epileptic concerns are a part of the conversation. 
+
+The conversation going on now
+
+Brannon Zahand, a senior program manager for gaming accessibility at Microsoft, previously opened up about new goals the company has regarding its efforts. "Passion for game accessibility has grown exponentially among developers and gamers alike in the past decade," he says in the post when talking about why this movement is so crucial. "According to the ESA Foundation, there are nearly 46 million gamers with disabilities in the U.S. alone, [sic] so we’re heartened to see that game developers are actively seeking out resources that guide inclusive game design to ensure that their games are fun for everyone who wants to play."
+
+According to Zahand, accessibility has become a "core aspect" behind all development decisions within the Xbox brand. This became the norm when the company created the Xbox Accessibility Guidelines back in 2019, and from there the efforts grew in both scope and support. 
+
+Since the launch of programs within the company to be more community-focused in areas that are usually left unrecognized, Xbox has worked alongside many groups targeted various aspects of accessibility to continue growing and properly addressing fan feedback. "Over the past year, developers have expressed enthusiasm for the XAGs (Xbox Accessibility Guidelines), but also asked for additional context and clarification as to how to ensure these guidelines are properly implemented in their games," Zahand added. "Additionally, there has been a clear desire for more content that helps a developer understand 'where to start' or 'how to focus efforts.'" In an effort to make the impact of XAGs even more effective, the team is implementing new growth goals for 2021 and beyond. You can learn more about Xbox's initiative here. 
+
+As someone who has seizures due to an injury from my time when I was active duty, the years following this new development have been a steep learning curve for me when navigating some of my favorite and most anticipated games. I no longer can enjoy titles like Dead Space as freely as I used to, which opened up an entirely new world of development that never even entered my scope of awareness. Since seizures have become my new norm, I often make sure to pay special attention to certain design choices that can be harmful to those sensitive to neurological traps. That way, I can decide for myself if something is safe to play, and see if there is a way to work around those obstacles and try to offer some navigational tools for others that may be facing similar roadblocks. For those who experience any type of seizure or those who live in the same household with someone with epileptic tendencies, I encourage you to check out my Epileptic's Guide to Gaming breakdown right here that goes over different types of epilepsy, warning signs, and how you can game a little more safely. 
+
+I want to also say a special thank you to @Orchid for also helping to bring this to light. We can all make gaming a safer hobby but banding together and helping each other raise awareness. I've been talking about epilepsy in the gaming space for years now throughout my career, but only in the last year has that finally begun to garner results. I'm excited to see what the future holds and thrilled to see more and more studios take notice of how expansive this issue truly is. 
+
+            .
+
+Liana Ruppert
+Associate Editor 
+With an arguably unhealthy obsession with Dragon Age and Mass Effect, Liana is wildly passionate about all things in the gaming community. From shooters, to RPGs, if it's out - she's playing it. She's also likely to die from hoarding gaming collectibles.
+
+Email
+Twitter
+

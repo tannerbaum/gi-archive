@@ -1,0 +1,63 @@
+
+  How Control's Gameplay Differs From Past Remedy Games
+
+
+
+
+
+
+            Remedy often brings a signature gameplay element to its games, like fighting the darkness with light in Alan Wake, time-warping gunplay in Quantum Break, or slowing down zooming bullets in Max Payne. Instead of stopping time or bullets, Remedy's upcoming action game Control lets you bend the supernatural to your will with several abilities. 
+
+Having a slew of powers at your disposal may sound similar to Quantum Break, which also has abilities-based combat, but with several new iterations (such as revamping the A.I. and having highly destructible environments), Control weaves an identity of its own.
+
+"Previous Remedy games tended to be quite linear," game director Mikael Kasurinen says. "Here, we have shifted our goal so that we have more complex scenarios with our different abilities and you choose the way you want to fight."
+
+During our hands-on with the game, we found that Control has some of the most fluid and dynamic combat we've seen yet from Remedy. Button mapping is intuitive, such as pressing the right stick to slam down onto enemies after levitating or quickly switching between forms for your Service Weapon (a transforming firearm) with the press of a button so you can adapt on the fly. Levitating is the most fun, giving off the feeling of swimming through the air. Seamlessly evading, which allows you to strafe while in flight, feels great too. If players don't like the controls, they can remap them to better fit their playstyle.
+
+Some places in the Oldest House aren't accessible right away until you have the proper abilities or leveling.
+
+One of the most interesting approaches to Control's gameplay is its non-linear progression, which Remedy likens to the "Metroidvania" style. Jesse, the protagonist, has the potential to unlock new abilities each time she comes in contact with Objects of Power found across the world. Abilities are added to your arsenal in a non-linear way as you find them, and some areas are not accessible until you have certain prerequisites. 
+
+"Through the main campaign, you upgrade your security clearance through this world," Kasurinen says. "And to do that you can actually unlock more different kind of doors and gateways. Early in the game, you will face certain doors you can't access yet. As you go through the campaign and through the world, you get a higher clearance and you can go back to these areas that you had to skip initially. On top of that, we have also areas that are limited by the ability you have, for instance, levitation."
+
+Remedy wants to give players more freedom and creativity in how they approach combat, with a wide variety of perks and modifiers that can be given to Jesse or attributed to abilities. Facing off against foes requires tactical planning in terms of which enemies you're facing, considering some are weaker to specific abilities or gun variants.
+
+"It means that the combination of what abilities you have, how you have upgraded them, what weapon mods and character mods you have actually affects the way you fight your way through these scenarios," Kasurinen says.
+
+Combat can become especially challenging as you face different kinds of enemies. We came across foes restricted to ground combat, heavy enemies with shotguns, and others that fly around you. Some aren't human (or even vaguely human), such as Hiss Clusters which are large, glowing red spheres that continuously heal enemies. To stop groups of foes, it's best to take out the Hiss Clusters first. We also encountered an Astral Spike, a strange entity from another dimension, appearing as a giant ball made of spikes that is unpredictable like a glitch.
+
+Because of the variety of enemy types and Control's sandbox gameplay, Remedy felt it was necessary to rebuild the A.I. completely from the ground up. 
+
+"We have basically a sandbox environment and looking at previous games they were more linear," Kasurinen says. "Let's say more static, more predefined. We scripted every single enemy where they appeared and how and so on. In this game it's all procedural. The enemies are spawned by a system and all of these things can support this world that is open-ended."
+
+This development system is called the Encounter Director, Remedy's systemic A.I. program that brings the right pacing to gameplay when it comes to the size of enemy encounters and what the Hiss have been doing in the world at that time. Factors like which area you're in and which level you've reached change enemy encounters entirely, especially since each sector of the Bureau has certain sets of enemies.
+
+Your Service Weapon can change into different forms that mimic gun types like an SMG or a railgun.
+
+Outside of how the A.I. works, one of the most satisfying parts of Control is how you can wreak havoc across its different environments. Remedy built each area with this in mind, and it's partly why the Oldest House, the setting of Control, has a brutalist architectural structure.
+
+"We chose that style also because it gives us this kind of simplicity of form and all these materials that we can take and use that work really well for destruction," Kasurinen says. "Like we have concrete, wood, steel, glass – things that you can understand and recognize, and you can predict how they will behave."
+
+To lift and launch objects with telekinesis, all you have to do is point the camera in its general direction until a faint highlight appears around the item you wish to select. While you can pick up large things like lift trucks and desks, you can also throw parts of objects like only a tripod or its camera. This lets you be pretty selective in exactly what gets thrown around. Kasurinen notes that certain materials were more difficult than others to portray realistically in their destruction.
+
+"Glass is always hard to get the right, with how it behaves and how it shatters," Kasurinen says. "It's easy to do bullet holes but if you try to throw a lift truck through glass it might not work exactly how you want it."
+
+Still, the destruction that's possible from one environment to the next was impressive from what we saw. Even objects hanging on walls, like extinguishers, can be pulled off and thrown towards foes. Seeing its contents splatter on the walls and floors is satisfying, too. We're excited to see how all these gameplay elements tie together in the full game when it releases this summer.
+
+For more on Control, click the banner below to be transported to our hub with more exclusive content.
+
+      Products In This Article
+
+Control
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC
+
+Release Date:
+
+August 27, 2019 (PlayStation 4, Xbox One, PC), October 28, 2020 (Switch), February 2, 2021 (PlayStation 5, Xbox Series X/S)
+
+Purchase
+More Info
+

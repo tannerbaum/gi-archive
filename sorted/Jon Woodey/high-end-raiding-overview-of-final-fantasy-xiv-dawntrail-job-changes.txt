@@ -1,0 +1,345 @@
+
+  High-End Raiding Overview of Final Fantasy XIV: Dawntrail Job Changes
+
+
+
+
+
+
+            Introduction
+
+Are you familiar with terms like 2-minute meta, homogenization, or even transpose lines? If you are, then this article might be up your alley. New expansions are always a fun time, especially for high-end raiders who will be getting shiny new buttons to press, and with that comes new rotations. After approximately 8,000 hours of playing Final Fantasy XIV and clearing The Omega Protocol on release, I think I'm able to provide some insight about the new weaponskills, spells, and abilities (and their implications for rotations, openers, and general play) I saw at a recent preview event for its upcoming Dawntrail expansion. I am not an expert at every job, and I could not test each job to its limit, so feel free to point out mistakes on my part.
+
+Unless it is pertinent to the rotation flow, potencies from damaging abilities are purposefully left off since many balance changes could come before the game launches. And just a heads up: don’t use this overview to find your job’s perfect rotation at launch – I will leave that to the mentors in The Balance. 
+
+Before we hop in, here is a critical reminder: Everything here was seen on an in-development build and is subject to change. Not just potencies but abilities may be changed or removed, and new ones we didn’t even see might be in the game at launch. As a little black birdie once said: We just don't know.
+
+Overview
+
+Some high-level things:
+
+Multiple jobs get additional mitigation or upgrades to existing mitigation. This makes me wonder how much damage the combat developers plan for us to take. In some instances, like in The Omega Protocol, tanks must have a healer mitigation to live through the damage. Are the mitigation changes to enable every tank to handle a buster by itself, or will they still need external mitigation in high-end content? We will have to wait and see.
+All raid buffs have been standardized to 20 seconds in Dawntrail. Even Searing Light is 20 seconds and now increases damage by 5%. 
+As mentioned in the 81st Live Letter, some actions will now have the ability to be consolidated into one button if it's part of a combo. 1-2-3 combos for every job released before Dawntrail have remained untouched and cannot be combined into one button. Viper and Pictomancer do have this implemented into what I view as their 1-2-3, though it is not optional. I was surprised at how little this new feature is utilized; every instance of it felt warranted. 
+Jobs play very similar to their Endwalker versions. From what FFXIV director and producer Naoki Yoshida, lovingly referred to as Yoshi-P in the community, has said and what we see now with the new information, Dawntrail will not be the expansion where we see extensive job changes. Yoshi-P has mentioned that the changes some players would like to see could happen in 8.0, but we have no specific information on that now, and plans could change by the time the next expansion comes around.
+Tanks
+
+All tanks receive the following:
+
+Lv. 94: Enhanced Rampart - Adds an additional effect to Rampart that increases HP recovery via healing action on self by 15%.
+Lv. 96: Melee Mastery II - Potency upgrades to various weaponskills.
+Lv. 98: Enhanced Reprisal - Extends the duration of Reprisal to 15 seconds.
+Paladin
+
+Paladin
+
+Lv. 76: Supplication, Sepulcher - New Atonement combo actions.
+Lv. 92: Guardian - Reduces damage taken by 40%. Gives a shield equivalent to a heal of 1,000 potency.
+Lv. 96: Imperator - Upgraded AoE Requiescat.
+Lv. 100: Blade of Honor - oGCD combo action off Blade of Valor.
+The magical sword-and-board tank that headlined the previous expansion isn’t seeing any adjustments that fundamentally change the rotation. You will hit the same button for Atonement, Supplication, and Sepulcher. There's no trait upgrading the old Atonement stacks into the new combo - you will have all three as soon as you unlock Atonement. All Atonement combo actions preserve your 1-2-3 combo. Sepulcher has a higher potency than a Divine Might Holy Spirit, so you will want to have it inside of your Fight or Flight window, but that might not always be possible. Blade of Honor is an oGCD and won't be pushing anything out of your burst, either. Goring Blade is only available during Fight or Flight, which feels strange, but it will not matter in most cases. And yes, Shield Bash and Cover are still there.
+
+Warrior
+
+Warrior 
+
+Lv. 92: Damnation - Reduces damage taken by 40%. Grants a 400 potency heal-over-time for 15 seconds after the effect of Damnation expires.
+Lv. 96: Primal Wrath - oGCD combo action off Inner Release that is able to be spent after using Fell Cleave three times while in Inner Release.
+Lv. 100: Primal Ruination - GCD combo action off Primal Rend. Guaranteed critical direct hit.
+Warrior's shiniest additions are both tied to Inner Release. There are two new buttons to press every 60 seconds, but Warrior has plenty of space for more buttons in its burst, so there's little to ponder here. Damnation's heal-over-time effect triggers as soon as the damage mitigation effect ends, so you could Shake It Off early to get the regen before waiting for Damnation to expire at the probable cost of being grossly inefficient. Warrior and Paladin keep their damaging gap closers, which may be confusing since Dark Knight and Gunbreaker lost theirs, but pragmatically, it makes sense as their burst windows can afford the space.
+
+Dark Knight
+
+Dark Knight 
+
+Lv. 54: Shadowstride - New non-damaging gapcloser that teleports you to enemy target. Replaces Plunge.
+Lv. 68: Delirium - Upgraded Blood Weapon. Combines the effects of old Blood Weapon and Delirium.
+Lv. 92: Shadowed Vigil - Reduces damage taken by 40%. 1,200 potency heal after dropping below 50% HP or after 20 seconds.
+Lv. 96: Scarlet Delirium, Comeuppance, Torcleaver - GCD Combo actions that replace Bloodspiller during Delirium.
+Lv. 96: Impalement - GCD combo action that replaces Quietus during Delirium.
+Lv. 100: Disesteem - GCD combo action off Living Shadow.
+Dark Knight is the first entry on the list where the opener may change beyond pressing the new buttons. In the standard opener, you would pop Blood Weapon about four seconds before pulling. Now, Blood Weapon is combined with Delirium, and the stacks only last 15 seconds, so you would lose one or two of the Delirium stacks waiting for raid buffs to come out if you kept the old Blood Weapon timing. Living Shadow no longer costs a gauge, so you can summon Esteem earlier to get more of his big hits under buffs. I don't anticipate either of these changes to cause too much hassle, but they are changes nonetheless. The new gap closer is a nice change to reduce the amount of weaving necessary during burst windows, and you can still reduce its cooldown with Enhanced Unmend if you want to - although if this article makes sense to you, then you almost certainly won't be. Shadowed Vigil providing an Excogitation-like effect could save you during Walking Dead. It wouldn't be efficient to use a 40% mitigation on top of Living Dead, but if it keeps you out of the grave, it keeps you out of the grave.
+
+Gunbreaker
+
+Gunbreaker
+
+Lv. 56: Trajectory - New non-damaging gapcloser that dashes you to enemy target. Replaces Rough Divide.
+Lv. 92: Great Nebula - Reduces damage taken by 40%. Increases maximum HP by 20% and restores the amount increased.
+Lv. 96: Fated Brand - AoE Continuation for Fated Circle.
+Lv. 100: Reign of Beasts, Noble Blood, Lion Heart - GCD combo actions off Bloodfest.
+This is still Thancred. An AoE Continuation for Fated Circle is nice for high mob count situations, although I don't anticipate seeing those in high-end raiding. The new Bloodfest combo is an interesting, high-damage replacement for other GCDs in the opener. With either 2.5 or <= 2.47 second GCD recasts, there are three very obvious candidates to be replaced by the new combo in the opener, and it allows for holding more cartridges coming out of your burst. This may help alleviate the awkwardness of two cartridge windows; Kronk will have to check the timeline. At Media Tour, the Bloodfest combos did break the Gnashing Fang combo. This is a good candidate for changing when it goes live or even in future patches. Having three GCDs that don't have Continuation procs during burst would be an enormous quality of life benefit for popping mitigation or moving the boss.
+
+Healers
+
+All healers receive the following:
+
+Lv. 94: Enhanced Swiftcast - Reduces cooldown of Swiftcast to 40 seconds.
+Lv. 94: White Magic/Tactician's/Magick Mastery - Potency upgrades to various spells.
+White Mage
+
+White Mage
+
+Lv. 40: Aetherial Shift - 15 yalm dash in the direction you are facing. 60-second cooldown.
+Lv. 92: Glare IV - Instant-cast GCD combo action off Presence of Mind. 3 stacks.
+Lv. 96: Medica III - Upgraded Medica II.
+Lv. 98: Enhanced Tetragrammaton - Two stacks of Tetragrammaton.
+Lv. 100: Divine Caress - oGCD combo action off Temperance. 400 potency barrier to party. members within 15 yalm radius. Grants Regen with 200 potency for 15 seconds after the barrier effect fades.
+Glare mages stay glaring. Ever since the change to give all healers 1.5-second casts on their primary damaging skill, I don't think movement has been problematic for White Mages. Still, it certainly doesn't hurt to have three instant casts every two minutes and a lengthy dash every 60 seconds. The dash is not tied to Temperance or any other ability and unlocks very early. There are many potential uses, such as adjusting at the last second or moving for Defamation-like mechanics. Medica III didn't upgrade the initial heal but did boost the regen to 175 potency for a total of 875 potency over its 15-second duration. Divine Caress is a powerful tool, and as you will see with the rest of the healers, the capstone abilities of healers in Dawntrail are strong.
+
+Scholar
+
+Scholar
+
+Lv. 92: Baneful Impaction - oGCD combo action off Chain Stratagem. Deals damage over time for 15 seconds and is able to be stacked with Biolysis.
+Lv. 96: Concitation - Upgraded Succor.
+Lv. 98: Enhanced Recitation - Reduces cooldown of Recitation to 60 seconds.
+Lv. 100: Seraphism - 100 potency heal over time for party members within 50 yalms. Changes Adloquium to Manifestation and Concitation to Accession. Resets Emergency Tactics recast timer and reduces its recast timer to one second. Lasts for 20 seconds. Effect cannot be stacked with Dissipation. Three-minute cooldown. 
+Lv. 100: Manifestation, Accession - Upgraded instant-cast Adloquium and Concitation. Can only be used while under Seraphism.
+A new damage-over-time ability, upgraded Succor with 180% shielding (the heal is the same), and reduced cooldown of Recitation is nice, but the real eye-catcher is Seraphism. Instant-cast Manifestation or Accession with Emergency Tactics on every cast for 20 seconds is a lot of healing throughput. Manifestation ups the healing to 240 potency with no change to the shield, and Accession ups the healing to 240 potency with a 180% shield. Even though you can't pair it with the increased healing effect of Dissipation, you can use it with Fey Illumination and whatever other increased healing effects your party brings. One interesting bit is that it does provide a heal over time, but its duration is not neatly divisible by three to account for the server tick like most over-time effects in the game are - aside from Flamethrower on Machinist. We will have to wait and see if there is anything to that or if the timer will be changed at launch.
+
+Astrologian
+
+Astrologian
+
+Lv. 30: Astral Draw - Draws the Balance, the Arrow, the Spire, and the Lord of Crowns (At Lv. 70 and beyond). Changes to and shares a recast timer with Umbral Draw after using.
+Lv. 30: Umbral Draw - Draws the Spear, the Bole, the Ewer, and the Lady of Crowns (At Lv. 70 and beyond). Changes to and shares a recast timer with Astral Draw after using.
+Lv. 30: Play I - Plays either the Balance or the Spear.
+Lv. 30: Play II - Plays either the Arrow or the Bole.
+Lv. 30: Play III - Plays either the Spire or the Ewer.
+Lv. 30: The Balance - Increase damage by 6% if target is melee, 3% if ranged.
+Lv. 30: The Arrow - Increase HP recovery via healing by 10%.
+Lv. 30: The Spire - 400 potency shield.
+Lv. 30: The Spear - Increase damage by 6% if target is ranged, 3% if melee.
+Lv. 30: The Bole - Reduces damage taken by 10%.
+Lv. 30: The Ewer - 200 potency healing over time for 15 seconds.
+Lv. 92: Oracle - oGCD combo action off Divination.
+Lv. 96: Helios Conjunction - Upgraded Aspected Helios.
+Lv. 98: Enhanced Essential Dignity II - Three charges of Essential Dignity.
+Lv. 100: Sun Sign - oGCD combo action off Neutral Sect. 10% damage mitigation for party members within 30 yalms for 15 seconds.
+That may look like many changes, but it is less overwhelming than you think. Starting with the post-90 additions, Oracle is a simple damaging oGCD you press after Divination. Helios Conjunction matches Medica III's update: no change to initial heal but an increase to the heal over time effect to 175 potency, totaling 875 potency over its entire duration. Neutral Sect gets a follow-up in Sun Sign that gives the party another 10% mitigation, which is a less exciting capstone than White Mage and Scholar's. Even so, party mitigation is strong and always welcome.
+
+The card rework feels intuitive. You will get three cards for each draw: one for damage, one for mitigation, and one for healing. If you want to quibble about increased healing not being a mitigation and a shield not being a heal, then fair enough, but it's a good heuristic. There are now three play buttons – four if you count Minor Arcana – which eats up precious hotbar space. We lose Astrodyne, Redraw, and Undraw to compensate, though many Astrologian players don't even have Undraw on their hotbar. The final result of the rework is slightly less rDPS that will probably be made up in raw potency, fewer cards to play for burst, and more utility. 
+
+Sage
+
+Sage
+
+Lv. 82: Eukrasian Dyskrasia - AoE damage over time effect. Augmented from Dyskrasia after pressing Eukrasia. Does stack with Eukrasian Dosis.
+Lv. 92: Psyche - Damaging oGCD. 60-second cooldown.
+Lv. 96: Eukrasian Prognosis II - Upgraded Eukrasian Prognosis.
+Lv. 100: Philosophia - Increase healing magic potency by 20% for 20 seconds. Grants party members in 20 yalm radius Eudaimonia, which gives a 150 potency heal every time you land a spell for 20 seconds.
+Expectedly, Sage and Reaper didn't receive any massive changes, seeing as they were the latest jobs added to the game. Having an AoE damage over time is nice, especially when it doesn't take up more space on the hotbar. Eukrasian Prognosis II increases the shield to 360%. Psyche plays into the idea of Sage being the healer who does the most damage by doing damage. That's all it does: no healing, not tied to anything, just damage. We get Pankardia, except it's not called Pankardia. 20% increased healing is substantial, equal to Scholar's Dissipation. The fact that Philosophia is duration-based and not stacked-based could mean a late weave with higher spell speed comfortably squeezes out some extra healing potency, but I don't think that will be a factor in determining the ideal spell speed.
+
+Melee DPS
+
+All melee DPS receive the following:
+
+Lv. 94: Enhanced Second Wind - Increased potency to 800.
+Lv. 94: Melee Mastery - Potency upgrades to various weaponskills and abilities. Various jobs have different names for this, but the idea of the trait is the same.
+Lv. 98: Enhanced Feint - Extends the duration of Feint to 15 seconds.
+Monk
+
+Monk
+
+Lv. 64: Earth's Reply - oGCD combo action off Riddle of Earth. Heals self and party. There are two potencies attached to Earth's Reply: "Cure Potency: 300" and "Earth's Resolve Potency: 500." I did not take enough screenshots to confirm if Earth's Resolve replaces the function of the Earth's Reply that is currently in the game; apologies.
+Lv. 92: Leaping Opo - Upgraded Bootshine.
+Lv. 92: Rising Raptor - Upgraded True Strike.
+Lv. 92: Pouncing Coeurl - Upgraded Snap Punch.
+Lv. 92: Elixir Burst - Upgraded Elixir Field.
+Lv. 96: Wind's Reply - GCD combo action off Riddle of Wind. 900 potency.
+Lv. 100: Fire's Reply - GCD combo action off Riddle of Fire. Grants Formless Fist after using. 1,300 potency.
+At this point, we should expect Monk to change every expansion. This rework does change the core of the job while still keeping the flow. Instead of managing a buff and damage over time debuff, you build stacks in each form with one weaponskill and spend them with another. The rate at which you switch GCDs is different while still feeling somewhat familiar. Brotherhood allows you to hold ten Chakra, which will help prevent overcapping. Keen eyes will notice this is the first entry that lists potencies. There are some implications: I'm not smart enough to math it out myself, but let's look.
+
+In the preview event build, opening the Lunar Nadi was the same potency as opening Solar. Wind's Reply and Fire's Reply are very powerful, and on the GCD, it makes me wonder if setting up Perfect Balance windows earlier, like in Double Solar or Solar Lunar, will become standard. Fire's Reply granting Formless Fist and Wind's Reply not granting it will probably affect where the optimal placement will be. Landing Demolish under buffs is now less important, so Monks will have more flexibility when entering burst windows. I could be cooking a little too hard and be completely wrong about everything. All I know for sure is that Monk is still fast, and the most hardcore Monk players will still lock their frames to avoid Riddle of Fire drift. 
+
+Dragoon
+
+Dragoon
+
+Lv. 45: Winged Glide - Non-damaging gapcloser. Effectively replaces Spineshatter Dive.
+Lv. 60: Geirskogul - Grants Life of the Dragon for 20 seconds. 60-second cooldown.
+Lv. 64: Drakesbane - Upgraded Wheeling Thrust or Fang and Claw.
+Lv. 68: Mirage Dive - oGCD combo action off Jump/High Jump.
+Lv. 70: Nastrond - Replaces Geirskogul while in Life of the Dragon. Stack-based with two-second recast timer instead of 10-second recast.
+Lv. 92: Rise of the Dragon - oGCD combo action off Dragonfire Dive.
+Lv. 96: Lance Barrage - Upgraded Vorpal Thrust.
+Lv. 96: Spiral Blow - Upgraded Disembowel.
+Lv. 100: Starcross - oGCD combo action off Stardiver.
+As stated in the 81st Live Letter and the subsequent Live Letter Digest, Dragoon did not receive the planned extensive overhaul once the developers decided on their vision for combat in 7.0. If you were a fan of Endwalker Dragoon, then I think you will be happy with this rework. The seven-part GCD combo stays intact with the last GCD before Raiden Thrust losing its positional. Dragonfire Dive, High Jump, and Stardiver now have follow-up oGCD combos. Even with the loss of Dragon Sight and Spineshatter Dive, the burst window is still relatively busy and less prone to drifting.
+
+Life of the Dragon is still around with a few adjustments: Life only lasts 20 seconds, eyes are gone (so pressing Geirskogul immediately puts you into Life), Nastrond has three stacks instead of having a 10-second cooldown, and there's a 15% damage increase while in Life that I don't think is currently in the game. Players will no longer accidentally let their Life window drift because they forgot that Geirskogul will be off cooldown as soon as Life ends. They still might be tanking the floor, though.
+
+Ninja
+
+Ninja
+
+Lv. 26: Aeolian Edge - Increased potency when spending Kazematoi.
+Lv. 45: Increase Attack Speed - Huton gauge is gone and the increased attack speed now a trait.
+Lv. 45: Huton - AoE version of Suiton.
+Lv. 54: Armor Crush - No longer extends Huton. Grants two stacks of Kazematoi.
+Lv. 66: Dokumori - Upgraded Mug.
+Lv. 92: Kunai's Bane - Upgraded AoE Trick Attack.
+Lv. 96: Deathfrog Medium - Upgraded Hellfrog Medium after using Dokumori.
+Lv. 96: Zesho Meppo - Upgraded Bhavacakra after using Dokumori.
+Lv. 100: Tenri Jindo - oGCD combo action off Ten Chi Jin. 
+Sasuke has some shiny tools beyond Chidori in this expansion. None of them should change the rotation in a meaningful way. The most noticeable change is the removal of the Huton gauge and Huraijin. Armor Crush will be generating stacks of Kazematoi instead of extending Huton, and Aeolian Edge will be spending those stacks. Ninja players, myself included, don't play Ninja for the filler; we play for the big burst windows, so that change isn't too impactful, aside from not needing to refill the Huton gauge after long periods of downtime. Kunai's Bane is a nice visual upgrade to Trick Attack, and being AoE is great. A fancier spender of Ninki is a nice little bonus every two minutes. Tenri Jindo is the main attraction, and while it has a lot of potency, it isn't as much as Hyosho Ranryu and thus won't feel as bad when it doesn't crit.
+
+Samurai
+
+Samurai
+
+Lv. 82: Tengetsu - Upgraded Third Eye. 500 potency heal after eight seconds.
+Lv. 92: Gyofu - Upgraded Hakaze.
+Lv. 94: Enhanced Hissatsu - Reduces Hissatsu: Guren and Hissatsu: Senei cooldown to 60 seconds.
+Lv. 96: Zanshin - oGCD combo action of Ikishoten.
+Lv. 100: Tendo Goken - Upgraded Tenka Goken after using Meikyo Shisui.
+Lv. 100: Tendo Setsugekka - Upgraded Midare Setsugekka after using Meikyo Shisui.
+Lv. 100: Tendo Kaeshi Goken - Tsubame-gaeshi combo for Tendo Goken. 
+Lv. 100: Tendo Kaeshi Setsugekka - Tsubame-gaeshi combo for Tendo Setsugekka.
+If you have ever read or watched a Samurai guide to become sufficient at playing Samurai, you will almost certainly remain sufficient. Not being able to Tsubame-gaeshi without first pressing Meikyo Shisui feels a bit strange. It probably won't matter much in Savage, but it might be more relevant in Ultimates, where looping isn't a thing. Tendo Goken and Tendo Setsugekka are nice upgrades that won't change the rotation. Zanshin being an oGCD makes it a comfy weave in burst windows. Third Eye getting an unexpected upgrade is a nice bonus. You won’t be griefing your healers quite as much if you decide to take avoidable damage to gain Kenki. You wouldn't think about doing that, though, right? Right?
+
+Reaper
+
+Reaper
+
+Lv. 92: Sacrificium - oGCD that replaces Gluttony when Enshrouded.
+Lv. 96: Executioner's Gibbet - Upgraded Gibbet after using Gluttony. 
+Lv. 96: Executioner's Gallows - Upgraded Gallows after using Gluttony.
+Lv. 96: Executioner's Guillotine - Upgraded Guillotine after using Gluttony.
+Lv. 100: Perfectio - Ranged GCD combo action off Communio after using Plentiful Harvest.
+Just like Sage, there are just a few notable changes here. Plentiful Harvest allowing a use of Enshroud instead of giving gauge is nice to prevent overcapping. I don't think it prevents Reaper from being resource negative over two minutes - the change makes no difference to net gauge. Harpe and Harvest will grant you gauge, though they won't appear frequently in the rotation. Sacrificium is another Enshroud weave that has three potential slots to slide into. Gluttony will enhance your Gibbet and Gallows combo or Guillotine. Perfectio has a range of 25 yalms, which is ten more than Hell's Egress or Hell's Ingress will take you, so you will almost always be in range to cast it. Early Gluttony becomes a more attractive option for an opener now that buffs are 20 seconds long. Perfectio taking up a GCD might result in rearranging double Enshroud windows to ensure both Perfectio's land in buffs.
+
+Viper
+
+Viper
+
+This is where I put my hands up and give credit to people who craft openers and rotations. I cannot, in good conscience, give you an idea of what the opener will look like or how the rotation will flow. The staff at the preview event even gave us documents to help explain the kit, but I'm still lost. If you frequent The Balance Discord server, your understanding of the job will probably be as good as mine. You will have to go elsewhere to get a comprehensive breakdown of the new job. Here's what I can say about Viper:
+
+You will do your 1-2-3 combo primarily with a sword in each hand. The dual sword icon indicates which combo route you should pick with separate routes providing one of two buffs: Swiftscaled (15% attack speed) or Hunter's Instinct (10% damage increase). You have an alternative combo starter to your 1-2-3 that applies Noxious Gnash: a debuff on the target, which increases your damage against said target by 10% at the cost of less damage. A separate combo chain will apply both buffs and the debuff called Dreadwinder. Dreadwinder has two stacks and a 40-second cooldown.
+
+The red gems below the dual sword icon are your Vipersight gauge, which allows you to use a ranged combo. The blue gauge is called either Serpents Offering or Serpents Ire - I am not sure which it should be called as both were referenced, and I may be misunderstanding it. This will allow you to use your big burst, called Reawaken, where your GCD recast timer speeds up, and you do some hefty damage. I don't believe it's a fixed speed - with our preview gear that provided 952 skill speed, the GCD recast after receiving the Swiftscaled buff was 2.07. The Reawaken GCD recast was 1.65 seconds, approximately 20% more haste after the 15% buff. Or, perhaps the dev team decided they always want the GCD to be 1.65 seconds while you are Reawakened. 
+
+Viper feels like a mix of Samurai, Reaper, Gunbreaker, and Monk. Samurai in the sense that it doesn't have a raid buff, and you're maintaining two buffs that you won't ever need to think about during optimal play - they should just naturally refresh and aren't in any danger of falling off. Reaper in the sense that you're maintaining a debuff on your target, and the Reawaken window feels very similar to the Enshroud window. Gunbreaker in the sense that there are lots of oGCD weaves. And Monk in the sense you feel like you're playing fast. Is it bad that Viper feels like a mix of all these jobs? If it takes four, I think it stands out enough to have its own identity. There are lots of contextual combo choices that, at face value, make it seem engaging. High-end raiders don't know what that means; we only know the optimal choice. 
+
+Physical Ranged DPS
+
+All physical ranged DPS receive the following:
+
+Lv. 94: Enhanced Second Wind - Increased potency to 800.
+Lv. 94: Ranged/Marksman's Mastery, Dynamic Dancer - Potency upgrades to various weaponskills and abilities.
+Lv. 98: Enhanced Troubadour/Tactician/Shield Samba - Increase damage mitigation to 15%.
+Bard
+
+Bard
+
+Lv. 30: Mage's Ballad - No longer requires a target to use. Must be in combat.
+Lv. 40: Army's Paeon - No longer requires a target to use. Must be in combat.
+Lv. 52: The Wanderer's Minuet - No longer requires a target to use. Must be in combat.
+Lv 92: Heartbreak Shot - Upgraded Bloodletter. 160 potency.
+Lv. 96: Resonant Arrow - GCD combo action off Barrage.
+Lv. 100: Radiant Encore - GCD combo action off Radiant Finale. Does damage based on the number of Coda used in Radiant Finale.
+Bard mains are rejoicing around the world now that their songs no longer require a target. While finessing your rotation to account for downtime might have been fun optimization for some, I think many more would much rather have the ability to use downtime to cycle your songs. I can only imagine what the backstage must have looked like when planning songs during Trio mechanics in Endwalker and all the previous expansions. We have another featured potency, and for good reason. In Endwalker, Army's Paeon was only slightly better than Mage's Ballad, so with the addition of Heartbreak Shot, perhaps the song order will change to accommodate. Someone else will have to do the math to confirm, though. Bard's more priority-based rotation means slotting in Resonant Arrow and Radiant Encore should be straightforward.
+
+Machinist
+
+Machinist
+
+Lv. 68: Blazing Shot - Upgraded Heat Blast.
+Lv. 92: Double Check - Upgraded Gauss Round. Now AoE.
+Lv. 92: Checkmate - Upgraded Richochet. Still AoE.
+Lv. 94: Enhanced Multiweapon - Two charges of Drill or Bioblaster.
+Lv. 96: Excavator - GCD combo action off Chain Saw. Increases Battery Gauge by 20.
+Lv. 100: Full Metal Field - GCD combo action off Barrel Stabilizer. Guaranteed critical direct hit. 
+Machinists get some really neat tools. Heh. Blazing Shot, Double Check, and Checkmate are nice upgrades, mostly for improved visuals that will make Hypercharge windows more fun to look at. Full Metal Field is a sweet-looking ability, and not having to spend a Reassemble on it is great. Two charges of Drill and the addition of Excavator could shake up the opener a bit. You could still opt for the Delayed Tools opener and save Excavator, Full Metal Field, and the extra Drill for after Hypercharge. However, waiting for more qualified individuals to speak on that matter is a good idea. The Heat and Battery economy has changed, which will be reflected in Queen timings. In full uptime, you're sending Queen at 80-100 Battery and using Hypercharges to delay Battery generation, if needed. In Dawntrail, you will have 40 more battery from Excavator every two minutes and three less Heat generating GCDs due to Excavator and Full Metal Field. Maybe we will see 100 Battery Queens every minute now?
+
+Dancer
+
+Dancer
+
+Lv. 92: Last Dance - New GCD. Can only be used after Standard Finish or Finishing Move.
+Lv. 96: Finishing Move - Upgraded Standard Step after using Flourish. 
+Lv. 100: Dance of the Dawn - Upgraded Saber dance after using Technical Finish.
+Despite its reputation for being the easiest job to play amongst the physical ranged DPS, Dancer has a lot of abilities to cram into burst windows. Thankfully, the new additions are all GCDs, so you won't have to manage any more weaves on top of all your feathers. Last Dance is a simple follow-up to Standard Finish without any frills. Flourish changes Standard Step to Finishing Move, which removes the need to do any steps before using. Finishing Move does not share a cooldown with Standard Step so you can do both in short sequence. Due to the increase of potencies on certain weaponskills from Dynamic Dancer, it may be better to cut a Standard Step from the rotation every two minutes in certain instances, but remember: potencies can change at launch. Dance of the Dawn is effectively a buffed Saber Dance every two minutes that still costs 50 Espirit – again, nice and straightforward additions.
+
+Magical Ranged DPS
+
+All magical ranged DPS receive the following:
+
+Lv. 94: Enhanced Swiftcast - Reduces the cooldown of Swiftcast to 40 seconds.
+Lv. 94: Arcane/Enchanted Blade/Pictomancy Mastery - Potency upgrades to various spells and abilities (Black Mage's equivalent, Enhanced Enochian is at Lv. 96).
+Lv. 98: Enhanced Addle - Extends the duration of Addle to 15 seconds.
+Black Mage
+
+Black Mage
+
+Lv. 90: Paradox - Always grants Firestarter. Only available when swapping from ice to fire or from Manafont.
+Lv. 92: High Thunder - Upgraded Thunder III. Can only be used while under the effect of Thunderhead.
+Lv 92: High Thunder II - Upgraded Thunder IV. Can only be used while under the effect of Thunderhead.
+Lv. 96: Retrace - Moves Leylines to your current location.
+Lv. 98: Enhanced Polyglot II - Three stacks of Polyglot.
+Lv. 100: Flare Star - New GCD. Can only be used with six stacks of Astral Soul.
+There's a lot to dig into here, so let's start with the simple changes: Leylines is moveable with Retrace, Polyglot now stacks up to three, Flare Star is the new "finisher" after filling the Astral Gauge. Swapping to ice will reset the Astral gauge. Manafont will grant full mana, Paradox, and three Umbral Hearts. Sharpcast is gone, and to compensate, you will be given a Thunderhead (functions the same as Thundercloud) proc every time you swap from ice to fire, vice versa, or from unaspected to either. Your Thunder spells can only be cast with that proc. Also, Paradox will always give you a Firestarter proc, but you only get Paradox when swapping from ice to fire. If I understand correctly, Black Mage will have more instant casts to use for movement with less flexibility on when you receive them. 
+
+I've only ever played standard line Black Mage, and even I know the Black Mage iceberg goes deep. There is one very impactful change here that will affect non-standard lines. We learned in the Live Letter that mana regeneration will now be based on spells casted while in ice. Only ice-based spells will trigger the increased mana regen, and the amount of mana restored is based on how many stacks of Umbral Ice you have. One stack of Umbral Ice will grant 2,500 mana, two stacks will grant 5,000 mana, and three will grant 10,000 mana. In an optimal scenario, your ice phase will now be Blizzard III, then Blizzard IV, and then you're done. 
+
+Seasoned Black Mage players will need to confirm, but I see transpose lines losing a lot of relative value. Transposing to ice gives you one stack of Umbral Ice, which will make your ice phase extra painful as you can't wait for mana ticks. Umbral Soul will restore mana based on how many stacks of Umbral Ice you have, so maybe there's something to investigate there. Transposing back to fire will not grant Paradox, which is how it works in Endwalker, but now you will lose your only chance at Paradox if Manafont isn't off cooldown. The opportunity cost of transposing is more significant - especially since the ice phase of the standard line will now just be two spells, though this doesn't mean it can’t work in some lines.
+
+There could be some fun optimization in this new version of Black Mage. I don't play the job enough to know what that might look like, but I remain hopeful that the job will still be fun. The doomposting has already begun, and I don't think there's any stopping it. Maybe I'm crazy, but I have a good feeling about this one.
+
+Summoner
+
+Summoner
+
+Lv. 92: Necrotize - Upgraded Fester.
+Lv. 96: Searing Flash - oGCD combo action off Searing Light.
+Lv. 100: Summon Solar Bahamut - Summons Solar Bahamut.
+Lv. 100: Umbral Impulse - Replaces Ruin III while Solar Bahamut is summoned.
+Lv. 100 Umbral Flare - Replaces Tri-disaster while Solar Bahamut is summoned.
+Lv. 100: Sunflare - Replaces Astral Flow when Solar Bahamut is summoned.
+Lv. 100: Enkindle Solar Bahamut - Orders Solar Bahamut to execute Exodus.
+Lv. 100: Lux Solaris - New oGCD. Heals party members within 15 yalms for 500 potency. Can only be used after summing Solar Bahamut.
+Despite having a decent number of new abilities written out, Summoner hasn’t changed very much. Necrotize replaces Fester, and Searing Flash will help you do a little more damage every two minutes after pressing Searing Light. Solar Bahamut is a cool addition, though many people aren't too thrilled, given the number of other Primals in the game. It doesn't change anything about the rotation, but there is a new oGCD that gives a heal to the party every Solar Bahamut summon, which is a nice bit of utility. Solar Bahamut is your first summon and should be in your burst every two minutes, with Bahamut and Phoenix alternating the odd-minute windows. Demi-summons were untouched, aside from some potency upgrades.
+
+Red Mage
+
+Red Mage
+
+Lv. 92: Vice of Thorns - oGCD combo action off Embolden.
+Lv. 96: Grand Impact - Upgraded Jolt/Impact after using Acceleration.
+Lv. 100: Cineration - oGCD combo action off Manafication. Granted after consuming all stacks of Manafication.
+Red Mages didn't get a new finisher. Vice of Thorns and Cineration are oGCDs that will most likely slot between the current finishers instead of extending your melee combo. Manafication granting a use of your melee combo instead of giving Black and White Mana is nice, although it still cancels your combo. Acceleration being used on Jolt or Impact instead of Veraero or Verthunder will be different. That does mean fewer procs of Verstone and Verfire, but I do not know if that will affect your Black and White Mana generation in a meaningful way. Even though it's already possible, it might be easier to prevent your Fleche and Contre Sixte from drifting with the reduced Swiftcast cooldown.
+
+Pictomancer
+
+Pictomaner
+
+For our grand finale, I will refrain from going too in-depth again. I spent more time on Viper than Pictomancer, so my limited understanding of the new jobs might be even more apparent here. Your favorite content creator or The Balance will certainly have more to say, but here's what I learned:
+
+Pictomancer has two systems to manage: Palette Gauge and Canvas. The Palette Gauge is filled by the finisher in your 1-2-3 combo and grants you one stack of White Paint, which you can use on your default spender: Holy in White. Once you have 50 gauge, you can use Subtractive Palette to spend the gauge, which upgrades your 1-2-3. After a certain level, Subtractive Palette will also convert one stack of White Paint to Black Paint, which is used on the Black Paint spender: Comet in Black.
+
+The Canvas holds three motifs: Creature, Weapon, and Landscape. These motifs operate on a 40 second cooldown with three stacks, a 60-second cooldown, and a two-minute cooldown, respectively. Landscape holds your raid buff, Starry Muse, an area of effect in which you and party members must stand to receive the buffs. These buffs include a 5% damage increase for the whole party, reduced cast times for only the Pictomancer, and augmentation of certain Pictomaner spells. You receive many buffs whose effects weren’t directly stated in this preview build, so I may be missing something. 
+
+The Weapon Canvas holds Weapon motifs, providing an instant-cast ranged combo where each step is a guaranteed critical direct hit. You can slot four motifs into the Creature Canvas, and rendering them to life will deal damage. Every two Motifs rendered will create a Depiction, either a Moogle or a Madeen, that will execute their attack when brought to life. 
+
+I struggle to think of a job in the game comparable to Pictomancer. While it is unique, it does take up a caster slot without providing a raise, which might make it less attractive in a progression setting for some groups. Running double caster is always an option; there have been very, very few encounters in the game that require groups to run double melee, if any. If your group is having trouble with damage deep into progression, it is probably a skill issue - and by skill issue, I mean you're not critting enough. 
+
+      Products In This Article
+
+Final Fantasy XIV: Dawntrail
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, PC
+
+Release Date:
+
+July 2, 2024
+
+Purchase
+More Info
+
+Jon Woodey
+Web Designer & Programmer
+Game Informer's resident Final Fantasy XIV-aficionado. Jon also enjoys playing comfy games like Stardew Valley, but even those games are not safe from ruthless optimization.
+

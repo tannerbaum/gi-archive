@@ -1,0 +1,63 @@
+
+  Here's The Best Graphics Mode For Call Of Duty: Modern Warfare III
+
+
+
+
+
+
+            Call of Duty: Modern Warfare III, the latest in the long-running FPS series that's also the first back-to-back sequel in years, is almost here – in fact, if you've preordered a digital version of the game, it's already here, kinda. That's because all digital version preorders unlock early access to the Modern Warfare III campaign. That's eight days before the full release on November 10, which is when its multiplayer suite goes live. Earlier this week, publisher Activision Blizzard and developer Sledgehammer Games released the PC specs and system requirements for the game. Now, we have our hands on Modern Warfare III and can tell you what the best graphics mode is on PlayStation 5 and Xbox Series X/S and what visual settings to use. 
+
+If you've played recent Call of Duty entries, you probably already have a good idea of what kind of options are available in the game. But if you're looking for a refresher, or are a newcomer and want to know how to experience Modern Warfare III at its best on console, we have you covered. 
+
+Here's The Best Graphics Mode For Call Of Duty: Modern Warfare III
+
+If you don't care about any of the reasons why or explanations, I'll save you the trouble: the best graphics mode for Modern Warfare III is its 120 HZ mode, which can be toggled on and off in the game's graphics settings. However, it requires a TV or monitor with a 120 HZ refresh rate. 
+
+Let's talk about why. 
+
+Call of Duty has been pushing out 60 FPS gameplay – by way of 60 HZ refresh rates on TVs and even higher on PCs and monitors – for years now. It feels like a requirement in FPS gaming to default to 60 FPS action. But, with the latest generation of consoles in the PS5 and Xbox Series X/S, Activision Blizzard has been able to bring even higher frame rates to console players previously locked away to those on nice PC rigs. However, like most games that offer 120 FPS gameplay, you need a monitor or TV that can handle it. And while there are some deviations, like 120 HZ refresh rates at 1080p resolution, your TV needs HDMI 2.1 in order to tap into 120 HZ refresh rates with 4K resolutions, HDR, and all the other bells and whistles. And HDMI 2.1 technology is relatively new, becoming more and more applicable with the start of this generation in 2020. 
+
+That said, if you do have a TV or monitor capable of 120 HZ refresh rates, you can go into your console's video settings to ensure that's turned on and working as intended. Then, accessing the 120 HZ option in Modern Warfare III is a breeze. If you have the option to play the game at 120 FPS, you absolutely should – with shooters, the smoother (and quicker) the gameplay, the better, especially when competing in multiplayer against other real-world players who might have this advantage. 
+
+Start by accessing the game's graphics settings, as seen below: 
+
+After clicking that, you'll see a suite of options related to Modern Warfare III's visual settings. You can check them out in the slideshow below, and take special attention to turn on the 120 HZ (as seen in our first image): 
+
+Once you've got that 120 HZ switched on, you're all set. Enjoy Modern Warfare III's action at a buttery-smooth 120 FPS. But, as you can see, there are loads of other options and if you're interested, we break down some of them below: 
+
+Field of View: By lowering your FOV, you see less on the screen at any given moment. By increasing it, your field of view increases, meaning you can see more at any moment. By increasing it, you'll also find that the game feels faster, too, especially when rotating your view. If you're looking for something lightning fast, akin to the Doom style of gameplay, crank the FOV up. 
+On-Demand Texture Streaming: If you want the best visual experience while playing Modern Warfare III, turn this setting on. But it requires an online connection. It also requires more storage space. 
+World Motion Blur: This comes down to preference – if you want the cinematic blur that happens when moving around a space, where buildings, trees, and more blend together while moving, keep this on. However, it does make some people sick and turning it off won't really hurt the experience. 
+Weapon Motion Blur: Same as above, except when moving, this blurs your weapon. 
+Film Grain: This is pure preference – if you like the grainy look on-screen reminiscent of movies, keep it on. If you don't, feel free to turn it off. 
+Depth of Field: With this on, the game camera will blur parts of your view to simulate a camera lens. Admittedly, it's not much of a gamechanger but for some people, it makes focusing exclusively down a weapon's sights easier. 
+FidexlityFX CAS: Keep this on – it's a technology that increases the sharpness of pixels in the image, ultimately making your visual experience nicer. 
+I do want to note that at the end of the day, you should just use whatever visual settings and graphics modes you prefer. There is no right or wrong answer – I simply spend too much time tinkering with these types of things and wanted to hopefully give you a quick and easy guide that explains what I believe are the best settings while playing Modern Warfare III. If you have any questions, drop them in the comments below!
+
+For more about the game, read Game Informer's breakdown of everything we learned from a recent Call of Duty Next livestream, and then check out this story about how Modern Warfare III won't be coming to Xbox Game Pass this year, even though Xbox now owns Activision Blizzard. 
+
+Are you jumping into Call of Duty: Modern Warfare III at launch? Let us know in the comments below!
+
+      Products In This Article
+
+Call of Duty: Modern Warfare III
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC
+
+Release Date:
+
+November 10, 2023
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

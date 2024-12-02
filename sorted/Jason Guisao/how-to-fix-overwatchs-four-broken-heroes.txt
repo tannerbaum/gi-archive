@@ -1,0 +1,66 @@
+
+  How To Fix Overwatch's Four Broken Heroes
+
+
+
+
+
+
+            Overwatch has had an abundance of updates since its 2016 release, with Blizzard continuously reworking the roster to allow for more optimal combat experiences. While some noteworthy patches have completely reinvented character roles, smaller ones have altered cooldown timers or bullet spreads. These frequent modifications often tip the scales of gameplay balance. Some heroes have become devastatingly strong (Hanzo and his lethal arrow volleys), while others lose their value (Brigitte’s shield bash debuff). Here are four heroes currently in need of serious repair: 
+
+Mercy
+
+The Flaws: At one point, Mercy’s selection rate soared above her support comrades, because she was such a capable healer. Supports, like Lucio and Zenyatta, were limited to specific stratagems. Others, notably Ana, were too mechanically demanding to use efficiently. Comparably, Mercy’s ability-kit was easy to execute and, in some cases, stronger. With ample healing numbers and high mobility, she provided a dependability that no other hero could best. Currently, however, Mercy’s viability is at a record low. With a healing per second (hps) reduction, and a less sustainable ultimate called valkyrie (for 15 seconds her core abilities are slightly enhanced), she is no longer reliable at her own role. 
+
+Before valkyrie, Mercy’s resurrection ultimate earned the ire of many Overwatch players. The power to revive an entire team was overpowered, so it was only a matter of time until that was patched. Now the forgotten ultimate has become nothing more than a single-target reviver on an egregious 30-second cooldown. Her angel wings momentarily clipped, Ana, Moira, and Zenyatta have become increasingly commonplace. 
+
+The Fix: A return to Mercy’s old healing capabilities of 60 hps would work wonders for the character. Right now, she sits at a meager 50 hps which often fails to sustain heroes with both large and small health pools. Since resurrection has a cast time of 1.75 seconds, death is almost always assured (all of this just for the attempted revival of one ally!). If the revival time is reduced to a manageable 1.5 (Overwatch, after all, is a game of seconds), Mercy might find herself in a sweet spot that won’t threaten the popularity of other heroes. 
+
+Wrecking Ball
+
+The Flaws: Wrecking Ball’s fall from grace was as quick as his initial announcement. Players prized him for an uncanny ability to initiate skirmishes. Likewise, his utility stems from enabling allies to swoop in and dispatch specified targets. Now that tank-heavy, brawler team compositions are becoming the standard, Wrecking Ball has a harder time contributing to the kill count. Considering that Overwatch is primarily about the decimation of one’s enemy, Wrecking Ball’s damage deficiency is alarming. 
+
+The Fix: Wrecking Ball is easily defeated by most crowd-control heroes. Perhaps by replacing his quad cannons with infinite-ammo chain guns (like D.Va’s firearms), players could secure their own chance at survival when attacked. To prevent him from massacring foes with smaller health pools, an increase to bullet spread and an ensuing overheat-period that substitutes a normal reload timer would be important. With his dual guns rendered unusable, Wrecking Ball’s “adaptive shield” ability would have a new purpose, allowing him to be as tank-y as Reinhardt and Orisa, but also giving him the potential to seal the deal on battles against counter heroes.
+
+Reaper
+
+The Flaws: Everyone’s favorite flanker received a tremendous buff last month. With major tweaks to his passive lifesteal, Reaper is unkillable unless actively confronted. Does this make him overpowered? On lower tiers, perhaps. Yet, issues never sprang from his high damage output or self-healing capabilities. Rather, he is notorious for having extremely weak core abilities: “shadow step” and “wraith form.” 
+
+Shadow step’s lengthy cast animation leaves Reaper susceptible to incoming attacks and often leads to an instant demise. While under the limited protection of wraith form, he can retreat to safer locations, but when nimbler heroes are in tow, he is easily tracked down and vanquished. Additionally, his shotguns suffer from considerable damage distance drop-off, meaning that without a speed-boosting Lucio, he struggles to get within range of enemies. As double-sniper and triple-healer team compositions become more common, Reaper will likely remain a situational hero. 
+
+The Fix: Let’s start with shadow step. Highlighting Widowmaker’s “grappling hook” and Ashe’s “coach gun,” YouTuber Blame The Controller posits that Reaper could benefit from a skill that swiftly places him within range of his targets. Like Tracer’s “blinks,” he would be limited to horizontal navigation. Drop the latest lifesteal patch, throw in visual cues for the new ability, add a lengthy cooldown – maybe 15 to 20 seconds – and I’d be all for this suggestion! 
+
+Relative to wraith form, programmers can look to Moira’s “fade” for inspiration. While I won’t advocate for an undetectable Reaper, if he is simply harder to pursue, it enables him to lurk and pounce on unsuspecting foes; which encapsulates the entirety of his role on the battlefield.
+
+Doomfist
+
+The Flaws: Doomfist slowly made his way to the bottom of the roster heap with the unwanted help of drastic ability adjustments. The perfect assassin, he was infamous for ambushing key targets, eliminating them in mere seconds, and then retreating to reset for the next push. His melee combos, in particular, juggled opponents with well-timed attacks until death. Unfortunately, recent updates have lessened his kill potential. For instance, opponents launched by his abilities have their physical agency returned to them much sooner than before. This means that it’s now possible to counterattack Doomfist during his overwhelming barrage. 
+
+The Fix: I’ve chosen to focus on Doomfist’s “meteor strike” ultimate rather than his combos. Whereas most other damage dealers have ultimates dedicated to eliminating targets, frustrated Doomfist players are often forced to use meteor strike for tactical escapes. With a steep damage-reduction in effect, the ability doesn’t kill adversaries unless accurately placed. Because his ultimate has AOE qualities, a return to the terrifying 300 damage output from before Doomfist’s latest revision with a stun-lock on opposing players caught in meteor strike’s radius would be ideal. Perhaps with changes like these, Doomfist may find himself amid the wonderful chaos of combat once again.
+
+For an all-encompassing overview of hero-based evolutions in Overwatch head here. And, by all means, feel free to offer your own flaws and fixes in the comments section!
+
+            .
+
+Jason Guisao
+Associate Editor
+Jay is a JRPG enthusiast, having clocked in thousands of hours in franchises like Final Fantasy and Monster Hunter. His latest obsession, however, is Apex Legends, a game he’s been studying and analyzing since its release.
+
+Email
+Twitter
+
+      Products In This Article
+
+Overwatch
+
+Platform:
+
+PlayStation 4, Xbox One, Switch, PC
+
+Release Date:
+
+May 24, 2016 (PlayStation 4, Xbox One, PC), October 15, 2019 (Switch)
+
+Purchase
+More Info
+

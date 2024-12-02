@@ -1,0 +1,63 @@
+
+  Check Out The Final World Map For The Lord Of The Rings: Return To Moria 
+
+
+
+
+
+
+            If you've been keeping up with developer Free Range Games' upcoming base-building survival game set in J.R.R. Tolkien's landmark universe, The Lord of the Rings: Return to Moria, there's a chance you caught an early glimpse at its world map.
+
+However, that wasn't final. And now, Game Informer can exclusively share the first-ever look at Return to Moria's final map, in full detail, as well as two different variants. In the gallery below, you'll find the final map in English, a second in English with annotations, and a third in the Runic Alphabet language from The Lord of the Rings. 
+
+Here's your first look at the final world map in The Lord of the Rings: Return to Moria:
+
+Alongside this exclusive preview of the game's maps, Game Informer spoke with Return to Moria's art director about the game, its visuals, these maps, and more. Enjoy!
+
+Game Informer's Wesley LeBlanc: The Mines of Moria are quite famous. Even for non-LOTR fans, I think they'd recognize "The Mines of Moria" from the movies, memes, etc. I'm curious what came first: the mines of Moria as a setting or a base-building survival game? And did one influence the other? 
+
+Free Range Games, The Lord of the Rings: Return to Moria art director Bradley Fulton: 
+
+We knew from the very start of this project that the game would be a cooperative multiplayer survival game set somewhere in Middle Earth. Very quickly, we came to the idea of Dwarves as the main characters–of all the races in Tolkien's world, they were a natural fit. As hardy and industrious folk, they pair well with a game centered around mining, crafting, and building. There's also a certain amount of goofy fun that emerges in any co-op multiplayer experience as you clown around with your friends, and we didn't want this to feel incongruous with your characters. While they have a quite tragic history, the Dwarven people are known to be a bit raucous at times, so this was also a good fit.
+
+Once we had settled on Dwarves, Moria in the Fourth Age immediately jumped out as the perfect setting. In many ways, the Mines of Moria are the original dungeon crawl. Going back to the source of inspiration for so many fantasy tropes was too great an opportunity to pass up, and setting it in the Fourth Age provides players with a way to contribute to a beloved setting. We know what happens in Moria up to the events of the books, and in the Appendices we learn how the story of Moria ultimately ends, but everything in between is a mystery. By placing The Lord of the Rings: Return to Moria in that time frame, we ensure that players won't know exactly what they might find, and their actions can help to fill in some of those gaps.
+
+What was it like designing these maps? And on that same note, what was it like building a game in this famed universe? I imagine creating anything new for one of the most popular fantasy franchises in the world is both challenging and exhilarating. 
+
+Fulton: The most gratifying thing about working within this universe is the way that it forms a common creative language. The process of generating an entirely original setting can be a struggle at times, as the team hammers out a vision from different points of view that may not always be in harmony. By contrast, our team was crackling with creative energy right from the start. Everyone was immensely excited for the opportunity to work within this universe, and they brought with them all of their knowledge of the setting. You don't need to explain what a Dwarf or an Orc is – instead, you can spend that time working out the subtle differences between the Dwarven or Orcish tribes and how that might have an impact on their visual style or on the narrative.
+
+This carried over to the map. The artist that we worked with already had deep knowledge of Middle Earth, so the brief only needed to lay out our goals. We wanted the map to feel like a hand-made artifact of the world it was from, drawn by Dwarves using the tools and knowledge of the world that they had. Because of our illustrator's familiarity with the setting, the rest of the content came naturally.
+
+Can you tell me a bit about the procedural generation and how the team is aiming to make each "run" fun and unique? 
+
+Fulton: As a location for a procedural game, Moria presents some interesting technical challenges. We knew that the game would contain a large number of unique landmarks, many of which would be quite familiar to players. Other locations were implied by Tolkien but never actually depicted in the narrative. These places needed to be arranged in a west-to-east order that fits the structure of the player's journey but not be so fixed in space that the path through them is the same every time. It turns out that this is more difficult than it seems.
+
+Within this framework, however, are multiple layers of gameplay that are derived from a random seed. Key resources, events, and challenges aren't ever arranged in the exact same way. Above all, we wanted to ensure that even if you have completed the main story, when you visit a friend's world, it would be different enough that your exploration still feels fresh.
+
+We've seen mention of Gimli – are there any other familiar faces or names LOTR fans might recognize in the game? 
+
+Fulton: Even before the events of the trilogy, certain members of the Fellowship were known to have ventured into the long dark of Moria. For now, all I can say is that they may have left some signs of their passing.
+
+Beyond that, Moria also holds many mysteries of the Dwarven people. Balin's doomed expedition left traces throughout the darkened halls, and the kings of the line of Durin feature prominently in the story.
+
+Can you tell me a bit about the combat and how it works and plays?
+
+Fulton: One of our core design principles is that Dwarven power comes from craft. We wanted to ensure that it was the players' efforts to fashion ever-more-powerful gear that drove their success in survival, including combat. To this end, we worked very hard to make the fundamentals of combat such as dodging, blocking, charging up an attack, etc. feel satisfying. However, as the challenge grows, players need to think more about their choice of weapons and the ways that they upgrade them to solve the varied problems that each new enemy presents.
+
+Where in the LOTR timeline does Return to Moria take place?
+
+Fulton: The Lord of the Rings: Return to Moria takes place around 50 years after the events of the trilogy and the defeat of Sauron. At the dawn of the Fourth Age, Middle Earth has begun to heal, but there are shadows yet lurking in some dark corners of the world.
+
+For the uninitiated, The Lord of the Rings: Return to Moria is a survival crafting game set in the Fourth Age of Middle-Earth. After being summoned to the Misty Mountains by Lord Gimli Lockbearer, players take control of a company of dwarves tasked with reclaiming the lost spoils of their Dwarven homeland, Moria. This realm is procedurally generated and traversable alone or online with up to eight players. 
+
+The Lord of the Rings: Return to Moria hits PC (via the Epic Games Store) on October 24. The PS5 version will launch on December 5, and the Xbox version is due out sometime in early 2024. 
+
+[Editor's Note: This article was updated to clarify the release dates for the game's various versions]
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

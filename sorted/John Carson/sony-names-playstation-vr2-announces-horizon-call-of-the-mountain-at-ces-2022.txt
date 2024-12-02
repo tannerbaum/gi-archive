@@ -1,0 +1,78 @@
+
+  Sony Names PlayStation VR2, Announces Horizon Call Of The Mountain At CES 2022
+
+
+
+
+
+
+            At its CES 2022 conference this evening, Sony discussed its upcoming VR headset and announced a new Horizon game for the device.
+
+PlayStation President Jim Ryan took the stage to provide details on the company's next-generation virtual-reality device. Following its tried and true naming scheme for gaming devices, the PSVR successor is officially called PlayStation VR2. Its controllers are no longer Move wands, but rather PlayStation VR2 Sense Controllers. Ryan spoke about the headset proving a greater sense of presence and increasing the visual fidelity from the previous model. 
+
+Technical specifications of PSVR2 have been posted on the PlayStation Blog which reveals all kinds of cool tidbit about the headset and controllers. PSVR2 will feature OLED 2000x2040 resolution screens per eye which run at 90hz or 120hz. The headset will also be outfitted with cameras on the outside to track your controllers (and hopefully room placement), and IR sensors inside to track your eye movement. Another feature not to be overlooked is the addition of vibration feedback on the headset itself, which is pretty exciting for a new level of immersion. 
+
+Here are the specifications given by Sony for the PlayStation VR2 headset:
+
+Display method​
+OLED
+Panel resolution​
+2000 x 2040 per eye
+Panel refresh rate​
+90Hz, 120Hz
+Lens separation​
+Adjustable
+Field of View​
+Approx. 110 degrees
+Sensors​
+Motion Sensor: Six-axis motion sensing system (three-axis gyroscope, three-axis accelerometer)​
+Attachment Sensor: IR Proximity sensor
+Cameras​
+4 cameras for headset and controller tracking​IR camera for eye tracking per eye
+Feedback​
+Vibration on headset
+Communication​ with PS5
+USB Type-C®
+Audio​
+Input: Built-in microphone​Output: Stereo headphone jack
+
+The PSVR2 Sense Controllers look to have split the classic face buttons across both controllers, with each Sense unit having two of the PS shapes represented. The controllers are equipped with capacitive and IR sensors for finger tracking, while the L2 and R2 buttons will have the DualSense's Trigger Effect haptics system with changes the tension needed to press the buttons in. 
+Here are the PVSR2 Sense Controller specifications:
+
+Buttons​
+[Right]​
+PS button, Options button, Action buttons (Circle / Cross), R1 button, R2 button, Right Stick / R3 button
+​[Left]​
+PS button, Create button, Action buttons (Triangle / Square), L1 button, L2 button, Left Stick / L3 button
+Sensing/ Tracking
+Motion Sensor: Six-axis motion sensing system (three-axis gyroscope + three-axis accelerometer)
+Capacitive Sensor: Finger Touch DetectionIR LED: Position Tracking
+Feedback ​
+Trigger Effect (on R2/L2 button), Haptic Feedback (by single actuator per unit)
+Port
+USB Type-C® Port
+Communication​
+Bluetooth® Ver5.1​ 
+Battery​
+Type: Built-in Lithium-ion Rechargeable Battery​
+Also in the CES presentation, the first PSVR2 game was announced. Horizon Call of the Mountain is a new VR game stemming from a collaboration between Guerrilla Games and Firesprite (The Playroom VR, The Persistence VR). A brief clip was shown where a man takes what looks like a blindfold or bag off of the player's head, revealing a lush, expansive forest with tall trees. They're paddling a boat down a river, when a Tallneck strides into view, and then dangerously close to the boat, a moment that must be a hell of a spectacle while using the VR headset.
+
+No date was given for PlayStation VR2 or Horizon Call of the Mountain just yet, though with hardware specs having been released, it can't be too far in the future. For more Horizon goodness, make sure to check out the latest issue of Game Informer Magazine with Horizon Forbidden West gracing the cover.
+
+What do you think of this new look at PSVR2? Which PlayStation franchises do you want to see translated into VR, and why is it Jet Moto? Let us know about it in the comments!
+
+      Products In This Article
+
+Horizon Call of the Mountain
+
+Platform:
+
+PlayStation VR2
+
+Release Date:
+
+February 22, 2023
+
+Purchase
+More Info
+

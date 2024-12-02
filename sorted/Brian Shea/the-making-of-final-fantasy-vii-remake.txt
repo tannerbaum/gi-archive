@@ -1,0 +1,113 @@
+
+  The Making Of Final Fantasy VII Remake
+
+
+
+
+
+
+            The ground beneath Square Enix's Tetsuya Nomura's feet trembled. In his time since serving as character designer and visual director on Final Fantasy VII, his legend has grown substantially. In addition to working on nearly every acclaimed Final Fantasy game since Nomura also helped create the Kingdom Hearts series and has become a figurehead and luminary within the stacked ranks of Square Enix's stable of developers. But this 2015 trip to Los Angeles, California, was different.
+
+PlayStation's E3 2015 livestream had just revealed a teaser trailer featuring the iconic Final Fantasy VII protagonist, Cloud Strife, walking through Midgar in glorious, modern, HD graphics. The dream of so many – a remake of the classic RPG – was finally realized. The fans weren't the only ones feeling the weight of the moment, though, and it was no longer just the ground that was shaking; it was Nomura's entire body.
+
+"There were no staff members around, so I was kind of just off to the side, standing there alone," Nomura says. "When I heard the cheers from the crowd and the passion, I became overwhelmed and I started shivering. I was walking like a fawn, just overwhelmed by the intensity of the crowd. I thought, 'This has become such a big deal,' and I wanted to cry."
+
+Meanwhile, series producer Yoshinori Kitase was at his home in Tokyo watching it on YouTube. "It still comes up on my 'Videos You Should Watch," he says with a laugh. "Someone should have taken a video of you, like a reaction video and uploaded it to YouTube!"
+
+"I don't think we had that culture of reaction vids back then," Nomura says. "If I knew, I would have taken it, but I might have been shaking mid-way through!"
+
+The road to this moment was long and arduous but something Nomura had dreamt of for years. Operating as a team of one, Nomura had spent part of the 2000s imagining what a modern remake of Final Fantasy VII could look like. Unfortunately, not much progress was made since the rest of the team members were tied up with other projects.
+
+Around this time, fans started clamoring for a modernized remake of Final Fantasy VII, and the developers began hearing about it from media members. Kitase, who has worked at Square Enix since 1990, serving as director on beloved games like Final Fantasy VI, Chrono Trigger, the original Final Fantasy VII, and Final Fantasy X, was inundated with questions during a series of 2009 interviews.
+
+Square Enix Logo Photographed By Alex Van Aken
+
+"We were on the U.S. media tour for Final Fantasy XIII, and we took on a bunch of interviews, and we got a ton of questions from reporters asking, 'When are we going to make a Final Fantasy VII remake?'" Kitase recalls. "Just hearing that so many times, I did think that we would do it one day, that's for certain."
+
+Kitase returned to Tokyo and approached Nomura about making it a reality. As two of the creators of the original Final Fantasy VII, they noticed the writing on the wall; fan and media demand was at a fever pitch, and Square Enix was beginning to embrace the idea of modern remakes for classic games more than ever before. They knew they had to act. 
+
+"Within Square Enix, gradually, remakes were being made, and these ideas for remakes were coming up in other departments," Nomura says. "If we weren't going to do Final Fantasy VII, others were going to do it, so we had to rise up and do it! We had the sense that we had to guard Final Fantasy VII and have to be the ones taking this on, or someone else is going to do it. I thought it may be a bit troublesome is other teams without us took on the project."
+
+Nomura and Kitase are a pair of legends within the Final Fantasy and Square Enix fandom, but they needed help to make it a reality. To create the team, the duo tapped into Square Enix Creative Business Unit I, the group historically responsible for many of the most beloved Final Fantasy titles. Kazushige Nojima, who joined Square Enix in 1994, working on games like Final Fantasy VII, VIII, and X, as well as the Kingdom Hearts series, and Motomu Toriyama, who joined Square Enix in 1995 and worked on the original Final Fantasy VII in addition to Final Fantasy X, XIII, and more, signed on to co-write the remake.
+
+"I had always hoped to be a part of the title if and when a remake was to be made," Toriyama says. "I was very happy when hearing the news [that we were making one]." 
+
+But the development team behind this project couldn't just be members of the original dev team; most had left the company or were working on other projects. "I would say the majority of the dev staff and production members are those who were players of the original, not creators," Toriyama says.
+
+Motomu Toriyama and Teruki Endo Photographed By Alex Van Aken
+
+Two of those developers who started as fans of the Final Fantasy series before joining Square Enix are Naoki Hamaguchi and Teruki Endo. Hamaguchi joined Square Enix in 2003, working on titles like Final Fantasy XII and the XIII trilogy. After serving as project manager on the mobile title Mobius Final Fantasy, he joined the Remake team as a co-director. Endo got his start in the late 2000s at Capcom, working primarily on the Monster Hunter series, but when he heard about a remake for Final Fantasy VII, as a fan of the original, he couldn't resist joining the team as battle director.
+
+"I was working for another gaming company when I heard they were looking for members to be involved on the battle side of creating this game and felt like this was a great opportunity in which I could utilize the skills that I had gained thus far working in the industry," Endo recalls.
+
+With the core team assembled, Final Fantasy VII Remake was underway.
+
+Naoki Hamaguchi Photographed By Alex Van Aken
+
+When a game is as beloved as Final Fantasy VII, modernizing it without alienating fans of the original can be a tricky proposition; if you keep things too close to the original, then you don't keep up with the latest trends, squandering the opportunity to create something distinct. Conversely, if you put things too far away from the source material, you risk alienating those who made Final Fantasy VII so famous in the first place.
+
+According to Toriyama, the members of the team who experienced VII as fans, like Hamaguchi and Endo, are more protective of the source material than those who worked on the original title. Kitase worried those younger staff members would be too loyal to the original title, but his concerns eased once the team started working together. "This concern was all for naught because this was clearly not true," Kitase says. "We were able to work together very well and realize all of our visions and a game that can be accepted and enjoyed by contemporary users, so that was wonderful."
+
+"The top consideration, I believe, is that for both players who may not know Final Fantasy VII and those who do know or have played it, for both of these types of users to be able to play [Remake] and enjoy it," Nomura adds.
+
+The team worked together to balance the old with the new, to create something that definitively retells the story of Final Fantasy VII with modern conventions while not going too far in either direction. "For me, it really comes down to considering what it was that the players enjoyed and loved in the original title," Endo says. "Of course, we expect a variance in each player's depth and span of what they enjoy and the things that they love, but at the end of the day, I do have to trust my instincts and thoughts on what I loved and enjoyed playing the game."
+
+Teruki Endo Photographed By Alex Van Aken
+
+For Endo's part – the battle system – he opted to blend action with the more traditional Active Time Battle (ATB) mechanics from the original game, in which characters can act once a meter fills. The result appeals to both new and longtime players. "Seeing that the Final Fantasy series has a strong focus on its characters, I believe the action enhances this and lets the players be further immersed into the characters they play," Endo says. "Along with the strategic battles that I believe are key to Final Fantasy VII, I wanted to see how best I could mix these two elements of the command and strategy-based battle with the action that allows for instant immersion." 
+
+Though Endo wanted to introduce action, his desire to balance it with the traditional ATB elements struck a chord with Nomura. "I do have this idea of how Final Fantasy battles should be and should feel," Nomura says. "We want to still keep this strategy element, in which the player will consider the elemental weaknesses of enemies during battle while using these action moves and being engaged, intact. That was always my core belief in how we should approach Final Fantasy battles. [...] I thought this was truly vital to this game; I didn't want it to be a game where it's a reflex-type action or reflex-based battle; we wanted to combine all of these elements."
+
+For Hamaguchi, it was more about removing barriers that exist for players when trying to feel as though they're a part of the world. "I do believe that, not just for RPGs, but for other fantasy-type titles as well, the trend will be such that it'll be moving towards incorporating more action elements and that will be the trajectory of games overall," Hamaguchi says. "It's very much favored by contemporary players in that it creates a sense of immersion because players are able to receive this immediate response to the input from the controls. There's this immediacy that brings about further immersion into the gameplay. Instead of viewing this fantasy world from the outside perspective as a player, you're able to be fully immersed as if you are inside that world."
+
+"In that sense, I believe the Final Fantasy VII Remake series has this wonderful balance of all these elements," Nomura adds. "It's not quite completely action-leaning or action-focused, but it very skillfully combines these elements into a balanced and enjoyable, immersive experience."
+
+The battle system of Final Fantasy VII Remake garnered acclaim, but it's not the only piece of the title that changed. The visual leap forward is immediately recognizable, and the story received numerous upgrades. Instead of retelling the entire Final Fantasy VII arc in one game, Square Enix opted to release the remake in the form of three games. The first title, Final Fantasy VII Remake, retold the party's initial push through Midgar – a section of the original that takes about 6 hours to complete – across a 30 to 40-hour title. 
+
+This decision came from Nomura, who identified early on that fully capturing the events of Final Fantasy VII in a modern way and with enough depth to do the story justice wouldn't be possible in its original one-game form, not to mention the drastically different format the game takes following the party's emergence from Midgar. "To recreate the world of Final Fantasy VII as it was in the original today in its full volume, the only way for us to realize this was to divide the titles or else it simply was not possible," Nomura says. "We had to divide it, or we can't do it right."
+
+Final Fantasy VII Remake's extended stay in Midgar fully fleshed out characters previously relegated to minor roles like Biggs, Wedge, and Jessie and further developed the personalities and relationships of the main characters like Cloud, Tifa, Barret, and Aerith. "When the remake project was first decided, at that point, we had already felt that if we are going to take on this series, it's imperative that we depict the characters much deeper," Nomura says.
+
+Final Fantasy VII Remake was released on PlayStation 4 on April 10, 2020, earning an 87 out of 100 on reviews aggregator Metacritic, including an 8.75 out of 10 from Game Informer. And now, with the quality bar set high and fan expectations even higher, that same team sets out to push the well-known story forward as Cloud and his friends step out of Midgar and venture into a massive world full of adventure and intrigue in the second act of the Remake series, Final Fantasy VII Rebirth.
+
+Final Fantasy VII Rebirth arrives on PlayStation 5 on February 29. To learn more about Final Fantasy VII Rebirth, visit our exclusive coverage hub through the banner below.
+
+Parts of this article originally appeared in Issue 362 of Game Informer.
+
+      Products In This Article
+
+Final Fantasy VII Remake
+
+Platform:
+
+PlayStation 4
+
+Release Date:
+
+April 10, 2020
+
+Purchase
+More Info
+
+Final Fantasy VII Remake Intergrade
+
+Platform:
+
+PlayStation 5, PC
+
+Release Date:
+
+June 10, 2021 (PlayStation 5), December 16, 2021 (PC)
+
+Purchase
+More Info
+
+    expand for more
+
+Brian Shea
+Online Content Director
+Brian has written about video games for more than 15 years across multiple publications. Brian is also the host of All Things Nintendo, a weekly podcast focused on the news and games of Nintendo.
+
+Email
+Twitter
+

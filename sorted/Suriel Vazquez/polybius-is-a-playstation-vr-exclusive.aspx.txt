@@ -1,0 +1,20 @@
+Polybius
+
+
+  Polybius Is A PlayStation VR Exclusive
+
+
+
+
+This one needs a bit of context. Polybius was originally, allegedly an arcade game back in the 1980s. I say "allegedly" because it's hard to verify the arcade cabinet's existence. If the machine was real, it apparently induced nausea and headaches in anyone who played it. It's an urban legend.
+While that is still the case, we will soon have to distinguish between Polybius the legend and Polybius the real-life game. Jeff Minter, known for his work on making several Tempest-like games including Space Giraffe and TxK, is making a game he claims is based on his experience playing a Polybius cabinet. On the European PlayStation blog, Minter tells his story of playing the original: "My heart was racing and I felt a really weird combination of exhilaration mixed with a deep-seated anxiety whose origin I couldn’t identify. It felt like waking unexpectedly from a dream and for the first few seconds I was thoroughly confused. It took me a while to remember that I was really in Basingstoke, and why."
+After playing the game, Minter couldn't get the game out of his mind, so he decided to recreate a game he can't quite describe. It was in the back of his mind until VR came along. "I’ve been dabbling in ludic psychedelia for a while now, and maybe the time and the medium was right now for me to attempt a game to at least in part replicate the effects, if not the exact gameplay, of that old legend. Leaving out all the bad stuff, of course."
+While I'm skeptical about Minter having played the original Polybius, the game he's making is quite real. You can check out gameplay footage of Minter's version of Polybius below.
+Video Player is loading.Play VideoPlayMuteCurrent Time 0:00/Duration 0:00Loaded: 0%Stream Type LIVESeek to live, currently playing liveLIVERemaining Time -0:00 Playback Rate1xChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions settings, opens captions settings dialogcaptions off, selectedQuality LevelsAudio TrackFullscreenThis is a modal window.
+      An unanticipated problem was encountered, check back soon and try again
+        Error Code: MEDIA_ERR_UNKNOWN
+
+      Session ID: 2019-08-22:8f4216e83dbc279e569d766 Player Element ID: vjs_video_3
+          OK
+        Close Modal DialogBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.This is a modal window.PlayMuteCurrent Time 0:00/Duration 0:00Loaded: 0%Stream Type LIVESeek to live, currently playing liveLIVERemaining Time -0:00 Playback Rate1xFullscreen
+

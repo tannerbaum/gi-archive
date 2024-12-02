@@ -1,0 +1,435 @@
+
+  An In-Depth Look At Middle-earth: Shadow Of War's Skill Tree
+
+
+
+
+
+
+As the hero of Middle-earth: Shadow of War, Talion becomes
+stronger over the course of the story. Each time you level up toward the level
+60 cap, you unlock a skill point. In addition, you can earn skill points from
+side and challenge missions, as well as certain collectibles. In total,
+completionists can expect to collect around 120 skill points, meaning there are
+plenty of decisions to make when looking at the skill tree.
+Each skill Talion has can be upgraded by choosing from two
+or three unique options. For example, on one skill, I can augment it so that
+draining an enemy gives me more health and wrath, or I can opt to regain
+elf-shot ammunition. You can only choose one upgrade per perk at a time, but
+this level of customization allows players to craft their version of Talion to complement
+their playstyle.
+Check out the many skills you can choose from when upgrading
+Talion. A handful of skills are being kept locked away by Monolith for fear of
+spoilers, but the vast majority of Talion's skills are represented in the list
+below.
+
+Combat
+Execution
+When your might is full, you can execute enemies.
+
+Upgrade 1: Grim Resolve
+Gain might each time you are damaged in combat.
+
+Upgrade 2: Secret Might
+Gain might for each kill while remaining undetected.
+
+Upgrade 3: Fatal Might
+Successful sword strikes gain much more might. Might fully resets after you
+take damage, miss an attack, or exit combat.
+
+Perfect Counter
+Well-timed counters knock down enemies.
+
+Upgrade 1: Rain of Arrows
+Well-timed counters replenish 1 Elf-shot.
+
+Upgrade 2: Mighty Reversal
+Gain might from each counter.
+
+Upgrade 3: Fatal Counter
+Well-timed counters instantly kill enemy grunts. Ineffective against Captains
+and beasts.
+
+Critical Strike
+Melee attacks have a chance of causing Critical Hits for additional damage.
+
+Upgrade 1: Reprisal
+Your Critical Strike chance increases as your Health is reduced.
+
+Upgrade 2: Unstoppable
+Your Critical Strike chance increases significantly as long as your hit streak
+is above 20.
+
+Upgrade 3: Elven Precision
+Timing a button press as your strike lands greatly increases your chances of a
+Critical Strike.
+
+Ground Finisher
+Decrease the amount of time it takes to perform Ground Executions on downed
+enemies.
+
+Upgrade 1: Fury
+Ground executions enable you to unleash a flurry of blows by rapidly tapping
+attack before finishing an enemy, gaining might on each hit.
+
+Upgrade 2: Wraith Shield
+The Wraith can counter enemies while you complete a ground execution.
+
+Upgrade 3: Ground Drain
+You can dominate or drain enemies who have been knocked down.
+
+Brutal Aggression
+Might can be double-charged, enabling Brutal Executions which cause nearby
+enemies to flee in terror.
+
+Upgrade 1: Wraith Execution
+Chain executions to additional enemies. Consumes Focus for each additional
+target.
+
+Upgrade 2: Ceaseless Might
+Skills that require Might no longer fully deplete Might.
+
+Retaliation
+Time your Last Chance success perfectly to instantly kill the enemy
+targeting you. Does not apply to Captains, graugs, or drakes.
+
+Upgrade 1: Adamant
+Gain an additional Last Chance attempt.
+
+Upgrade 2: Vengeful Drain
+Retaliation dominates or drains your attacker.
+
+Upgrade 3: Burst of Might
+Gain full might on a perfect Last Chance.
+
+Predator
+Elven Agility
+You can get a burst of speed when leaping over objects, landing, or
+climbing. You can vault over a ledge at the top of a climb.
+
+Upgrade 1: Spectral Dash
+You can cross short distances or reach nearby enemies instantaneously while in
+stealth. Consumes focus.
+
+Upgrade 2: Silent Runner
+You can sprint without creating sound.
+
+Brutalize
+Perform a terrifying stealth kill, causing nearby enemies to flee while
+increasing both your Might and your hit streak.
+
+Upgrade 1: Unyielding Ferocity
+Using Brutalize gives a bonus to both your Might and hit streak.
+
+Upgrade 2: Reckless Hate
+Brutalize causes more enemies to flee.
+
+Poison Tendril
+You can poison grog barrels from afar.
+
+Upgrade 1: Bursting Toxin
+Grunts who drink from poisoned grog barrels explode, poisoning any nearby
+enemies.
+
+Upgrade 2: Contagion
+Enemies who drink from poisoned grog barrels go berserk and attack anyone
+nearby, spreading the poison.
+
+Upgrade 3: Proximity Trigger
+You can prime Morgai flies, cages, and bait to trigger when an enemy
+approaches.
+
+Wraith Chain
+You can target an additional enemy during a stealth kill. Each additional
+target consumes focus.
+
+Upgrade 1: Monster Hunter
+Stealth Kills can be used against Beasts.
+
+Upgrade 2: Shadow Blade
+Your first chained stealth kill consumes no Focus.
+
+Deadly Spectre
+While using attract you can leave behind a Wraith that will kill your
+target.
+
+Upgrade 1: Terrifying Presence
+Your Wraith will brutalize its target.
+
+Upgrade 2: Spirit Drain
+Your Wraith will dominate or drain its target.
+
+Ranged
+Detonate
+You can Shadow Strike into a firepit, detonating it and lighting nearby
+enemies on fire.
+
+Upgrade 1: Spider Song
+Detonate a firepit and cause spiders to swarm the area.
+
+Upgrade 2: Bursting Arrow
+Shoot firepits to detonate them without Shadow Striking into them.
+
+Upgrade 3: Matron's Scent
+Detonate a firepit and cause ghûls to swarm the area.
+
+Freeze Pin
+Shooting an enemy's foot freezes them in place.
+
+Upgrade 1: Brutal Cold
+Freeze pin causes nearby enemies to flee in terror.
+
+Upgrade 2: Savage Ice
+Freeze pin affects olog-hai and beasts.
+
+Upgrade 3: Deep Freeze
+Freeze pin duration is doubled.
+
+Bird of Prey
+Focus is consumed at a slower rate while in the air.
+
+Upgrade 1: Eagle Sight
+Focus is consumed at a slower rate while in the air.
+
+Upgrade 2: Talon Strike
+While falling, you can aim at the ground to strike the ground with a damaging
+blast that also stuns nearby enemies. Consumes Elf-shot.
+
+Mighty Shot
+When your Might is full, you can fire an explosive shot.
+
+Upgrade 1: Firestorm
+Mighty Shot causes a fire explosion.
+
+Upgrade 2: Freeze Blast
+Mighty Shot causes a frost explosion.
+
+Upgrade 3: Venom
+Mighty Shot causes a poison explosion.
+
+Shadow Strike
+Instantaneously reach an enemy to kill them or stun them. Consumes
+Elf-shot.
+
+Upgrade 1: Chain of Shadows
+You can chain to additional enemies from a Shadow Strike. Consumes focus for
+each additional target.
+
+Upgrade 2: Shadow Strike Pull
+Pull a targeted enemy to you and kill or stun them.
+
+Upgrade 3: Shadow Dominate - Unlocked by completing Eltariel quests
+While aiming at an enemy, you can reach them instantaneously and dominate them.
+
+Wraith
+Brace of Daggers
+You can quick-throw a dagger that damages and staggers enemies.
+
+Upgrade 1: Serrated Edge
+Thrown daggers have a chance of causing critical strikes.
+
+Upgrade 2: Swift Barrage
+Three daggers can be thrown rapidly.
+
+Upgrade 3: Rain of Blades
+Throw five daggers at once to hit multiple enemies.
+
+Elven Light
+Unleash a powerful blast when your might is full, stunning and temporarily
+blinding nearby enemies.
+
+Upgrade 1: Cleansing Blaze
+Elven Light also sets enemies on fire.
+
+Upgrade 2: Winter's Breath
+Elven Light also freezes enemies.
+
+Upgrade 3: Poison Blast
+Elven Light also poisons enemies.
+
+Ice Storm
+Freeze enemies, then follow with a flurry of sword strikes.
+
+Upgrade 1: Shower of Ice
+Freeze all enemies in an area in front of you. The higher your hit streak, the
+larger the area of effect.
+
+Upgrade 2: Frostbite
+Ice Storm finishers also cause critical strike.
+
+Upgrade 3: Shattering Blow
+An Ice Storm finisher shatters your target, causing nearby enemies to flee in
+terror.
+
+Consume
+When your Might is full, you can dominate and drain an enemy quickly during
+combat.
+
+Upgrade 1: Chain of Souls
+During Consume you can dominate or drain additional enemies. Consumes focus for
+each additional target.
+
+Upgrade 2: Lord of Wrath
+Consume increases Wrath.
+
+Upgrade 3: Olog Lord
+Consume works against Ologs
+
+Treasure Hunter
+- Unlocked by finding all Gondorian artifacts in the open world
+Automatically collect loot from defeated enemies.
+
+Upgrade 1: Discerning Eye
+Increase your chances of high-quality gear drops from Captains or
+higher-ranking Orcs.
+
+Upgrade 2: Mind Breaker
+Increases Domination speed.
+
+Upgrade 3: Prospector
+Increase your chances of receiving higher quality Gems from defeated enemies.
+
+Mounted
+Caragor Rider
+Dominate and ride a broken caragor.
+
+Upgrade 1: Pounce
+Devouring enemies while in stealth restores more of your caragor's health.
+
+Upgrade 2: Bestial Rage
+You can perform an execution or howl to summon additional caragors even when
+your Might is not full. Instead, your action consumes some of your mount's
+health.
+
+Graug Rider
+You can dominate and ride a broken graug.
+
+Upgrade 1: Devouring Force
+Graug executions restore more of your graug's health.
+
+Upgrade 2: Enduring Fury
+Graug basic attacks gain more Might.
+
+Call Mount
+You can summon a dominated caragor and command it to attack targeted
+enemies.
+
+Upgrade 1: Dire Caragor
+You can summon a Dire Caragor.
+
+Upgrade 2: Graug Call
+You can summon a graug.
+
+Upgrade 3: Dragon Song - Unlocked by completing the Carnán quests
+You can summon a drake.
+
+Shadow Mount
+Instantly mount a broken graug, caragor, or drake (Dragon Rider skill must
+be unlocked) with Shadow Strike.
+
+Upgrade 1: Caragor Breaker
+Shadow Mount unbroken caragors.
+
+Upgrade 2: Packmaster
+When Shadow Mounting a broken caragor, other nearby caragors are dominated.
+
+Dragon Rider
+You can Dominate and ride a broken drake.
+
+Upgrade 1: Soaring Rage
+Your drake can shoot fireballs even when your might is not full. Instead, your
+action consumes some of your mount's health.
+
+Upgrade 2: Scales of Iron
+Your drake takes far less damage from attacks.
+
+Story
+Drain
+You can recover health by draining life from orcs or dominating orcs and beasts.
+
+Upgrade 1: Domination
+Drained enemies are also dominated and will fight for you.
+
+Upgrade 2: Quiver of Souls
+Draining an enemy replenishes Elf-shot.
+
+Upgrade 3: Bright Lord's Wrath
+Draining or dominating an enemy fully recovers health and gains wrath.
+
+Spectral Glaive
+You can initiate a heavy sweeping attack.
+
+Upgrade 1: Mighty Swing
+Releasing attack the moment your glaive is charged generates might for each
+enemy hit.
+
+Upgrade 2: Deadly Striker
+Double-charge your glaive for more follow-up attacks.
+
+Elven Rage
+Each kill gives wrath energy. When your wrath is full, you can slow time,
+making every melee strike lethal and enabling you to unleash unlimited
+executions.
+
+Upgrade 1: Final Blaze
+When Elven Rage ends, a fiery blast is detonated.
+
+Upgrade 2: Freezing Burst
+When Elven Rage ends, a freezing blast is detonated.
+
+Upgrade 3: Poisonous Wrath
+When Elven Rage ends, a poisonous blast is detonated.
+
+Shadow Strider
+You can double jump while leaping. Allows you to cover wider gaps or change
+direction between jumps.
+
+Upgrade 1: Hammer of Eregion
+You can vault over an Uruk and freeze them.
+
+Upgrade 2: Waters of Lórien
+Upgrade dodge to instantly flash past enemies. Consumes focus.
+
+Upgrade 3: Eagle's Eyrie
+While vaulting an enemy you can leap off their head and perform a double jump.
+If Bird of Prey is unlocked, you will be able to enter Bird of Prey as you
+jump.
+
+Call Followers
+Summon a group of warriors to fight alongside you. You can command your
+warriors to attack targeted enemies.
+
+Upgrade 1: Bodyguard
+Assign a Captain to be your bodyguard in the army menu.
+
+Upgrade 2: Cluster of Spiders - Unlocked by finding all Shelob memories
+Summon a cluster of spiders. Spiders have poison attacks which can exploit the
+weakness of a Captain or higher-ranked orc.
+
+Upgrade 3: Iron Guard - Unlocked by completing all Gondor quests
+Summoned Warriors are tougher.
+
+Dominate Captain
+Dominate a Captain whose will has been broken. Orc Captains who are higher
+level than you cannot be Recruited.
+
+Upgrade 1: Destroy Followers
+You can explode the heads of nearby followers, causing enemies to flee in
+terror.
+
+Upgrade 2: Lifeblood
+You can heal all nearby followers by consuming your health. Any followers who
+are bleeding out are unaffected.
+
+Upgrade 3: Enrage Followers
+You can enrage nearby friendly Captains. Consumes wrath.
+
+Click on the banner below to enter our constantly-updating hub of exclusive content.
+
+Brian Shea
+Online Content Director
+Brian has written about video games for over a decade across multiple publications. When he's not writing or gaming, he's usually listening to music, watching UFC, or hopelessly rooting for a Baltimore or D.C. sports team. 
+
+Email
+Twitter
+

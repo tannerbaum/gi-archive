@@ -1,0 +1,171 @@
+
+  Head Of The Class: Destiny's New Subclasses And Abandoned Fourth Class
+
+
+
+
+
+
+Destiny players have been eagerly awaiting a third subclass for their Guardians
+for a long time. The Taken King expansion looks to deliver big with the new
+Stormcaller, Sunbreaker, and Nightstalker subclasses that should help Guardians
+tear through Oryx's forces. You might be comfortable with your current class build,
+but when you get a handle on these new subclasses, you'll be tempted to try
+them all out. Senior designer Sage Merrill walked us through how Bungie iterated
+on each new subclass in order to make sure they weren't repeats of anything the
+developer has already done. 
+
+What Happened To Destiny's Fourth Class?
+
+"In very early Destiny, we had four character classes we were trying to
+design around," says senior designer Sage Merrill. "But that fourth one just
+never fit so we cut down to three. When we made that cut everything sort of
+fell into place. It's not like anything wasn't working, it's just that when you
+start to slice up the total space for what a class does in a shooter
+environment, no matter where you put that fourth class it always sort of felt
+like it was encroaching on what the other classes did."
+
+Destiny's Evolving
+Class DesignWhile Bungie always planned to release the initial six subclasses in the original release of Destiny, a separate team has been quietly working on three additional subclasses as far back
+as the release of the game last year. The Taken King has given Bungie time to fully develop these three new subclasses, creating some of the most interesting
+abilities in the game to date.
+"There's a weird thing that happens during development," says Merrill.
+"I remember in the initial release of Destiny, when we created the Fist of Havoc
+ability for the Titan, we thought, 'Man, Fist of Havoc is so good, how are we
+ever going to make something as good for the other classes?' And then we went
+and made the other abilities for the other classes, and when we came back we
+thought, 'Man, Fist of Havoc actually looks kind of weak now.' That happened
+again when we were designing subclasses for The Taken King."
+Iteration is an important element when trying to add new ways to play
+with characters that players have used for over a year. For example, when
+Bungie first started working on the new Warlock ability, they considered
+turning the class into a kind of necromancer who could resurrect fallen enemies
+as minions, and then send them after their foes. Bungie eventually settled on
+the Stormcaller's ability to fire chain lightning, but the team hopes to return
+to the necromancer idea at some point.
+"The Void Hunter was probably the hardest," says Merrill. "We probably
+rebooted him four times before settling on something we liked. He started off as
+a tracker character who could see through walls, and the fantasy was good, but
+it didn't play out well. It didn't feel super good to play. With other ideas it
+was the reverse, where the mechanic would feel really good, but we couldn't
+find that power fantasy to hook anybody into wanting to use him. So we
+continued to iterate. It's no secret, but that's how you get a game to be really
+good; you fix 100 things that no one will ever notice."
+While Bungie has created three subclasses for each character, there is
+actually a bit of diversity hidden inside each. For example, the Warlock
+Stormcaller's main super is a chain lightning attack, but Bungie designed some
+Stormcaller upgrades that allow players to chain together more enemies if they
+want to create a character with good crowd control. Alternatively, Bungie envisioned
+another path through the Stormcaller abilities that has them creating fewer
+chains but dealing more damage. Another character build focuses more on
+mobility, giving the Stormcaller a short-range blink that allows them to dodge
+enemies attacks, which might be ideal for PvP. These different paths existed in
+the original release of Destiny, but Bungie thinks they're even more distinct for
+The Taken King's new subclasses. 
+Video Player is loading.Play VideoPlayMuteCurrent Time /Duration Loaded: 0%Stream Type LIVESeek to live, currently behind liveLIVERemaining Time - 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions settings, opens captions settings dialogcaptions off, selectedQuality LevelsAudio TrackFullscreenThis is a modal window.
+      The Playback API request failed for an unknown reason
+        Error Code: VIDEO_CLOUD_ERR_UNKNOWN
+        Technical details
+        : Unknown catalog request error.
+
+      Session ID: 2023-05-28:5756e0e26d91bbdf15e7faf1 Player Element ID: vjs_video_3
+          OK
+        Close Modal DialogBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.This is a modal window.Close Modal DialogThis is a modal window. This modal can be closed by pressing the Escape key or activating the close button.PlayMuteCurrent Time /Duration Loaded: 0%Stream Type LIVESeek to live, currently playing liveLIVERemaining Time - 1xPlayback RatePicture-in-PictureFullscreen
+Breaking
+Down The Titan Sunbreaker 
+
+Hammer of Sol – this Titan super ability allows
+you to conjure a flaming hammer that will shatter enemy skulls with
+devastating melee attacks.
+
+Thermite Grenade – these grenades create
+explosions that send streaks of fire rushing toward your target. 
+
+Sunstrike – this melee attack allows Titans to set
+their enemies on fire. 
+
+Fire Keeper – an augment to Hammer of Sol that
+makes the special last longer. It also gives you an over shield as long as you're
+standing in a Sunspot, which is a pool of fire that Sunbreakers can create with
+their Hammer of Sol.
+
+Bungie's Pro Tips: "The
+Sunbreaker has an attack where he lunges forward and uppercuts guys," says Merrill.
+"You can also do this in the air with a flaming knee. That will chain detonate.
+If you launch that guy to another set of guys, they will chain pop with a
+significant amount of damage. If you can line this up, this is a kind of minigame you play once you know how this works. You don't want to just kill a guy,
+you want to kick him into his friends so that he chain detonates. He can also
+make an area of fire around him, and while he's standing in a pool of fire, his
+super goes down very slowly, so he can hold that space for a very long time. He's
+all about shelling one area, moving to it, and fighting from that area."
+Video Player is loading.Play VideoPlayMuteCurrent Time /Duration Loaded: 0%Stream Type LIVESeek to live, currently behind liveLIVERemaining Time - 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions settings, opens captions settings dialogcaptions off, selectedQuality LevelsAudio TrackFullscreenThis is a modal window.
+      The Playback API request failed for an unknown reason
+        Error Code: VIDEO_CLOUD_ERR_UNKNOWN
+        Technical details
+        : Unknown catalog request error.
+
+      Session ID: 2023-05-28:2338d193e56f75c710ab5e76 Player Element ID: vjs_video_960
+          OK
+        Close Modal DialogBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.This is a modal window.Close Modal DialogThis is a modal window. This modal can be closed by pressing the Escape key or activating the close button.PlayMuteCurrent Time /Duration Loaded: 0%Stream Type LIVESeek to live, currently playing liveLIVERemaining Time - 1xPlayback RatePicture-in-PictureFullscreen
+Breaking
+Down The Warlock Stormcaller 
+
+Stormtrance – This super gives Warlocks an arc-lightning
+attack that deals massive damage to multiple enemies.
+
+Storm Grenade – This explosion calls down a
+localized lightning storm. 
+
+Thunderstrike – An electrifying melee strike
+that hits from an extended range.
+
+Perpetual Charge – performing a melee kill recharges
+your grenade ability, while grenade kills recharge your melee skill.
+
+Bungie's Pro Tips: "He's not very subtle – he basically
+electrocutes everybody like Emperor Palpatine," Merrill says. "His melee is probably going to
+be the most contentious thing. He has a very long-range attack when his melee
+skill is charged up. It's very hard to beat him in a melee fight from a
+distance. Warlocks should start getting used to engaging with melee early on. If they're not going up against another Stormcaller in PvP he can win melee
+fights pretty easy."
+Video Player is loading.Play VideoPlayMuteCurrent Time /Duration Loaded: 0%Stream Type LIVESeek to live, currently behind liveLIVERemaining Time - 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions settings, opens captions settings dialogcaptions off, selectedQuality LevelsAudio TrackFullscreenThis is a modal window.
+      The Playback API request failed for an unknown reason
+        Error Code: VIDEO_CLOUD_ERR_UNKNOWN
+        Technical details
+        : Unknown catalog request error.
+
+      Session ID: 2023-05-28:2d42cab1a1c7645cf76a8b32 Player Element ID: vjs_video_1689
+          OK
+        Close Modal DialogBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.This is a modal window.Close Modal DialogThis is a modal window. This modal can be closed by pressing the Escape key or activating the close button.PlayMuteCurrent Time /Duration Loaded: 0%Stream Type LIVESeek to live, currently playing liveLIVERemaining Time - 1xPlayback RatePicture-in-PictureFullscreen
+Breaking
+Down The Hunter Nightstalker 
+
+Shadowshot – "This super gives hunters a bow that
+can one-shot enemies," says Merrill. "This shot can also create a Void Anchor on walls and
+floors that tethers enemies to one spot. The duration of this anchor is extended
+with every enemy you kill, so every tethered enemy you kill increases the
+length of time your tether will stay in place and capture more enemies. This is
+one of the ways that Bungie was able to balance the ability for both PvE and
+PvP.
+
+Voidwall Grenade – This explosion emits a
+horizontal wall of burning Void Light. 
+
+Smoke – In addition to grenades, Nightstalkers
+can also throw smoke that slows and disorients enemies caught in the blast. 
+
+Shadestep – A well-timed roll that will allow
+you to avoid damage.
+
+Bungie's Pro Tips: "The
+Hunter has a bunch of toys. He has smoke grenades, and that debuff is much
+stronger if you hit people directly with the grenade than if people run through
+your smoke cloud later," Merrill says. "His base super is also pretty complicated. He has the bow,
+and wherever his arrow hits he creates an anchor that reaches out and grab
+stuff. Anyone who is grabbed by that tether is debuffed, and in PvP it's a hard
+stop to all supers. If you see a Titan and a Warlock coming into your base with
+their supers, you can hit above the door with your tether and it will shut them
+both down and hold them in place. It's a great counter maneuver." 
+To learn much more about Destiny: The Taken King, click on the banner
+ below to enter our constantly expanding hub of exclusive content.
+

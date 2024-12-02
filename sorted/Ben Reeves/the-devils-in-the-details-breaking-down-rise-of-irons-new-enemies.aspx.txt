@@ -1,0 +1,64 @@
+
+  The Devils In The Details: Breaking Down Rise Of Iron’s New Enemies
+
+
+
+
+
+
+SIVA is a plague of self-assembling, self-replicating nanotechnology that was created during humanity’s Golden Age. The Iron Lords hoped to use it to better humanity, but the corruption was too violent to be contained, and their quest ended in the downfall of many of humanity’s mightiest heroes. Now, centuries later, the Fallen House of Devils has uncovered this mysterious substance in the depths beneath the Cosmodrome, and this nanotechnology is corrupting them – turning them into deadly machine gods. The universe is in need of a Guardian brave enough to take down this new threat and seal it away forever. Come meet your new foe: The Devil Splicers. 
+Once Bungie settled on the story for Rise of Iron, the team knew that they had to craft a new set of enemies for players to fight throughout the Rise of Iron campaign. With the Taken King, the team had put together a new race of enemies by pulling creatures from all of Destiny’s existing enemy factions. However, for Rise of Iron, Bungie thought it would be more interesting to transform a single faction into a new enemy. 
+“Story-wise, the Fallen fit,” senior designer Matt Findley. “The House of Devils are scavengers and each House is really trying to get better than the other and advance themselves. They’re also declining, being pushed into the corner of this new solar system. As scavengers, it makes a lot of sense for them to stumble on this. SIVA doesn’t have its own agenda or anything, but it is an aggressive nanite that allows its users to be transformed. Some of the last instructions given to it were ‘Defend and Protect,’ so it’s got this aggressive, militaristic feel, and the Fallen themselves are like, ‘Oh, we want that, and we want to be stronger and better.’ The Fallen are also controlling it to be more aggressive.”
+Bungie felt that there were good gameplay reasons to choose the Fallen as well. For example, the Fallen are a highly diverse race of enemies, and have a bit more variety than some of Destiny’s other races. The Fallen also have a wider arsenal of weapons, which allowed Bungie to experiment with a wider mix of new enemy weapons and combat behaviors. 
+The Fallen redesign for the Devil Splicers isn’t as dramatic as the Taken featured in The Taken King, but players will notice that the Devil Splicers look a bit more aggressive than standard Fallen. The SIVA nanotechnology has transformed this nomadic race of four-armed aliens into cybernetic warriors. In many cases, several of the Fallen soldiers’ limbs have been replaced with robotic prosthetics – the Dreg even have peg legs. Other Fallen are draped with red SIVA tendrils or robotic pyramid heads. Even the Fallen weapons have gotten an overhaul. 
+“Where you see a lot of the soft curves in the Fallen weapons, we now have a lot harsher curves,” says Findley. “The projectiles themselves are flying faster. With some of the weapons, it’s like, ‘oh why shoot once when you can shoot three times!’ The way the weapons behave, they fire a lot faster, keeping these things in balance with the rest of the game, but just visually your experience should be that these weapons are more aggressive. Even in death, there’s aggression, so occasionally there is this seeking-ball-of-death that will come out of their heads when you kill them.”
+To help further demonstrate the difference between regular Fallen and this new class of Devil Splicer, we asked Findley to break down some of the biggest changes being made to a few of the Fallen enemies. 
+
+Dreg Splicers
+
+“Dregs have peg legs. They run around faster. They throw a unique SIVA 
+grenade which is a red ball of SIVA cloud explosion. If you kill them 
+with a headshot they have the chance to spawn a deathseeker, which will 
+slowly chase whoever killed them. We had that discussion a lot, a lot of
+ ‘are we punishing the player?’ We like how it actually adds an element 
+of ‘I have to keep aware, I’m no longer mindlessly plugging headshots 
+into these guys.’ If I do a headshot, I’ve got to think about this for a
+ second. They have the pistol and the shrapnel launcher, which are 
+slightly different. The pistol is a little snappier, so instead of a 
+straight line it sort of zig-zags back and forth, sometimes it makes it 
+miss, sometimes it makes it hit when it should have missed.”
+
+Vandal Splicers
+
+“The Vandals are quite visually distinct. They’ve got the big pyramid 
+things on them, there’s not a lot of change to their geometry, but they 
+do have a Berserk ability much like the Hive Knights. So they have the 
+chance, when they’re at low-health, to regenerate a bunch of health and 
+get super aggressive and run in as a melee attacker, and that fits with 
+our aggression profile. Weapon-wise they’ve got the shock rifle, which 
+instead of being the slow, seeking projectile that the rest of the 
+Fallen have, we’ve turned it into more of an aggressive machine gun. So 
+it no longer seeks you but it fires faster. And then they have the wire 
+rifle, and instead of being a single sniper shot we’ve turned that into a
+ triple-tap burst. There is a slight spread on their burst so it’s 
+possible for you to take a partial sniper hit instead of a full sniper 
+hit.”
+
+Servitor Splicers
+
+“The Servitor has a triple-tap shot as well, so instead of the single 
+consistent shot that the Servitor used to do, this is more of a 
+suppression role, and they’ll be firing a lot faster. It’s designed to 
+keep you in cover. They have a lot more aggressive, 
+artillery-suppression role. We wanted to make Servitors a little more 
+interesting instead of just being this machine that sits back, like an 
+anchor piece. Now it’s something that’s integral to the fight of pushing
+ the player around the space. Visually, they’ve added a bunch of Flash 
+Gordon doo-dads on them, so they look a lot more angular.”
+
+Our month of Destiny: Rise of Iron content is still growing, so be sure 
+to check in on our cover hub for a host of in depth interviews with the 
+team, a deeper dive into Bungie’s raid philosophy, and a video interview
+ with the writing team. To see all the content and get up to speed 
+before Rise of Iron’s launch, click on the banner below. 
+

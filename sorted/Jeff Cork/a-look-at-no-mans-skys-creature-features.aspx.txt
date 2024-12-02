@@ -1,0 +1,22 @@
+
+  A Look At No Man’s Sky’s Creature Features
+
+
+
+
+
+
+During our month of No Man’s Sky coverage, we’ve been focusing our attention on the game’s unfathomably large scale. We haven’t spent much time talking about the various creatures that players will be seeing while planetside. Like the worlds they inhabit, each species has been procedurally generated. We talked with Hello Games’ art team to learn about how they’re populating the galaxy with a massive menagerie of unique animals.
+Hello Games is a small studio, but even a team of thousands of artists couldn’t create and animate enough creatures for No Man’s Sky using conventional methods. Rather than design, model, and animate everything by hand, they’re using in-house tools similar to the ones that generate the game’s planets, stars, and galaxy.
+
+When they started their work, art director Grant Duncan said they didn’t have to look far for inspiration. “When it came to creatures, we built the kind of creatures that exist on the Earth. Looking at their anatomy and skeletal makeup, and it's quite surprising how few different types of skeletons there are. There are obviously variations for things like the length of limbs and the number of vertebrae and that kind of thing, but actually, roughly, they're fairly similar.”
+Duncan pulled a reference book off a shelf and showed me what he was talking about. Sure enough, the skeletons of most of the real-world animals showed an almost template-like construction. For example, take their skin off (don’t try this at home), and dogs, cats, pigs, and rhinos have more in common than you might initially think. Hello Games looked at these basic templates – which they call blueprints – as the basic foundational essence of their creatures.
+
+To illustrate, Beau Lamb, one of the game's artists, pulled up an animation of an aquatic creature. The animal in the larger window looked similar to a shark, but a multitude of smaller windows on the screen showed variations based on that template. With the click of a button, the windows refreshed with all-new animals, with different configurations of fins, colors, textures, and more. One had a head like a crocodile, and it looked like something you’d see in a book about prehistoric creatures. Another was colorful and featured a large number of flippers on its sides and belly.
+The method might sound limited, but as you can see from the gallery of images below, it allows for a surprising amount of variety. Duncan says that blueprints are flexible in ways that might not seem intuitive, too. For instance, a chicken and a tyrannosaurus rex have a lot in common, aside from obvious differences in size, heads, and (arguably) the presence of features. In one demo, we saw several manta ray-like creatures soaring in the sky, with long tails trailing behind them – which eased our initial concerns that we were only going to run into slightly different creatures from real life. 
+
+The tools also account for how each creature is animated, based on its randomly assigned values. “It cuts down on a lot of the work for us, because normally in games you'd have to make a whale rig, a shark rig, all these different rigs, and that's a lot of work in animation,” Duncan says. “That all gets done for us because there's an intelligent animation system that understands that if a creature's bigger, then it moves in a slightly different way. So we'll create a template animation and if it's a large creature it gets a lumber.” 
+Similarly, players can get cues about what they’re up against when they see one of these animals in the wild. “We have a tagging system, so the idea being that when you look at a creature you can almost predict how it's going to sound and how it's going to act,” Duncan says. “The kind of rough way it works is you can tag certain parts or certain combinations that dictate what it's going to be like. The same goes for colors. If you see a creature that looks aggressive and a little bit scary, chances are it's going to behave in that way and it's going to be hostile. The same way that in the real world if you see a lion you just know to stay away. It's quite a fun rule to break as well, because you can have creatures that look really nice and fluffy, and actually they can be tremendously aggressive.”
+
+Click on the banner below to enter our hub for No Man's Sky that will be updating throughout the month with exclusive features on the game.
+

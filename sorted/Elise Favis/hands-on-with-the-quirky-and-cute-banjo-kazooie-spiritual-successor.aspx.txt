@@ -1,0 +1,23 @@
+Yooka-Laylee
+
+
+  Hands-On With The Quirky And Cute Banjo-Kazooie Spiritual Successor
+
+
+
+
+At this year's Gamescom, we played Playtonic Games' Yooka-Laylee, a 3D platformer created by several Rare veterans, known for games like Banjo-Kazooie and Donkey Kong Country. From its playful musical score to small details like its font choice, Yooka-Laylee is a love letter to older games. However, it's also a fantastic and adorable standalone experience that we loved.
+Yooka-Laylee stars a chameleon (Yooka) and his purple bat friend (Laylee), as they set out on a journey filled with adventure. I explored a tropical island filled with temples, waterfalls, and numerous cliffs and platforms to leap from. The controls are easy to handle and the abilities fun to use, with Yooka's maneuvers feeling fluid. Yooka can perform a tail spin to attack enemies, roll around for more speed, use his tail as a spring to hop upwards, and pound the ground. Laylee, on the other hand, can use a sonar ability to activate things like a trigger to move a platform. Combined, Yooka and Laylee can also temporarily fly after performing a double jump. 
+Like most 3D platformers, you're not outright told where to go or what to do. In the 20 minutes I played, I didn't get to see everything in the demo. The terrain is filled with quirky characters that give you mini quests, such as Sir Hamalot, a plump pig knight who wears donuts around his waist. Laylee comically pokes fun at his name. Later on, I came across a skeleton traveler, who was captured and tied up in a bubbling cauldron. To rescue him, I had to defeat a group of purple gremlins. 
+Video Player is loading.Play VideoPlayMuteCurrent Time 0:00/Duration 0:00Loaded: 0%Stream Type LIVESeek to live, currently playing liveLIVERemaining Time -0:00 Playback Rate1xChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions settings, opens captions settings dialogcaptions off, selectedQuality LevelsAudio TrackFullscreenThis is a modal window.
+      An unanticipated problem was encountered, check back soon and try again
+        Error Code: MEDIA_ERR_UNKNOWN
+
+      Session ID: 2019-08-22:20ba4228453edbd4ae202ab Player Element ID: vjs_video_3
+          OK
+        Close Modal DialogBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.This is a modal window.PlayMuteCurrent Time 0:00/Duration 0:00Loaded: 0%Stream Type LIVESeek to live, currently playing liveLIVERemaining Time -0:00 Playback Rate1xFullscreen
+ I saw plenty of callbacks fans of older Rare games will appreciate, from small details like font choice and sound effects similar to Banjo-Kazooie, to a mine cart section reminiscent of Donkey Kong Country. Each level features several collectibles, one of which is quills that can be traded to Trowzer the Snake for skill points to spend on new abilities. These skills can be obtained in any order you choose. Other retrievable items scattered around include butterflies, which Yooka can collect to refill stamina or grab with his tongue to replenish health. 
+Colored ghosts float around the area, and require different actions before they can be collected. For example, I found a ghost pointing to its open mouth, which meant it was hungry. I leapt to another cliff and obtained fruit from a plant, which made Yooka's feet, hands, and head glow a light blue. The tricky part was I had a limited time to give the ghost this glowing food before it disappeared. 
+Finally, magic pages are hidden in the world, and collecting all of these in a level will open up another locale to explore. In addition to these collectibles, each level has its own transformation ability. One turned me into a bouncing flower that could converse with other flowers that previously refused to speak. In a winter level shown off in the Gamescom trailer, you can turn into a giant snowplow.
+It's clear there is plenty to do in Yooka-Laylee, and its playful atmosphere creates a lighthearted tone reminiscent of past Rare games. In Yooka-Laylee, you run around, defeating enemies adorable as you, without a care in the world. For more on Yooka-Laylee, watch our Test Chamber, where we took a tour of the Toybox demo.
+

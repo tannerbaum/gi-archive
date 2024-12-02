@@ -1,0 +1,65 @@
+
+  Thinking With Portals: Making A Portal 2 Test Chamber
+
+
+
+
+
+
+The test chambers that populate the vast interior of the Aperture Science testing facility may seem deceptively simple at first glance – just a few key components nestled in a sterile room – but once you try to escape that room you'll realize that things are much more complicated than they seem. The designers at Valve use a very particular process to craft these devious challenges. Valve explains how that process works for Portal 2.
+
+Valve on setting goals:
+
+“Out of all the possible problems that can be posed to the player, how does the team decide what should go into a new test chamber? While it may seem obvious, the final decision always starts with a specific goal in mind. We never sit down and throw random pieces at the whiteboard to see what sticks. We always focus on some key aspect of a mechanic, and on how we can teach it to players while still challenging them.”
+
+All the test chambers in Portal 2 begin their life on a whiteboard. Using isometric sketches the team is able to block out the rough shape and components needed for whatever challenge they’re trying to pose to the player. Working roughly, they’re able to very quickly sanity-check a design and try to poke holes in its implementation
+
+Valve on training players
+
+“This core criteria for map building helps guarantee that the game is always giving players the right incremental step in their understanding of portals and portal challenges. Generally speaking, the training is one of two types. The first type is what the team calls checklisting, where new mechanics are broken down into the core components players must understand in order to have fun using that mechanic. This is often just a matter of broadcasting the fundamental rules of play. For instance, the most basic function of a tractor beam is to grab a player who has entered its zone of influence and float them in its direction of travel. So when players first encounter a tractor beam, they're given a very clean room to safely experiment with it.
+
+“The second form of training occurs after players have learned the basics. Once we feel comfortable that players understand the basic rules, we start to enumerate the interesting things that can be done with the mechanic we're focusing on. This helps us generate a list of fun experiences the player can have. We then use that list to generate new challenges. These challenges typically force players to think laterally and usually involve taking a previously learned rule and turning it on its head. Figuring out those little twists is often the most rewarding for players.”
+
+Once the whiteboard sketch has been vetted by the design team, a designer will take the sketch and start to build the true level.  Here you can see a view of that process using Valve’s level editor, Hammer
+
+Valve on playtesting:
+
+“Coming up with challenges for players is only a starting point. Challenges can't just be solvable; they also need to be fun. Playtesting is the most important tool the team utilizes while creating puzzles that fulfill both of these requirements. Even the best ideas can fall flat once they're put up against real players, so until a wide variety of testers have played through a map, it can't be considered ready to ship.
+
+“Sometimes playtesting unearths simple problems, such as a player discovering a solution the team didn't expect. If the solution is interesting and makes the tester feel smart, it might be left in as an alternate solution. If, however, the unintended solution makes the player feel as if the game is broken, the team will find ways to remove or reconfigure the elements that led to the errant, unsatisfying solution. Ultimately, it's the playtesters' perception and enjoyment that dictates what goes into a final map.
+
+“A common issue that crops up in playtesting is players failing to notice the tasks needed to solve a challenge. Players very rarely look up, and they almost never look at the things that are obvious to us as designers. We'll add something to a room that seems far too obvious to us, but if playtesters miss it time and time again, we know that we need to draw more attention to it or find another way to approach the problem.”
+
+Valve on Portal 2’s paint feature:
+
+“Portal 2 gives players the ability to paint surfaces in order to alter their properties, which takes the fundamental binary constraint of a traditional Portal puzzle surface and changes it into something very powerful. Players are used to having the world tell them what they can and can't do. Portal 2 strives to give players more control over the rules of the world and let them set their own terms. However, with that higher degree of freedom comes a higher degree of challenge when trying to design a puzzle. Because of the fluid (and messy) nature of the paint, maps very quickly change from clean and tidy to chaotic and mottled. The upside is that it gives players a much more varied and interesting set of options when solving puzzles, without the designers having to change the central portal gun mechanic.”
+
+Here is a test chamber that has been fully art-passed with vegetation, dynamic lighting and detail texturing. This is the final stage for any of the maps
+
+Valve on the art of design:
+
+“Once the map is playtesting well and the developers feel confident that the basic shape of the test chamber won't be modified, the team's artists step in to transform the space from an abstract space into a chamber that feels truly buried in the guts of the Aperture Science testing facility.
+
+“Unlike the often sterile and pristine environments of the first game, Portal 2 provides a more visually rich backdrop for GLaDOS's devious testing. This richness can also add confusion to a space if not implemented correctly, so after a map has received its art treatment it heads right back into playtesting to make sure that players are still having fun.
+
+“Oftentimes adding that visual complexity can create distractions or red herrings for players, so the team often has to pull back if they've gone too far, or clarify elements that may have been inadvertently obscured. Not only does it increase the visual quality of a setting, the art pass can often help gameplay problems. Lighting and dynamic elements can help draw the player's attention to exactly where it’s needed while giving them a completely different impression of their surroundings.”
+
+Valve on the importance of GLaDOS:
+
+“Another element the designers typically add at the tail end of a map's production is GLaDOS herself. We almost always have GLaDOS talk at the beginning and end of a puzzle. Portal 1 playtesting showed us pretty quickly that even though people like hearing GLaDOS, they really, really don't want to listen to her while they're actively thinking through a puzzle.”
+
+      Products In This Article
+
+Portal 2
+
+Platform:
+
+PlayStation 3, Xbox 360, PC
+
+Release Date:
+
+April 18, 2011
+
+Purchase
+More Info
+

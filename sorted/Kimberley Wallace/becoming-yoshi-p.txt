@@ -1,0 +1,124 @@
+
+  Becoming Yoshi-P
+
+
+
+
+
+
+            Introduction
+
+Naoki Yoshida is a man of many words. Ask him any question, and he’ll answer in great detail. Which is terrific, because he’s had quite the career.
+
+There’s no denying that Naoki Yoshida is a massively popular and important figure to the Final Fantasy franchise. When the series hit a low point, Yoshida helped turn its tide, most notably helping transform Final Fantasy XIV after its disastrous launch into one of the most successful and revered MMORPGs of this generation. Nearly a decade later, he’s still finding ways to keep fans engaged with the content and returning for top-tier expansions like Endwalker. This consistency hasn’t gone unnoticed. Just this year, XIV received awards from SXSW, DICE, The Game Awards, and Metacritic in big categories, such as video game of the year (SXSW) and best role-playing game (DICE). Yoshida is also serving as producer on the upcoming Final Fantasy XVI, making him responsible for ushering in a new future for the franchise.
+
+Yoshida has rightfully earned his place on the pedestal, but he didn’t get there by just being a smart and insightful developer. His genuine passion for games allowed him to look at things from the perspective of a fan, and it has made all the difference in his career. We discovered this firsthand in our in-depth interview, where Yoshida reminisced about his path to video games and shared more about who he is beyond the zeitgeist.
+
+Yoshida shares a moment with the fans at Tokyo Fan Festival
+
+Finding Games
+
+Finding Games
+
+Yoshida is a storyteller, instantly grabbing your attention and making you hang on until his very last word. It makes sense that narrative and world building constantly come up when he refers to games. His love for story was fostered by his mother, who introduced him to mystery novels as a boy [see For The Love Of Mystery Novels sidebar]. Yoshida thinks every game should deliver some element of surprise, which he admits probably ties into his love of the mystery genre.
+
+Ironically enough, Yoshida’s first encounter with a video game was typical. When he was 5 years old, he discovered a Rally-X arcade machine while he was on vacation with his family at a hot spring. The game had players race through multi-scrolling levels to collect flags. “It was very standard, so that was not surprising in any way,” he admits. “I was just there kind of playing around with the levers.”
+
+It wouldn’t be until Yoshida was around seven years old that he really felt the magic of gaming, thanks to his neighbor, who Yoshida refers to as a “rich brat kid.” Yoshida went over to his neighbor’s one day and saw the NES hooked up to the TV, with the original Mario Bros. illuminating the screen. Yoshida was surprised by his immediate emotional response.
+
+For The Love Of Mystery Novels
+
+When he’s not working on games, you can usually catch Naoki Yoshida reading. His favorite genre is mystery, thanks to his mother collecting various Western mystery novels while he was growing up. Yoshida loved reading them and says there are way too many to list as his favorites, but singles out a few standouts, such as Agatha Christie’s And Then There Were None and Soji Shimada’s Tokyo Zodiac Murders. “The Sherlock Holmes series is definitely something that was very inspiring,” he says. “I read through them when I was in elementary school, and it really got me intrigued in that genre.”
+
+Yoshida also fondly speaks about The Kennel Murder Case, a complex locked room murder mystery written by S. S. Van Dine in 1933 that was adapted into a film the same year. He says the depictions in the text still stick with him. “Sometimes it’s just a very simple singular line, ‘The dead body of Brisbane was laying there.’ [Van Dine] didn’t give a lot of exposition, but he described it so well that it’s burned into my memory. I was in elementary school when I read this, and it still left an impact on my mind.”
+“That was my shocking entry into video games,” he says. “At that time, I thought television was only to watch something – a passive media as we put it nowadays. The interactive element had such an impact on me.”
+
+Yoshida says even though Mario’s mechanics were simple, stomping on Goombas and going through pipes, he was struck by the cooperative element and how that changes the experience, despite it having the same rules as single-player. “So when I got to play it for the first time, I already knew somewhere in my heart that I am going to be a person who creates games one day,” he says.
+
+But it took Yoshida time to warm up to RPGs. During his elementary and middle school days, he recalls playing a lot of action games and shooters, but his friends kept talking about Dragon Quest. Yoshida remembered feeling “rather negative” about the series. He hadn’t played it, but based on what he heard, it didn’t seem like his cup of tea. “It’s this game where the CPU generates numeric random occurrences like dice, and I didn’t know what the appeal was,” he says.
+
+That all changed when his friend lent him a copy of the game, and he came to a realization: “With these role-playing games, it’s not about the skill of the playerthemselves, but I noticed that you have this character who gains experience, and there’s a story behind it, and it was a very different experience.”
+
+About a year later, the original Final Fantasy came out, and it changed everything for Yoshida. “[That’s when] I realized that this medium now tells a story and in a very dramatic way,” he says. “It changed my perspective; I thought to myself, ‘Wow, I want to be able to deliver a story through this video game medium to share with people out there in the world.’”
+
+Yoshida always thought he’d make an action game, but his Final Fantasy experience made him change his vision for the future. His goal was now to make an RPG, and it was born from the desire to depict a story through this interactive platform.
+
+Doing The Hard Work
+
+Doing the Hard Work
+
+Yoshida was dead set on being a video game developer, but as he was graduating high school, he started to realize he hadn’t done much to put him on that path. “I never really studied any sort of programming or video game [design] at this point,” he says. “I just had this weird confidence in me, thinking, ‘Oh, I’m going to be a game designer one day.’ It was just all talk at that time.”
+
+Yoshida then got more serious about pursuing programming and joined a game-design school run by Hudson Soft, a video game publisher that had its heyday from the 1980s to 2002, creating series like Bomberman, Bonk, and Star Soldier. This led to a part-time job at the company, which allowed him to get his feet wet in development. At the same time, the strategy/RPG Tactics Ogre came out, and it lit a greater fire in Yoshida to become a developer, giving him a new high bar to strive for [see Falling In Love With Tactics Ogre sidebar].
+
+Super Bomberman 64: The Second Attack!
+
+To get noticed, Yoshida upped his work ethic and changed his approach to game development. Games were no longer being made by just a few people; he was watching teams grow, with new roles opening due to new complexities in the hardware. Yoshida knew it wouldn’t be enough to master one discipline; he needed to learn as much as possible about every aspect of game development. “I wanted to get experience in anything and everything,” he says. “I would actively seek out tasks that people would not want to tackle themselves.”
+
+Yoshida targeted problem projects, where he noticed they had multiple director changes or the script needed a complete overhaul, and offered his services. “The reason why I wanted to do that is with game development, you do need various specialists, but there’s usually only one person that supervises it all as a director,” he explains. “And I wanted to get to that director position. So in order to do that, I wanted to gain the trust of all the people that are involved in the work. I wanted to get my foot in the door by having them open up to me and want to continue working with me.” Yoshida said after a year, opportunities started coming his way, and eventually, he nabbed the role of story mode director on Bomberman 64: The Second Attack.
+
+Falling In Love With Tactics Ogre
+
+Naoki Yoshida lists the tactical role-playing game Tactics Ogre as one of his favorite titles, calling it “a great inspiration” for him as a game developer. Yoshida points to the realistic storyline and how, up until that point, the RPGs he played were usually about one hero or a small group coming to save the universe. He liked the more intimate approach.
+
+“Tactics Orge was a much more condensed sort of situation,” Yoshida explains. “You were fighting for this ideology, this country, and this history that you are shouldering as part of this battle. It felt so real, because whenever we look at the world, it’s actually kind of narrow-minded, because typically, you’re just looking at things that are immediately around you. [Tactics Ogre] had those very realistic boundaries of [our] universe. Then the people inside of it were just so well developed, so intricately created.”
+
+Yoshida jokes that he was just this kid who thought he was going to be the next big thing in video games, but playing Tactics Ogre was a wake-up call. “By looking at Tactics Ogre, it just shattered my confidence,” he says. “It was like, ‘Wow, how could somebody make something so brilliant? And I have to compete against these people? I have to go beyond those people?’ But at the same time, it also drove me to think, ‘I would love to create games with people like that, so I need to get up [to that level]. I need to be able to compete, and I need to go above and beyond.’ That was a goal that I set for myself.”
+Yoshida’s time at Hudson Soft also served as a great way to acquaint himself with PC gaming, where the company got its start before shifting to console development. “The team was so well versed in developing for the PC platform, and we also had a good internet environment as well,” Yoshida recalls. He fondly remembers using his high-performance work PC to sneak in some gaming when he could, saying the team worked really hard but were also gamers at heart, so they played a lot of Diablo and Ultima Online.
+
+This is where he became fascinated by online players, and it also helped to have programmers around him to explain things. Yoshida remembers playing the first Diablo and realizing gamers were cheating the system by casting spells in safe zones. He wanted to know how players were outsmarting the system, and his colleagues were quick to explain how they had exploited the game. He credits this time as helping him learn the working of online games, which would prove invaluable for his future in the MMORPG space.
+
+A Fateful Meeting With Enix
+
+A Fateful Meeting with Enix
+
+After gaining his bearings at Hudson Soft, Yoshida moved to a smaller company called Rocket Studio. Here, he was offered the opportunity he was waiting for: to make his own game. He would design the entire scenario, something he longed to do, for a PC RPG. Little did he know it would also cause him to cross paths with his future employer and an important man in the industry: Yosuke Saito, best known as the producer of the Nier series.
+
+Yoshida met with a pre-merger Enix before its ties to Square to pitch his game idea. It got the greenlight. According to Yoshida, the RPG tapped into the multiplayer experience. “It had a scenario that you’re following, but it was going to be set up so that you wouldn’t be able to see all of the different branches unless you teamed up with somebody else,” he explains. “So you would follow this one path, and then you’d have to team up with somebody else who has gone through a different history, or there was an item that you had to obtain in order to change your trajectory, but that item can only be obtained from somebody else.”
+
+Yoshida does special 14-hour livestreams to interact with the fans
+
+In the middle of the title’s development, Enix merged with Square, and things started to change quickly. “There was a lot of transition,” Yoshida says. “Our project, which was supposed to be on PC, was told to also be developed for [PlayStation 2]. Then things just got messy, and the title was put on indefinite hold.”
+
+Not all was lost, though. Connections can be powerful, and Saito brought Yoshida into Square Enix as a full-time employee when he asked him to help with the Dragon Quest series in 2005. Yes, the juggernaut franchise Yoshida didn’t initially gravitate toward as a kid ended up becoming a huge part of his career. Yoshida worked on arcade games for the franchise, but his main project was Dragon Quest X – the first MMORPG for the beloved property. Saito served as Dragon Quest X’s producer and made Yoshida its chief planner.
+
+Saito saw Yoshida’s potential early on and still has much respect for how he approaches his work. “I have always related to Yoshi-P’s ‘I love games!’ sentiment, and there are many things I respect him for, regardless of the senior-junior relationship,” Saito says. “There are many important aspects when developing a video game, but in the end, it all comes down to love. I think the best thing about him is that you can clearly see that he puts all his energy into a project with that love, both from the perspective of a developer and as a player.”
+
+Yoshida’s work on Dragon Quest X got him experience working on a top Square Enix property and an MMORPG. Looking back on his time leading up to Final Fantasy XIV: A Realm Reborn, the game that would eventually put his name into the limelight, he laughs, saying it was “a lot of game development and playing a lot of online games, which doesn’t seem to be too different from what it is now.”
+
+The Final Fantasy XIV Glory
+
+The Final Fantasy XIV Glory
+
+When Final Fantasy XIV originally launched in 2010, it was met with intense criticism from fans and media, earning an abysmal 49 on Metacritic. The MMORPG had issues in every direction, from server stability to a bad user interface to laughable bugs. When the brand was at its lowest and XIV looked unsalvageable, Yoshida was brought in to take the reins. To say Yoshida had a challenge ahead is an understatement, and his failure could have easily ended his career, but he approached it the way he does everything, with hard work, brutal honesty, and undeniable style. Final Fantasy XIV was the birth of the “Yoshi-P” moniker, a nod to his power as its producer and director. In many ways, it turned the mostly unknown developer into a legend among fans.
+
+Yoshida didn’t earn the fanfare just for his success, but for how he embraced player feedback and was transparently open – something Square Enix wasn’t exactly known for at the time. “The original Final Fantasy XIV and its failure had a big impact,” Yoshida says. “This is just my perspective, but I feel there was a separation between the people who make the games and the people who play the games. I feel like trying to rebuild XIV was a turning point where I did sense that the atmosphere shifted to focus on trying to regain fans’ trust.”
+
+Once Yoshida took over the project, he felt like he was able to put his own personal philosophies into effect. As a gamer himself, he disliked what he saw as a divide between developer and fans – instead of working against each other, they should be working together. “I tried to be as honest and as transparent as possible to the players so that we would gain a mutual understanding,” he says. To achieve this, Yoshida releases “Letter from the Producer Live” broadcasts where he candidly replies to fans and details the changes coming to the MMORPG.
+
+Final Fantasy XIV
+
+Yoshida says he considers the players his allies and always wants to know what they want. In return, he tries to be as honest as possible, explaining the reasoning behind why a request or feature is feasible or not. He credits this approach with helping the MMORPG build the tight-knit community it’s known for. “Yoshida-san is a very thoughtful person,” says Final Fantasy XIV global community producer Toshio Murouchi, who has worked alongside Yoshida for the past 12 years. “He is a person who values the perspective of the players and the fans, and I really respect that he is clear and decisive about what may not work and takes the time to carefully explain why.”
+
+With nearly a decade of running the Final Fantasy XIV ship and four expansions under his belt, Yoshida thinks the MMORPG still has plenty of places to explore, teasing the numerous possibilities: “We know that we are in planet Etheirys, and we’ve only really explored about a third of that. And then, of course, with the Source’s reflections, we’ve only visited the First out of the 13 different mirrored worlds. Even if we have time travel, we’ve never gone to the future yet. Who knows? This may have actually been a multiverse.”
+
+A Future Fantasy
+
+A Future Fantasy
+
+A lot has changed for Yoshida since he first landed at Square Enix, not just in terms of his success and the company itself, but also in the gaming industry as a whole. Technology continues to advance, and Yoshida notes how the higher processing power and performance levels have taken the medium to a new level. Yoshida points to the realism that video games can now achieve, saying players no longer have to fill in the gaps of their imaginations when playing. It’s also upped the expectations and pressure to get every cinematic shot just right.
+
+“The costs and the resources required for producing a modern game have become a lot more expensive, and the technology that sits behind developing these games have come to the point of scholarly levels,” Yoshida says. “I’m working on Final Fantasy XVI, and sometimes I look at what we’re trying to do and I think to myself, ‘Wouldn’t this be quicker and cheaper if we just film real people?’”
+
+Part of why Yoshida is so good at what he does is he’s always paying attention and analyzing everything around him. He points to the internet as something that has continued to play a large role in how we experience games. “The internet, in general, has become such a part of our lives that we don’t really think about connecting to the internet; it’s already [our] default,” he says. “A lot of the things that we utilize in our daily lives are just already working under the assumption that we are connected online somehow, and it’s sort of blurred the line between a physical place in a physical time and made everything more available outside of what we would normally be used to. That’s also made an impact on how we look at games as well.”
+
+Yoshida’s role has also expanded. He’s still leading Final Fantasy XIV, but also serving as producer on Final Fantasy XVI, an important next entry in a series just beginning to regain its limelight after a difficult patch. Yoshida doesn’t mince words about the challenges of having two big titles on his plate. “It’s just so many things that I have to juggle, and I’m trying not to drop the ball, so when asked if it’s smooth sailing, I would assure you it is not smooth at all.”
+
+However, Yoshida hasn’t shifted his strategy from years ago when he worked at Hudson Soft, saying it all comes down to mutual trust between him and his team. He says part of his job is to challenge them to be confident in their decisions, saying success comes down to hard work and partly luck. He urges his team to have solid reasoning behind every choice they make. “I want them to have some kind of belief behind what they’re trying to pitch,” he explains. “If they have a risk assessment that they’ve done and they have evidence that proves to them that they feel comfortable in moving forward in a certain direction, I want to know that. I want them to be comfortable with what decision they’ve come down to and be able to back that up.”
+
+Yoshida plans to tackle the future with the same fearlessness he’s always had in his career. When asked about Final Fantasy XVI, his answer echoes this spirit and his desire for all games to have the element of surprise like in the mystery novels he loves to read. “This applies to both XIV and XVI, but I want us to continue to push ourselves and take on new challenges with our approach,” he says. “We want to bring a varied sense of fun and good gameplay as well as elements of surprise that would make the challenges we take worthwhile. At the same time, taking on a challenge is accompanied by risk. We may stumble, but I think being afraid of these kinds of risks and not taking the challenge is going to be disadvantageous to the players in the end. Not taking a risk might mean you see a game that has already been done before.”
+
+And, of course, before we close out the interview, Yoshida continues his philosophy of involving the fans in the game development process, stating: “We would love for people to join us in this endeavor. We’ll cry and laugh together through this adventure. And hopefully, it’ll be a worthwhile adventure in the end.” 
+
+This article originally appeared in Issue 345 of Game Informer.
+

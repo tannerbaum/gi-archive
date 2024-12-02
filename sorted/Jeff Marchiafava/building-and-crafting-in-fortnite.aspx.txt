@@ -1,0 +1,57 @@
+
+  Building And Crafting In Fortnite
+
+
+
+
+
+
+The success of Minecraft has inspired more developers to experiment with building elements in their games, many of which adhere closely to Mojang's voxel-based formula. Last week, we discussed how Epic is taking a different approach to procedurally generated worlds; the studio is also exploring its own unique building mechanics, which strike a good balance between creative freedom and ease-of-use.
+
+All objects in Fortnite are built out of three basic elements: wood, stone, and metal. As the player, you'll be constructing a variety of structures and items of your own, so you'll want to be constantly collecting these resources as you explore the environment.
+
+Luckily, you've got the perfect tool for the job. Your trusty pickaxe can break any object down into its basic element, be it a boulder, tree, car, or an entire fast-food restaurant. Each strike causes the object to reverberate with a cartoony wobble and drop resources; aiming your cursor over a randomly appearing target speeds up the destructive process. When the object is completely destroyed, it yields a secondary type of resource that can be used to create more powerful tools, weapons, and items via Fortnite's robust crafting system.
+
+Building in Fortnite is equally straightforward, and can be done on the fly by any character class. You can build four basic types of structures: walls, ceilings/floors, ramps, and roofs. Once you select the structure type and what material you want to build it out of, a holographic version of it appears in the environment. Pressing the build button makes an outline of the structure instantly pop up, while an animation fills in the pieces and brings it up to full strength. Constructors can build their pieces faster than all of the other classes, giving them a slight advantage when repairs are needed posthaste.
+
+However, you can also edit the structure to prior to laying it down. The hologram for floors, ceilings, and walls appears as a 3x3 grid – selecting or deselecting these squares with the mouse affects what kind of structure you build. Knock out the middle square and you'll make a wall with a window; knock out the square below it as well and you'll make a door. Remove all of the squares but the bottom row and the game will create a railing or low wall depending on the material you select. Floors work the same way, allowing you to create structures like balconies and trapdoors.
+
+Ramps and roofs use a simpler 2x2 grid. For ramps, you highlight the square where you want the ramp to start, then mouse over the other squares to build the slope. This allows you to build a double-wide ramp, a skinnier half ramp, a three-quarter ramp that curves around a corner, or a winding ramp that doubles back on itself. Roof tiles can also be customized; selecting or deselecting the squares changes the size and/or angle of the structure.
+
+Once you're done editing the template, you can build the piece as normal, repeating it as many times as you like. When construction is complete, you can upgrade the structure to level two to make it harder for monsters to tear it down. Constructors can upgrade structures a second time as well, giving players three different strengths and visual styles to choose from.
+
+Unlike games like Minecraft, Fortnite features simple physics – if a structure is not connected to the ground, it will instantly break apart. Players can use this to their advantage when demolishing buildings and resource-rich structures, but they should also keep it in mind when building vertically – Fortnite's monsters won't hesitate to attack your fort as well as you, so players shouldn't build up towers or bridges on a flimsy foundation.
+
+Fortnite's building mechanics are decidedly more utilitarian than Minecraft – while players don't have the same level of creative freedom, they can build functional bases quickly and efficiently, which is important when you're facing an onslaught of invading monsters (or human opponents). We built a number of structures during our hands-on time with the game – from a stairway that stretched to dizzying heights above the map, to sprawling, multistory strongholds – all with relative ease. Because they weren't built by individual blocks, the buildings we created were also more visually impressive, and didn't look out of place in Fortnite's stylized, lighthearted world.
+
+In addition to constructing environmental structures, players can also craft a wide variety of items and weapons. Like Fortnite's building mechanics, any player class can craft items, which is done through a simple menu – there are no crafting benches or other bottlenecks to stand between you and the items you need, other than the resources they require.
+
+Individual crafting recipes can be pinned to your HUD, so you'll know exactly when you've collected enough resources for that fancy new machinegun, or so you can make some more life-saving ammo on the fly in the middle of an intense invasion. Being able to craft my own ammo also allowed me to keep a wide range of firearms on hand when playing as the commando; my tactics weren't dictated by what ammunition I could find in the environment, like most shooters.
+
+Like in other loot-focused action games, weapons in Fortnite are color-coded based on their rarity. You'll find plenty of guns and melee weapons in treasure chests hidden throughout the world, but my favorite weapons – including a powerful automatic shotgun – came from weapon schematics awarded for completing zone objectives during campaigns. These schematics also allow you to build the new weapon as many times as you want, making them coveted rewards for a job well done.
+
+In addition to weapons, players can craft numerous traps, which tie back into Fortnite's building elements. Defensive props can be placed on walls, floors, and ceilings, and include spike plates, charged orbs that electrocute opponents, spears that jut out of walls, and launch pads that send foes flying. These traps don't hurt you or your teammates, so you can create booby-trapped corridors to retreat down when you get overrun by invading forces. Traps can also be combined, by building electrical orbs on the ceilings above spike plates, or lining up launch pads to fling enemies into spear traps.
+
+Epic wants players to experiment with Fortnite's building mechanics, and as such is giving players a few sandbox options outside of the campaign and competitive modes. As we outlined last Wednesday, The Fort is a separate mode that will allow players to build a permanent stronghold, which will be used in other currently undisclosed modes. Epic says it is also including a Creative mode, so design-minded players can build without worrying about collecting resources or fending off The Storm's creatures. When asked if players will be able to place in-game objects (cars, trashcans, fences, etc.) or personalized art like graffiti to the world, Epic said it still hasn't decided yet. Given the studio's desire to support and evolve the game for years to come, players shouldn't rule those options out as a future possibility.
+
+As a fan of Minecraft, I was impressed by how quickly the building process goes in Fortnite. Building something grandiose in Minecraft takes considerable time and patience; Fortnite allowed me to slap together some impressive structures in just a few minutes, and I didn't feel hamstrung by the building options at my disposal. I'm looking forward to seeing what kind elaborate creations and defensive fortresses emerge from the most devoted players in Fortnite's community, but the simple mechanics ensure that no one will be left spectating when it's time to start building.
+
+To see all of this month's bonus Fortnite features, click the hub banner below. Want to play Fortnite for yourself? Sign up at Epic's site for a chance to be included in the upcoming alpha.
+
+You can also follow our Fortnite updates and other stories by following Game Informer on Twitter, Google+, and Facebook.
+
+      Products In This Article
+
+Fortnite
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch, PC, Mac, iOS, Android
+
+Release Date:
+
+July 25, 2017 (PlayStation 4, Xbox One, PC, Mac), April 2, 2018 (iOS), June 12, 2018 (Switch), August 9, 2018 (Android), November 10, 2020 (Xbox Series X/S), November 12, 2020 (PlayStation 5)
+
+Purchase
+More Info
+

@@ -1,0 +1,164 @@
+
+  24 Interesting Tidbits We Learned About Star Wars Jedi: Fallen Order
+
+
+
+
+
+
+            While visiting Respawn for our Star Wars Jedi: Fallen Order cover story, director Stig Asmussen and many others gave us lots of interesting details about the game, but over the course of our coverage, we weren't able to find places to insert every tidbit we learned. This feature represents all the little details we weren't able to fit anywhere else, but still found interesting, along with some quotes from the developers.
+
+1
+
+Respawn is looking into photo mode and it should make it into the game, but New Game Plus is looking unlikely. "New Game Plus is hard because it’s a Metroidvania-inspired game, so if you start the game with all your abilities, you kind of break things," director Stig Asmussen says.
+
+2
+
+            There will be difficulty settings. We asked if they would be based on Star Wars names, like padawan and Jedi, etc., but their names have not yet been decided.
+
+3
+
+            The game will run better on Xbox One X and PlayStation 4 Pro, but Respawn didn’t have specifics on what would be improved on the higher-end consoles. "This is a Respawn game, so we’re aiming for it to play well on the lowest spec, but you will get the best experience on a high-end PC, for sure,” Asmussen says.
+
+4
+
+            The map is in an in-world hologram, and if you try and look at it while enemies are around, they will attack you.
+
+5
+
+            We asked Asmussen about lightsaber limb dismemberment and he said, “Obviously we don’t want this game to be mature-rated, so there might be some of that, but it would not be on human characters. We’re still working that out.” Creatures and robots will definitely respond to the lightsabers’ cutting ability, and human enemies take accurate, visible damage on their armor based on the players’ attacks, but hyperviolent destruction with various bloodied body parts constantly flying through the air won’t be in the game. “That wouldn’t be true to Star Wars,” Asmussen says.
+
+6
+
+            The first Force power you will have in the game is Force Slow, which lets you slow down enemies and elements of the environment.
+
+7
+
+            You start the game with two health canisters, but you will be able to find more through the course of the game.
+
+8
+
+The handful of meeting rooms we saw and sat in while visiting Respawn were Star Wars-themed. We spent most of our day in Hoth, which was next to a meeting room called Cloud City. The whole office was covered with gigantic Star Wars murals.
+
+There was also a speeder bike (which was used for Star Wars Battlefront marketing) and a Darth Maul statue in the studios’ entrance.
+
+9
+
+Reacting to the scene where Cal starts piloting the AT-AT in the E3 demo, we asked if there would be other moments like that where Cal would control vehicles. "There are other moments of exotic gameplay that is one-off stuff, but… that’s all I am really comfortable saying right now," Asmussen says.
+
+10
+
+            According the the game's artists, Rogue One and Rebels are the main points of inspiration in terms of Fallen Order's general art and design.
+
+Senior hard surface artist, Tim Wallace : “[Rogue One] was a new film, and they had all this new tech at their disposal, but they really wanted it to feel like it’s not too far off from the original trilogy, so it’s kind of the perfect example for us to look at.”
+
+Senior concept artist Gabriel Yeganyan: “Rebels takes place in this time period as well, and shows the Empire is in its evolution from the Republic days to what it's becoming for the timespan of the originals. We looked at that to see what we can find from that moment in the evolution of designs, and took elements that were effective in the shows and bring them up to the same fidelity we see in Rogue One. That’s also been an approach. The show has a nice simplicity and clarity to them in the ways they have been stylized to reflect [original Star Wars artist Ralph] McQuarrie’s work, and that has also been helpful for us to analyze. ”
+
+11
+
+            The AT-AT's that appear in Fallen Order (at least the ones in the Kashyyyk level) are based predominantly off the AT-AT designs from the show Rebels. Because of the source design, internally Respawn calls them "RAT-ATs," short for Rebels AT-ATs.
+
+12
+
+            You can sheathe and unsheathe the lightsaber using left on the d-pad. It’s a cool-looking animation, and an unsheathed lightsaber can be used as a flashlight.
+
+13
+
+            BD-1’s lights will change colors and pulsate to alert you of certain things. “When he’s feeling good about things and he is happy he is green," Asmussen says. "It’s also an extra indicator for danger or if your health is low when it turns red."
+
+14
+
+            Respawn’s goal is to include no load screens and have everything be seamless, even moving planet to planet and cutscene-to-gameplay transitions.
+
+15
+
+            We’ve already confirmed that the ship, the Stinger Mantis, BD-1, some of Cal’s clothes, and the lightsaber can be all be customized. Here are some more details.
+
+Asmussen: “Part of the pre-order bonus will be parts for lightsabers. They’re completely aesthetic. They don’t change how they function, but it’s cool because lightsabers have three or four major components to them, and you can find several different pieces along the way and the combinations you can get are astronomical at that point. Ponchos are something we can also have as different aesthetic options.”
+
+Game Informer: Can you change the light saber colors? Can you make it red?
+
+“Yes, you will be able to change the color. Though there are colors LucasFilm won’t let us touch.”
+
+16
+
+            While in combat, you can still do well without locking on to enemies. It is optional. In our experience, though, we found a lot more success from locking on to enemies and focusing on them one at a time.
+
+17
+
+You will get some kind of reward for scanning stuff, beyond just additional information and world-building, but Respawn is still figuring out exactly what that will be.
+
+Asmussen: “BD can scan enemies and it will build up logs and databank entries. Pretty much all the information in there is just extra information for Star Wars fans, and for creating an encyclopedia within the game. Anything we’re introducing that’s new, or anything that’s old that people might have forgotten about? The databank will educate on that.”
+
+Do you get currency for scanning?
+
+“Potentially. We’re looking at ways to reward the player for getting more scans. We have it hooked up that it can operate as a currency, we just don’t know exactly what we’re going to tie it to in terms of rewards.”
+
+18
+
+The map will have information to help you know exactly when you’ve found everything, but it will still keep some secrets.
+
+Lead level designer Jeff Magers: “We’re definitely working on that. That is definitely something we’re looking at. It’s all still in development, obviously, but there is definitely comfort in knowing that you don’t have to re-explore an area when you’ve got several planets open to you at any given time and we want to make sure you don’t feel as a player, the urge to go to an area that you have fully cleared out or is a little dead to you right now. You saw the red gates turning green on your map? That’s one way to know that there is kind of a stop sign for that area. If you look at the full map you will be able to see that, that one area is still red. We’re exploring those options.”
+
+Will you be stuck tracking down that final 1% of secrets at the end of the game?
+
+“We’d rather have it say, you have 99% of this region. Go explore this subset of this map. Don’t explore the whole galaxy for that 1%, because 99% of the map would be dead then, and it’s going to be a dull experience. If we give the player a smaller area – and we don’t plan on telling them exactly where they need to go. We won't say, "The secret is right here!" – but if we shrink it down to kind of a smaller, digestible region to explore? That’s what we’re going for.”
+
+19
+
+            The combat team tried to avoid attacks that involve hitting more than one button, like X and Y simultaneously, for example.
+
+Senior combat designer Justin Perez: “We’ve tried as much as possible to make it so that when you press a button, you get a thing. We have the lightsaber throw, which is block and triangle [on PS4] – even that? We’ve tried to stay away from too much of that, like modifiers on buttons. It’s very much, this trigger is pull, this trigger is push, and that’s what you’re going to get.”
+
+20
+
+            Sorry, this video is not available
+
+The E3 demo is more linear than the rest of the game. Asmussen says that portion was chosen because it was a more cinematic section of the game that worked well for showing the game off on the E3 stage.
+
+Asmussen: “[The E3 demo] is definitely a heavier-scripted area that we’re playing through there that has more storytelling that is going on. It’s what I call gold-standard storytelling, but we’re always going to be telling story, even when it’s just Cal and BD off on their own, whether it’s a conversations between BD and Cal, or BD is scanning and finding out about the locale you’re at, or the type of environmental storytelling we’re doing to make the areas feel authentic.”
+
+“Sometimes when we go to a planet for the first time we try to do a little bit of a setup with it, and you get a custom entrance scene in the ship that tells you a little about the lore and what to be aware of and what the objective of this location is, but once things loosen up and you have more choice of where you want to go and when you want to go there, the storytelling takes a little bit of a backseat.”
+
+21
+
+            If you track down the enemy that killed you and return the favor, you will recover your lost XP, and get both a health boost and a boost to your Jedi power meter. It's in place to be used as a potential comeback mechanic and encourage you to approach the same combat encounters in new ways. If the big bad in one area killed you previously, you might want to focus on that enemy instead of the weaker ones flanking it, like you did on your first run.
+
+22
+
+            Enemies will say things during combat, but Cal doesn’t have combat barks. The player can initiate a call to BD-1 for a health cannister, but Cal won’t be quipping while fighting enemies.
+
+23
+
+            Asmussen knows whether or not the game will have an opening scroll and the, “A long time ago in a galaxy far, far away…” screen, but he wouldn’t tell us if they will be included or now.
+
+24
+
+Blocking is important, but if you’re more into dodging, you should still be able to find success.
+
+Perez: “We certainly give enemies attacks that require you to evade, so for the person that only wants to block, they will have to get into the evade pool. If you are completely evading and rolling around, you will be able to use it defensively and offensively by rolling into certain things if you can find windows where things are open after swings and recoveries. Where you normally have to parry to open an enemy up, you can find windows to roll in and attack.”
+
+            For a whole lot more on Star Wars Jedi: Fallen Order, you can head here to read the full cover story and click the banner below for all of our Fallen Order features from our month of coverage.
+
+      Products In This Article
+
+Star Wars Jedi: Fallen Order
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Stadia, PC
+
+Release Date:
+
+November 15, 2019 (PlayStation 4, Xbox One, Stadia, PC), June 11, 2021 (PlayStation 5, Xbox Series X/S)
+
+Purchase
+More Info
+
+Kyle Hilliard
+Magazine Content Director
+Kyle plays entirely too much Picross. He once wrote a whole book about The Legend of Zelda.
+
+Email
+Twitter
+

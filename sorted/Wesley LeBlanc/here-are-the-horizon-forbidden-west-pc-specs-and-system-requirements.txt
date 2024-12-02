@@ -1,0 +1,97 @@
+
+  Here Are The Horizon Forbidden West PC Specs And System Requirements
+
+
+
+
+
+
+            Horizon Forbidden West Complete Edition hits PC this month on March 21 and ahead of its release, developers Guerrilla Games and Nixxes, which is handling the PC port, have revealed the PC specifications and system requirements needed to run it. Perhaps unsurprisingly considering it's one of the PlayStation 5's prettiest games, you're going to need a lot of PC power to run Horizon Forbidden West at its best. 
+
+"If you prefer to tweak settings and visuals to your own liking, you'll find plenty of options in the launcher and in the game menus," a PlayStation Blog post reads. "Next to individual quality settings for textures, level of detail, shadows, water, terrain and more, you can use sliders to adjust the field of view and visual effects like motion blur and film grain. You'll also find toggles to adjust full screen effects like radial blur, lens flares, bloom, and vignette to taste." 
+
+Here Are The Horizon Forbidden West PC Specs And System Requirements
+
+Below, we'll list the minimum, recommended, high, and very high requirements alongside different processors, memory capacities, operating systems, and more needed to run the game. 
+
+Minimum
+
+Preset: Very Low
+AVG Performance: 720p @ 30 FPS
+Processor: Intel Core i3-8100 or AMD Ryzen 3 1300X
+Memory: 16GB Ram
+Graphics: Nvidia GeForce GTX 1750 4GB or AMD Radeon RX 5500XT 4GB
+Storage: 150GB SSD space
+OS: Windows 10 64-bit (version 1909 or higher)
+Recommended
+
+Preset: Medium
+AVG Performance: 1080p @ 60 FPS
+Processor: Intel Core i5-8600 or AMD Ryzen 5 3600
+Memory: 16GB Ram
+Graphics: Nvidia GeForce RTX 3060 or AMD Radeon RX 5700
+Storage: 150GB SSD Space
+OS: Windows 10 64-bit (version 1909 or higher)
+High
+
+Preset: High
+AVG Performance: 1440p @ 60 FPS/4K @ 30 FPS
+Processor: Intel Core i7-9700 or AMD Ryzen 7 3700X
+Memory: 16GB Ram
+Graphics: Nvidia GeForce RTX 3070 or AMD Radeon RX 6800
+Storage: 150GB SSD Space
+OS: Windows 10 64-bit (version 1909 or higher)
+Very High
+
+Preset: Very High
+AVG Performance: 4K @ 60 FPS
+Processor: Intel Core i7-11700 or AMD Ryzen 7 5700X
+Memory: 16GB Ram
+Graphics: Nvidia GeForce RTX 4080 or AMD Radeon RX 7900XT
+Storage: 150GB SSD
+OS: Windows 10 64-bit (version 1909 or higher)
+If you're picking up Horizon Forbidden West Complete Edition, here's a quick reminder of everything this edition includes, alongside the preorder rewards: 
+
+Horizond Forbidden West Complete Edition hits PC on March 21. 
+
+While waiting for its launch, read Game Informer's Horizon Forbidden West review and then read our review of its Burning Shores expansion. After that, read Game Informer's review of the PlayStation VR2 exclusive Horizion Call of the Mountain, which might soon be playable on PC now that Sony is looking into PC support for it. 
+
+Are you picking up Horizon Forbidden West Complete Edition on PC later this month? Let us know in the comments below!
+
+      Products In This Article
+
+Horizon Forbidden West
+
+Platform:
+
+PlayStation 5, PlayStation 4, PC
+
+Release Date:
+
+February 18, 2022 (PlayStation 5, PlayStation 4), March 21, 2024 (PC)
+
+Purchase
+More Info
+
+Horizon Forbidden West: Burning Shores
+
+Platform:
+
+PlayStation 5
+
+Release Date:
+
+April 19, 2023
+
+Purchase
+More Info
+
+    expand for more
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

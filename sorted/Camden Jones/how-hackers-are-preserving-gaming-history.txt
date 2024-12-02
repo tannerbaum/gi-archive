@@ -1,0 +1,124 @@
+
+  How Hackers Are Preserving Gaming History
+
+
+
+
+
+
+            On May 26, anonymous user “@__” sent an encrypted file with a limit of 20 downloads to the Pokémon Reverse Engineering Tools (PRET) Discord.
+
+“i heard you like protos,” @__ wrote.
+
+The file was something of a legend among the Pokémon reverse-engineering community: a demo version of Pokémon Gold and Silver, originally playable at the Nintendo Space World trade show in 1997. Since Gold and Silver didn’t release until two years after Space World 1997, this demo supposedly contained significant differences from the final game – including strange, unused Pokémon designs. Until @__’s Discord post, however, little tangible evidence of these differences actually existed outside of rumors and snippets of promotional art.
+
+“btw this is the proto I would have given a kidney for,” another user, Sanqui, added after exchanging a few messages with @__, “so thanks.”
+
+Driven by an obsession with preservation for preservation’s sake, reverse-engineering communities like PRET exist to pick apart old games in order to understand them. These hackers work to disassemble games and document their elements, hoping to gain knowledge of past programming methods. Some seek to reverse-engineer game code for modification or bug fixing, but the PRET members who rushed to disassemble the Space World demo simply wanted to uncover its long-lost secrets.
+
+Old Discoveries
+
+Team Spaceworld's Samuel Messner compiled this collection of the front, back, and shiny sprites for all the Generation II Pokémon in the Space World demo, complete with their English and transliterated Japanese names.Team Spaceworld's Samuel Messner compiled this collection of the front, back, and shiny sprites for all the Generation II Pokémon in the Space World demo, complete with their English and transliterated Japanese names.
+
+Sanqui was one of the 20 PRET users to secure a download of the demo.
+
+“I was like ‘Holy s---, this is the real thing,’” says Sanqui, who wishes to remain anonymous. “When I first saw it, I was thinking, ‘Yeah, this would take somebody like me maybe three months of sustained work to fake.’ ... And now I'm not even sure if I could make it.”
+
+The demo’s leak and subsequent deconstruction by the PRET community brought the work of video game reverse-engineering enthusiasts to the attention of gaming publications across the internet. Sanqui knew the unused Pokémon and other potential secrets within the demo would be significant to the gaming community. “This is major and going to hit gaming press so we need a little coordination,” he told the Discord channel. Still, Sanqui and the others who worked on the disassembly would likely have done so regardless of the potential impact.
+
+"It's sort of this interest in what makes it tick,” Sanqui says. “It's a window into the developer's mind. You can see what decisions they made, how they implemented the game, … what they perhaps intended to do, but never got around [to] it, or changed it, or removed it. It's not just reverse-engineering – it's just documentation of what's behind what you see on the screen."
+
+Within a few hours of the leak of the Pokémon Gold and Silver demo, Sanqui set up a separate Discord and asked anyone who secured a copy of the demo before it auto-deleted after 20 downloads to contact him. He formed Team Spaceworld.
+
+“I basically put together a team of the best Pokémon reverse-engineers, translators, prototype researchers that I know,” Sanqui says. “I knew that if I don't really do this – if I don't make the team, and put the people in one place, and sort of spearhead it – then it's gonna be a huge mess. ... It wouldn't have been organized at all.”
+
+Sanqui and Team Spaceworld wanted to control the demo’s release, keeping it a secret as they worked. The aim was to disassemble the demo in order to find and document all of the differences between it and the final game. In addition, the team wanted to produce a full English translation, fix bugs, and the remove barriers that kept player exploration restricted to the demo area in order to make the demo more accessible to players not savvy with tech or fluent in Japanese.
+
+That secrecy didn’t last long. The Wednesday after @__ leaked the demo to PRET, it found its way out into the wider internet. With the demo’s existence no longer a secret, Team Spaceworld decided to release the work it had done so far, even though it was far from complete.
+
+“In those four days, we did an amazing amount of work,” Sanqui says. “Everybody sort of got together and, especially since we were all around the world, we really worked around the clock. Like, you woke up in the morning, and there's eight hours of work done … a lot of new discoveries and knowledge."
+
+Since the members of Team Spaceworld had experience disassembling Pokémon games in the past, they were well prepared for the demo’s unexpected release. The code was similar enough to Pokémon Red and Blue’s and to the retail version of Pokémon Gold and Silver’s that the team was able to jump right in and extract what they knew people would want to see most.
+
+“We basically didn't start from zero,” says Samuel “obskyr” Messner, a disassembler, translator, and Team Spaceworld’s “third in command.” “We started from 'We know approximately how it's gonna look.' Then from that, it's basically 'First of all, get the thing everyone's interested in: the Pokémon. The sprites. The images.’”
+
+The team found 40 entirely original, unused Pokémon designs and 32 early designs for existing Pokémon, Messner says. These include oddities like three Neopets-esque early designs for the legendary beasts and what looks like an early design for Sharpedo with an anchor for a tail. Artist Rachel Briggs has drawn all the Generation II designs in the style of Ken Sugimori, illustrator of the original 151 Pokémon, which Team Spaceworld plans to release along with the translation patch.
+
+“Normally, the Pokémon community would go nuts over just a single early sprite,” Messner says. “Just a single, slight difference. Like, 'Oh, this was what they meant with this Pokémon originally, huh?' But now we have that times a hundred!”
+
+Beyond the new sprites, the team also found answers to questions it’d had since digging through the code of the final game.
+
+“We have found the same data in the final ROM, and we didn't previously know the purpose of it,” Sanqui says. “But we do now: It's just leftovers from Space World, which is something that also further validates the authenticity.”
+
+The demo’s world map is also wildly different from what players saw in the final game. Pokémon Gold and Silver’s Johto region is based on the Kansai region of Japan, but the demo’s Johto is based on the entirety of Japan.
+
+“There are snowy forests; there are palm tree-covered beaches,” Messner says. “There are so many things that were completely stripped out for the final version.”
+
+All of these differences, no matter how minor, are significant to Team Spaceworld and are the very reason Sanqui and Messner devote so much time to disassembling games.
+
+“Everything is history and deserves to be preserved,” Messner says. "There's so much to say about this demo. … It's a historical occasion. And we're all extremely happy it came out and that the world gets to see it.”
+
+The Pursuit Of Playability
+
+GalaXyHaXz reverse engineered Diablo's source code, allowing for the easy addition of features like a framerate display.
+
+GalaXyHaXz, another reverse engineer, recently completely reconstructed the source code of the original Diablo.
+
+“[B]eing unemployed, I was able to dedicate 12-14 hours a days working on the project,” says GalaXyHaXz, who also wishes to remain anonymous. “I started plugging in the numbers, jumping through the debugger, then finally! About 1,200 hours and four months later the disassembly would re-assemble a working version of the game.”
+
+After quitting a blue collar job a few years after graduating high school, GalaXyHaXz stumbled upon a Diablo forum and quickly befriended the others there. Some of them expressed interest in playing through the original Diablo together, but they had trouble getting the game to run right.
+
+GalaXyHaXz started looking into mods to fix the game’s problems. They couldn’t find any that worked as well as they wanted, so GalaXyHaXz decided to fix the issues on their own.
+
+“I quickly learned that everything was hardcoded and modding was extremely tedious,” GalaXyHaXz says. “So I thought ‘Why not try reversing the game?’”
+
+GalaXyHaXz began working to reverse-engineer the game in January. The goal was to reconstruct the game’s original code, bugs and all, in order to make it easier to mod and update. GalaXyHaXz called the project “Devilution.”
+
+“You know that nice car you just bought?” GalaXyHaXz says. “After years pass and it begins to need maintenance, what do you do? You take it to a mechanic, and they take it apart to find out what the problem is. The problem is that they might not always be familiar with older cars, or the manufacturer who made parts is long out of business. So what did I do? I just gave the manufacturer's blueprints of the car to the mechanic.”
+
+GalaXyHaXz’s reverse-engineered source code allows modders to make changes to the game more easily. Rather than working with only the hardcoded game files previously accessible to the public, modders can now directly edit the game’s source code, meaning these “mechanics” can make the old car usable again.
+
+“If people wanted to update the resolution, this involved changing the number of pixels drawn to the screen, which is affected by thousands of different pieces of code,” GalaXyHaXz explains. “This means it would be difficult/almost impossible to expand as it would require extensive ‘patching’ of the entire game basically. But with the source code we can safely … change these things with a mere one line of code.”
+
+GalaXyHaXz says the process of reverse engineering Diablo’s source code was slow at first, but they were able to speed things up once they discovered some symbolic information accidentally left on the Japanese PlayStation port of Diablo. This information contained “file names, functions, structures, variables, and more,” which allowed GalaXyHaXz to more easily decipher Diablo’s code.
+
+The end product was the fully preserved source code of a 1996 game, accessible online for everyone. Despite the fact that the game is no longer available for official purchase, accessing a playable version of Diablo with the mods and fixes made possible by GalaXyHaXz’s source code still requires owning a copy of the original PC game disk. “Devilution just replaces the game executable (i.e. the actual code/engine)” with modifiable code, GalaXyHaXz says, so players still need the game disk to access the graphics, music and sound effects in order to actually do anything with that engine. That said, GalaXyHaXz says the code could potentially allow players who only have access to non-PC devices to play the game.
+
+“It would be pretty easy to make a Linux/Mac version,” GalaXyHaXz says. “With slightly more effort, it also wouldn’t be hard to port to PlayStation, Nintendo Switch, etc. … There's already some people … talking about a Nintendo 3DS port.”
+
+GalaXyHaXz hopes their reverse-engineered code allows more people to experience Diablo as in its “gothic 640x480 glory.”
+
+“We already have modern re-implementations floating around but they don't exactly work like the original,” GalaXyHaXz says. “I wanted to see things down to the exact line numbers and CPU cycles. … Remakes don't always cut it, they fix everything and kill a lot of nostalgia; sometimes it's the mistake that sweetened the cake. Many people from the younger generation (including me) missed out playing Diablo in its heyday, and a few levels slapped into Diablo 3 isn't the same.”
+
+GalaXyHaXz is proud of the project’s significance, but they wouldn’t recommend others to do something like this.
+
+“I probably wouldn't do it again,” GalaXyHaXz says. “However, many said it couldn't be done, or that it would require a whole team. But I did it and it works, right?”
+
+In the FAQ section of Devilution’s GitHub page, GalaXyHaXz responds with the following to those wondering if GalaXyHaXz is interested in working with them on more reverse engineering:
+
+“Sorry, but no. This project is time consuming enough as it is, and it's just a hobby.”
+
+It may be just a hobby for GalaXyHaXz, but they still hope to use the things they’ve learned from Devilution.
+
+“I've used reverse-engineering as a bottom-up learning method for a long time and plan on using it down the road,” GalaXyHaXz says. “I want to use similar methods to help further our current understanding of physics and extend deep-space research.
+
+“Hopefully one day, we'll be playing Diablo a million light years away…”
+
+Digital Dig Sites
+
+GalaXyHaXz was also able to easily change Diablo's store inventory from text-based to image-based, like in Diablo II.
+
+It’ll likely be quite a while until humans are doing anything a million light years away, but the work of GalaXyHaXz and other reverse engineers makes it a little more likely that games like Diablo will still be around to be played.
+
+GalaXyHaXz was motivated to reverse engineer Diablo out of a desire to make the game playable again, but many reverse engineers enjoy the hobby purely for archival and historical reasons.
+
+But what does this actually get us? Messner says the knowledge gained from producing readable code is something reverse engineers can build upon.
+
+“Only with disassembly can we really know how games work – it's an unrivaled form of digital preservation,” Messner says. “Without disassembly, we'd never know how Super Mario 64's parallel universes work, [or] that Super Mario Bros. 3 has 17 unused levels. … Disassembly is often just the beginning, too. With it, you can create ROM hacks, figure out speedrun tricks, and find unused assets you never would've known about otherwise.”
+
+Whether it’s on a demo of a 20-year-old game or a neglected Blizzard RPG, reverse engineers do their work in the hopes that it will one day be relevant to someone – someone like them.
+
+"I like to call myself a digital archaeologist,” Sanqui says. “It feels like, in 100 years, maybe somebody interested will be digging through all this and will be thankful that people have saved it."
+
+For more on gaming's past, check out this brief history of unused Pokémon designs and Ben Reeves' 2015 gaming preservation feature.
+

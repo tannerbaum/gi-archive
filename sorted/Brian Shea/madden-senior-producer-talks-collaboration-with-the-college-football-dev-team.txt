@@ -1,0 +1,86 @@
+
+  Madden Senior Producer Talks Collaboration With The College Football Dev Team, Working On An Annualized Series
+
+
+
+
+
+
+            While out visiting EA Sports to get the lowdown on Madden NFL 24, I had the chance to speak with senior producer Mike Mahar. During our conversation, we veered onto the topic of EA Sports College Football, the revitalization of the long-running college-focused football franchise that ended with NCAA Football 14. In 2021, EA Sports announced the return of its college football franchise, but this time, leaving the NCAA name behind. In a somewhat humorous moment during the interview, when I mentioned "the return of the NCAA Football franchise," Mahar is quick to correct me that it's "College Football." 
+
+We also dove into what it's like to develop an annualized title, along with the decisions that come with that. You can read those portions of the conversation below.
+
+Game Informer: In developing an annualized sports franchise, the challenge is always that the sport doesn't evolve much from one year to the next, but you're expected to deliver something that's different enough from the prior year that people can justify dropping $60, or $70 in some cases. What does the team do to step up to that expectation while still staying true to the sport?
+
+Mike Mahar: I mean, that's the challenge, right? Our first goal is to intrinsically understand, based on the feedback for the player that comes in on day zero or even at any point, what matters most to them. What did they love about Madden 23, or in this case, Madden 24, and what did they ask for the most? What are they most interested in? And lean in on that. It's really our job to understand what that means to them. And of course, we are all game makers, and we have to add a little bit of magic... surprise and delight; there's some artistic flourish that's involved in that as well. But our goal is to understand what the players want the most and then try to deliver that. Ultimate, if we do that successfully, that basically delivers the value to players like "Oh I really like 24, but X, Y, and Z." When it comes to Madden 25, we'll give them X, Y, and Z, and 1, 2, and 3.
+
+To your point, it's football. It's NFL football, and so we look at that, but there are also emerging aspects of American football, specifically culture. Sevens. The best high school kids and college kids are now playing sevens. There are all kinds of semi-pro leagues that are small-sided. There's an emerging part of the football culture now that has a completely different aspect to it. I think that's another area ripe for us to indulge in and integrate into Madden in a way that's authentic, and we're starting that with Superstar Showdown.
+
+Do you ever look at other sports franchises, whether they be other EA Sports titles or outside of the publisher, to draw inspiration?
+
+Oh yeah, we're huge gamers. We were just having a heated argument the other night at dinner around Jedi: Survivor, Super Smash Bros., and Ghost of Tsushima. I don't know how we got three different genres involved, but we were talking about FIFA and MLB... mixing all these genres together. I mean, we play tons of games. And so, we're inspired by the games that we grew up playing, games we're playing now, and games that we want to play that don't exist yet. There is definitely inspiration taken from vastly different genres: RPG mechanics, narrative sequences, and ways to pay off progression. [...] I love it. We're all gamers. We play everything.
+
+With College Football coming back, is there any communication between the two dev teams?
+
+Absolutely. 100 percent. We're actually structured... we have a central football gameplay team making very unique experiences but also working on the core fundamentals. Without divulging too much, [there is] a great deal of cooperation and collaboration. And again, without divulging too much or over-promising, I think that the fact that we're working on College and it's going to be a title for us going forward is going to raise the water for both games. I think we're going to see a lift, and I mean, I can't be more excited for College to come back as well. I think the fact that we're working on that – it's a lot of work for us to all do at Tiburon, our studio in American football – but I think the fact that we're doing that is going to make the quality, the feature set, the innovation is just going to increase more for both products.
+
+I can imagine that would be beneficial having these two teams work individually but also together so you can see what each other is doing and then maybe put the work you separately arrive at in your game too.
+
+The College team we have right now... they're in a really good place. They're a super passionate group and a great team to collaborate with. And so, I'm super pumped to be working with them, and we're lucky to have that happening again.
+
+I'm sure you hear people reference some of the old features in the NCAA games, asking why they don't appear in Madden. Was there ever a fan-favorite feature that you had in those old NCAA games?
+
+Oh yeah! Absolutely! I helped work in design on some of the... I think in NCAA Basketball, we did an Eras mode. I remember I was designing Tyus Edney and a bunch of old-school colors like sepia tone or black and white depending on the era. We did that a long time ago, and we used to share that with our college football brothers and sisters, and we're like, "What do you think of this?" and then they would come up with Mascot mode where you're playing as the Stanford Tree or the Syracuse Orange or something. We used to go back and forth and try to challenge each other and inspire each other with the modes. But yeah, all the Road to Glory, the dorm room customization... there's all kinds of stuff. But it was a back and forth thing. I think you're going to find that it's gonna come back that we'll be able to share and grow a lot of the feature set together.
+
+In mentioning the Eras mode, is there a way for Madden to better leverage the history of the sport and the NFL?
+
+Yeah, without divulging too much and talking about [Madden] 24, for me, in the present, what I do know is players are editing draft classes and rosters, sharing those out, all that stuff in the present right now. So, that part of that is already occurring to some extent. And with some of the customization options that we talked about in terms of [relocation] and gear customization, everything, I think it's an area that we'll be expanding on. We're certainly expanding on it for 24, but we'll continue to do it in the future.
+
+I think MLB The Show 23 really demonstrated a great way to do it with its Negro Leagues Storylines mode, which gave a lot of people new exposure to this underserviced era of the game. I know sports franchises are always pushing forward, but do you see any ways you could look back and embrace the sport from a different angle?
+
+Yup. I totally agree. Madden's been around for a bit. [There are] some awesome things and some things we want to do better. How do you build on or change the foundation? For example, Madden 24 about the skeleton or common features like the created character capability, it makes things a lot easier for us when we have gear being able to go everywhere. We didn't really have that until this year. Now that we do, if we want to start building up different types of gear and different types of modes with different types of body types, all of a sudden, that becomes way easier. So if you want to do something that is a little more off the beaten path where players are skinny or fat or looking a little bit different, all that becomes easier to do, but it starts in 24 with things like the Sapien rig and with unified character letting us bring all the content where we want it to go. We have to build that in Madden 24, that foundation, in order for us to spring off into the other aspects of the game.
+
+From talking to many sports game developers, I know when a game is annualized, the first time you implement a new feature, it's rarely the final form you envisioned because you're operating on that annualized schedule. It's not until years later that major features feel fully realized. When you look at Madden 24, are there any features or modes you look at where you say, "This is where we foresaw this going," and you're kind of nearing the end of the roadmap?
+
+You know what? I don't think so. We look at [games we've played in other franchises or even in Madden's past] and think how can we augment any of the modes. Like, we have a massively multiplayer customizable Franchise mode this year. We've had it for multiple years, and we still see ample opportunity to blow that out and make it bigger, better, different, more social, more connected. And so while I think every one of our modes this year has gotten significant updates all based on what we've heard players really want from these modes, we still don't see a limit to where we can possibly go with these in the foreseeable future at all. We're inspired by what we see and what we want and what players want, as well. And even though they've made a huge leap this year in 24, there are still a lot of things we can do that are surprising to our players.
+
+How far out does your roadmap currently go?
+
+It varies. It's at least three to five years. Like anything, if you're just even doing a budget for your house, things change, platforms change, technology changes, user feedback changes, so we always have to remain flexible, but with the major through-threads through our game – the core gameplay, FieldSense, Franchise, Superstar League, Superstar Showdown, Ultimate Team – each one of those modes has a three-to-five year roadmap and we augment based on player feedback and based on trends and based on where we see new opportunity.
+
+At what point in your roadmap for this title and your roadmap for a hypothetical Madden NFL 25 do you say, "We're going to draw the line right here. This is where we're going to end primary development on 24 and start transitioning to 25"? How do you decide what is post-release updates for one game versus a feature for the following game?
+
+Well, first I would say that there is extensive, extensive, continued development and live-service updates every year with the title, and 24 will be no different. Whether it be roster updates, gear updates, authenticity updates, player faces, trades... Ultimate Team is a year-round 24/7 live service with so much content; it's astronomical the amount of content they put out. We're already there with almost year-round development on a single title, and I think that's to the benefit of the players for sure. There is a certain point where we know we start developing [the next title], and it's really based on how long does the thing take? If it takes more time to get something to quality, we kind of say "This is going to be the next product" versus "What can we deliver at quality against our players' expectations in the current live-service cycle?"
+
+Do you ever look at the folks who work on games like EA Sports UFC and think, "You guys have two or three years to make your game?"
+
+So before I left EA, the UFC team was the Fight Night Team. Fight Night Champion, that was the team I was on. So I look over at them, and they're all my peers and friends who I know and love dearly. And yes, I do exactly that. [Laughs] I go, "You guys are so lucky!" However, they know it's a double-edged sword like anything, right? They have longer, so expectations are higher. People want more, and rightfully so. I think it's completely reasonable that if more time elapses between iterations of a project, there's the expectation that there's a bigger jump in terms of whatever it is from a player's perspective, you measure quality and value and innovation.
+
+Based on that answer, I think I might know your answer to this last one. With the acknowledgment that this isn't an announcement of anything and we're purely going off your personal wishes if you could revitalize one dormant EA Sports franchise, whether that be NBA or NFL Street, NBA Live, Triple Play, SSX, or even NBA Jam and NFL Blitz, which do you pick?
+
+Oh man, they used to make Triple Play in Vancouver when I worked there. Because it's near and dear to my heart and I just thoroughly enjoyed making it and playing it – before I even got to work on the team, I played it when it was Knockout Kings – I'll probably say Fight Night. That's my personal preference, but I mean, you just listed like four or five or six different games. Every single one of those would be a great choice. I played every single one of those and I know our fans would probably appreciate us bringing any one of them back. [Laughs]
+
+For more on Madden NFL 24, head to our full preview here. Madden NFL 24 arrives on August 18.
+
+      Products In This Article
+
+Madden NFL 24
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC
+
+Release Date:
+
+August 18, 2023
+
+Purchase
+More Info
+
+Brian Shea
+Online Content Director
+Brian has written about video games for more than 15 years across multiple publications. Brian is also the host of All Things Nintendo, a weekly podcast focused on the news and games of Nintendo.
+
+Email
+Twitter
+

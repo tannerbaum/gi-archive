@@ -1,0 +1,91 @@
+
+  New Horizon Forbidden West Patch Adds VRR, ‘Balanced’ Graphics Mode, And More
+
+
+
+
+
+
+            Guerrilla Games and PlayStation have been steady at work, making Horizon Forbidden West an even better game than it was at launch with updates that add transmog, fix visual shimmering, improve graphics, and more. Months later, the team is still adding new things to the game, which is exactly what today’s Patch 1.17 does for the open-world RPG. 
+
+More specifically, Patch 1.17 brings three new things to the game: variable refresh rate (VRR) support, high refresh rate (HFR) support, and a new “Balanced” graphics mode that introduces a 40Hz refresh rate for displays that support it. 
+
+Sorry, this video is not available
+
+The game only supports VRR on monitors or TVs that feature VRR and if yours does, you can expect improved “dynamic resolution scaling on 60Hz.” Both VRR and HFR target a refresh rate between 60Hz and 120Hz, so if your display supports it, you’ll see more frames than ever while playing Horizon Forbidden West, making it an even smoother gameplay experience. 
+
+That’s not all Patch 1.17 does, though. Plenty of fixes and improvements accompany the new PlayStation 5 features discussed above.
+
+Here’s the full rundown of the Patch 1.17 notes (there may be spoilers below): 
+
+FIXES AND IMPROVEMENTS
+
+Performance and Stability
+
+Multiple crash fixes.
+
+Main Quests
+
+Fixed an issue in Main Quest “The Wings of the Ten” where the objective “Defeat Regalla” was not updating.
+Fixed an issue in Main Quest “The Wings of the Ten” where the “Sunwings” might be missing during the objective “Override a Sunwing”.
+Fixed an issue in Main Quest “All That Remains” where the cinematic with Tilda after the gallery might not start.
+Fixed an issue in Main Quest “The Broken Sky” where sometimes Dekka would be behind Hekarro’s throne during the objective “Talk to Dekka”.
+
+Side Quests
+
+Fixed an issue in Side Quest “Shadow in the West” where the objective “Kill Vezreh and His Machine” was not updating.
+Fixed an issue in Side Quest “The Gate Of The Vanquished” where the objective “Defeat Yarra/Drakka” was not updating.
+
+World Activities
+
+Fixed an issue in Errand “Nights of Lights” where collecting the “Gizmo” earlier would block progress.
+Fixed issues in Relic Ruin “The Stillsands” where the activity would be blocked.
+
+Machines
+
+Fixed an issue where the “Dreadwing” would remain cloaked when knocked down.
+Fixed an issue where “Apex Clawstrider Hearts” would be placed in “Valuables to Sell” in the inventory
+
+Weapons
+
+Fixed an issue where “Elemental Arrows” from fully upgraded bows would destroy canisters instead of detonating them.
+Fixed an issue where using “Elite Precision Arrows” with “Iriv’s Downfall” would not deal additional damage for enemies in “Brittle” state.
+
+UI/UX
+
+Updated text for selecting “Ultra Hard” difficulty to clarify that the setting cannot be changed.
+Removed exclamation point icon when all skills have been unlocked and skill points are available.
+
+Other
+
+Fixed an issue where “Desert Bird Wing” could not be looted from birds.
+Fixed an issue where trophy "All Machine Types Scanned" would not unlock, if scanning remaining machines on NG+
+Fixed an issue where changing the “Crouch/Slide” button to R1 would make it unusable.
+Multiple localization and subtitles fixes and improvements.
+
+While waiting for Patch 1.17 to download and install, read about the New Game+ update released last month, and then read Game Informer’s Horizon Forbidden West review to find out why it’s one of our favorite games of this year. Check out the latest details on Netflix’s Horizon TV show after that. 
+
+Have you beaten Horizon Forbidden West yet? Do you have the Platinum trophy? Let us know in the comments below!
+
+      Products In This Article
+
+Horizon Forbidden West
+
+Platform:
+
+PlayStation 5, PlayStation 4
+
+Release Date:
+
+February 18, 2022
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+

@@ -1,0 +1,43 @@
+
+  How Blizzard’s Canceled Adventure Game Shaped The Future Of Warcraft
+
+
+
+
+
+
+            Warcraft II: Tides of Darkness was one of the biggest PC releases of the mid-’90s. Blizzard’s second real-time strategy game won several awards and elevated Blizzard as a developer that cared about polish and game mechanics. However, even though fans had enthusiastically warred their way across the land of Azeroth, Blizzard’s fantasy world felt largely devoid of personality. Players loved Warcraft’s action-packed skirmishes, but its world was irrelevant.
+
+Then, in late 1996, Blizzard's sister company, Capitol Multimedia, suggested Blizzard adapt the Warcraft franchise into another genre. In the early ’90s, adventure games like Day of the Tentacle, The Secret of Monkey Island, and Myst ate up a significant portion of the PC market, and Blizzard felt developing an adventure game set within the world of Warcraft was a smart move. Blizzard prototyped what would become Warcraft Adventures: Lord of The Clans.
+
+“One of the things we worked with was establishing what the environments look like,” says Blizzard senior art director Samwise Didier. “In the RTS world, it’s all top-down and the environments have to be flat and simplistic, because gameplay comes first. You don’t want to step on the gameplay with the environment. But with Lord of the Clans we were able to take a third-person view for the first time. You could actually have a horizon, so you could create things that were super tall in the background and that wouldn’t mess with the characters or gameplay.”
+
+For Lord of the Clan’s animated sequences, Blizzard partnered with a subdivision of Capitol Multimedia called Animation Magic. Unfortunately, Animation Magic’s track record was very hit-or-miss. In addition to its work on the well-received educational game I.M. Meen, Animation Magic developed the much-maligned Link: The Faces of Evil and Zelda: The Wand of Gamelon games for Phillips’ failed CD-i interactive media player.
+
+As Animation Magic oversaw the production of what would eventually amount to more than 20 minutes of classic 2D-animation, Blizzard dreamed about what it would be like to live in Azeroth. The team eventually cooked up a new character named Thrall, a young orc who had been captured at birth and raised as a slave inside a human settlement. A corrupt human lord named Aedelas Blackmoore had educated Thrall, hoping to mold the orcling into a perfect warrior. Over the course of the game, players would follow Thrall as he escaped Blackmoore’s secret fortress, learned about the oppression of his people, and ultimately spearheaded a revolt.
+
+Blizzard was heavily inspired by LucasArts’ adventure games, and Lord of the Clan’s interface was even modeled after the visual interface in Full Throttle. Instead of using pre-written verbs, players could click on objects within the environment, which would bring up a graphical interface full of available actions. For example, if a player wanted to look at something, they would pull up the interface and click on an animated eyeball; if they wanted to pick up and object, they could click on Thrall’s hand.
+
+A rare look at an early box art concept for WarCraft Adventures: Lord of the Clans 
+
+Like most adventure games of the day, Lord of the Clans asked players to collect items and combine their tools with objects in the world. Early on, Thrall had to stuff a rock into a sock, which created a makeshift club that could then be used to smash a lock. Later, Thrall would use a mirror to redirect electric beams, jump on a shield to snowboard down a mountain, and unlock a Goblin zeppelin that could be used to travel to new areas.
+
+A press release from the era boasted the game would feature 60 different settings, more than 40,000 feature-film-quality animations, and a “compelling plot guaranteed to enthral [sic] fantasy fans.” Blizzard’s marketing also referred to Lord of the Clans as a dark comedy, but some of its jokes were a far cry from mature. For example, at one point, Thrall finds himself in a gnome workshop where an annoying chicken flaps around in front of him. At this, Thrall says, “It's taking all my willpower not to choke the chicken.”
+
+Blizzard worked on Warcraft Adventures: Lord of the Clans for over a year. The studio even recorded several hours of in-game dialogue, using high-level vocal talent such as Peter Cullen (Optimus Prime from Transformers), Clancy Brown (Highlander, Shawshank Redemption, Carnivale), and Tony Jay (Shere Khan from TaleSpin). However, by early 1998, it was clear the project wasn’t coming together. Days before the industry hoped to get a better look at Blizzard’s project during the 1998 E3 Expo in Atlanta, Blizzard canceled the project. Fans petitioned the company to release the game, but Blizzard had made its decision.
+
+“One of the reasons we pulled back on doing it was because I don’t think we really found the fun,” Didier says. “At that time, other games were coming out that were already doing what we were doing, and then some. By then, some of those high-end adventure games were coming out. By the time we would be set to come out, [Lord of the Clans] would have seemed dated. It would not have been the coolest one out there.”
+
+The Adventure Continued
+
+In 2016, an unfinished build of Warcraft Adventures: Lord of the Clans leaked online and gave fans a look at what they had missed 18 years earlier. Animation Magic outsourced Lord of the Clans’ cutscenes to an animation studio in South Korea, but the work was clearly subpar even by 1998 standards. Many also felt that Blizzard’s adventure game puzzles were fairly generic and uninspired. Turns out, fans who had petitioned for Lord of the Clans’ release hadn’t missed much.
+In fact, the same year that Blizzard canceled Lord of the Clans, LucasArts launched Grim Fandango, a big-budget 3D adventure game from legendary creator Tim Schafer. Grim Fandango was a critical darling but failed to sell, which only punctuated how far the adventure-game industry had fallen since its heyday less than a decade before. If a state-of-the-art adventure game from an experienced creator had failed to tap the market, then Blizzard’s experiment likely wouldn’t have fared much better.
+
+“It wasn’t a waste,” Didier says. “Much like with StarCraft: Ghost, we got something out of Lord of the Clan, because that’s where Thrall came from. We loved the character, so we said, ‘Okay, he’s going to be in Warcraft III, and we’ll just have to tell people what his story is.”
+
+Thrall wasn’t the only gift Lord of the Clans gave Blizzard. Characters like Grom Hellscream, Alexstrasza the Dragon Queen, and Deathwing were all concepted for the game, as were fictional locations like Dalaran and Alterac. Writer Chris Metzen passed his development notes over to Star Trek novelist Christie Golden, who wrote the Warcraft: Lord of the Clans novel, a reimagining of the adventure game that functioned as a prequel to Warcraft III. Finally, Blizzard’s exploration with adventure games gave the studio an opportunity to walk around the world of Azeroth — something the team would do in greater detail with World of Warcraft a few years later. Fans might not have received the adventure game they wanted, but, in the end, Lord of the Clans gave Warcraft fans a world.
+
+This article originally appeared in the April 2019 issue of Game Informer.
+
+For more Warcraft related content, click on our banner hub for Warcraft III: Reforged from a few months back.
+

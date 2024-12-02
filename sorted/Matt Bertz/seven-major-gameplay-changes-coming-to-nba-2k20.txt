@@ -1,0 +1,100 @@
+
+                                          NBA 2K20
+                  
+
+
+  Seven Major Gameplay Changes Coming To NBA 2K20
+
+
+
+
+Platform
+PlayStation 4, Xbox One, Switch, PC
+
+Publisher
+2K Sports
+
+Developer
+Visual Concepts
+
+Release
+September 6, 2019
+
+Rating
+Everyone 10+
+
+            Last week 2K Sports released the first gameplay trailer for NBA 2K20, which gave us a small glimpse of some of the new features coming to the hardwood. Today, we got our first official information on how Visual Concepts plans to evolve the on-court experience via an in-depth blog post that explains their intentions. Here are the biggest takeaways:
+
+2K Continues Its Quest For More Responsiveness
+
+NBA 2K18 introduced a new motion engine that was intended to honor stick skills and responsiveness over animation-driven gameplay. NBA 2K20 continues to operate under this creed, with more slight changes meant to make these world-class athletes look and feel as agile and dangerous as their real-world counterparts. 
+
+"Some of the advances that you’ll immediately see and feel when you pick up NBA 2K20 are better foot planting, momentum modeling, and motion style variation," says gameplay director Mike Wang. "Players have a much better sense of weight and plant their feet properly when cutting or exploding from a stand. And thanks to the addition of motion styles, you’ll quickly feel the difference between a lumbering big vs. a quick, explosive guard."
+
+Visual Concepts also spent time researching the sprint speeds of NBA players to more accurately recreate their burst, which led to a larger change around how sprinting affects stamina. "This year, you’ll notice a flashing yellow effect around the stamina bar when your energy level drops below a certain threshold," Wang says. "Once hit, you’ll quickly ramp down to a run speed and get tired much faster. So it’s important this year to pick and choose when you want to explode with your first step and not abuse the Sprint trigger all game long. "
+
+Ball Handlers Get Signature Dribbling Styles
+
+When you're taking the ball up the court in NBA 2K20, you're going to have a lot more options at your disposal than you did last year. Visual Concepts has developed 27 different dribbling styles, which affect how a player handles the ball. This should better separate the lightning-quick dribblers like De'Aaron Fox from players like DeMar DeRozan who operate with more wiggle. Using these new controls, you can change up your dribbling rhythm and pace just by moving the left analog stick.
+
+Here's the list of Signature Dribbling Styles, which you can also use in MyCareer: Base, Big, Power, Fundamental, Quick, Slasher, Shifty, James Harden, LeBron James, Magic Johnson, Kobe Bryant, Jerry West, Dennis Johnson, John Stockton, Allen Iverson, Tim Hardaway, Steve Nash, Jason Kidd, Isiah Thomas, Chris Paul, Damian Lillard, Russell Westbrook, Kyrie Irving, Kemba Walker, Stephen Curry, Paul George, and Kawhi Leonard.
+
+Other changes to the dribbling in NBA 2K20 include a new size-up mechanic that lets you chain standing dribble moves by flicking the right analog stick, expanded triple threat offense options, and new advanced moves like behind back wrap escapes, Luka Doncic’s fake stepback, stutter chop steps, new shammgods, and the fake sham hesi that Will Bynum pulled out at the Big Three.
+
+Stronger On-Ball Defense
+
+You can't buff ball handlers without giving defenders the tools to lock them down. NBA 2K20 introduces some new tools Visual Concepts dubs "Read and React Defense."
+
+"When guarding the ball, defensive players will see a small arrow under the ball handler, indicating where they’re leaning or attempting to go," Wang says. "The arrow shows up at different times based on the defender’s abilities, modeling the different reaction times between a poor defender and a great one. Anticipating the ball handler’s movement properly and cutting off their attack will yield much more predictable outcomes such as stonewalling the dribbler, forcing a pickup, or causing a fumble."
+
+A new icon under the ball handler indicates whether they are vulnerable to steals as well. If it's a solid circle, you automatically know it's a bad time to attempt to pick their pockets. However, if the icon changes to broken up lines, you will have a much higher likelihood of coming away with the ball when attempting a steal. Wang hopes this makes the on-ball defense feel more predictable and encourages players to pick their spots rather than spam the steal button.
+
+Reworked Layups Give Players More Control
+
+Layups have been a point of contention for 2K users for a while now, and Visual Concepts has some new ideas in 2K20 that should give them more agency over what happens once they leave the ground.
+
+"The new gather feature allows you to kick off an advanced gather on the floor, read the defense, and select how you want to finish that gather by re-deflecting the Pro Stick as you takeoff," Wang says. "For example, if you started a euro gather but saw the defense close in, you could re-deflect the Pro Stick down to branch to a floater finish to avoid contact. This also allowed us to introduce the concept of gather resolutions. Forcing a gather into heavy traffic or directly into a defender will lead to jam ups, but choosing the correct gathers in open spaces will let you knife right through traffic."
+
+Conversely, patrolling the paint gets bolstered in NBA 2K20 thanks to hundreds of new in-air collision animations, hard fouls, grab blocks, and swats. Post defenders also have an expanded post body-up system that Wang says should help them counteract spins, drives, dropsteps, and hopsteps.
+
+Off-Ball Juke Moves Return
+
+Since you spend so much time moving away from the ball in MyCareer and in the various competitive multiplayer modes, Visual Concepts wants to bolster this area in NBA 2K20. Users can play their defenders by using the Pro Stick to access fake first steps, spins, and stutters that can be chained together. 
+
+Defenders can counter these with more off-ball collisions. If you anticipate their move, you can cut it off. 
+
+The final big change to off-ball movement is a reworked screen system that should allow help defenders to better navigate around screeners and not get sucked into animations. 
+
+A.I. Goes To School
+
+Not everyone likes to call offensive plays; some prefer to rely on ball movement and isolation to create opportunities. These players should get a boost in NBA 2K20 thanks to the new dynamic freelance engine, which governs A.I. teammates to make more intelligent decisions off the ball. The new system centers around your best players, so it should generate looks you will be compelled to consider, particularly around off-ball screens and cuts that free your star players for open looks.
+
+If you prefer to control the strategy yourself, NBA 2K20 introduces new play action buttons that quickly activate situations like floppy, receive screen, isolation, etc. Users can save their eight favorite quick plays for easy access.
+
+Those who primarily play offline should notice a much different feel to the way the opponents shoot this year. "In past 2K’s, the A.I. has always used Real Player Percentage when it came down to determining makes and misses," Wang says. "This could often lead to robotic, predictable outcomes. This year, we’ve implemented the same shot timing mechanics for the A.I. that players use. The result is a much more human-like opponent and a more even playing field.
+
+Visual Concepts also spent time reworking the transition defense, which gives players new options for protecting the perimeter against three-point attempts on the break. 
+
+Reworked Badge & Takeover System
+
+Ratings matter, but the skill-centric badges is what players spend the most time grinding for in NBA 2K games. This year, Visual Concepts revamped the entire system. "We know how important they are to the game and to the community, so one of the first things we did this dev cycle was sit down (in many meetings) to re-imagine what badges we should have in the game and how they should work," Wang says. "We came away with an impressive list of around 80 badges that allow players to express different strengths in various areas of the game. We put in a ton of work to ensure that each badge was valuable and unique enough to cater to just about any imaginable playstyle. We even added Neighborhood-specific badges that enhance the physicality and flashy play of the Playground."
+
+Takeover returns in NBA 2K20 as well, but Wang says it should feel much more balanced across the board, no matter your position or play style. 
+
+NBA 2K20 releases on September 6 for PS4, Xbox One, Switch, and PC. You can play the demo starting August 21 on all platforms besides PC. To learn more about the game, read our preview of the changes coming to MyGM and MyLeague. 
+
+      Products In This Article
+
+NBA 2K20
+
+Platform:
+
+PlayStation 4, Xbox One, Switch, PC
+
+Release Date:
+
+September 6, 2019
+
+Purchase
+More Info
+

@@ -1,0 +1,62 @@
+
+  The Wildest Weapons In The Outer Worlds
+
+
+
+
+
+
+            The Outer Worlds isn’t exactly a serious or believable game, but it generally adheres to its own internal logic. Except when it comes to science weapons. These unique items are difficult to find, but thorough explorers who amass a collection of them are treated to a variety of outlandish and entertaining effects. During our time at Obsidian Entertainment, we talked to the team in detail about one of these weapons – the shrink ray – and about how the science weapons in general are implemented in The Outer Worlds.
+
+The Shrink Ray
+According to co-director Tim Cain, science weapons are designed to have “inexplicable effects that we thought would be funny, and we didn’t care in any way if they were realistic.” The shrink ray is a perfect example of this philosophy: It collapses the space between atoms, causing creatures hit by its continuous beam to grow smaller (and stay that way as long as the beam remains focused on them).
+
+The concept came from an unexpected place: huge monsters. Out in the wilderness of The Outer Worlds, you may encounter “mega-fauna,” which are especially large versions of specific creature types. Visually, these beasts are scaled up from their regular counterparts – but the technology that produces that effect goes in both directions.
+
+Take one normal-sized enemy, and then...a tinier, squeakier version of the foe.use the shrink ray! The result is...
+
+“The scaling can be used for a lot more than what the artists were using it for,” Cain says. “The artists didn’t want to use extreme values on it, because then things can’t move around, then can’t get through doors.” So what happens when you experiment with those extreme values in the form of a handheld gun? A shrink ray.
+
+In addition to making enemies very small, the shrink ray also increases the pitch of their sound effects and deals a small amount of damage. But the more practical benefit comes from reducing their damage threshold; in other words, enemies that are normally resistant to damage are much more susceptible to it the smaller they get.
+
+“It changes effectiveness based on your science skill,” says lead designer Charles Staples. “As you gain a higher science skill, it shrinks them more. It reduces their damage threshold more.”
+
+You might assume that an effect that powerful will not work on more powerful foes – that they might have immunities to shrink ray. That assumption is incorrect. If you want to use it on one of the formidable mega-fauna, go for it; you get what Cain refers to as a “mini-mega.” But what about the final boss? “Right now, yes,” Staples says. “But then it will just be a matter of making it balanced enough where it still feels like a meaningful end to the game for most players.”
+
+What Can Other Science Weapons Do?
+The team at Obsidian isn’t currently sharing any specific of science weapons beyond the shrink ray. However, we do know that one of the melee options is internally referred to as “the Ugly Stick,” so that hints at some interesting effects. We also know that the threshold for craziness is pretty high – you can’t just add some goofy ammo and make the cut. “We had one science weapon that didn’t go far enough, and now it’s a regular weapon in the game,” Cain says. “The Force Ultimatum. It was originally going to be a science weapon because it shot out bouncing fireballs. It’s fun! But it’s not crazy enough.”
+
+How Do You Get Them?
+Explore. Finish optional tasks. Go looking for trouble. Some science weapons are easier to find than others, but most of them aren’t handed to you through the course of the main campaign. “They’re a little rarer,” says lead designer Charles Staples. “They’re off the beaten path sometimes. But if you’re exploring, these are some pretty big rewards for finding those side quests.”
+
+Who Should Use Them?
+Normally, a weapon’s effectiveness is based on your character’s proficiency with its category – handguns, for example. But because science weapons draw from your science skill instead, traditionally combat-focused builds won’t get the most out them. ““These are designed by scientists, for scientists,” Cain says. “Because we were worried, like, ‘are they going to be able to hold their own in combat with science, engineering, and medical [skills]? What are they going to do in combat?’ Well, they find weapons like this.”
+
+Alternately, you can give science weapons to your companions. In that case, you have less control, because you're at the mercy of your allies' whims in terms when/how they actually use the weapons. But if your own science skill is abysmal, this might be a more efficient way to deploy them.  
+
+Where Do They Come From?
+Corporations are powerful in The Outer Worlds, and they like to put their logos and/or slogans on almost anything. “Everything else is branded, but the science weapons, not so much,” Staples says. “They’re sort of one-offs, and they’re not branded.” There’s a single exception to this. One weapon was made by a (currently unspecified) company as a prototype, but it proved too expensive to mass-produce – so it was hidden instead.
+
+Can You Improve Them?
+Yes. In addition to increasing your science skill to improve effects, you can also tinker with the science weapons (and other things). “Every item has a level, and if you tinker with it, you can make that level go up, and it makes its damage slightly increase,” Cain says. “So, scientists will almost certainly want to tinker with theirs and raise the level. These are just designed to make that sort of character super fun. So if you want to play Spaceman Spiff, we’ve got everything set up for you.”
+
+How Many Are There?
+Current plans include five science weapons – one for each category of weapon. Those categories are: light melee, heavy melee, handgun (this one is the shrink ray), long gun, and heavy gun. However, players may see more down the line. “If these turn out to be popular, we could easily put additional ones out as DLC, so instead of one of every category, maybe we’d have two or three,” Cain says. But at release, be on the lookout for those core five.
+
+For more on The Outer Worlds, click on the banner below for more exclusive features during our month of coverage.
+
+      Products In This Article
+
+The Outer Worlds
+
+Platform:
+
+PlayStation 4, Xbox One, Switch, PC
+
+Release Date:
+
+October 25, 2019 (PlayStation 4, Xbox One, PC), June 5, 2020 (Switch)
+
+Purchase
+More Info
+

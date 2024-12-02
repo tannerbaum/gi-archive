@@ -1,0 +1,173 @@
+
+  The NBA 2K20 Wishlist
+
+
+
+
+
+
+            NBA 2K series developer Visual Concepts doesn't usually reveal much about the next installment in the series until closer to the game's traditional fall launch, but with the Finals in full swing now's a great time to talk about the franchise's future.
+
+Resident NBA 2K expert Matt Bertz has compiled a comprehensive list of things that we hope NBA 2K20 adds and/or addresses. Have a suggestion of your own? Put it down below in the comments section.
+
+Gameplay
+
+GAMEPLAY
+
+Rework Interior Shooting
+The NBA 2K game generally plays well in most phases of the game, but if there's one area that could use some extra attention, it's directly under the rim. We could single out the wide variance in layup shot timing that leads to unpredictable misses, shots strangely being considered contested when big men patrolling the paint aren’t even facing up or guarding the driving player, the slow speed of some post scoring moves, the jittery double-jumpers who are rewarded with turnovers by landing on your player, or the ridiculously frustrating missed layups when your big man is standing all by himself. Given the number of occasional issues surrounding scoring in the paint, we’d like to see Visual Concepts give this area a comprehensive review to identify the underlying issues and fix them in one fell swoop. Maybe then everyone wouldn’t be so obsessed with raining green threes. (One can dream.) 
+
+Punish Weak Defenders
+In 2K18, it was easy to blow past defenders of all kinds. Visual Concepts corrected this with 2K19, and while I’m appreciative of the re-emphasis on stopping the drive, right now it seems anyone can man up an all-star and largely keep them in check. I believe that lockdown defenders are the true backbone of most championship teams, and having a roster of them should benefit you greatly. Conversely, weak defensive players should be way more exploitable, especially when you get them in mismatch situations. I’d love to see this better reflected in the gameplay. If you’re controlling a weaker defender and Damian Lillard is bringing the ball up, you should feel vulnerable. If the tables are turned and you have a big man guarding your all-world guard off a pick and roll switch, you should feel all-powerful.
+
+Tone Down Ankle Breaking
+If you’ve played some street games in MyPark, chances are you’ve come across the mad dribbler who strings crossover after crossover hoping to trigger the ankle breaker badge and leave your defender crippled. The worst part is you can be in the right position, anticipating the direction they are moving in, and still succumb to the move. I believe strongly in rewarding strong handling when the dribbler works defenders out of position, but that last point is key. If a player is keyed in on D, they should not be as susceptible to the move.
+
+Recreate All-Star A.I. Behaviors 
+Visual Concepts has a strong track record of adjusting its gameplay to reflect the trends of the modern NBA. Some of the star players need behavioral modifiers next year to keep with the times. Limitless range bombers like Steph Curry and Damian Lillard should punish slack defense by throwing up 30-footers when they find an opening. James Harden should be attacking defenders to draw contact and get to the foul line as he does in real life. 
+
+Give Us More Freedom Of Movement 
+NBA 2K19 did no favors for players moving off the ball or trying to stick with a ball handler through traffic. Too often, your defender gets sucked into unintended animations when coming close to other players. We’ve even seen our defender stop moving altogether when it looks like they have a clear path to the ball handler, their motion stopped by an invisible wall. We’d love to see these free spaces cleared up so it’s easier to track on defense.  
+
+Fix Sideline Animations
+This legacy issue still exists, likely because it’s hard for 2K to have precise animations that reflect sideline awareness for every different sized player. That said, it’s still too easy to step out of bounds when you’re near the sidelines and we’d love the developers to explore solutions. 
+
+MyCareer
+
+MYCAREER
+
+Cut Down The Grind
+Every year, the NBA 2K game gets review bombed to oblivion and crucified by microtransaction crusaders for its approach to virtual currency. I’ve never spent a dime on extra VC and still have fun with the game each year, but the game could be dramatically improved by eliminating some of the grind and getting players up to a respectable rating more quickly. Instead of starting us with a ridiculously low rating that wouldn’t even warrant an invite to the NBA combine, Visual Concepts should start us out with a respectable 70 overall and even let us pick a few badges to get us going. It feels like the devs purposely make the grind long to extend the Road to 99 drama well into the year, which in turn many argue incentivizes spending to cut that grind in half, but it’s time for a paradigm shift.
+
+Instead of making MyCareer about spending all your time with one player to make them the best they can be, it should instead adopt a more expedient leveling system that gets players up to the mid-80s quickly and then slows down the progression. That way, you encourage players to experiment with several positions and archetypes, giving them more flexibility when slotting into Pro-Am and Jordan Rec Center games. Visual Concepts could push this concept by encouraging players to create their own dream team of MyPlayers. 
+
+Lose The Linear Story And Embrace Player Choice
+The best MyCareer to date is still NBA 2K14, which offered a lot of freedom to act how you wanted to act. Visual Concepts should move away from scripted stories and go back to a branching, dynamic formula that lets us be the players we want to be. This could start by allowing users to choose their origin story. Are they a lottery prospect wrapping up their college career, an undrafted prospect hoping to rise through the D-league, or maybe a Euroleague star eager to make the jump to the NBA? From there, 2K should give the player the freedom to express themselves and write their own narrative, giving them the flexibility to become the next humble HOFer like Tim Duncan, villains like Draymond Green, goofballs like Nick Young, or cultural icons like MJ or LeBron. Allow players to interact more with their coaches, GMs, and teammates, which could create circumstances to burn bridges and create rivalries or bring organizations together. The water cooler moments that could come from this type of flexibility would dramatically surpass the groans we all shared over Frequency Vibrations, Orange Juice, and DJ. Let us engineer super teams in free agency, mentor younger players, lead players-only meetings, train in the offseason with other superstars to earn their badges, challenge our coach when we are good enough, etc. This could give the career mode a much longer tail and encourage replayability.  
+
+More Player Customization
+Though it’s called MyCareer, users still don’t control several elements of their created player, most notably their voice or the nickname used in the storyline. Recording multiple voiceovers for cutscenes may seem like an annoyance, but it would impart a lot more ownership of said players, even if there were just a few of them. By the same token, coming up with nicknames is not one of Visual Concepts’ strong suits. They should shelve the “Frequency Vibrations” and “Prez”  attempts, and instead enlist the community to come up with a handful of nicknames that could then be chosen by users. 
+
+Loosen Archetype Restrictions 
+My main gripe with the way you create players in NBA 2K is that you can’t create well-rounded superstars who are great at many things. Visual Concepts could work around this limitation by allowing players to select a real-life NBA player from league history they aspire their created player to be like, and use that as the benchmark for skill caps and available badges. If this seems like a bridge too far, 2K should at least add a third “late-bloomer” archetype specialization into the progression path so users can create more varied build types late into their player's development. 
+
+Adopt Cooperative MyCareer
+How cool would it be to play through MyCareer games with a real-life sidekick in your backcourt? Visual Concepts should open up the experience to allow people to invite their friends’ MyPlayers onto the squad. 
+
+Close The Gym
+I love the idea of working on badges in team drills, but the Gatorade Training Facility and all its horrible minigames are a bridge too far. Having to run through a few exercises to refill your turbo meter and raise your stat caps is an annoyance we could all live without. 
+
+Make Free Agency Matter
+I alluded to this earlier in our recommendation for fundamentally changing the direction of MyCareer, but even if 2K sticks with the current narrative focus they should let us experience what it’s really like to be a player entering free agency. Let us experience the wining and dining, behind-the-scenes planning with other players, tense negotiations, etc. 
+
+Take MyCareer Offline
+The archetypes and create-a-player limitations make sense for multiplayer modes like Pro-Am and MyPark, but they hamper the potential of MyCareer because we can never make a legendary superstar that rivals the skills of greats like Steph Curry or LeBron James. 2K should uncouple MyCareer from its online endeavors for good and let us upgrade these offline players to our hearts' content. Let us create and develop unbound superstars who redefine the game of basketball instead of locking us into pre-set destinations.
+
+Make Cribs Customizable
+Designing a court is cool, but why not allow us to also unlock our inner interior designer and customize our cribs as well like the good old ESPN NFL 2K5 days? Offering more ways to spend VC sounds like something Visual Concepts would be into, and gamers have demonstrated an affinity for any type of customization. Let us earn different abodes like in GTA V – we’re talking mansions. different types of condos. etc. that could be aspirational addresses in the neighborhood.
+
+Give Us Respecs
+Not everyone has the time or energy to level a bunch of alts in NBA 2K, and they are important when constructing a team for MyPark or Pro-Am games. Sometimes you have too many ball handlers and need someone to run forward instead of guard. If they aren’t going to lessen the grind and make it easier to upgrade new characters quickly, Visual Concepts should introduce a respec system for alts that would allow users to carry over unlocked badges (that are position appropriate) and the same number of attribute points they've already earned (or purchased) for their base character. They should allow cosmetics to transfer between different character builds freely as well. 
+
+MyGM/MyLeague
+
+MYGM/MYLEAGUE
+
+Tweak The Player Morale System
+I'm a big fan of the player morale system in the NBA 2K games, and wish more sports games would give their players agency during their careers. It makes for a more interesting locker room, and gives the players their own motivations for acting during free agency. That said, the system could still use some tweaks to make sure players are acting within their personalities. If there is a highly rated player starting in front of them, they should not be complaining about coming off the bench during the season, even if they are keeping tabs in their mind and thinking about finding a team that can offer them a starting role in free agency. 
+
+Surface Impactful News Better
+NBA 2K has a news center where you can read rumors, transaction information, and scouting updates, but it does a horrible job of cutting through the noise to deliver information relevant to your franchise. I would love to see 2K develop a smart news hub with a more readable presentation that surfaces information that matters. If you're trying to lure a major free agent against other teams, the headline story should be about the bidding war intensifying. This does two things – reflects on your in-game actions, and acts as a warning that maybe you should up your offer if you want to land your free agency target. Leading up to the draft, the news hub could surface the mock drafts buried in menus and discuss performances of the players you placed on your draft board. When you're on the hot seat due to failing to meet an owner's expectations, your tenuous situation should become news fodder for columnists. Getting reports like these in front of users' eyes would go a long way toward making MyGM feel more alive. 
+
+Get A New Press Corps
+Perhaps this is intentional, but you can't win with the press. Most of the time you're damned if you do and damned if you don't when fielding questions from reporters, even if you offer a perfectly reasonable answer. We would love to see this system revamped, so reporters more capably challenge your decision-making on free agent signings, busted draft picks, and trades. Given the number of decisions a GM has to make on a daily basis, the press has plenty of weapons for challenging their leadership rather than continually making you throw either coaches, trainers, or finance guys under the bus. Visual Concepts should focus on these things instead of the vague questions about how the team is doing. 
+
+Rebuild Free Agency 
+We say this for literally every sports game wish list, but no game to date has successfully captured the drama of the player movement period. Someone needs to take the mantle and redesign the experience from the ground up with an eye on making us feel the highs and lows of trying to lure coveted players to our franchise. While they’re at it, Visual Concepts should make players take more realistic contracts, and stop star players from going to ridiculous locations (or not signing with a team at all in the early stages of free agency).
+
+Tune CPU Team Building 
+If you pay attention to how rival teams are building their rosters in MyGM or MyLeague, you’re likely going to stumble upon a fair number of roster imbalances. I know we’ve entered an era of “positionless basketball” but you don’t see a lot of real NBA rosters embracing this movement by signing four centers, a handful of power forwards, and a dramatically undermanned backcourt.  
+
+Online
+
+ONLINE
+
+Keep Improving Server Stability
+The NBA 2K servers are a continual sore spot with fans year in and year out. Rather than surround players with other activity, the main focus should be on keeping the on-court action smooth and server response times for game mode loads fast. If they lose the other rec games going on in the background, perhaps that would help improve the problematic latency on jump shots and free throws, especially in the Jordan Rec Center. 
+
+Get Rid Of The "Got Next" Format In MyPark
+I understand where Visual Concepts is coming from with the idea of MyPark. Placing users in a virtual basketball mecca with several street courts and an indoor gym where they can show off their basketball fashion skills sounds great on paper, but in practice it breaks every rule about good matchmaking. You know what's better than making people stand in line to play the next game? Letting them jump immediately into a game via a standard lobby system. Our time is precious. Don't make us waste it by standing around a virtual court instead of playing.
+
+Rebuild MyLeague Online Servers
+Almost all the pieces are in place for MyLeague Online to be a phenomenal experience, but once again Visual Concepts is undone by its disastrous online infrastructure. The offseason schedule in particular needs to be addressed because their performance in NBA 2K19 is abysmal. We experienced players not moving to the next scheduled activity, not being able to get into the timed free agency periods, and picking their targeted prospect during the draft but then finding out the game actually gave that player to another team instead. 
+
+Let Us Access The Big Board During MyLeague Online Drafts!
+During our first MLO season, many of us put a painstaking amount of time into ranking players on our big board, only to realize once the draft started that we couldn’t access it. What gives? If you’re going to put them in the mode, you should really let us use them when it’s most appropriate. 
+
+Get Rid of Play Now Online Team Tiers
+Players should not be locked out of using teams in Play Now Online based on which bracket have reached in the game. Open up the field and let people play with whatever team they want to use. 
+
+Add A Play Now Online VIP System
+One of my favorite online features ever was the V.I.P. system introduced in NFL 2K5. Witht it, you could save lineup tweaks and strategies changes from the offline menus, which dramatically cut down the time spent in menus once you made it through matchmaking. I would love to see a similar system come to NBA 2K, as well as the player profiles that let you scout player tendencies. 
+
+MyTeam
+
+MYTEAM
+
+Remove Contracts And Injuries
+Most every other collectible card sports mode has eliminated contracts and injuries because they are widely unpopular features that bring nothing of value to the experience. It’s time MyTeam followed the same sensible path. 
+
+Improve Matchmaking
+By eliminating the salary cap and introducing MyTeam Unlimited, Visual Concepts gave players the ability to construct teams stacked with amazing cards. However, this had the unintended consequence of pairing users with weaker teams against teams with so many pink diamonds they could open their own jewelry store. If Visual Concepts keeps the Unlimited philosophy, NBA 2K20 should do a better job of pitting players against teams of similar ratings. 
+
+Redesign The Auction House
+The auction house in NBA 2K is due for a renovation. First off, 2K should eliminate the need to play through single-player challenges to unlock it. In addition, it would be nice if the filters added more sorting options and showed more cards on the screen at once. 
+
+General
+
+GENERAL
+
+Bring Back Historical Modes
+Two of my favorite NBA 2K features of all time are NBA 2K11's Jordan Challenge and NBA 2K12's NBA's Greatest mode, which let you relive some of basketball's greatest moments. The era-specific presentation packages were a delight, and the modes served as a great lesson to younger fans why players like Jordan, Magic, and Bird are so revered. I'd love to see a new historical mode that either profiles an all-time great or showcases more of the league's rich tapestry of great teams.
+
+WNBA Integration
+The 2K series has a neglected market just begging for inclusion. Rumors point to that changing. Adding the WNBA license and allowing people to play a MyCareer through the women's league could dramatically expand the audience and further the mainstream appeal of the franchise.
+
+The Ticker
+
+THE TICKER
+
+EA Sports Sort of Starts Talking FIFA 20
+
+NHL 19 Free For Xbox Gold Members
+
+Report: NHL 20 Team Getting Boost (Sports Gamers Online)
+
+Play The 2012 Women's World Cup Final In FIFA 19, Including New Teams
+
+Info On the Upcoming New Season Of Madden NFL Mobile
+
+NBA Live 19 Update Tweaks Ratings, Player Likenesses
+
+Assetto Corsa Competizione Is Now Out of Early Access
+
+TT Isle of Man Out Now On Switch
+
+Details On the Development of Football Game Legend Bowl
+
+            Matthew Kato explores the wide world of video game sports in his column, The Sports Desk. Check back every Monday for the latest analysis and news in the genre from this sports fanatic.
+
+      Products In This Article
+
+NBA 2K19
+
+Platform:
+
+PlayStation 4, Xbox One, Switch, PC
+
+Release Date:
+
+September 7, 2018
+
+Purchase
+More Info
+

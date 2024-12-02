@@ -1,0 +1,49 @@
+
+  Developer Tips For Getting Started In Pillars Of Eternity II: Deadfire
+
+
+
+
+
+
+Pillars of Eternity II: Deadfire just released today, and once again Obsidian has put together an impressive project. You can read our review for complete details. But if you haven’t played a lot of isometric pause-and-play RPGs before, you might be intimidated by the prospects of jumping in. 
+Obsidian does an excellent job onboarding new players simply through the natural course of play. But if you’d like some extra encouragement, or simply guidance from the experts, we reached out to game director Josh Sawyer, and asked him for his best suggestions on how to start off your seafaring journey with full sails.
+GI: If someone is trying pause-and-play isometric combat for the first time in Pillars II (or it's been a long time) what are some tips to finding success?
+Sawyer: First, if you do not already have this option set, go to Options > Auto-Pause and make sure Combat Start is checked. You may also want to check Low Health.
+Second, set the combat speed slider (at the center of the HUD, beneath the pause/fast buttons) to the slowest speed, all the way to the left.
+Third, you generally will want defensive characters in front (e.g. fighters, paladins) and casters behind them (e.g. priests, wizards). Anyone in the front line should be in medium or heavy armor. Anyone in the back can be in light or medium.
+The ship combat mini-game has a good bit of depth. What are things players should pay attention to in this system? What should a player prioritize in terms of upgrading their ship?
+It's very important to watch your facing and distance and compare them to the range of your cannons. Firing cannons from outside of their optimal range can have a big impact on accuracy.
+Keep crew in the Reserve in case critical crew members are injured during a fight. Also remember that the cook and navigator have no combat functions, so they can also be swapped out for injured crew members and can easily contribute to ship events (e.g. Loose Cargo).
+If you leave a ship combat with a crew member injured, remember to move them to the Reserve so the surgeon can heal them. The better your surgeon, the faster they will heal. Also note that reaching any port will automatically consume enough resources to repair the ship and heal any injured crew members.
+
+When considering weapons and armor for party members, what stats should a player pay close attention to?
+It's generally a good idea to make sure your alternate weapon sets have damage types that aren't covered by your main weapon set. For example, if Eder has a sabre (Slash) in his first set, put a Warhammer (Crush/Pierce) in his second set.
+Guns and crossbows can make surprisingly good "first shot" weapons for spellcasters, as they will not go into Recovery immediately after firing.
+Pay attention to the modal abilities that different weapon types have. There is usually a special purpose for each one. For instance, clubs can drastically lower a target's Will, making them susceptible to mind-affecting spells.
+Anyone in melee should be in medium or heavy armor. You may be tempted to put a melee rogue or monk in light armor, but it can be difficult to keep those characters alive unless they stay highly mobile.
+As players upgrade their respective party members, are there particular skills/spells/powers that you find especially valuable for finding success, especially if those abilities might be more powerful than they appear at first glance?
+There are some very powerful passive abilities in class trees that players may overlook. It may be tempting to buy all active abilities for your characters, but passive abilities can make a big impact.
+Drugs can be quite powerful. Investing in Alchemy extends their duration, which can help prevent an early crash effect.
+Giving every character at least a few points in Athletics can be valuable both for passing party skill checks as well as for the benefit to Second Wind.
+
+In the first 20 hours of the game, what is the most efficient way to be spending money? Buying new weapons and armor? Ship upgrades? Skill improvements from the occasional NPC who offers them? Is it more efficient to mostly save in the early hours, with the goal of getting a better ship or equipment later on?
+It's a good idea to keep your ship's crew full and the hold well-stocked with food and drink, especially if you're doing a lot of sea travel. Improving your ship's hull and sail strength can be the difference between life and death in ship to ship fights. Look for upgrades in Neketaka to improve them.
+Neketaka has merchants spread out all over the city. Several of them have very nice equippable items (boots, grimoires, cloaks, etc.) that can make a big difference.
+If you have money to spend on skill trainers, you can gain some nice minor bonuses, but I wouldn't prioritize them.
+Obviously, Pillars of Eternity II's missions/quests can be tackled in any order, but do you have a recommendation for new players about when is a good time to branch off if they want to explore side content? Is there a particular moment (or moments) in the game after which players should have a good grasp on the main story thread, and might feel good spreading their wings into other side content? Or would you recommend doing that from the very beginning?
+If players want to open up a lot of opportunities, head to the palace in Neketaka. After the scene there plays out, you have a clear next step in the story, but many side quest opportunities to pursue in the city.
+For those who can't wait, head in any direction you want as soon as you get on your ship. You never know what you might sail across.
+What other tips would you recommend for players who might be trying a Pillars of Eternity game (or isometric RPGs in general) for the first time?
+If you're having difficulty understanding the mechanics, we have a Tutorial section in the journal to fill in the blanks.
+And if, even after that, you're still having trouble, turn the difficulty down to Relaxed or Story. Story difficulty is made for people who would rather enjoy the story and exploration aspects of the game and we deliberately designed it to make it hard to die.
+
+            .
+
+Matt Miller
+Senior Previews Editor
+Matt Miller has been with Game Informer since 2004. He has a special interest in the evolution of game design, the tabletop hobby, and the crafting of interactive narrative. 
+
+Email
+Twitter
+

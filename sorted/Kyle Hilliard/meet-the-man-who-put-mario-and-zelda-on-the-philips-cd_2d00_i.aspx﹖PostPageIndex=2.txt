@@ -1,0 +1,87 @@
+
+  Meet The Man Who Put Mario And Zelda On The Philips CD-i
+
+
+
+
+
+
+            In 1991, a company known in the United States predominantly for manufacturing light bulbs entered the cutthroat world of video games with the Philips CD-i. The fledgling console was expected to compete directly with the Sega Genesis and Super Nintendo.
+
+This feature originally appeared in issue 281 of Game Informer magazine.
+
+The details of how it all came about are vague, but Nintendo partnered with Philips with the intent of making a CD-ROM add-on for the Super Nintendo after an initial partnership with Sony with the same goal went sour. Nintendo signed a contract with Philips that gave the Japanese company rights to all of the CD games that would release for the add-on in exchange for Philips obtaining the rights to use some of Nintendo’s characters, specifically those from the Mario and Zelda franchises. The add-on never came to be, but the contract led to Philips releasing one Mario game and three Zelda games on its CD-i console. It was one of the rare occasions where these characters appeared on a non-Nintendo system.
+
+The man behind many of these off-shoot titles is Stephen Radosh. His credits include being executive producer on Hotel Mario, executive in charge of production on both Link: The Faces of Evil and Zelda: The Wand of Gamelon, and production executive on the final Zelda CD-i game, Zelda’s Adventure. His strange and varied career in the game industry started with computer chess, moved to Atari’s early days, and carried through to Sega and Philips. We spoke with Radosh about what it was like to be one of the only developers to make Nintendo games without its oversight.
+
+From Atari To Donkey Kong
+
+From Atari To Donkey Kong
+Radosh got his first programming gig with a company that published textbooks, but was also interested in creating entertainment-based computer products. He worked with developers on a chess game called Sargon, but beelined to Atari when he saw an opening for a manager of design in New York. He worked on a number of Atari games and was present for the release of E.T. and the subsequent collapse.  “We got a couple of advanced copies and I put it in,” Radosh says. “Within 20 minutes I was calling the west coast going, ‘Um, I think you sent us a bad rom here. This game keeps crashing.’ They went, ‘No, no we sent you the release copy.’ I wrote a memo like, ‘You can’t release this!’”
+
+Radosh left Atari and landed at Sega after pushing off inferior offers from Coleco. Sega was pushing its Master System at the time, but Radosh mostly worked on arcade cabinets, including one that never released, but was Radosh’s first experience working on a Nintendo franchise. “Somehow Sega had gotten the rights to Donkey Kong,” Radosh says. He developed an arcade game, for Sega, where players controlled Donkey Kong as a parking attendant. “You were dodging cars that were pulling in and out of the lot, and you had to get X number of cars parked in spaces,” Radosh says.
+
+One of the reasons the game never released was because during Radosh’s employment with Sega, the company (owned by Paramount at the time) was sold back to Japan, leaving him to explore new job opportunities. He recognized that, despite never working in film or television, he could call himself Stephen Radosh from Paramount, and used that leverage to develop television game shows, but couldn’t stay away from video games for long.
+
+Catchphrase
+
+Catchphrase
+
+If you look up Stephen Radosh online, you’re far more likely to find his game show credits than his video game credits. Radosh developed the show Catchphrase. The show only aired in the United States for about a year, but found huge success in Europe and continues today. Radosh is credited as the creator of the show. “Yup,” says Radosh when discussing how his name appears in the show, “and I still get royalties. Even better.”
+
+The Unlikely Console Contender
+
+The Unlikely Console Contender
+Philips’ console aspirations had education in mind, but research showed it would also need entertainment software in order to be successful. Philips sought out Radosh, who was finishing up his stint in the world of TV game shows and was excited by the idea of returning to video games. Philips made him vice president of its entertainment division thanks to his history with Atari and Sega.
+
+The CD-i console design was more or less complete by the time Radosh joined, giving him little to no opportunity to help direct the vision of the system. “Unfortunately, those wheels had turned,” Radosh says. “I started looking into the hardware and the capabilities. I desperately tried right from the beginning to get them to upgrade the hardware.”
+
+The CD-i was a video game console that was somehow designed not to play video games. “It was a very static system. It was not designed to move pixels.” Despite his attempts, Radosh was stuck working with what they already had.
+
+“[Philips] thought they had something unique. What they didn’t realize was... they designed retroactively as opposed to progressively.” Radosh says. “Instead of looking at what the next generation of hardware should be, they used the current generation. Problem with that is, by the time you come out, you are the last generation, not the current."
+
+The Spoils Of A Legal Loophole
+
+The Spoils Of A Legal Loophole
+Radosh was not present for the negotiations with Nintendo that lead to Philips being able to use the Mario and Zelda properties. Allowing another company to make games with its beloved characters wasn’t a willing choice for Nintendo, but the company was ultimately cooperative. “They could have kept saying no, and then it would have never hit the market,” Radosh says. “I was expecting nothing but combative, and I got the exact opposite.”
+
+Radosh worked with Nintendo of America directly on the Zelda and Mario projects. “I still had to get approval from Nintendo on everything, because these were their trademark characters.” Radosh says, “And anyone who owns trademark characters will tell you, you don’t want Link having sex with Zelda on the ramparts of the castle.” He never spoke directly with the Japanese side or received feedback from Mario and Zelda’s creator, Shigeru Miyamoto, during development. He is confident, however, that he saw the games. “Yes. I’m pretty sure he would have – everything was still under their control ultimately,” Radosh says. “The meetings were short, amicable, fun, lot of laughs.”
+
+Hotel Mario is different than traditional Mario games predominantly thanks to its strange, voiced, animated cutscenes. You still view Mario from a 2D perspective, but he doesn’t jump his way through a traditional Mario level. Instead, it takes place on a single screen with a handful of platforms with doors on them. The goal of the game is to avoid the goombas and close all the doors. “They loved Hotel Mario – that was the first one that got the greenlight.” Radosh says. “Hotel Mario was my design, and it was a game that kills me; I still can’t win at my own game.”
+
+Creating the Zelda games followed a different process. “We went through a little bit of issues with the look of characters for Link and Zelda,” Radosh says. “Because animation at that time was really expensive here, we opted for this hand-drawn look for those games. We wound up with Russian animators. We’d send them vague storyboards and gameplay, and then [Russia] would say, ‘What do you think of this for a visual concept?’ We would go back and forth, and one or two of the original concepts were negated by Nintendo. Which was fine, because it wasn’t like, ‘Oh my god we gotta do this! This is perfect!’ I’ve learned never to be precious about anything. It’s just an idea. And sometimes other ideas are better than the original ideas.”
+
+Building A Mario And Zelda Bible
+
+Building A Mario And Zelda Bible
+
+Stephen Radosh took his producer role as a secondary creator for Zelda and Mario seriously. “I brought a little bit of my television to game design at Philips in that, if you’re hired as a writer, you’re handed a [knowledge] bible,” Radosh says. “This is this character, this is where she was born, this is what she likes, this is what she doesn’t like, this is what she does for amusement – that kind of thing. We created a lot of that for the Link and Zeldas, and even a little bit for Mario.” Radosh wanted as many questions as possible to be answered before development started, “By giving all the dos and don’ts – some of which were supplied by Nintendo, by the way – we never hit a dead end. We never asked a character to do something that a character couldn’t do or shouldn’t do, so the game would progress very smoothly. We had really nice development curves on all of those games.”
+
+The three Zelda games share a similar trajectory to Hotel Mario. The first two, Link: The Faces of Evil and Zelda: The Wand of Gamelon, are side-scrolling action games with famously bad animated cutscenes. You can use items and fill out your inventory, but it does not feature puzzles like a traditional Zelda game. Zelda’s Adventure, which released about a year after the first two games, used digitized actors and adopted an overhead perspective for gameplay making it look closer to a typical classic Nintendo Zelda game.
+
+Early critical reception for all the Philips guided Nintendo games was divisive, with both positive and negative reviews. Radosh says they sold well for the CD-i’s limited audience. “The internet was around, there were bulletin boards – we got really positive responses,” Radosh says, “The games sold really well, especially Hotel Mario. Hotel Mario sold for years after the company went out of business.”
+
+The subsequent years have not been kind to Hotel Mario or the Zelda titles. The games routinely appear on the bottom of lists counting down the best Mario and Zelda games, and receive prominent placement on lists recounting the worst games. “I’m assuming [Nintendo Japan] saw it,” Radosh says.  “They continued to be non-problematic, which to me was the indication that they really did like them. Because if they didn’t like them, they had every opportunity to throw up as many roadblocks along the way as they wanted to.”
+
+Ultimately, the CD-i is considered a commercial failure. It had some notable innovations, like a CD drive when other platforms were still only experimenting with the technology, and a few limited internet options. It also played disc-based movies before the PlayStation 2 fostered widespread DVD adoption. Its $700 price tag, which is still a high price for a gaming console almost 25 years later, a low adoption rate, and mostly subpar software line-up lead to its demise. Philips never experimented with the gaming industry again after its official discontinuation in 1998.
+
+The Lost Mario Game
+
+The Lost Mario Game
+
+The CD-i had three Zelda games, but only one Mario title. Had the console been more successful, that might have been a different story. Another Mario game was in development, but it didn’t get very far. “It never even got to the point of real playability, because when they decided to pull the [CD-i], they also killed all development,” Hotel Mario executive producer Stephen Radosh says. “We had a couple of direct ports of other games from other systems where it was just a matter of translating the code, and they were going to keep those going so there were at least a couple of products in the pipeline for the last year of its existence. But, it was at that point where I sat at my desk for about a month and it was like, ‘No, I can’t do this.’”
+
+The Square Dancing Playwright
+
+The Square Dancing Playwright
+Today, Radosh’s professional life is as eclectic as ever. He’s the president of his local square dance chapter, writes and directs theatre, runs a repair service for handicapped vehicles, collects royalties from his TV game shows, and keeps up with modern gaming. He is proud of the work he did on his CD-i Nintendo games, despite their reputation. “Every now and then I put them in as just kind of a kick. They’re dated, but every generation of gaming systems looks old,” Radosh says. “We took a system where people said ‘You can’t do that’ and at least made it do some of that."
+
+To see the Philips CD-i in action, head here for an episode of Replay where we played a handful of the console's games. You can also see Hotel Mario, Link: The Faces of Evil, and Zelda: The Wand of Gamelon in action by heading here.
+
+Kyle Hilliard
+Magazine Content Director
+Kyle plays entirely too much Picross. He once wrote a whole book about The Legend of Zelda.
+
+Email
+Twitter
+

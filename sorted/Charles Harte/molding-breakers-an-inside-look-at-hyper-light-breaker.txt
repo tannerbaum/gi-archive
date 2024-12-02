@@ -1,0 +1,76 @@
+
+  Molding Breakers: An Inside Look At Hyper Light Breaker
+
+
+
+
+
+
+            Early in my interview with Alx Preston, founder and creative director at Heart Machine, he corrects me on an important detail about Hyper Light Breaker. I’d spent the first few minutes referring to it as a sequel, but he clarifies, "It’s not Hyper Light Drifter 2. It’s a follow-up, meaning that it’s an installment in the franchise of Hyper Light. So it’s a different game, different protagonists, different gameplay." After getting the chance to learn more about the game and see it in action, this distinction makes a lot of sense. For me to call it a sequel was misleading, given how different the games look and play.
+
+Breaker is a 3D rogue-lite with a strong emphasis on multiplayer. Players explore an area called the Overgrowth, collect weapons and gear, and fight off monsters. And though the first Hyper Light game had a fixed protagonist with a focused narrative, Breaker allows players to create and customize their own warrior, known in this world as Breakers. It’s a completely new direction – one the team is clearly excited about.
+
+"I am the type of person creatively that likes to do new things," Preston says. "I think I would just get creatively exhausted if I was just making sequel after sequel, the same thing over and over with little differences." He expresses admiration for Image & Form, the developer behind the SteamWorld games, a series where each new entry is wildly different yet undeniably part of the same franchise. "I think for us it's no different," he says. "In that, we just think about what it means to exist in the world of Hyper Light."
+
+An Ambitious Approach
+
+Much of Hyper Light Breaker will seem immediately familiar, but Heart Machine has made great strides to make this experience feel fresh. After learning how to build 3D environments for Solar Ash, the team decided to take things a step further and create the Overgrowth: an open world that’s different every run.
+
+The design process was long and challenging, Preston says. "It's basically designing with math at the end of the day." Even though the world is procedurally generated, Heart Machine didn’t want it to feel that way. "We're still making sure that there are good sight lines, that the 3D world feels good to explore and Traverse. You still have hidden things, you still have objects and items and enemies distributed, and it feels like it is more handcrafted. And that was the intention. Can you get good level design in a procedural world? You can, you know, just it takes some effort."
+
+Initially, the Overgrowth was a series of separated biomes organized in a stage-by-stage format, but midway through the development process, the team realized it could merge the stages into one. Referred to as the "Pangea Shift," the new approach simultaneously opened up new opportunities in the level design process while also condensing some of the work that would have been required to make separate stages. Biomes still exist, but now they’re interconnected in ways that weren’t previously possible.
+
+"We've done something that I think is pretty special," Preston says. "It's one of its many unique elements. And it's probably its most unique element."
+
+Build A Breaker
+
+To explore this varied world, you’ll need to create and customize your Breaker. Preston clarifies that the character creation process isn't "in-depth”, but you'll be able to pick a species and style the character how you like. Players will also be able to customize a loadout that fits their specific tastes; the gun and sword from Drifter return, but they’re one part of a much wider array of weapons to pick and choose from. "It's still high energy, still fast-paced," Preston says. "But at the same time, we have a lot more detail and depth to our combat systems than we’ve ever had before."
+
+You’ll have to pick your weapons carefully since you’ll be battling your way through the Overgrowth. Your character’s main goal is to defeat big bosses known as Crowns, with the ultimate goal of defeating the Drift King, the main source of evil in this world. But to reach any of these powerful foes, you’ll have to find and activate beacons guarded by mini-bosses. While presumably not as dangerous as Crowns, Preston says the mini-bosses are "still mean, mean bosses, but they'll be more randomized throughout runs."
+
+Heart Machine gave us a look at one of these bosses in particular: The Last Master. As a dead, resurrected Breaker, they have a similar appearance to player characters but are notably taller, looming over any Breaker foolish enough to approach them.
+
+"[The Last Master is] a reflection of the player character in a lot of ways," Preston says. "And so, they'll be using a lot of the same weapons and loadouts as you, but more specific and tailored to their theme." Mini bosses also dash and jump just like player characters and can even climb walls to pursue if you try to get away. They’re designed to be as scary as they are deadly.
+
+ You're missing out!Normally this is where something cool would show.  Your browser is blocking third-party cookies so we're unable to display this content.Try clearing your browser cache, disabling ad blockers, and verifying that cookies are allowed: Verify cookie preferences
+
+"It's really interesting to kind of teach players through death," Preston says, ruminating on roguelikes for a moment. "With single-player affairs or other games that don't have this type of structure, you're typically trying to safeguard players from death a lot of the time, or at least provide them outs. But with roguelikes, you're kind of intentionally trying to kill the player in a lot of ways because you have that advantage of like, ‘Hey, runs are runs, and you're gonna go back and inevitably have more runs.'"
+
+That said, don’t expect Dark Souls-level difficulty from this game. "I don't think we're ever going to make an easy game, but I definitely wouldn't say that our games are going to be, like, super hardcore," Preston clarifies. "We want to have accessibility just as much as we want to have challenge."
+
+Creating A Community
+
+Preston and the team aren’t just excited to make a rogue-lite because of the combat. After years of working on Solar Ash mostly in secret, Heart Machine wants to spend more time developing "out in the open." With a rogue-lite structure, it's able to put the game into early access, connect more with the community, and polish its product accordingly. Preston also says that because of this genre, the game is "more accessible in a lot of ways and has a ton of replay value." It’s not a game you’ll play through once and put down; ideally, players can get together with a group of friends to play regularly.
+
+Throughout our conversation, I notice a particular focus on the idea of community and togetherness. I ask Preston if it’s a response to the isolation the world dealt with at the start of the pandemic, but he shakes his head and says, "Not at all. This is stuff I’ve been thinking about forever." He says it harkens back to Glitch City, a collective of indie developers he was a founding member of back in 2013. At Glitch City, developers don’t necessarily work on the same projects, but it provides a space for them to coexist while working on individual projects. It’s within this atmosphere that Hyper Light Drifter was created.
+
+Now, Preston says community is an important concept for Heart Machine as a whole going forward, and the multiplayer elements of Hyper Light Breaker are a clear example of that. The game is playable with co-op enabled from start to finish, with multiplayer elements built into the game’s foundation. When I ask about the game’s inspirations, I expected Preston to list off a bunch of indie roguelikes, but he also brings up more social games like Destiny 2 and Phantasy Star Online.
+
+"I think there’s a lot of sentiment lately that video games are like modern golf or other ways to just hang out," he says. "The hope is that there'll be some element here that feels like you're hanging out with friends.”
+
+Hyper Light Breaker enters Early Access next year. When I ask Preston what a successful launch looks like, he has a few answers. He wants to keep the lights on, to make enough to allow Heart Machine to keep making games: both standard responses. But in the end, he gives one more marker for success, one that also seems to describe the core ethos of the game.
+
+"I think [the game will be successful] if it resonates and makes an audience for itself that isn't just core Drifter fans. It brings in new people, and it starts to connect friends and strangers online to just have fun together," Preston concludes. "You know, if players have fun online together, that's a pretty good marker of success for this game."
+
+      Products In This Article
+
+Hyper Light Breaker
+
+Platform:
+
+PC
+
+Release Date:
+
+2024
+
+Purchase
+More Info
+
+Charles Harte
+Associate Editor
+An Associate Editor at Game Informer since 2022, Charles loves games with good stories and great soundtracks. He can most often be found playing Dungeons & Dragons or petting his cats.
+
+Email
+Twitter
+

@@ -1,0 +1,56 @@
+
+                                          The Elder Scrolls V: Skyrim
+                  
+
+
+  Inside Skyrim's Menu System Overhaul
+
+
+
+
+Platform
+Switch, PlayStation 3, Xbox 360, PC
+
+Publisher
+Bethesda Softworks
+
+Developer
+Bethesda Softworks
+
+Release
+November 11, 2011
+
+Rating
+Mature
+
+In a game as large as the open world RPG The Elder Scrolls V: Skyrim, comprehensive menus are a necessary evil. Though they may not be pretty, players need a way to easily manage items, review skills, and map out directions to their next dungeon crawls. The menus in Oblivion functioned, but they were essentially a cumbersome medieval equivalent to Excel documents. For the sequel, Bethesda is striving for a friendlier user interface. 
+Rather than refine the pre-existing menu system from Oblivion or Fallout 3, Bethesda decided to toss them on the scrap heap and develop a new, streamlined interface. Searching for inspiration, the team kept coming back to Apple, and for good reason. Over the last decade the company has revolutionized how consumers interact with software and hardware moreso than any other tech outfit.
+”You know in iTunes when you look at all your music you get to flip through it and look at the covers and it becomes tangible?” game director Todd Howard asks. “One of our goals was 'What if Apple made a fantasy game? How would this look?' It's very good at getting through lots of data quickly, which is always a struggle with our stuff.”
+Like in Oblivion, pressing the B or circle button opens up the menu system. Instead of returning you to the last page you visited as it did in Oblivion, Bethesda now presents you with a simple compass interface that offers four options. 
+Pressing right takes you to the inventory. The interface is a clean cascading menu system that separates items by type. Here players can browse through weapons, armor, and other items they gather during their travel. Instead of relegating players to looking at an item’s name and stat 
+attributes, each possession is a tangible three dimensional item with its own unique 
+qualities. Thousands of items are fully rendered, and players can zoom in on or rotate each one. You can even get an up close view of the flowers and roots you pick for alchemy. “It becomes an interesting time sink,” Howard says. “You can look at and explore every single thing you pick up.”
+Pressing left from the compass gives players access to the full list of magical items, complete with breakdowns of how the spells operate. As we mentioned in the Building Better Combat story, the world of Skyrim features over 85 spells, many of which can be used in a variety of ways. 
+In Oblivion, players could map eight items from their inventory onto the D-pad for easy access. Given the new two-handed approach to combat in Skyrim, Bethesda didn’t want to limit players to eight items. Instead, pressing up on the D-pad pauses the action and pulls up a favorites menu. Anything from your spell library or item inventory can be “bookmarked” to the favorites menu with the press of a button. How many items appear on that menu is up to each player. Bethesda isn’t placing a cap on the number of favorite items, so theoretically you could muck it up with every single item you own. Though you can choose how many items appear, you can’t determine the order; items and spells are listed alphabetically. 
+Pressing down in the compass menu pulls the camera perspective backward to reveal a huge topographical map of Skyrim. Here players can zoom around to explore the mountain peaks, valley streams, and snowy tundras that populate the northern lands. Pulling the camera as far away as possible gives you a great respect for the size of the game world. From the map view players can manage quest icons, plan their travel route, or access fast travel.
+Finally, pressing up in the compass menu turns your gaze up toward the heavens. In previous games, astrology played a large role in character creation. Though Skyrim abandons the class structure in favor of a "you are what you play" philosophy, Bethesda is preserving the player’s ties to star signs. 
+Three prominent nebulae dominate the Skyrim heavens – the thief, the warrior, and the mage. Each of these represents one of the three master skill sets. Each nebula houses six constellations, each of which represents a skill. As in Oblivion, every player starts out with the ability to use all 18 skills – any player can use a two-handed weapon, try alchemy, or cast a destruction spell (provided you find or purchase one). As you use these skills in Skyrim, they will level up and contribute to driving your character's overall level higher. 
+Every time players rank up their overall level, they can choose a supplemental perk ability for one of the 18 skills. For instance, if you fight most of your battles with a mace, you may want to choose the perk that allows you to ignore armor while using the weapon. As in Fallout 3, several of the perks have their own leveling system as well, allowing you to choose them multiple times. Once you choose a perk, it lights up the corresponding star in the constellation, making it visible when looking up to the heavens while interacting in the world. 
+“When you glance to the sky after you’ve played the game for a while, what you’re seeing in the sky is different than what somebody else is seeing based on the constellations,” Howard says.
+To read more about all of the great details we extracted from Bethesda during our cover trip, visit the Skyrim hub by clicking below.
+
+      Products In This Article
+
+The Elder Scrolls V: Skyrim
+
+Platform:
+
+Switch, PlayStation 3, Xbox 360, PC
+
+Release Date:
+
+November 11, 2011
+
+Purchase
+More Info
+

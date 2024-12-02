@@ -1,0 +1,216 @@
+
+  The NHL 20 Wishlist
+
+
+
+
+
+
+            All the teams in the NHL not still chasing the Stanley Cup have cast their eyes to next year, and so are we in this wishlist for NHL 20. 
+
+Bertz, Kim, and I have compiled a list of ideas for this year's game and beyond – not to mention the usual hope that the team at EA Canada clean up the normal bugs, shore up the game's collision detection, improve server performance, and all the normal things you'd expect.
+
+World of Chel
+
+WORLD OF CHEL
+
+Resolve Server And Matchmaking Issues
+After a relatively smooth beta, somehow everything broke at the launch of NHL 19, and the game never completely resolved its server and matchmaking issues. We hope EA dedicates the necessary resources to move beyond these lobby problems and gets players on the ice in a more orderly fashion.
+
+Integrate Career Mode
+Once a shining beacon of innovation in the career mode space, Be A Pro is outdated and ready for retirement. EA should replace it with a new career mode that integrates directly into World of Chel, allowing you to create one skater that you upgrade and use across career mode, Ones, and the EASHL. The reintroduction of skills into EASHL was a nice addition, but by adding a career mode EA could provide a more fully developed archetype system that allows you to choose your play style and level your player up to pre-defined caps that keep the gameplay balanced.
+
+Rebuild CPU A.I.
+Getting a full squad of players together for an EASHL match isn’t always easy, which means sometimes you have to skate with a scrub A.I. player like Saros or Kurtz. These guys are all over the place, rushing up the ice when there are already two forward players in 3v3, skating into their goalie, and making other questionable decisions. To make their behaviors more predictable, EA should give players a choice of A.I. archetypes to choose from. Sick of the defender thinking he’s an extra attacker? Swap him out for a stay-at-home defenseman who always takes the cautious approach. Overall, the A.I. could also do better in being aware of teammates' location and movements, and improve its body positioning to receive your passes.
+
+Remove Goalie Equipment Rewards For Non-Goalies
+Nothing is more dissatisfying than earning a hockey bag, only to see it spill with goaltending equipment when you Never. Play. Goalie. Hockey bags should reward items that align better with your play style. 
+
+Incorporate Practice Mode Into EASHL
+We’ve been asking for an EASHL practice mode for years, and it’s still a glaring omission. Giving clubs a way to experiment with skills and practice penalty kills, powerplays, and even penalty shots would be a major boon to the mode. EA could take it even one step further and allow teams to host scrimmages on their home ice. 
+
+Better, More Varied Loot 
+We enjoy the hockey bag concept in World of Chel, but we’d like to see a greater variety of gear, including more classic customization options and vintage gear. EA should study decades of hockey cards to find retro looks, the Minnesota State High School All Hockey Hair Team for new flow options, and classic movies like Slap Shot and Youngblood for fashion ideas. 
+
+Let Players Join Multiple Clubs
+This one’s pretty basic. Some of us have different crews that play together, and it would be nice to not have to leave one club to join the other and have your stats tracked across multiple teams.
+
+Leverage Outdoor Settings More
+Playing outdoor hockey is a blast, but it was dramatically underutilized in NHL 19. We’d love to see EA incorporate more EASHL tournaments in these spaces or even allow clubs to earn outdoor rinks for their home ice or for the previously requested practice mode.
+
+Let Us Play Ones Locally
+Ones is a perfect game for buddies to play on a couch...except they couldn’t. Seems like an easy fix for NHL 20. 
+
+Let Us Rename/Customize A.I. Teammates
+We’re all sick of seeing Saros, Kurtz, Lockhart, and King. It would be fun if EA let clubs rename their A.I. teammates to add some variety and better play with the creative themes players come up with. 
+
+Add Toxicity Tools
+We love EASHL, but it doesn’t take more than a handful of matches a night before you come across something racist. Worst of all, EA doesn’t have any official mechanism for reporting this garbage. Including toxicity tools so players could report jerks would be a step in the right direction. 
+
+Let Club Players Rejoin Matches
+As we referenced above, players sometimes have trouble matchmaking or get unceremoniously bumped in the middle of games. The worst part is there is no recourse to get them back into the game. EA should work on technology to let you rejoin your friends if this happens to you. 
+Franchise
+
+FRANCHISE MODE
+
+Rebuild (Or Explain) The Sim Engine
+Whether you have a fully stacked roster that should compete for Stanley Cups every year or a hodge-podge group of low-rated players, with the current sim engine it seems like you have an equal shot of making the playoffs. Teams go on inexplicable cold streaks, goal differentials go haywire, and some of the season stats make no sense at all. EA should clean up the mess under the hood so we get more realistic results.
+
+Rework Free Agency
+NHL free agency is an exciting bonanza where fans ravenously eat up any information about which teams players are considering, investigate player travel schedules, and hit F5 on free agency trackers to see which player could end up being their favorite franchise’s next savior. EA’s take on this is a boring spreadsheet with little to no drama. This problem isn’t unique to NHL – no sports franchise has bothered to figure it out – but we hope someone does soon because these experiences are dramatically underdeveloped.
+
+Rework Scouting Menus
+The scouting menus are a UI nightmare for a lot of players. We love how much extra information EA dropped into the scouting experience for us to agonize over, but we wish player profiles, scouting assignments, and regional player pools were presented more clearly.
+
+Surface Valuable Information More Frequently
+A lot goes on behind the scenes in NHL’s franchise mode, and we’d love to see some of this get surfaced so it feels more like you are receiving actionable reports about your organization. If a player is progressing faster than expected or not panning out, getting updates from your pro scouts would be helpful. If a scout finds a gem, having them bring it to your attention outside the scouting menu would make this discovery feel more exciting. NBA 2K surfaces these types of elements via a conversation system, and it adds greatly to the overall experience. NHL should do the same or at least use this info to create a more useful news hub.
+
+Fix Player Morale
+EA has toned down the volatility of player morale in recent years, but it’s still a bare-bones system that doesn’t have enough moving parts to make sense or work effectively. Player profiles should have a matrix of defined wants and needs. Maybe a player feels he’s a top-six forward who should be on the power play. If he’s buried on the fourth line and getting no special teams minutes that could cause friction if the team isn’t winning, which in turn makes it more likely he’ll demand a trade or leave via free agency to meet his desires. Most importantly, this information should be communicated to the user so it’s not a guessing game.
+
+Build A Trade Finder
+Finding a suitable trade partner in NHL can take a lot of research and failed trade talks. To cut down on this busy work, EA should develop this incredibly useful tool we use every year in NBA 2K. Developer EA Canada also needs to fix the trade value meter. Often when the meter is full (indicating that the proposed trade is giving value) your trading partner will still say otherwise.
+
+Make Trade Deadline Matter Again
+The trade deadline hasn’t felt dramatic for some time in NHL, while in reality it’s usually a frantic period where contenders stack their rosters for the playoffs, losing teams sell off assets, and players on expiring contracts who haven’t resigned with their current club become rentals. EA should tweak its trade logic to make sure these commonalities happen more often in the game. 
+
+Revamp The Injury System
+It’s often said that while soccer players fake injuries, hockey players hide them so they can stay on the ice. These rugged warriors are known for playing through cut faces, torn tendons, and broken bones. The NHL game should present you with risk-reward propositions for keeping your players on the ice when they have these sorts of injuries and even give certain iron men traits that allow them to play more effectively when injured. 
+
+Let Us Add And Relocate Teams After The First Season
+EA built a great expansion system that lets you add a 32nd team to the league, but you have to do it before you start your franchise. We’d love to be able to add this team (and more) whenever we want to spice things up down the road in a franchise mode. And while they’re at it, EA should remove the cap so we can take our franchises as far into the future as we want.
+
+Build A New Line Chemistry System
+The player chemistry in NHL is an unsolvable mystery. Some lines like Boston’s Marchand-Bergeron-Pastrnak trio always seem to thrive, but many teams are constantly moving players around in hopes of finding a spark. We’d love to see EA return to this idea and give line composition bonuses if a scoring line is scoring or a checking line is shutting down opponents. If a line is out there for a lot of goals or a top-six group isn’t upholding its end of the scoring bargain, the line should start accruing temporary penalties that forces coaches to mix up the lines. 
+
+Add Analytics Stats
+Read any modern analysis of an NHL player or team, and chances are it will mention at least some advanced stats like Corsi, Fenwick, Per 60 metrics, PDO, and Zone Start. None of these are featured in NHL’s franchise mode, and that’s a shame. It’s time to get with the times and bring these into the fold.  
+
+Track All Data
+How cool would it be to go a back through all of your draft classes to see who panned out, who busted, and who did better after you shipped them off in a trade? EA should track everything, including draft history, team transactions, player stats through every league, team records, league records, etc. 
+
+Bring Back Online Franchise Mode
+Franchise modes are tricky to execute online, which is why NHL and MLB have shelved theirs in recent years. Even NBA 2K, which includes a robust online experience with all the bells and whistles a fan could want, struggles with server issues. But just because it’s hard doesn’t mean it isn’t worthwhile. An honest attempt at getting OFM up and running would be a tremendous boon for hardcore hockey fans. 
+
+Add No-Movement/No-Trade Clauses For Contracts
+These types of clauses could be a double-edged sword for GMs, using them to sweeten the deal when signing veteran players, but also be potential albatrosses when trying to shift players on your roster that have them. They could also add some drama to the trade deadline when trying to unload a vet with one of the clauses, restricting the teams you can negotiate with depending on the player’s wishes.
+
+Better Offseason Management
+The offseason is a crucial time for your team, but the series doesn’t give you all the tools to organize your franchise through player resigning, the draft, and free agency. Options like editing lines and resigning your scouts happen at specific times, making it more difficult to plan your franchise the way you’d like. Similarly, there are times you can’t see every player on your NHL and minor league rosters and/or players unexpectedly appear on your teams. All these are roadblocks to effectively organizing your franchise that need to be removed.
+
+Positional Flexibility
+As a coach you often have to mix up your lines for chemistry, skill, or injury reasons, and it’s not unusual for a wing to shift to center or the opposite wing. It would be cool if players’ profiles included the other positions they can fill, as often times they might have experience at multiple positions.
+
+Introduce Roster Sharing
+Not everyone likes the way EA handles player ratings. If only there was a solution to this problem…EA should develop a roster-sharing tool and let users make their own tweaks for others to enjoy. Many would love the ability to pad out the prospect pools with the missing KHL and NCAA players as well. Easy fix!
+Gameplay
+
+GAMEPLAY
+
+Revamp Board Play
+Board play hasn't received a proper re-evaluation for some years now. No one wants to see the return of suction animations, and the programming can't be easy, but we'd love to see a new system that introduces more physicality. With puck possession at stake, we see players pin and elbow each other, use their size and strength to box out the opposition, and dig frantically for the puck with their sticks. Almost none of this happens in the video game. We'd also like to see A.I. teammates help more when you're pinned or there's a scrum in the corner. A dedicated teammate assist button like FIFA has would help in these situations as well as face-off tie-ups. In terms of overall physicality, we'd like to see more jostling in front of the goalie (including how it affects goalies at the top of their crease) and realistic garbage goals, including those that are poked through pads or trickle over the line.
+
+Offscreen Indicators For Defenders
+Nothing’s worse than when you’re in the offensive zone and you try and pass it back to the point, but your pass sails out of the zone because your defenders have gone off for a shift change and you didn’t know it. An indicator at the top of the screen telling you whether your defenders are in the zone or not would alleviate this.
+
+Fix Goalie Passing Once And For All
+Some goalies are better than others when it comes to stickhandling, but most of them have no problem gaining possession of the puck and dumping it to an area where a teammate can gain possession. This isn’t adequately represented in EA games at all; too often the goalie passes to a dangerous place on the ice. We’d like this to be better represented and even introduce a skill rating for goalies so some are better at handling the puck than others.
+
+Active Sticks For Goalies
+Good active stick work can be useful for goalies in breaking up potential cross-crease passes and players trying to walk out from behind the goal with the puck. Some goalies also use the poke check to good effect against breakaways. This is rarely represented in the NHL series.
+
+Push Player Differentiation
+We’ve been asking for wider skill gaps between players for so many years we’ve lost count at this point. EA has toyed with stretching ratings in the past, but hasn’t gone far enough. More to the point, there are multiple ways EA could improve this element of the game. Give stars unique animations like NBA 2K does. Create a skill and X-factor system like the one being implemented in Madden 20 to make all-stars stand out better. Anything is better than barely being able to tell the difference between a legit game breaker like Patrick Kane and a steady everyday grinder like Patrick Maroon.
+
+Reward Smart Hockey
+This is an esoteric request, but one we feel needs articulating. Too many times in NHL, especially when you play in the EASHL, you see cheese goals go in at a higher rate than well-executed hockey plays. We've all seen teams string great passes together that leads to a perfect scoring chance, only to see the goalie make a sprawling, once and a lifetime save. This is often followed up by an opposing player taking a shot from a low-percentage scoring area along the boards that somehow finds the back of the net. This is a multidimensional problem for EA to solve with many moving parts, but in general we can live with giving up goals from high-percentage areas or after we’ve been pinned in our end for a prolonged period of time. These efforts should be rewarded a much higher clip than cheese goals. 
+
+Cut Down On Laser Passes
+Too often a player pinned or tight along the boards can still execute a fast, tape-to-tape laser pass even though they can’t even see their teammate or they shouldn’t be able to move their stick in the first place.
+
+Fix Weird Puck Floating/Warping Out Of Zone
+Sometimes the puck almost seems to transport out of the zone when it careens along the boards, like it’s been shot out of a cannon or suddenly subject to some odd physics.
+
+More Varied Hits
+Contact is a big element of hockey, and the series needs to continue to depict more kinds of hits, not just those that have no effect and those that send players straight to the ice.
+
+Puck Pickups In Crowded Areas Need Work
+There are times when players are clustered around when it’s unclear why a certain player emerges with the puck. Similarly, players feel sluggish when you are trying to escape from a crowd with the puck out of your own zone.
+Presentation
+
+PRESENTATION
+
+More Player Likenesses
+The EA team either doesn’t have the access to players or budget for capturing a large number of player likenesses as we see in most other sports games, so perhaps a more hands-on approach is needed to get more players looking like their real-world counterparts. EA should take matters into its own hands by developing a more dynamic player creation engine and hiring an artist to study and recreate each NHL player. It’s better than some highly recognizable all-star players still having generic faces.
+
+New Commentary Team
+Apologies to Doc and Eddie, who are the best in the business when it comes to broadcasting, but in the game they sound rigid and inflexible. Getting recording time with high-profile announcers can be tough, so EA should go the Madden route and hire someone who can double or triple the amount of time in the booth to make a more dynamic broadcast experience.
+
+Add Authentic Coaches
+Another wish list item likely held up by tricky negotiations, we’d love to see figureheads like the Q Stache pacing behind the bench and firebrands like John Tortorella screaming their lungs out at refs and players alike. 
+Hockey Ultimate Team
+
+HOCKEY ULTIMATE TEAM
+
+Get Rid of Contracts
+Nobody likes these and other franchises like Madden have already done it.
+
+More Diverse Challenges
+The gauntlet of “Beat This Team Then Repeat” needs to be changed for offline solo players, and adding Solo Battles like Madden and FIFA have (letting you play against teams based on the lineups of real users) would be a start, not to mention influxes of weekly content based around what’s been happening in the real-life NHL, seasonal promos, etc. That NHL has only five silos of solo challenge content while Madden has over 20 is startling.
+
+Cut Down On Challenge Dead Time
+There are too many challenges with the “Win Game” criteria tacked on, meaning you may be riding out the challenge even if you’ve completed the other objectives and are dominating. Similarly, you should be able to quickly restart any challenge instead of having to quit, go back out to the menu, and reload the scenario. This also means being able to forfeit online HUT games that get out of hand.
+
+Help Auction House Hunters
+There should be a way to search by a player’s name as well as a way to sort the results to see which item has the cheapest buy now amount, is the newest, has the most contracts, etc. This way you don’t have to tab through numerous pages to find an item that fits what you’re looking for. A companion app would also be nice.
+
+Add Power Up Items
+EA Sports label mate Madden added Power Up Ultimate Team player items that let gamers level up a player via training points. Adding an item like this to HUT would be great in getting you more attached to individual players on your roster as well as giving you the chance at having a powerful player no matter where you are in the grind.
+
+Add Customization Like EASHL
+NHL 20 should take a page from its own World of Chel/EASHL and inject more customization options for gamers’ HUT teams, from equipment, to jerseys, to goal horns, and more.
+Other
+
+OTHER
+
+Integrate Historic and All-Franchise Teams
+EA has slowly introduced more hockey legends to NHL, and if this effort continues we’d love to see them build out full rosters with historic teams. This approach would greatly improve team diversity in online versus, because instead of just having a handful of stacked modern NHL teams constantly selected by players, we’d have a widening pool of great teams to choose from. If nailing down the full rosters for historic teams is a bridge too far, a great compromise would be making all-franchise teams for each club. 
+
+Make Switch/PC Versions
+The PC market has been neglected far too long, and we’re not sure what EA’s waiting for. Tap into that market and reap the rewards, however marginal. At the same time, EA’s work dumbing down the game for the masses with arcade-centric experiences like Threes and Pro Am make it even better for the more casual Switch audience. 
+
+Expand Online Versus Multiplayer
+Beating your opponent in 5v5 contests with NHL teams can be satisfying, but your reward is just a better rank and competitive rating. It would be nice if NHL 20 built out this mode more to deliver a better progression and reward system.
+The  Ticker
+
+THE TICKER
+
+Madden 20 Twitch Stream Covers Superstar/X-Factor Abilities
+
+EA Access Coming To PS4 In July
+
+NBA Live Adds Pigalle Gear & Roster Update
+
+Steep's Season 6 Starts With Monthly Live Activities
+
+Senator Proses Legislation Banning/Regulating Games With Loot Boxes Sold To Minors
+
+Cricket 19 Demo Offers Team & Player Creation
+
+            Matthew Kato explores the wide world of video game sports in his column, The Sports Desk. Check back every Monday for the latest analysis and news in the genre from this sports fanatic.
+
+      Products In This Article
+
+NHL 19
+
+Platform:
+
+PlayStation 4, Xbox One
+
+Release Date:
+
+September 14, 2018
+
+Purchase
+More Info
+

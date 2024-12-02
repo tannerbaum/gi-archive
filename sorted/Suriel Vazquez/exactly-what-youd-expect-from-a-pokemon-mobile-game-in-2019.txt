@@ -1,0 +1,57 @@
+
+                                          Pokémon Masters
+                  
+
+
+  Exactly What You’d Expect From A Pokémon Mobile Game In 2019
+
+
+
+
+Platform
+iOS, Android
+
+Publisher
+The Pokémon Company
+
+Developer
+DeNA
+
+Release
+August 29, 2019
+
+            As an offshoot/part-subsidiary of/separate entity from Nintendo, the Pokémon Company has been experimenting with mobile spinoffs of its mainline series for a while now, including Pokémon Go, Magikarp Jump, Pokémon Quest, and more. 
+
+Pokémon Masters, the company’s next attempt to capitalize on the Pokémon name through mobile, is a slightly different fantasy than we’re used to. Most Pokémon games have you capture, control, or take on the role of a critter; in Masters, the fantasy is squarely focused on the titular Masters, famous trainers from other games in the series. Rather than collect Pokémon, you’re essentially adding trainers to your team.
+
+Battles in Masters are three-on-three affairs, in which each trainer is essentially a stand-in for a particular Pokémon, called “sync pairs.” In my demo, I played as a combination of a custom character who had a Pikachu, Misty controlling a Starmee, and Brock using an Onyx. Each sync pair has a role assigned to it, nudging toward building particular types of teams depending on what you want to accomplish. These pairs also level up as you use them.
+
+Masters is split up into individual story, battle, and boss segments, which are all separate from each other and can be replayed. During story segments, I ran into other trainers like Sinnoh region champion Cynthia and Rose, one of the playable characters in Black and White 2, the latter of whom I was able to recruit (she uses a Snivy). All of these segments happen quickly and are about as frivolous as you'd expect, but it’s kind of fun to see to see trainers from different entries cross paths like this, even if their interactions were pretty shallow.
+
+One thing to point out here is that, in both story and battle segments alike, Masters didn’t run well. I wasn’t able to discern what kind of tablet it was running on, but it definitely chugged below 30 fps, which put a damper on the whole experience. Character and Pokémon models certainly look nice (I’d go as far as to say it’s the best-looking Pokémon on mobile), but the slowdown was hard to ignore. This close to release (Masters is out August 29), I can’t say I’m too hopeful performance will improve by launch.
+
+Sorry, this video is not available
+
+That’s a shame, because while basic, the combat in Masters seems alright. My demo was too short to really get to a point where it challenged me (it was more of an extended tutorial), going in expecting an entertaining timewaster (the kind that’s proliferated on phones) and not complex narratively engaging experience, I saw some interesting ideas here.
+
+If you’ve played Clash Royale or the recent Teppen, Masters’ combat will feel familiar. Using your trio of sync pairs in real time, you wait for a move meter to fill up so you can use your attacks. Each Pokémon I used had two or three attacks, each with different elements and which used one or two segments of meter. Each trainer also has a trainer ability (which also uses up your move gauge), which could include using potions or other items.
+
+The action is snappy, something you’d want in a game made to be played in short bursts. Before making your move, you can select one of your opponent’s Pokémon, which lets you match elements to exploit your opponent’s weaknesses. There’s also a special attack you can execute with all three of your sync pairs after pulling off a certain number of moves, though the battles I played didn’t last long enough for me to use it. The story segments ended up lasting longer than the battles I played; that will hopefully change as battles become more elaborate later on.
+
+I see the potential for something neat in Masters; with some more challenging encounters that require you to think on your feet about which attacks to throw at which target and when, it could be a decent way to make a commute disappear. But judging from the short demo I played, I’m not convinced that’s what I’ll get; most recent Pokémon games have skewed towards the easy side, so I don’t expect Masters to throw any major twists my way. I also didn’t get a chance to look at how the game plans to implement microtransactions, which look to replicate a "gacha" system similar Fire Emblem Heroes. And I definitely don’t think most phones will run it well enough for people to give it a shot, which could end up being a shame in its self.
+
+      Products In This Article
+
+Pokémon Masters
+
+Platform:
+
+iOS, Android
+
+Release Date:
+
+August 29, 2019
+
+Purchase
+More Info
+

@@ -1,0 +1,61 @@
+
+  What Mass Effect Legendary Edition Means For Current PC Mods And Their Role In The Remaster
+
+
+
+
+
+
+            The Mass Effect trilogy is iconic for its ability to make the player genuinely care about the squadmates, the story, and what happens after. The PC version offered a plethora of incredible mods expanding upon that universe for those looking for additional reasons to dive in for another playthrough, as well as other mods that were designed to give fans the happily ever after that they wanted. With the Mass Effect Legendary edition consolidating the trilogy — and its DLC — into one experience, what does that mean for the existing mods? More specifically, what does it mean for the bigger overhaul mods that were years in development?
+
+How modders and the community helped
+
+Before diving in, I would like to clarify the intent of this article. This is talking about the ease of using mods, not creating them. As mentioned further down in the article, the creation of them and new ones is still a bit of a grey area. A follow-up article from the creation-side of modding was always in the plan. This is for those looking to use some of their favorite mods going forward, not for mod creators. 
+
+We spoke with game director Mac Walters to talk about the effect that the modding community had on the game, both in terms of what to tweak for the remaster, and what players were looking forward to the most. 
+
+Before diving into how mods are impacted going forward with the remaster, Walters wanted to lay down some background information first to show how the process worked and how feedback played a part.
+
+"This was a big project," said Walters. "We scoured through fan feedback and modding feedback for additional input that we could add to what we already had itemized. What are all of the things that our fans would have either tried to fix themselves or would want to be added." 
+
+Given that this is a remaster and not a remake, some of that larger-scale feedback couldn't be implemented without changing the core of the game too much, but Walters did add that digging in deep with the modding community helped "really push the creative bounds a little bit further." 
+
+Character and environment director Kevin Meek took the conversation deeper, talking about the process of overpainting (which is where the remaster changes can be seen in the landscapes) and how the team wanted all involved to feel proud of their contributions. To understand the process means to understand how the modding community played a role, no matter how seemingly small: "In order to understand the conversation with modders, you have to understand the pipeline that we initially had to go through. So how we divided out the work largely, for the environment art passes, was to basically give our artists a sense of ownership over a level, especially with the paint overs seen in Mass Effect 1. We didn't want to just hand them a collection of assets like random crates and rocks or whatever and then tell them to just make them look pretty and then just mindlessly report back to me. I wanted them to feel like the level they were working on was their level." 
+
+He added, "Myself and Derek Watts, who was the original art director on the trilogy, would review each level and we would provide feedback to figure out where do things still need to go. Then the artists would do a second pass and eventually, the levels would reach where we wanted them to be. In order to do that, we had to basically 'timebox' it like 'How good can you make this level within a certain amount of time, within days or weeks?'" 
+
+The process would repeat over and over again until the textures were just right and any cohesion wanted was achieved. Meek added that doing this level of design was "kind of like a small brush" where even the smallest detail mattered. From a rock with the right lighting to water levels, even camera placement was vital when making sure the bigger picture came together. Where modders came into play with feedback, and community feedback in general, specifically mattered when looking at what changes are desired to make the experience more realistic without changing the feel of each location. 
+
+Seeing those small changes add up was very apparent when looking at Eden Prime. Not only did the team add in the little crate areas from the third game to make the location from 1 and 3 look more alike, but they also added in a variety of texture changes to the terrain and lighting to make the experience feel more immersive. This is where the special effects came into play, especially when dealing with the lighting surrounding the Reaper and when in combat. Meek talked about this process a little more, especially when looking at why certain environments were made in a certain way. He added, "When you look at any of our warzone photographs and reference images, they have this like yellowy haze. Like we took some inspiration from, most recently, Iraq and Afghanistan wars and oil fires and what does that sky look like and how can we translate that onto this planet." This was also a big reason why the additional backdrop and fire was added to the bridge in Noveria; those changes made the destruction there make more sense, more believable, but getting that feedback helped see what sort of changes were needed to make that happen. 
+
+When talking about mods specifically, Meek added "When looking for the more overlooked changes, we obviously looked at a lot of those mods that were pretty much doing the same thing as a remaster, especially with the popular texture mods. It's here that we sort of have this unfair advantage over modders. They are dealing with levels of compression, versus we get to start out with an uncompressed art source file. For us, we get to make those artistic choices while putting everything in context, and that's where we got to really start ramping up these passes for each level." 
+
+"For the most part, we've reached out to some people and have been talking to, ideally we've been trying to do is a) testing existing mods to see how things break or if they break and if they even do," added Walters. "At the very least, that process provided us our own insights. This helped us peel back the curtain a bit to see why something doesn't work the way it should and what can we do on our end to fix it."
+
+What does the remaster mean for modders now? 
+
+ You're missing out!Normally this is where something cool would show.  Your browser is blocking third-party cookies so we're unable to display this content.Try clearing your browser cache, disabling ad blockers, and verifying that cookies are allowed: Verify cookie preferences
+
+Modding the first game is pretty straight forward but modding 2 and 3 usually requires several programs to use simultaneously, especially so for the more complicated changes. Knowing how intricate some of the cosmetic and overhaul mods were, I asked whether they simplified the modding process at all or if it's still as complicated. 
+
+Regarding whether or not new mods will follow the process of the first game or the third in terms of a more streamlined implementation, Walters mentioned that he "imagines" that the modding process will be more in line with how it is for Mass Effect 3, which is arguably the most complicated. "One of the things you might find is that because we have harmonized things across all three games, it's a little easier to find the consistency. For that, the easier mods that are focused more on already-there content will be a little easier, not so much with how the directory structure is set up." 
+
+Regarding the bigger mods like the Mass Effect 3 Happy Ending mod, there isn't a clear answer at this time. Walters did confirm that the team spoke with a few key members of the bigger modding community to learn exactly how the remaster changes will impact mods already in existence and how BioWare can set up modders "for success" from this moment forward. The studio will have a more clearly defined answer closer to launch on May 11. 
+
+Want even more info on the upcoming remaster? Be sure to check out our Mass Effect Legendary hub here for more exclusives, with even more content on the way throughout the entire month, including how the elevator scenes are changing and why no Pinnacle Station DLC. 
+
+      Products In This Article
+
+Mass Effect Legendary Edition
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC
+
+Release Date:
+
+May 14, 2021
+
+Purchase
+More Info
+

@@ -1,0 +1,126 @@
+
+  How Halo: The Master Chief Collection Rebounded To Become A Fan-Favorite Compilation
+
+
+
+
+
+
+            When Halo: The Master Chief Collection was announced in 2014, fans were excited at the prospects of bringing forward the mainline Halo series to the brand new Xbox One with myriad enhancements and ways to engage with the multiplayer. Unfortunately, the launch of the compilation, which originally included Halo: Combat Evolved Anniversary, Halo 2 Anniversary, Halo 3, and Halo 4, featured several problems surrounding the multiplayer suite and The Master Chief Collection seemed like it was well on its way to being one of the cautionary stories of unfulfilled potential within the games industry.
+
+The disappointing launch, underwhelming feature set, and broken matchmaking could have been the way we look back on Halo: The Master Chief Collection in 2021, but developer 343 Industries wasn't satisfied with releasing an unsatisfactory product meant to celebrate Xbox's flagship franchise. We spoke with several key members of the Master Chief Collection team to learn how 343 Industries righted the ship and elevated the compilation to one of the industry's models for how to listen and act on player feedback.
+
+Before Launch 
+
+Wake Me When You Need Me
+
+In 2014, Halo: The Master Chief Collection was introduced as a way to not only celebrate the 10-year anniversary of the beloved Halo 2, but Master Chief's saga as a whole to that point. 343 Industries, which was founded to take over the Halo franchise from Bungie following Bungie's split from Microsoft in 2007, was currently working on Halo 5: Guardians, but a separate team within the studio began exploring ways to celebrate Halo 2's anniversary similar to how it did in 2011 with Halo: Combat Evolved Anniversary.
+
+The basic idea of Halo 2 Anniversary, which includes revamped visuals and audio, all-new cutscenes from renowned visual effects company Blur Studios, and terminals that connect the story to that of future games, expanded on what the team did with its inaugural project with Halo: Combat Evolved Anniversary. 343 even remade some fan-favorite maps from Halo 2's multiplayer from the ground up, giving players modern, high-fidelity versions. In addition to all those elements, 343 Industries wanted to reduce the friction players felt in Halo: Combat Evolved Anniversary when going between the classic campaign and the multiplayer, which was based on Halo: Reach's engine. 
+
+However, the team began looking into what it could do to further celebrate the launch of the Xbox One as well as Master Chief's story to that point. "The team got really excited about thinking through kind of a bigger project, which would encompass this larger story of all these games," design director Max Szlagor says. "Then it became a design challenge to think about if we look at a collection of Halo titles, how do we bring them together in a way that feels very seamless, making it easy to jump in and move between the titles, making sure the controls, the user interface, the networking, the ability to move between games was all as seamless as possible?"
+
+Halo: The Master Chief Collection's emphasis was not to deliver a completely faithful experience of how Halo: Combat Evolved through Halo 4 played at the time of their respective releases. Instead, 343 Industries looked into ways to improve the modern experience of playing these classic games. "We were trying to deliver the experience of these games as people remember them, which isn't necessarily one-to-one with what the game is," Szlagor says. "It was an evaluation of 'How do we rebuild this mode or this map?' What adjustments make sense in terms of the maps themselves because the maps received some changes: the weapons, the game modes, just a variety of different things in terms of how do we provide that extra value, extra options. Just more ways to really engage with that, fill out that sandbox, and make you feel good."
+
+The MCC developers examined things like user interface, matchmaking systems, and more to see what pieces the disparate games all had in common. The idea the team settled on was to have all the games connected, with matchmaking designed to allow players to bounce between the various titles in the compilation. Not only that, but Master Chief Collection unified control schemes, and added leaderboards to the campaign, as well as special features and achievements to give additional replay value to the campaigns many had already played through multiple times.
+
+Halo: Combat Evolved Anniversary and Halo 2 Anniversary were clearly the biggest leaps forward from the original versions, but Halo 3 and 4 also received boosts, with 60 frames-per-second performance and cleaned up user interfaces. While the two later games didn't receive the visual and feature upgrades of Halo: Combat Evolved Anniversary and Halo 2 Anniversary, Szlagor doesn't want to glance over how big of an undertaking the improvements of Halo 3 and 4 were. "It's a big deal for those games," he says. "They were really optimized for the hardware at the time these games were launched."
+
+As the compilation approached its November 11, 2014 launch, 343 Industries was feeling confident about what it had created. The team was excited for both new and old Halo players alike to get their hands on the game and get caught up on Master Chief's story prior to the impending 2015 release of Halo 5: Guardians. Unfortunately, the launch didn't go as expected, and The Master Chief Collection quickly became synonymous with disastrous game launches.
+
+Launch Reception
+
+Give The Covenant Back Their Bomb
+
+When Halo: The Master Chief Collection launched, it received strong critical praise across the board, receiving a 9.25 out of 10 from Game Informer and high praise from most other outlets given access prior to launch. Unfortunately, as the servers opened to the public and players tried to jump into the robust multiplayer package, the cracks surrounding the game's PVP suite presented themselves in obvious ways.
+
+Immediately, players complained about a wide range of issues largely centered on the game's online modes. These problems ranged from inaccurate in-game stats and uneven team compositions to players' ranks being reset at random and matchmaking just outright not working. On top of that, players couldn't join up with friends, in-game chat was spotty at best, and players were subjected to absurdly long load times. The campaigns were largely solid, but under the weight of the public trying to play the highly anticipated compilation, Halo: The Master Chief Collection's competitive multiplayer crumbled.
+
+As a result of the problems following the launch, 343 Industries and Xbox experienced backlash from both fans and critics. Halo: The Master Chief Collection gained long-lasting infamy for how poor its launch was. While players were shocked at the poor performance of the collection, 343 Industries seemed equally as surprised. "That was not the sentiment that we had expected," Szlagor says. "It was a learning experience for us in terms of a big project without the infrastructure to test online services at the scale that's needed for something as big as this."
+
+On launch day, both the developer and Xbox representatives recommended exiting and re-entering matchmaking if it didn't work within the first few minutes, but despite the studio's statement that it was "actively working on a fix" for the problem, widespread issues would plague the compilation for many months. The day after The Master Chief Collection launched, executive producer Dan Ayoub released an apology, calling the complaints "well deserved." Ayoub also told the community, "You deserve better," before laying out a plan of server-side fixes to try and improve the state of the game. 
+
+"A game as large as Halo: The Master Chief Collection has a massive surface area, and while we made every effort to have the best launch possible for our fans, issues surfaced with the launch and we're committed to improving this as fast as possible and get you all into matches," the November 12, 2014 statement from Ayoub read. "We're committed to improving things as fast as possible so you can have the Halo experience you've been waiting for."
+
+As the problems persisted nearly two weeks after launch, head of 343 Industries Bonnie Ross issued another apology, largely echoing Ayoub's sentiments that the community deserved better and that the team will work to make it right with the fan base. "I personally apologize for this on behalf of us all at 343 Industries," her statement on November 24, 2014 read. "Our team is working around the clock until these issues are resolved."
+
+The problems persisted beyond the launch window. In December 2014, 343 Industries and Microsoft made the call to delay the Windows-exclusive Halo: Spartan Strike in order to focus on fixing the game's matchmaking. Later that month, 343 Industries laid out a roadmap for how it planned to make it up to players. "That really was a good point for us to look at things like building the Halo Insider program and pivoting our communication to be more transparent," Szlagor says. "Having this greater dialogue and honesty with our community."
+
+With community faith at an all-time low, 343 Industries needed to regain player trust and work to make Halo: The Master Chief Collection not only the product the company originally envisioned, but improve upon every facet to create the compilation fans deserved.
+
+Expanding MCC
+
+I Think We're Just Getting Started
+
+At launch, Master Chief Collection featured 2011's Halo: Combat Evolved Anniversary, Halo 2 Anniversary, Halo 3, and Halo 4, complete with all the multiplayer maps and extra features. However, once the state of the game was apparent, 343 Industries began looking into ways to make it up to players. As 2014 winded down, 343 Industries released a blog post detailing the first steps of rectification. The company announced every Master Chief Collection player would receive a free month of Xbox Live Gold, an exclusive in-game nameplate, and an exclusive in-game avatar. Not only that, but 343 Industries added an extra remake of a Halo 2 map, plus the campaign of Halo 3: ODST to the Master Chief Collection at no additional cost. 
+
+In March 2015, 343 Industries released perhaps the most significant patch to date to Master Chief Collection's matchmaking and party systems. However, with the collection nearing six months since its launch, many players and critics began wondering if the project was beyond saving. The development team was not giving up, though, with both 343 Industries and Xbox doubling down that fixing the compilation remained a top priority.
+
+"Going into the launch, our internal processes and testing methodologies had told us that we had a game that was ready to launch," head of Xbox Phil Spencer told Game Informer at Game Developers Conference 2015. "Then, when it launched, we learned some things we didn't know going into the launch – which is something we need to get better at; you can't simulate the real-world environment inside of any sterile, fixed environment."
+
+To remedy this problem, the development team continued implementing deeper and more solid lines of communication with active and enthusiastic members of the community. "Reaching out to our communities is super important in engaging with them," lead producer Michael Fahrny says. "If we had one secret sauce to our success for MCC over the last few years, it's a group we have that we call Reclaimers. They're members of the community; think of them as ambassadors. We give them access to a lot of the ideas, builds, features, content – all that stuff that we're doing for MCC – and we get raw feedback from them. They help us gauge the temperature of where our readiness is and how the community is going to react to things."
+
+In the time since Master Chief Collection's launch, 343 Industries and the game development scene as a whole has become much more reliant on the gaming community to ensure it has remained in touch with the wants and needs of the most passionate fans. Community managers, developers who are embedded in the various communities, are now essential members of most game studios. To deepen that connection with its community, 343 implemented a flighting program, where the developers could interact with Halo Insiders to ensure the game is reaching certain goals.
+
+Among many checkpoints the team engages with through this flighting program, matchmaking time is one area where the developers check in to make sure the times are satisfactory and only take within 30 or 40 seconds. "Flighting is like a backbone to us," producer Sean Swidersky says. "We will flight everything we can if we have time to do so. It's an essential part of our development process."
+
+The studio worked tirelessly to improve the experience and ensure that The Master Chief Collection became the product fans wanted. After several patches and server-side updates, players began seeing marked improvements in the performance. The fixes to matchmaking and the overall multiplayer experience continued rolling out, and as the product stabilized in the year following launch, 343 Industries once again returned to focusing on content. The Halo 3: ODST campaign was released to The Master Chief Collection in 2015, and in 2019, Halo: Reach joined the compilation alongside seasonal content as a result of fan feedback. 
+
+"We're always thinking about what the collection includes and certainly that's a great question mark: What else can we add?" Szlagor says. "Initially, there's a good story to tell in terms of The Master Chief Collection with the Master Chief story. I think there was a question of, thematically, does it make sense to include [ODST and Reach]? Certainly from a fan perspective, all the Halos is better than not all the Halos. There was definitely some discussion around that and it was just a matter of what could we do in what time frame and what makes sense for the theme."
+
+Part of the reason new content and upgrades continue to join The Master Chief Collection is that the team is full of people who had an appreciation and love of the Halo franchise before their job was to work on it. In addition to longtime developers, 343 Industries includes people who worked on Halo mods or were active in the Halo esports scene. The result is a constant stream of passion projects from individual members of the development team, many of which make it into the living product of MCC.
+
+"We're constantly surprising ourselves with some of the ideas we come up with and then we sit down and talk about it and figure out if it makes sense to put it out to retail MCC," Fahrny says. "More often than not, we end up doing it because as Halo fans, we think it's going to be cool and then we start the whole process and go through flighting and everybody really loves it. We end up doing all these things. That's how the new Firefight options that came out with Season 8 came to fruition."
+
+Though Halo 5: Guardians will no longer be the flagship Halo title when Infinite launches in earnest on December 8, 343 says there are currently no plans to add it into the Master Chief Collection. While much of the MCC updates and seasonal content is coming to a close in the near future, 343 Industries has proven that sticking with a game, even one that launches in a bad state, can prove worth it.
+
+"The thing I'm proud of is how committed the team is to solving this problem – that commitment to delivering what our customers want is great," Spencer told Game Informer in that 2015 interview. "Now, anybody can throw a rock at me and say, 'Hey, we shouldn't have been in this situation in the first place.' And that's fair enough, but nobody's thrown up their arms and run away from it. The team has doubled down."
+
+End of the Road
+
+Finishing This Fight
+
+With The Master Chief Collection now one of the gold-standard redemption stories in the games industry, 343 Industries has continued supporting the compilation, even expanding to new platforms. In addition to receiving enhancements on Xbox Series X/S when those new systems launched in 2020, 343 Industries made the bold leap to PC.
+
+For the Master Chief Collection team, bringing the product to PC was an important step in the project's post-launch lifecycle, but before they committed to doing it, they wanted to make sure they could do it right. "For us as a studio, PC was never a first priority, but what does it mean to actually be a modern PC game? Can we even bring The Master Chief Collection – all the games in the collection – up to that standard?" Fahrny says. "We sat down and did a lot of evaluations of competitive products – good and bad things that competitors have done – and we built a plan around it, and then evaluated it. We said, 'We think we can do this and we think we can do a really good job at it. On top of that, let's go back and learn from these past mistakes."
+
+This time, 343 Industries was much more methodical about how it approached bringing the collection to this new platform, rolling the games out one by one rather than all at once. Over the course of a year (starting in December 2019 and ending in November 2020), PC players gained access to each of the six titles in the current version of Halo: The Master Chief Collection. The rolled-out approach allowed 343 Industries to learn its lessons one title at a time rather than all at once. Then, when it wanted to address a problem, it was more manageable and able to be implemented at launch for subsequent titles. For example, Reach's high refresh-rate interpolation didn't reach the standards the development studio hoped for, so it improved it within Reach, then made sure the five remaining games hit the mark the team desired.
+
+With the transparency the team acquired from its rough, early days launching the Xbox One version, as well as the preexisting lines of communication with the community, the PC version was a success. It showed just how much the team has changed its approach to ensuring a game is ready for launch and listening to the community to improve the title in the following years. The team even introduced cross-platform play in 2020 – a huge leap forward when you consider how many troubles the game initially had only executing single-platform multiplayer – and mod support to the PC version this past summer. To this day, Halo: The Master Chief Collection continues to receive updates across all platforms.
+
+343 doesn't plan on stopping support for Halo: The Master Chief Collection, but the eighth season, which started in October, is the final season of content for the long-running compilation. Going forward, in order to avoid providing seasonal updates for both Master Chief Collection and Infinite simultaneously, 343 will continue to deliver new features and fixes in MCC, but it will do so through smaller patches instead of large, season-sized updates.
+
+"At a high level, the MCC support is changing; it's not ending," senior producer Matt Hohl says. "We've still got mod tools to deliver. We've still got more games with [Custom Game Browser] to deliver. We're still viewing ourselves as the stewards of these classic games. [...] We're looking forward to the complementary relationship of Infinite and MCC next year."
+
+As 343 Industries turns its focus towards Halo Infinite, you can see that the lessons the studio learned from the early stumbles and later success of Halo: The Master Chief Collection paid dividends. In addition to listening to community feedback and delaying Infinite a full year (even if it meant missing the opportunity of being an Xbox Series X/S launch title), the studio held multiple technical tests during summer 2021. This gave players the ability to provide input into the direction of Infinite's free-to-play multiplayer.
+
+"The community along with the flighting program helped us, not only for MCC but helped us pave the way for the studio as you're seeing now with Infinite and their technical betas and flights," Fahrny says. "We've been leading the charge and feeding all that back into the wider studio teams so that we can continue this great process that really helped us succeed as well. It's been really good to see."
+
+During the Xbox 20th anniversary livestream on November 15, 2021, Xbox and 343 Industries announced a surprise soft-launch of the Halo Infinite multiplayer, giving all players immediate entry to a beta that provides access to the full suite in the lead up to launch on December 8. Players have already provided feedback on things like the slow progression of the multiplayer's Battle Pass, and members of 343 Industries have already been implementing changes. 
+
+Now, as the team moves forward into what appears to be a very promising new chapter, it carries with it the valuable, often-harsh lessons it learned following the troubling launch of Halo: The Master Chief Collection. In doing so, the team hopes that all subsequent launches will avoid the need to bounce back in the manner that its celebratory compilation had to. With developers now interacting with the community on such a collaborative level, it's clear that the lifecycle of The Master Chief Collection changed the course of 343 Industries for the better.
+
+To learn more about Halo Infinite, be sure to visit our coverage hub by clicking the banner below.
+
+      Products In This Article
+
+Halo: The Master Chief Collection
+
+Platform:
+
+Xbox One, PC
+
+Release Date:
+
+November 11, 2014 (Xbox One), December 3, 2019 (PC)
+
+Purchase
+More Info
+
+Brian Shea
+Online Content Director
+Brian has written about video games for more than 15 years across multiple publications. Brian is also the host of All Things Nintendo, a weekly podcast focused on the news and games of Nintendo.
+
+Email
+Twitter
+

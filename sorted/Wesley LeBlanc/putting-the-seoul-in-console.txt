@@ -1,0 +1,91 @@
+
+  Putting The Seoul In Console
+
+
+
+
+
+
+            Return to top
+
+With just four days in Seoul, South Korea, I filled my maps app with pins of restaurants, Buddhist temples, must-see attractions, scenic parks, market streets, and more to visit. I clocked around 10 miles of walking daily and think I saw as much of this massive city as possible with my allotted time. My journey from east to west, north to south of Seoul was only possible by the city’s expansive public transportation network of buses and trains. And while I listened to “Magnetic” by K-Pop group ILLIT more times than I’ll admit (when in Korea, right?) through headphones on these trains and buses, I spent much of my time observing how others spent time waiting for their stop.
+
+Perhaps unsurprisingly, everyone is glued to their phones, myself included. But unlike me, doom scrolling on X (formerly Twitter) before switching to Instagram before switching back to X, a lot of people were playing games I recognized, like League of Legends’ auto chess spin-off, Teamfight Tactics. But there we also plenty of other games I didn’t know, like Light of the Stars, Soul Strike, and more. While touring one of Nexon’s Seoul-based studios, Magnum Studio, I asked its head, Beomjun Lee, if mobile gaming is as popular as my public transportation travels had me believe. His answer was a quick yes. A study published by Statista Research Department in February concludes that, according to its 2022 survey, 63 percent of South Koreans play mobile games, with the market having an estimated worth of 14 trillion South Korean Won (or $10.2 billion) that year.
+
+Nexon, the company that invited me to its studio, has plenty of mobile hits, like FIFA Mobile and MapleStory M, and a good amount on PC, too. Based on how many PC cafes I saw in Seoul, I’d guess PC is the biggest gaming market in South Korea or close behind mobile. But its staple of console releases features just two so far: KartRider: Drift and last year’s The Finals. With its PC and mobile gaming on lock, Nexon is slowly aiming West, looking to break into global markets and focusing on console releases alongside its usual output to do so. And what better way to do that than with a free-to-play (easy entry), third-person (ripe for customization), looter-shooter (a genre popularized by the likes of Destiny and Warframe that continues to dominate a large mindshare of games)?
+
+Ambitions In Albion
+
+Ambitions In Albion
+
+The First Descendant is just that, and though I was weary of another free-to-play game, and another looter shooter at that, after an hour of hands-on time, I’m excited, antsy even, for its release this summer when I can play more.
+
+Revealed last August as part of Gamescom 2023, The First Descendant is in development at Nexon’s Magnum Studio with its sights set on a Summer 2024 release. I pushed for a more exact release date, but the team wasn’t ready to share; it’s clear it’s working hard to polish it up in these last few months, and for good reason, too – the team has lofty ambitions with The First Descendant.
+
+“The main feature of The First Descendant is the PvE co-op element,” Lee, who is also the lead producer of the game, tells me through a translator. “It’s an online shooter RPG, and we consider it the next generation of looter shooters.”
+
+That term caught me by surprise. It’s a bold statement, almost braggadocious, but after talking with Lee and creative director Minseok Joo and playing the game for an hour, I understand where the team is coming from. In my early hands-on impressions, the First Descendant feels like a mish-mash of other greats in the genre. Taken literally, it’s also a looter shooter made exclusively for the “next generation” of consoles as it’s coming to PlayStation 5 and Xbox Series X/S alongside PC, with crossplay and cross-progression, too.
+
+Going Hands-On
+
+Going Hands-On
+
+Dropped to an Earth-like sci-fi world where humanity is on its last leg in a city called Albion, my chosen character, Viessa, is searching for something called the Ironheart. She’s joined by an ally named Bunny (yes, her suit’s silhouette is that of a bunny). Immediately, weapons are crunchy and tactile. I sense every bullet in the controller and the on-screen recoil, and it feels great. It helps that the entire game, developed from the ground up in Unreal Engine 5, is gorgeous. I joke with Lee that I’m happy the team is making a console version of the game as The First Descendant will melt my PC, which is admittedly due for an upgrade. Seeing words like “frame generation,” “ray reconstruction,” and “ray tracing” in the options confirms my belief.
+
+The weapons aren’t anything special, though. In my play session, I encounter machine guns, submachine guns, shotguns, grenade launchers, and long-range snipers. They all feel great, but The First Descendant isn’t doing anything new here. Each character’s magical powers are what makes combat distinct. Viessa has access to ice, with a passive skill that creates spheres of ice around her body to damage and slow enemies that get too close, and four active skills that do area-of-effect damage, increase running speed and shield, and more. She can even place a snowstorm onto the playfield, damaging and immobilizing those caught within.
+
+Setting the stage
+
+One hundred years ago, the Vulgus crossed over the dimension, destroying life as humans knew it. The alien Colossi arrived, too, bringing even more destruction. The surviving humans gathered in Albion to restore humanity. Over time, they worked with Vulgus Magisters and evolved from swords and shields to guns and magic, thanks to special genes that house magical Arche unlocked within humans. Those humans whose Arche was awakened became the Descendants, Albion’s chosen protectors. Things are on the up. That is, until Karel, the new Vulgus leader, invades in search of the Ironheart, which is also what the Descendants are after.
+
+The Ironheart can close the dimension that Karel, his Vulgus army, and the Colossi used to reach Albion in the first place, and it’s up to players to find it.
+Her abilities are wildly different from Valby, the water-based character I’d play as later. Valby consumes less mana when standing in water and has moves to create puddles, making for a rewarding ability loop. She can even liquify the area around her, allowing her to move through enemies with increased defense and speed. Viessa’s moves are more straightforward, but Valby’s is more rewarding as part of a co-op experience, even if it takes longer to get my sea legs.
+
+As I progress through the prologue, I encounter Karel, The First Descendant’s big bad. He immediately, seemingly, kills Bunny, and it’s clear he’s not mincing words. He will do whatever he must to obtain the Ironheart.
+
+Unfortunately for Viessa, at the ready to avenge Bunny, Karel dips, leaving a Gravewalker tank boss behind. This boss fight (and the Stunning Beauty boss I’ll take on later while playing as Valby alongside a developer from Magnum Studio) is the highlight of my time with The First Descendant. Each boss has its own set of moves and mechanics to follow, including checks that require more strategic work, but how I, the player, fight them most intrigues me.
+
+The First Descendant is fast. The characters move swiftly, and abilities, which fly loosely, allow them to zip around in combat. I can imagine the magical chaos that ensues with a full team of four. But the grapple hook excites me most about the possibilities of The First Descendant’s combat.
+
+While fighting enemies, I scan by clicking the right stick to find weak points highlighted in blue. After shooting them enough, they turn yellow, meaning it’s time for my favorite part of the game: grappling up to the yellow part and ripping it off. It’s an awesome mechanic and takes an experience I’ve played hundreds of times in looter shooters – shoot the boss a bunch – and makes it more dynamic. It’s not just about shooting; it’s about blasting a weak point long enough that I can grapple to it and then work to yank it right off, shedding the boss’ layers as I do.
+
+Crafting Your Descendant
+
+Crafting Your Descendant
+
+Outside of combat, the game offers plenty of customization that powers free-to-play experiences, though I don’t know how microtransactions will play into the game. You can customize loadouts for every character, each with their own weapons and abilities. There are a ton of costumes, ranging from maid outfits to fire brigade uniforms and more, and you can customize various areas of your character with unique chest pieces, Fortnite-style back pieces, and more. You can test out all of this in Albion’s Lab, a test field with customizable dummies to check your loadout’s damage output, feel, and more. Speaking to the team’s commitment to the game and its community, this Lab was recently added following feedback from a recent beta.
+
+“This is my first time seeing it,” Lee says while showing it to me, indicating just how recently it was added. He says players can expect the game to change and grow with the community in this way.
+
+I’m always nervous about free-to-play games and the associated monetization, but if The First Descendant sticks to cosmetic-focused microtransactions, as opposed to letting players pay to perform better in combat, for example, Magnum Studio is on the right track with the wealth of options I see for character customization.
+
+I like that each character so far feels quite different, and leveling each up individually, instead of focusing on a single character for months or years, seems like a smart call in contrast with the genre. Knowing that three friends playing will have various Descendants to choose from, allowing for multiple strategies in how we approach missions, is exciting.
+
+As for keeping players engaged beyond the game’s initial launch, Lee says the team is taking a seasonal approach, with new battle passes in each drop. As is now the standard in the live-service genre, each battle pass will contain season-specific cosmetics, and you’ll need to play through the new content to obtain them.
+
+With an hour of The First Descendant playtime behind me, including a studio tour and interview with the team’s leads, I am (im)patiently waiting for its release this summer. Despite my initial love of Destiny and attempts in Warframe at one point in my gaming history, both (and many others in the genre) have passed me by. Jumping back into them is too daunt- ing and too confusing today. But The First Descendant is giving me what I want from those games, with variations on the formula, too. I still have questions, but Nexon still has time to answer them. For now, I’m crossing my fingers I get into the next beta.
+
+This article originally appeared in Issue 366 of Game Informer.
+
+      Products In This Article
+
+The First Descendant
+
+Platform:
+
+PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, PC
+
+Release Date:
+
+July 2, 2024
+
+Purchase
+More Info
+
+Wesley LeBlanc
+Associate Editor
+Wesley LeBlanc is an associate editor for Game Informer. If you have any news tips, story ideas, or more, feel free to DM him on Twitter @LeBlancWes or email him at wesleyleblanc@gameinformer.com.
+
+Email
+Twitter
+
